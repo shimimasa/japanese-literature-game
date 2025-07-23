@@ -1,0 +1,1513 @@
+{
+  "id": "よだかの星",
+  "title": "よだかの星",
+  "titleKana": "",
+  "author": {
+    "name": "宮沢賢治",
+    "nameKana": ""
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 5,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 3,
+      "vocabulary": 3,
+      "grammar": 3
+    },
+    "themes": [],
+    "totalCharacters": 5612,
+    "estimatedReadingTime": 15
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "よだかの星"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "宮沢賢治"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "-------------------------------------------------------"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "【テキスト中に現れる記号について】"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "《》：ルビ"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（例）味噌",
+            "ruby": "みそ"
+          },
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "｜：ルビの付く文字列の始まりを特定する記号"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（例）一軒",
+            "ruby": "けん"
+          },
+          {
+            "type": "text",
+            "content": "ずつ"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "-------------------------------------------------------"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　よだかは、実にみにくい鳥です。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　顔は、ところどころ、味噌",
+            "ruby": "みそ"
+          },
+          {
+            "type": "text",
+            "content": "をつけたようにまだらで、くちばしは、ひらたくて、耳までさけています。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　足は、まるでよぼよぼで、一間",
+            "ruby": "いっけん"
+          },
+          {
+            "type": "text",
+            "content": "とも歩けません。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ほかの鳥は、もう、よだかの顔を見ただけでも、いやになってしまうという工合",
+            "ruby": "ぐあい"
+          },
+          {
+            "type": "text",
+            "content": "でした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　たとえば、ひばりも、あまり美しい鳥ではありませんが、よだかよりは、ずっと上だと思っていましたので、夕方など、よだかにあうと、さもさもいやそうに、しんねりと目をつぶりながら、首をそっ方",
+            "ruby": "ぽ"
+          },
+          {
+            "type": "text",
+            "content": "へ向けるのでした。もっとちいさなおしゃべりの鳥などは、いつでもよだかのまっこうから悪口をしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ヘン。又",
+            "ruby": "また"
+          },
+          {
+            "type": "text",
+            "content": "出て来たね。まあ、あのざまをごらん。ほんとうに、鳥の仲間のつらよごしだよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ね、まあ、あのくちのおおきいことさ。きっと、かえるの親類か何かなんだよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　こんな調子です。おお、よだかでないただのたかならば、こんな生",
+            "ruby": "なま"
+          },
+          {
+            "type": "ruby",
+            "base": "はんかのちいさい鳥は、もう名前を聞いただけでも、ぶるぶるふるえて、顔色を変えて、からだをちぢめて、木の葉のかげにでもかくれたでしょう。ところが夜だかは、ほんとうは鷹",
+            "ruby": "たか"
+          },
+          {
+            "type": "ruby",
+            "base": "の兄弟でも親類でもありませんでした。かえって、よだかは、あの美しいかわせみや、鳥の中の宝石のような蜂",
+            "ruby": "はち"
+          },
+          {
+            "type": "ruby",
+            "base": "すずめの兄さんでした。蜂すずめは花の蜜",
+            "ruby": "みつ"
+          },
+          {
+            "type": "ruby",
+            "base": "をたべ、かわせみはお魚を食べ、夜だかは羽虫をとってたべるのでした。それによだかには、するどい爪",
+            "ruby": "つめ"
+          },
+          {
+            "type": "ruby",
+            "base": "もするどいくちばしもありませんでしたから、どんなに弱い鳥でも、よだかをこわがる筈",
+            "ruby": "はず"
+          },
+          {
+            "type": "text",
+            "content": "はなかったのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それなら、たかという名のついたことは不思議なようですが、これは、一つはよだかのはねが無暗",
+            "ruby": "むやみ"
+          },
+          {
+            "type": "ruby",
+            "base": "に強くて、風を切って翔",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "けるときなどは、まるで鷹のように見えたことと、も一つはなきごえがするどくて、やはりどこか鷹に似ていた為",
+            "ruby": "ため"
+          },
+          {
+            "type": "ruby",
+            "base": "です。もちろん、鷹は、これをひじょうに気にかけて、いやがっていました。それですから、よだかの顔さえ見ると、肩",
+            "ruby": "かた"
+          },
+          {
+            "type": "text",
+            "content": "をいからせて、早く名前をあらためろ、名前をあらためろと、いうのでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ある夕方、とうとう、鷹がよだかのうちへやって参りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「おい。居るかい。まだお前は名前をかえないのか。ずいぶんお前も恥",
+            "ruby": "はじ"
+          },
+          {
+            "type": "ruby",
+            "base": "知らずだな。お前とおれでは、よっぽど人格がちがうんだよ。たとえばおれは、青いそらをどこまででも飛んで行く。おまえは、曇",
+            "ruby": "くも"
+          },
+          {
+            "type": "text",
+            "content": "ってうすぐらい日か、夜でなくちゃ、出て来ない。それから、おれのくちばしやつめを見ろ。そして、よくお前のとくらべて見るがいい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「鷹さん。それはあんまり無理です。私の名前は私が勝手につけたのではありません。神さまから下さったのです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いいや。おれの名なら、神さまから貰",
+            "ruby": "もら"
+          },
+          {
+            "type": "ruby",
+            "base": "ったのだと云",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "ってもよかろうが、お前のは、云わば、おれと夜と、両方から借りてあるんだ。さあ返せ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「鷹さん。それは無理です。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「無理じゃない。おれがいい名を教えてやろう。市蔵",
+            "ruby": "いちぞう"
+          },
+          {
+            "type": "ruby",
+            "base": "というんだ。市蔵とな。いい名だろう。そこで、名前を変えるには、改名の披露",
+            "ruby": "ひろう"
+          },
+          {
+            "type": "ruby",
+            "base": "というものをしないといけない。いいか。それはな、首へ市蔵と書いたふだをぶらさげて、私は以来市蔵と申しますと、口上",
+            "ruby": "こうじょう"
+          },
+          {
+            "type": "text",
+            "content": "を云って、みんなの所をおじぎしてまわるのだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そんなことはとても出来ません。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いいや。出来る。そうしろ。もしあさっての朝までに、お前がそうしなかったら、もうすぐ、つかみ殺すぞ。つかみ殺してしまうから、そう思え。おれはあさっての朝早く、鳥のうちを一軒",
+            "ruby": "けん"
+          },
+          {
+            "type": "text",
+            "content": "ずつまわって、お前が来たかどうかを聞いてあるく。一軒でも来なかったという家があったら、もう貴様もその時がおしまいだぞ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「だってそれはあんまり無理じゃありませんか。そんなことをする位なら、私はもう死んだ方がましです。今すぐ殺して下さい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「まあ、よく、あとで考えてごらん。市蔵なんてそんなにわるい名じゃないよ。」鷹は大きなはねを一杯",
+            "ruby": "いっぱい"
+          },
+          {
+            "type": "ruby",
+            "base": "にひろげて、自分の巣",
+            "ruby": "す"
+          },
+          {
+            "type": "text",
+            "content": "の方へ飛んで帰って行きました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　よだかは、じっと目をつぶって考えました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（一たい僕",
+            "ruby": "ぼく"
+          },
+          {
+            "type": "ruby",
+            "base": "は、なぜこうみんなにいやがられるのだろう。僕の顔は、味噌をつけたようで、口は裂",
+            "ruby": "さ"
+          },
+          {
+            "type": "ruby",
+            "base": "けてるからなあ。それだって、僕は今まで、なんにも悪いことをしたことがない。赤ん坊",
+            "ruby": "ぼう"
+          },
+          {
+            "type": "text",
+            "content": "のめじろが巣から落ちていたときは、助けて巣へ連れて行ってやった。そしたらめじろは、赤ん坊をまるでぬす人からでもとりかえすように僕からひきはなしたんだなあ。それからひどく僕を笑ったっけ。それにああ、今度は市蔵だなんて、首へふだをかけるなんて、つらいはなしだなあ。）"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　あたりは、もううすくらくなっていました。夜だかは巣から飛び出しました。雲が意地悪く光って、低くたれています。夜だかはまるで雲とすれすれになって、音なく空を飛びまわりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それからにわかによだかは口を大きくひらいて、はねをまっすぐに張って、まるで矢のようにそらをよこぎりました。小さな羽虫が幾匹",
+            "ruby": "いくひき"
+          },
+          {
+            "type": "ruby",
+            "base": "も幾匹もその咽喉",
+            "ruby": "のど"
+          },
+          {
+            "type": "text",
+            "content": "にはいりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　からだがつちにつくかつかないうちに、よだかはひらりとまたそらへはねあがりました。もう雲は鼠色",
+            "ruby": "ねずみいろ"
+          },
+          {
+            "type": "text",
+            "content": "になり、向うの山には山焼けの火がまっ赤です。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　夜だかが思い切って飛ぶときは、そらがまるで二つに切れたように思われます。一疋",
+            "ruby": "ぴき"
+          },
+          {
+            "type": "ruby",
+            "base": "の甲虫",
+            "ruby": "かぶとむし"
+          },
+          {
+            "type": "ruby",
+            "base": "が、夜だかの咽喉にはいって、ひどくもがきました。よだかはすぐそれを呑",
+            "ruby": "の"
+          },
+          {
+            "type": "text",
+            "content": "みこみましたが、その時何だかせなかがぞっとしたように思いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　雲はもうまっくろく、東の方だけ山やけの火が赤くうつって、恐",
+            "ruby": "おそ"
+          },
+          {
+            "type": "text",
+            "content": "ろしいようです。よだかはむねがつかえたように思いながら、又そらへのぼりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　また一疋の甲虫が、夜だかののどに、はいりました。そしてまるでよだかの咽喉をひっかいてばたばたしました。よだかはそれを無理にのみこんでしまいましたが、その時、急に胸がどきっとして、夜だかは大声をあげて泣き出しました。泣きながらぐるぐるぐるぐる空をめぐったのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（ああ、かぶとむしや、たくさんの羽虫が、毎晩僕に殺される。そしてそのただ一つの僕がこんどは鷹に殺される。それがこんなにつらいのだ。ああ、つらい、つらい。僕はもう虫をたべないで餓",
+            "ruby": "う"
+          },
+          {
+            "type": "text",
+            "content": "えて死のう。いやその前にもう鷹が僕を殺すだろう。いや、その前に、僕は遠くの遠くの空の向うに行ってしまおう。）"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　山焼けの火は、だんだん水のように流れてひろがり、雲も赤く燃えているようです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　よだかはまっすぐに、弟の川せみの所へ飛んで行きました。きれいな川せみも、丁度起きて遠くの山火事を見ていた所でした。そしてよだかの降りて来たのを見て云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「兄さん。今晩は。何か急のご用ですか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いいや、僕は今度遠い所へ行くからね、その前一寸",
+            "ruby": "ちょっと"
+          },
+          {
+            "type": "ruby",
+            "base": "お前に遭",
+            "ruby": "あ"
+          },
+          {
+            "type": "text",
+            "content": "いに来たよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「兄さん。行っちゃいけませんよ。蜂雀",
+            "ruby": "はちすずめ"
+          },
+          {
+            "type": "text",
+            "content": "もあんな遠くにいるんですし、僕ひとりぼっちになってしまうじゃありませんか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それはね。どうも仕方ないのだ。もう今日は何も云わないで呉",
+            "ruby": "く"
+          },
+          {
+            "type": "text",
+            "content": "れ。そしてお前もね、どうしてもとらなければならない時のほかはいたずらにお魚を取ったりしないようにして呉れ。ね、さよなら。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「兄さん。どうしたんです。まあもう一寸お待ちなさい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いや、いつまで居てもおんなじだ。はちすずめへ、あとでよろしく云ってやって呉れ。さよなら。もうあわないよ。さよなら。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　よだかは泣きながら自分のお家",
+            "ruby": "うち"
+          },
+          {
+            "type": "text",
+            "content": "へ帰って参りました。みじかい夏の夜はもうあけかかっていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　羊歯",
+            "ruby": "しだ"
+          },
+          {
+            "type": "ruby",
+            "base": "の葉は、よあけの霧",
+            "ruby": "きり"
+          },
+          {
+            "type": "text",
+            "content": "を吸って、青くつめたくゆれました。よだかは高くきしきしきしと鳴きました。そして巣の中をきちんとかたづけ、きれいにからだ中のはねや毛をそろえて、また巣から飛び出しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　霧がはれて、お日さまが丁度東からのぼりました。夜だかはぐらぐらするほどまぶしいのをこらえて、矢のように、そっちへ飛んで行きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「お日さん、お日さん。どうぞ私をあなたの所へ連れてって下さい。灼",
+            "ruby": "や"
+          },
+          {
+            "type": "text",
+            "content": "けて死んでもかまいません。私のようなみにくいからだでも灼けるときには小さなひかりを出すでしょう。どうか私を連れてって下さい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　行っても行っても、お日さまは近くなりませんでした。かえってだんだん小さく遠くなりながらお日さまが云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「お前はよだかだな。なるほど、ずいぶんつらかろう。今夜そらを飛んで、星にそうたのんでごらん。お前はひるの鳥ではないのだからな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　夜だかはおじぎを一つしたと思いましたが、急にぐらぐらしてとうとう野原の草の上に落ちてしまいました。そしてまるで夢",
+            "ruby": "ゆめ"
+          },
+          {
+            "type": "text",
+            "content": "を見ているようでした。からだがずうっと赤や黄の星のあいだをのぼって行ったり、どこまでも風に飛ばされたり、又鷹が来てからだをつかんだりしたようでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　つめたいものがにわかに顔に落ちました。よだかは眼",
+            "ruby": "め"
+          },
+          {
+            "type": "ruby",
+            "base": "をひらきました。一本の若いすすきの葉から露",
+            "ruby": "つゆ"
+          },
+          {
+            "type": "ruby",
+            "base": "がしたたったのでした。もうすっかり夜になって、空は青ぐろく、一面の星がまたたいていました。よだかはそらへ飛びあがりました。今夜も山やけの火はまっかです。よだかはその火のかすかな照りと、つめたいほしあかりの中をとびめぐりました。それからもう一ぺん飛びめぐりました。そして思い切って西のそらのあの美しいオリオンの星の方に、まっすぐに飛びながら叫",
+            "ruby": "さけ"
+          },
+          {
+            "type": "text",
+            "content": "びました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「お星さん。西の青じろいお星さん。どうか私をあなたのところへ連れてって下さい。灼けて死んでもかまいません。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　オリオンは勇ましい歌をつづけながらよだかなどはてんで相手にしませんでした。よだかは泣きそうになって、よろよろと落ちて、それからやっとふみとまって、もう一ぺんとびめぐりました。それから、南の大犬座の方へまっすぐに飛びながら叫びました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「お星さん。南の青いお星さん。どうか私をあなたの所へつれてって下さい。やけて死んでもかまいません。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　大犬は青や紫",
+            "ruby": "むらさき"
+          },
+          {
+            "type": "text",
+            "content": "や黄やうつくしくせわしくまたたきながら云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「馬鹿を云うな。おまえなんか一体どんなものだい。たかが鳥じゃないか。おまえのはねでここまで来るには、億年兆年億兆年だ。」そしてまた別の方を向きました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　よだかはがっかりして、よろよろ落ちて、それから又二へん飛びめぐりました。それから又思い切って北の大熊星",
+            "ruby": "おおぐまぼし"
+          },
+          {
+            "type": "text",
+            "content": "の方へまっすぐに飛びながら叫びました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「北の青いお星さま、あなたの所へどうか私を連れてって下さい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　大熊星はしずかに云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「余計なことを考えるものではない。少し頭をひやして来なさい。そう云うときは、氷山の浮",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "いている海の中へ飛び込",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "むか、近くに海がなかったら、氷をうかべたコップの水の中へ飛び込むのが一等だ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　よだかはがっかりして、よろよろ落ちて、それから又、四へんそらをめぐりました。そしてもう一度、東から今のぼった天",
+            "ruby": "あま"
+          },
+          {
+            "type": "ruby",
+            "base": "の川",
+            "ruby": "がわ"
+          },
+          {
+            "type": "ruby",
+            "base": "の向う岸の鷲",
+            "ruby": "わし"
+          },
+          {
+            "type": "text",
+            "content": "の星に叫びました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「東の白いお星さま、どうか私をあなたの所へ連れてって下さい。やけて死んでもかまいません。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　鷲は大風",
+            "ruby": "おおふう"
+          },
+          {
+            "type": "text",
+            "content": "に云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いいや、とてもとても、話にも何にもならん。星になるには、それ相応の身分でなくちゃいかん。又よほど金もいるのだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　よだかはもうすっかり力を落してしまって、はねを閉じて、地に落ちて行きました。そしてもう一尺で地面にその弱い足がつくというとき、よだかは俄",
+            "ruby": "にわ"
+          },
+          {
+            "type": "ruby",
+            "base": "かにのろしのようにそらへとびあがりました。そらのなかほどへ来て、よだかはまるで鷲が熊を襲",
+            "ruby": "おそ"
+          },
+          {
+            "type": "text",
+            "content": "うときするように、ぶるっとからだをゆすって毛をさかだてました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　それからキシキシキシキシキシッと高く高く叫びました。その声はまるで鷹でした。野原や林にねむっていたほかのとりは、みんな目をさまして、ぶるぶるふるえながら、いぶかしそうにほしぞらを見あげました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　夜だかは、どこまでも、どこまでも、まっすぐに空へのぼって行きました。もう山焼けの火はたばこの吸殻",
+            "ruby": "すいがら"
+          },
+          {
+            "type": "text",
+            "content": "のくらいにしか見えません。よだかはのぼってのぼって行きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　寒さにいきはむねに白く凍",
+            "ruby": "こお"
+          },
+          {
+            "type": "text",
+            "content": "りました。空気がうすくなった為に、はねをそれはそれはせわしくうごかさなければなりませんでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それだのに、ほしの大きさは、さっきと少しも変りません。つくいきはふいごのようです。寒さや霜",
+            "ruby": "しも"
+          },
+          {
+            "type": "ruby",
+            "base": "がまるで剣のようによだかを刺",
+            "ruby": "さ"
+          },
+          {
+            "type": "ruby",
+            "base": "しました。よだかははねがすっかりしびれてしまいました。そしてなみだぐんだ目をあげてもう一ぺんそらを見ました。そうです。これがよだかの最後でした。もうよだかは落ちているのか、のぼっているのか、さかさになっているのか、上を向いているのかも、わかりませんでした。ただこころもちはやすらかに、その血のついた大きなくちばしは、横にまがっては居ましたが、たしかに少しわらって居",
+            "ruby": "お"
+          },
+          {
+            "type": "text",
+            "content": "りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それからしばらくたってよだかははっきりまなこをひらきました。そして自分のからだがいま燐",
+            "ruby": "りん"
+          },
+          {
+            "type": "text",
+            "content": "の火のような青い美しい光になって、しずかに燃えているのを見ました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　すぐとなりは、カシオピア座でした。天の川の青じろいひかりが、すぐうしろになっていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　そしてよだかの星は燃えつづけました。いつまでもいつまでも燃えつづけました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　今でもまだ燃えています。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「新編　銀河鉄道の夜」新潮文庫、新潮社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1989（平成元）年6月15日第1刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1991（平成3）年3月10日4刷"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本の親本：「新修宮沢賢治全集　第八巻」筑摩書房"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1979（昭和54）年5月"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：佐々木美香"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：野口英司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1998年8月20日公開"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2025年2月2日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "（例）味噌",
+      "reading": "みそ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "（例）一軒",
+      "reading": "けん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　顔は、ところどころ、味噌",
+      "reading": "みそ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　足は、まるでよぼよぼで、一間",
+      "reading": "いっけん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　ほかの鳥は、もう、よだかの顔を見ただけでも、いやになってしまうという工合",
+      "reading": "ぐあい",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　たとえば、ひばりも、あまり美しい鳥ではありませんが、よだかよりは、ずっと上だと思っていましたので、夕方など、よだかにあうと、さもさもいやそうに、しんねりと目をつぶりながら、首をそっ方",
+      "reading": "ぽ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「ヘン。又",
+      "reading": "また",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　こんな調子です。おお、よだかでないただのたかならば、こんな生",
+      "reading": "なま",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "はんかのちいさい鳥は、もう名前を聞いただけでも、ぶるぶるふるえて、顔色を変えて、からだをちぢめて、木の葉のかげにでもかくれたでしょう。ところが夜だかは、ほんとうは鷹",
+      "reading": "たか",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の兄弟でも親類でもありませんでした。かえって、よだかは、あの美しいかわせみや、鳥の中の宝石のような蜂",
+      "reading": "はち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "すずめの兄さんでした。蜂すずめは花の蜜",
+      "reading": "みつ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "をたべ、かわせみはお魚を食べ、夜だかは羽虫をとってたべるのでした。それによだかには、するどい爪",
+      "reading": "つめ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "もするどいくちばしもありませんでしたから、どんなに弱い鳥でも、よだかをこわがる筈",
+      "reading": "はず",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　それなら、たかという名のついたことは不思議なようですが、これは、一つはよだかのはねが無暗",
+      "reading": "むやみ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "に強くて、風を切って翔",
+      "reading": "か",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "けるときなどは、まるで鷹のように見えたことと、も一つはなきごえがするどくて、やはりどこか鷹に似ていた為",
+      "reading": "ため",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "です。もちろん、鷹は、これをひじょうに気にかけて、いやがっていました。それですから、よだかの顔さえ見ると、肩",
+      "reading": "かた",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「おい。居るかい。まだお前は名前をかえないのか。ずいぶんお前も恥",
+      "reading": "はじ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "知らずだな。お前とおれでは、よっぽど人格がちがうんだよ。たとえばおれは、青いそらをどこまででも飛んで行く。おまえは、曇",
+      "reading": "くも",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「いいや。おれの名なら、神さまから貰",
+      "reading": "もら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "ったのだと云",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「無理じゃない。おれがいい名を教えてやろう。市蔵",
+      "reading": "いちぞう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "というんだ。市蔵とな。いい名だろう。そこで、名前を変えるには、改名の披露",
+      "reading": "ひろう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "というものをしないといけない。いいか。それはな、首へ市蔵と書いたふだをぶらさげて、私は以来市蔵と申しますと、口上",
+      "reading": "こうじょう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「いいや。出来る。そうしろ。もしあさっての朝までに、お前がそうしなかったら、もうすぐ、つかみ殺すぞ。つかみ殺してしまうから、そう思え。おれはあさっての朝早く、鳥のうちを一軒",
+      "reading": "けん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「まあ、よく、あとで考えてごらん。市蔵なんてそんなにわるい名じゃないよ。」鷹は大きなはねを一杯",
+      "reading": "いっぱい",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "にひろげて、自分の巣",
+      "reading": "す",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "（一たい僕",
+      "reading": "ぼく",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "は、なぜこうみんなにいやがられるのだろう。僕の顔は、味噌をつけたようで、口は裂",
+      "reading": "さ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "けてるからなあ。それだって、僕は今まで、なんにも悪いことをしたことがない。赤ん坊",
+      "reading": "ぼう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　それからにわかによだかは口を大きくひらいて、はねをまっすぐに張って、まるで矢のようにそらをよこぎりました。小さな羽虫が幾匹",
+      "reading": "いくひき",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "も幾匹もその咽喉",
+      "reading": "のど",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　からだがつちにつくかつかないうちに、よだかはひらりとまたそらへはねあがりました。もう雲は鼠色",
+      "reading": "ねずみいろ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　夜だかが思い切って飛ぶときは、そらがまるで二つに切れたように思われます。一疋",
+      "reading": "ぴき",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の甲虫",
+      "reading": "かぶとむし",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "が、夜だかの咽喉にはいって、ひどくもがきました。よだかはすぐそれを呑",
+      "reading": "の",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　雲はもうまっくろく、東の方だけ山やけの火が赤くうつって、恐",
+      "reading": "おそ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "（ああ、かぶとむしや、たくさんの羽虫が、毎晩僕に殺される。そしてそのただ一つの僕がこんどは鷹に殺される。それがこんなにつらいのだ。ああ、つらい、つらい。僕はもう虫をたべないで餓",
+      "reading": "う",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「いいや、僕は今度遠い所へ行くからね、その前一寸",
+      "reading": "ちょっと",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "お前に遭",
+      "reading": "あ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "「兄さん。行っちゃいけませんよ。蜂雀",
+      "reading": "はちすずめ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「それはね。どうも仕方ないのだ。もう今日は何も云わないで呉",
+      "reading": "く",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　よだかは泣きながら自分のお家",
+      "reading": "うち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　羊歯",
+      "reading": "しだ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "の葉は、よあけの霧",
+      "reading": "きり",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「お日さん、お日さん。どうぞ私をあなたの所へ連れてって下さい。灼",
+      "reading": "や",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　夜だかはおじぎを一つしたと思いましたが、急にぐらぐらしてとうとう野原の草の上に落ちてしまいました。そしてまるで夢",
+      "reading": "ゆめ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　つめたいものがにわかに顔に落ちました。よだかは眼",
+      "reading": "め",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "をひらきました。一本の若いすすきの葉から露",
+      "reading": "つゆ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "がしたたったのでした。もうすっかり夜になって、空は青ぐろく、一面の星がまたたいていました。よだかはそらへ飛びあがりました。今夜も山やけの火はまっかです。よだかはその火のかすかな照りと、つめたいほしあかりの中をとびめぐりました。それからもう一ぺん飛びめぐりました。そして思い切って西のそらのあの美しいオリオンの星の方に、まっすぐに飛びながら叫",
+      "reading": "さけ",
+      "meaning": "",
+      "difficulty": 3
+    }
+  ],
+  "quiz": {
+    "comprehension": []
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  }
+}

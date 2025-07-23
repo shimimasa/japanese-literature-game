@@ -1,0 +1,1188 @@
+{
+  "id": "赤い蝋燭と人魚",
+  "title": "赤い蝋燭と人魚",
+  "titleKana": "",
+  "author": {
+    "name": "小川未明",
+    "nameKana": ""
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 3,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 3,
+      "vocabulary": 3,
+      "grammar": 3
+    },
+    "themes": [],
+    "totalCharacters": 4617,
+    "estimatedReadingTime": 12
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人は、その赤ん坊を育てることにしました。その子は女の児であったのであります。そして胴から下の方は、人間の姿でなく、魚の形をしていましたので、お爺さんも、お婆さんも、話に聞いている人魚にちがいないと思いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「これは、人間の子じゃあないが……」と、お爺さんは、赤ん坊を見て頭を傾けました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「私もそう思います。しかし人間の子でなくても、なんというやさしい、可愛らしい顔の女の子でありましょう」と、お婆さんは言いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いいとも何",
+            "ruby": "な"
+          },
+          {
+            "type": "ruby",
+            "base": "んでも構わない、神様のお授けなさった子供だから大事にして育てよう。きっと大きくなったら、怜悧",
+            "ruby": "りこう"
+          },
+          {
+            "type": "text",
+            "content": "ないい子になるにちがいない」と、お爺さんも申しました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　その日から、二人は、その女の子を大事に育てました。子供は、大きくなるにつれて黒眼勝",
+            "ruby": "くろめがち"
+          },
+          {
+            "type": "ruby",
+            "base": "な美しい、頭髪",
+            "ruby": "かみのけ"
+          },
+          {
+            "type": "text",
+            "content": "の色のツヤツヤとした、おとなしい怜悧な子となりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "三"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　娘は、大きくなりましたけれど、姿が変っているので恥かしがって顔を出しませんでした。けれど一目その娘を見た人は、みんなびっくりするような美しい器量でありましたから、中にはどうかしてその娘を見ようと思って、蝋燭を買いに来た者もありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　お爺さんや、お婆さんは、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「うちの娘は、内気で恥かしがりやだから、人様の前には出ないのです」と、言っていました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　奥の間でお爺さんは、せっせと蝋燭を造っていました。娘は、自分の思い付きで、きっと絵を描",
+            "ruby": "か"
+          },
+          {
+            "type": "text",
+            "content": "いたら、みんなが喜んで蝋燭を買うだろうと思いましたから、そのことをお爺さんに話ますと、そんならお前の好きな絵をためしに書いて見るがいいと答えました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　娘は、赤い絵具で、白い蝋燭に、魚や、貝や、また海草",
+            "ruby": "うみくさ"
+          },
+          {
+            "type": "ruby",
+            "base": "のようなものを産れつき誰にも習ったのでないが上手に描きました。お爺さんは、それを見るとびっくりいたしました。誰でも、その絵を見ると、蝋燭がほしくなるように、その絵には、不思議な力と美しさとが籠",
+            "ruby": "こも"
+          },
+          {
+            "type": "text",
+            "content": "っていたのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「うまい筈だ、人間ではない人魚が描いたのだもの」と、お爺さんは感嘆して、お婆さんと話合いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「絵を描いた蝋燭をおくれ」と、言って、朝から、晩まで子供や、大人がこの店頭",
+            "ruby": "みせさき"
+          },
+          {
+            "type": "text",
+            "content": "へ買いに来ました。果して、絵を描いた蝋燭は、みんなに受けたのであります。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　するとここに不思議な話がありました。この絵を描いた蝋燭を山の上のお宮にあげてその燃えさしを身に付けて、海に出ると、どんな大暴風雨",
+            "ruby": "おおあらし"
+          },
+          {
+            "type": "ruby",
+            "base": "の日でも決して船が顛覆",
+            "ruby": "てんぷく"
+          },
+          {
+            "type": "ruby",
+            "base": "したり溺",
+            "ruby": "おぼ"
+          },
+          {
+            "type": "text",
+            "content": "れて死ぬような災難がないということが、いつからともなくみんなの口々に噂となって上りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「海の神様を祭ったお宮様だもの、綺麗な蝋燭をあげれば、神様もお喜びなさるのにきまっている」と、その町の人々は言いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　蝋燭屋では、絵を描いた蝋燭が売れるのでお爺さんは、一生懸命に朝から晩まで蝋燭を造りますと、傍",
+            "ruby": "かたわら"
+          },
+          {
+            "type": "text",
+            "content": "で娘は、手の痛くなるのも我慢して赤い絵具で絵を描いたのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「こんな人間並でない自分をも、よく育て可愛がって下すったご恩を忘れてはならない」と、娘はやさしい心に感じて、大きな黒い瞳をうるませたこともあります。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　この話は遠くの村まで響きました。遠方の船乗りやまた、漁師は、神様にあがった絵を描いた蝋燭の燃えさしを手に入れたいものだというので、わざわざ遠い処をやって来ました。そして、蝋燭を買って、山に登り、お宮に参詣して、蝋燭に火をつけて捧げ、その燃えて短くなるのを待って、またそれを戴",
+            "ruby": "いただ"
+          },
+          {
+            "type": "text",
+            "content": "いて帰りました。だから、夜となく、昼となく、山の上のお宮には、蝋燭の火の絶えたことはありません。殊に、夜は美しく燈火の光が海の上からも望まれたのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ほんとうに有りがたい神様だ」と、いう評判は世間に立ちました。それで、急にこの山が名高くなりました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　神様の評判はこのように高くなりましたけれど、誰も、蝋燭に一心を籠めて絵を描いている娘のことを思う者はなかったのです。従ってその娘を可哀そうに思った人はなかったのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　娘は、疲れて、折々は月のいい夜に、窓から頭を出して、遠い、北の青い青い海を恋しがって涙ぐんで眺めていることもありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "四"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ある時、南の方の国から、香具師",
+            "ruby": "やし"
+          },
+          {
+            "type": "text",
+            "content": "が入って来ました。何か北の国へ行って、珍らしいものを探して、それをば南の方の国へ持って行って金を儲けようというのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　香具師は、何処から聞き込んで来ましたか、または、いつ娘の姿を見て、ほんとうの人間ではない、実に世にも珍らしい人魚であることを見抜きましたか、ある日のことこっそりと年より夫婦の処へやって来て、娘には分らないように、大金を出すから、その人魚を売ってはくれないかと申したのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　年より夫婦は、最初のうちは、この娘は、神様のお授けだから、どうして売ることが出来よう。そんなことをしたら罰が当ると言って承知をしませんでした。香具師は一度、二度断られてもこりずに、またやって来ました。そして年より夫婦に向って、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「昔から人魚は、不吉なものとしてある。今のうちに手許",
+            "ruby": "てもと"
+          },
+          {
+            "type": "text",
+            "content": "から離さないと、きっと悪いことがある」と、誠しやかに申したのであります。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　年より夫婦は、ついに香具師の言うことを信じてしまいました。それに大金になりますので、つい金に心を奪われて、娘を香具師に売ることに約束をきめてしまったのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　香具師は、大そう喜んで帰りました。いずれそのうちに、娘を受取りに来ると言いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　この話を娘が知った時どんなに驚いたでありましょう。内気な、やさしい娘は、この家を離れて幾百里も遠い知らない熱い南の国に行くことを怖れました。そして、泣いて、年より夫婦に願ったのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「妾",
+            "ruby": "わたし"
+          },
+          {
+            "type": "text",
+            "content": "は、どんなにも働きますから、どうぞ知らない南の国へ売られて行くことを許して下さいまし」と、言いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　しかし、もはや、鬼のような心持",
+            "ruby": "こころもち"
+          },
+          {
+            "type": "text",
+            "content": "になってしまった年より夫婦は何といっても娘の言うことを聞き入れませんでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　娘は、室",
+            "ruby": "へや"
+          },
+          {
+            "type": "ruby",
+            "base": "の裡",
+            "ruby": "うち"
+          },
+          {
+            "type": "ruby",
+            "base": "に閉じこもって、一心に蝋燭の絵を描",
+            "ruby": "かい"
+          },
+          {
+            "type": "text",
+            "content": "ていました。しかし年より夫婦はそれを見ても、いじらしいとも哀れとも思わなかったのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　月の明るい晩のことであります。娘は、独り波の音を聞きながら、身の行末",
+            "ruby": "ゆくすえ"
+          },
+          {
+            "type": "text",
+            "content": "を思うて悲しんでいました。波の音を聞いていると、何となく遠くの方で、自分を呼んでいるものがあるような気がしましたので、窓から、外を覗いて見ました。けれど、ただ青い青い海の上に月の光りが、はてしなく照らしているばかりでありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　娘は、また、坐って、蝋燭に絵を描いていました。するとこの時、表の方が騒がしかったのです。いつかの香具師が、いよいよその夜娘を連れに来たのです。大きな鉄格子のはまった四角な箱を車に乗せて来ました。その箱の中には、曾",
+            "ruby": "かつ"
+          },
+          {
+            "type": "text",
+            "content": "て虎や、獅子や、豹などを入れたことがあるのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　このやさしい人魚も、やはり海の中の獣物だというので、虎や、獅子と同じように取扱おうとするのであります。もし、この箱を娘が見たら、どんなに魂消",
+            "ruby": "たまげ"
+          },
+          {
+            "type": "text",
+            "content": "たでありましょう。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　娘は、それとも知らずに、下を向いて絵を描いていました。其処",
+            "ruby": "そこ"
+          },
+          {
+            "type": "text",
+            "content": "へ、お爺さんとお婆さんとが入って来て、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さあ、お前は行くのだ」と、言って連れ出そうとしました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　娘は、手に持っている蝋燭に、せき立てられるので絵を描くことが出来ずに、それをみんな赤く塗ってしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　娘は、赤い蝋燭を自分の悲しい思い出の記念",
+            "ruby": "かたみ"
+          },
+          {
+            "type": "text",
+            "content": "に、二三本残して行ってしまったのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "五"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ほんとうに穏かな晩でありました。お爺さんとお婆さんは、戸を閉めて寝てしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　真夜中頃であります。とん、とん、と誰か戸を叩く者がありました。年よりのものですから耳敏",
+            "ruby": "さと"
+          },
+          {
+            "type": "text",
+            "content": "く、その音を聞きつけて、誰だろうと思いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どなた？」と、お婆さんは言いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　けれどもそれには答えがなく、つづけて、とん、とん、と戸を叩きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　お婆さんは起きて来て、戸を細目にあけて外を覗きました。すると、一人の色の白い女が戸口に立っていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　女は蝋燭を買いに来たのです。お婆さんは、少しでもお金が儲かるなら、決していやな顔付",
+            "ruby": "かおつき"
+          },
+          {
+            "type": "text",
+            "content": "をしませんでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　お婆さんは、蝋燭の箱を出して女に見せました。その時、お婆さんはびっくりしました。女の長い黒い頭髪",
+            "ruby": "かみ"
+          },
+          {
+            "type": "text",
+            "content": "がびっしょりと水に濡れて月の光に輝いていたからであります。女は箱の中から、真赤な蝋燭を取り上げました。そして、じっとそれに見入っていましたが、やがて銭を払ってその赤い蝋燭を持って帰って行きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　お婆さんは、燈火",
+            "ruby": "あかり"
+          },
+          {
+            "type": "ruby",
+            "base": "のところで、よくその銭をしらべて見ますと、それはお金ではなくて、貝殻",
+            "ruby": "かいがら"
+          },
+          {
+            "type": "ruby",
+            "base": "でありました。お婆さんは、騙されたと思うと怒って、家",
+            "ruby": "うち"
+          },
+          {
+            "type": "text",
+            "content": "から飛び出して見ましたが、もはや、その女の影は、どちらにも見えなかったのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　その夜のことであります。急に空の模様が変って、近頃にない大暴風雨となりました。ちょうど香具師が、娘を檻の中に入れて、船に乗せて南の方の国へ行く途中で沖合にあった頃であります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「この大暴風雨では、とてもあの船は助かるまい」と、お爺さんと、お婆さんは、ふるふると震えながら話をしていました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　夜が明けると沖は真暗で物凄い景色でありました。その夜、難船をした船は、数えきれない程でありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　不思議なことに、赤い蝋燭が、山のお宮に点",
+            "ruby": "とも"
+          },
+          {
+            "type": "ruby",
+            "base": "った晩は、どんなに天気がよくても忽",
+            "ruby": "たちま"
+          },
+          {
+            "type": "text",
+            "content": "ち大あらしになりました。それから、赤い蝋燭は、不吉ということになりました。蝋燭屋の年より夫婦は、神様の罰が当ったのだといって、それぎり蝋燭屋をやめてしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　しかし、何処からともなく、誰が、お宮に上げるものか、毎晩、赤い蝋燭が点りました。昔は、このお宮にあがった絵の描いた蝋燭の燃えさしを持ってさえいれば、決して海の上では災難に罹",
+            "ruby": "かか"
+          },
+          {
+            "type": "ruby",
+            "base": "らなかったものが、今度は、赤い蝋燭を見ただけでも、その者はきっと災難に罹って、海に溺",
+            "ruby": "おぼ"
+          },
+          {
+            "type": "text",
+            "content": "れて死んだのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　忽ち、この噂が世間に伝わると、もはや誰も、山の上のお宮に参詣する者がなくなりました。こうして、昔、あらたかであった神様は、今は、町の鬼門となってしまいました。そして、こんなお宮が、この町になければいいのにと怨",
+            "ruby": "うら"
+          },
+          {
+            "type": "text",
+            "content": "まぬものはなかったのであります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　船乗りは、沖から、お宮のある山を眺めて怖れました。夜になると、北の海の上は永",
+            "ruby": "とこしえ"
+          },
+          {
+            "type": "ruby",
+            "base": "に物凄うございました。はてしもなく、何方",
+            "ruby": "どっち"
+          },
+          {
+            "type": "text",
+            "content": "を見まわしても高い波がうねうねとうねっています。そして、岩に砕けては、白い泡が立ち上っています。月が雲間から洩れて波の面を照らした時は、まことに気味悪うございました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　真暗な、星も見えない、雨の降る晩に、波の上から、蝋燭の光りが、漂って、だんだん高く登って、山の上のお宮をさして、ちらちらと動いて行くのを見た者があります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　幾年も経たずして、その下の町は亡",
+            "ruby": "ほろ"
+          },
+          {
+            "type": "ruby",
+            "base": "びて、失",
+            "ruby": "なく"
+          },
+          {
+            "type": "text",
+            "content": "なってしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「文豪怪談傑作選　小川未明集　幽霊船」ちくま文庫、筑摩書房"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　2008（平成20）年8月10日第1刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　2010（平成22）年5月25日第2刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本の親本：「日本児童文学体系5」ほるぷ出版"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1977（昭和52）年11月"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "初出：「東京朝日新聞」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1921（大正10）年2月16日〜20日"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：門田裕志"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：仙酔ゑびす"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2011年12月31日作成"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "「いいとも何",
+      "reading": "な",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "んでも構わない、神様のお授けなさった子供だから大事にして育てよう。きっと大きくなったら、怜悧",
+      "reading": "りこう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　その日から、二人は、その女の子を大事に育てました。子供は、大きくなるにつれて黒眼勝",
+      "reading": "くろめがち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "な美しい、頭髪",
+      "reading": "かみのけ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　奥の間でお爺さんは、せっせと蝋燭を造っていました。娘は、自分の思い付きで、きっと絵を描",
+      "reading": "か",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　娘は、赤い絵具で、白い蝋燭に、魚や、貝や、また海草",
+      "reading": "うみくさ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のようなものを産れつき誰にも習ったのでないが上手に描きました。お爺さんは、それを見るとびっくりいたしました。誰でも、その絵を見ると、蝋燭がほしくなるように、その絵には、不思議な力と美しさとが籠",
+      "reading": "こも",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「絵を描いた蝋燭をおくれ」と、言って、朝から、晩まで子供や、大人がこの店頭",
+      "reading": "みせさき",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　するとここに不思議な話がありました。この絵を描いた蝋燭を山の上のお宮にあげてその燃えさしを身に付けて、海に出ると、どんな大暴風雨",
+      "reading": "おおあらし",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の日でも決して船が顛覆",
+      "reading": "てんぷく",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "したり溺",
+      "reading": "おぼ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "　蝋燭屋では、絵を描いた蝋燭が売れるのでお爺さんは、一生懸命に朝から晩まで蝋燭を造りますと、傍",
+      "reading": "かたわら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　この話は遠くの村まで響きました。遠方の船乗りやまた、漁師は、神様にあがった絵を描いた蝋燭の燃えさしを手に入れたいものだというので、わざわざ遠い処をやって来ました。そして、蝋燭を買って、山に登り、お宮に参詣して、蝋燭に火をつけて捧げ、その燃えて短くなるのを待って、またそれを戴",
+      "reading": "いただ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　ある時、南の方の国から、香具師",
+      "reading": "やし",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「昔から人魚は、不吉なものとしてある。今のうちに手許",
+      "reading": "てもと",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「妾",
+      "reading": "わたし",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "　しかし、もはや、鬼のような心持",
+      "reading": "こころもち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　娘は、室",
+      "reading": "へや",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の裡",
+      "reading": "うち",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "に閉じこもって、一心に蝋燭の絵を描",
+      "reading": "かい",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　月の明るい晩のことであります。娘は、独り波の音を聞きながら、身の行末",
+      "reading": "ゆくすえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　娘は、また、坐って、蝋燭に絵を描いていました。するとこの時、表の方が騒がしかったのです。いつかの香具師が、いよいよその夜娘を連れに来たのです。大きな鉄格子のはまった四角な箱を車に乗せて来ました。その箱の中には、曾",
+      "reading": "かつ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　このやさしい人魚も、やはり海の中の獣物だというので、虎や、獅子と同じように取扱おうとするのであります。もし、この箱を娘が見たら、どんなに魂消",
+      "reading": "たまげ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　娘は、それとも知らずに、下を向いて絵を描いていました。其処",
+      "reading": "そこ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　娘は、赤い蝋燭を自分の悲しい思い出の記念",
+      "reading": "かたみ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　真夜中頃であります。とん、とん、と誰か戸を叩く者がありました。年よりのものですから耳敏",
+      "reading": "さと",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　女は蝋燭を買いに来たのです。お婆さんは、少しでもお金が儲かるなら、決していやな顔付",
+      "reading": "かおつき",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　お婆さんは、蝋燭の箱を出して女に見せました。その時、お婆さんはびっくりしました。女の長い黒い頭髪",
+      "reading": "かみ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　お婆さんは、燈火",
+      "reading": "あかり",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のところで、よくその銭をしらべて見ますと、それはお金ではなくて、貝殻",
+      "reading": "かいがら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "でありました。お婆さんは、騙されたと思うと怒って、家",
+      "reading": "うち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　不思議なことに、赤い蝋燭が、山のお宮に点",
+      "reading": "とも",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "った晩は、どんなに天気がよくても忽",
+      "reading": "たちま",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　しかし、何処からともなく、誰が、お宮に上げるものか、毎晩、赤い蝋燭が点りました。昔は、このお宮にあがった絵の描いた蝋燭の燃えさしを持ってさえいれば、決して海の上では災難に罹",
+      "reading": "かか",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "らなかったものが、今度は、赤い蝋燭を見ただけでも、その者はきっと災難に罹って、海に溺",
+      "reading": "おぼ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　忽ち、この噂が世間に伝わると、もはや誰も、山の上のお宮に参詣する者がなくなりました。こうして、昔、あらたかであった神様は、今は、町の鬼門となってしまいました。そして、こんなお宮が、この町になければいいのにと怨",
+      "reading": "うら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　船乗りは、沖から、お宮のある山を眺めて怖れました。夜になると、北の海の上は永",
+      "reading": "とこしえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "に物凄うございました。はてしもなく、何方",
+      "reading": "どっち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　幾年も経たずして、その下の町は亡",
+      "reading": "ほろ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "びて、失",
+      "reading": "なく",
+      "meaning": "",
+      "difficulty": 2
+    }
+  ],
+  "quiz": {
+    "comprehension": []
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  }
+}

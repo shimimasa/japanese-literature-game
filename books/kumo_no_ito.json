@@ -1,0 +1,2274 @@
+{
+  "id": "蜘蛛の糸",
+  "title": "蜘蛛の糸",
+  "titleKana": "",
+  "author": {
+    "name": "芥川龍之介",
+    "nameKana": "あくたがわりゅうのすけ",
+    "birthYear": 1892,
+    "deathYear": 1927
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "taisho",
+    "gradeLevel": 3,
+    "difficulty": {
+      "overall": 4,
+      "kanji": 5,
+      "vocabulary": 3,
+      "grammar": 5,
+      "sentenceLength": 54
+    },
+    "themes": [
+      "人間の本質",
+      "善悪",
+      "エゴイズム"
+    ],
+    "totalCharacters": 3384,
+    "estimatedReadingTime": 9,
+    "genres": [
+      "短編小説",
+      "歴史小説"
+    ],
+    "statistics": {
+      "totalCharacters": 3384,
+      "totalKanji": 897,
+      "uniqueKanji": 298,
+      "kanjiRatio": "26.5%",
+      "sentenceCount": 63,
+      "averageSentenceLength": 54
+    },
+    "learningObjectives": [
+      "漢字の読み方を学ぶ",
+      "古典的な日本語表現を理解する",
+      "作品のテーマを理解する"
+    ],
+    "relatedWorks": [
+      {
+        "type": "same_author",
+        "reason": "同じ作者の作品",
+        "works": [
+          "羅生門",
+          "蜘蛛の糸",
+          "鼻"
+        ]
+      },
+      {
+        "type": "similar_theme",
+        "reason": "似たテーマの作品",
+        "works": []
+      },
+      {
+        "type": "similar_difficulty",
+        "reason": "同じレベルの作品",
+        "works": [
+          "注文の多い料理店",
+          "走れメロス"
+        ]
+      }
+    ]
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "蜘蛛の糸"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "芥川龍之介"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "-------------------------------------------------------"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "【テキスト中に現れる記号について】"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "《》：ルビ"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（例）蓮池",
+            "ruby": "はすいけ"
+          },
+          {
+            "type": "text",
+            "content": "のふち"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "｜：ルビの付く文字列の始まりを特定する記号"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（例）丁度地獄",
+            "ruby": "じごく"
+          },
+          {
+            "type": "text",
+            "content": "の底に"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "［＃］：入力者注　主に外字の説明や、傍点の位置の指定"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　（数字は、JIS X 0213の面区点番号、または底本のページと行数）"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "（例）※"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "-------------------------------------------------------"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "一"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ある日の事でございます。御釈迦様",
+            "ruby": "おしゃかさま"
+          },
+          {
+            "type": "ruby",
+            "base": "は極楽の蓮池",
+            "ruby": "はすいけ"
+          },
+          {
+            "type": "ruby",
+            "base": "のふちを、独りでぶらぶら御歩きになっていらっしゃいました。池の中に咲いている蓮",
+            "ruby": "はす"
+          },
+          {
+            "type": "ruby",
+            "base": "の花は、みんな玉のようにまっ白で、そのまん中にある金色",
+            "ruby": "きんいろ"
+          },
+          {
+            "type": "ruby",
+            "base": "の蕊",
+            "ruby": "ずい"
+          },
+          {
+            "type": "ruby",
+            "base": "からは、何とも云えない好",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "い匂",
+            "ruby": "におい"
+          },
+          {
+            "type": "ruby",
+            "base": "が、絶間",
+            "ruby": "たえま"
+          },
+          {
+            "type": "ruby",
+            "base": "なくあたりへ溢",
+            "ruby": "あふ"
+          },
+          {
+            "type": "text",
+            "content": "れて居ります。極楽は丁度朝なのでございましょう。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　やがて御釈迦様はその池のふちに御佇",
+            "ruby": "おたたず"
+          },
+          {
+            "type": "ruby",
+            "base": "みになって、水の面",
+            "ruby": "おもて"
+          },
+          {
+            "type": "ruby",
+            "base": "を蔽",
+            "ruby": "おお"
+          },
+          {
+            "type": "ruby",
+            "base": "っている蓮の葉の間から、ふと下の容子",
+            "ruby": "ようす"
+          },
+          {
+            "type": "ruby",
+            "base": "を御覧になりました。この極楽の蓮池の下は、丁度地獄",
+            "ruby": "じごく"
+          },
+          {
+            "type": "ruby",
+            "base": "の底に当って居りますから、水晶",
+            "ruby": "すいしよう"
+          },
+          {
+            "type": "ruby",
+            "base": "のような水を透き徹して、三途",
+            "ruby": "さんず"
+          },
+          {
+            "type": "ruby",
+            "base": "の河や針の山の景色が、丁度覗",
+            "ruby": "のぞ"
+          },
+          {
+            "type": "ruby",
+            "base": "き眼鏡",
+            "ruby": "めがね"
+          },
+          {
+            "type": "text",
+            "content": "を見るように、はっきりと見えるのでございます。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　するとその地獄の底に、※陀多",
+            "ruby": "かんだた"
+          },
+          {
+            "type": "ruby",
+            "base": "と云う男が一人、ほかの罪人と一しょに蠢",
+            "ruby": "うごめ"
+          },
+          {
+            "type": "ruby",
+            "base": "いている姿が、御眼に止まりました。この※陀多と云う男は、人を殺したり家に火をつけたり、いろいろ悪事を働いた大泥坊でございますが、それでもたった一つ、善い事を致した覚えがございます。と申しますのは、ある時この男が深い林の中を通りますと、小さな蜘蛛",
+            "ruby": "くも"
+          },
+          {
+            "type": "ruby",
+            "base": "が一匹、路ばたを這",
+            "ruby": "は"
+          },
+          {
+            "type": "ruby",
+            "base": "って行くのが見えました。そこで※陀多は早速足を挙げて、踏み殺そうと致しましたが、「いや、いや、これも小さいながら、命のあるものに違いない。その命を無暗",
+            "ruby": "むやみ"
+          },
+          {
+            "type": "text",
+            "content": "にとると云う事は、いくら何でも可哀そうだ。」と、こう急に思い返して、とうとうその蜘蛛を殺さずに助けてやったからでございます。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　御釈迦様は地獄の容子を御覧になりながら、この※陀多には蜘蛛を助けた事があるのを御思い出しになりました。そうしてそれだけの善い事をした報",
+            "ruby": "むくい"
+          },
+          {
+            "type": "ruby",
+            "base": "には、出来るなら、この男を地獄から救い出してやろうと御考えになりました。幸い、側を見ますと、翡翠",
+            "ruby": "ひすい"
+          },
+          {
+            "type": "ruby",
+            "base": "のような色をした蓮の葉の上に、極楽の蜘蛛が一匹、美しい銀色の糸をかけて居ります。御釈迦様はその蜘蛛の糸をそっと御手に御取りになって、玉のような白蓮",
+            "ruby": "しらはす"
+          },
+          {
+            "type": "ruby",
+            "base": "の間から、遥か下にある地獄の底へ、まっすぐにそれを御下",
+            "ruby": "おろ"
+          },
+          {
+            "type": "text",
+            "content": "しなさいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "二"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　こちらは地獄の底の血の池で、ほかの罪人と一しょに、浮いたり沈んだりしていた※陀多",
+            "ruby": "かんだた"
+          },
+          {
+            "type": "ruby",
+            "base": "でございます。何しろどちらを見ても、まっ暗で、たまにそのくら暗からぼんやり浮き上っているものがあると思いますと、それは恐しい針の山の針が光るのでございますから、その心細さと云ったらございません。その上あたりは墓の中のようにしんと静まり返って、たまに聞えるものと云っては、ただ罪人がつく微",
+            "ruby": "かすか"
+          },
+          {
+            "type": "ruby",
+            "base": "な嘆息",
+            "ruby": "たんそく"
+          },
+          {
+            "type": "ruby",
+            "base": "ばかりでございます。これはここへ落ちて来るほどの人間は、もうさまざまな地獄の責苦",
+            "ruby": "せめく"
+          },
+          {
+            "type": "ruby",
+            "base": "に疲れはてて、泣声を出す力さえなくなっているのでございましょう。ですからさすが大泥坊の※陀多も、やはり血の池の血に咽",
+            "ruby": "むせ"
+          },
+          {
+            "type": "ruby",
+            "base": "びながら、まるで死にかかった蛙",
+            "ruby": "かわず"
+          },
+          {
+            "type": "text",
+            "content": "のように、ただもがいてばかり居りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ところがある時の事でございます。何気",
+            "ruby": "なにげ"
+          },
+          {
+            "type": "ruby",
+            "base": "なく※陀多が頭を挙げて、血の池の空を眺めますと、そのひっそりとした暗の中を、遠い遠い天上から、銀色の蜘蛛",
+            "ruby": "くも"
+          },
+          {
+            "type": "ruby",
+            "base": "の糸が、まるで人目にかかるのを恐れるように、一すじ細く光りながら、するすると自分の上へ垂れて参るのではございませんか。※陀多はこれを見ると、思わず手を拍",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "って喜びました。この糸に縋",
+            "ruby": "すが"
+          },
+          {
+            "type": "text",
+            "content": "りついて、どこまでものぼって行けば、きっと地獄からぬけ出せるのに相違ございません。いや、うまく行くと、極楽へはいる事さえも出来ましょう。そうすれば、もう針の山へ追い上げられる事もなくなれば、血の池に沈められる事もある筈はございません。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　こう思いましたから※陀多",
+            "ruby": "かんだた"
+          },
+          {
+            "type": "text",
+            "content": "は、早速その蜘蛛の糸を両手でしっかりとつかみながら、一生懸命に上へ上へとたぐりのぼり始めました。元より大泥坊の事でございますから、こう云う事には昔から、慣れ切っているのでございます。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　しかし地獄と極楽との間は、何万里となくございますから、いくら焦",
+            "ruby": "あせ"
+          },
+          {
+            "type": "ruby",
+            "base": "って見た所で、容易に上へは出られません。ややしばらくのぼる中",
+            "ruby": "うち"
+          },
+          {
+            "type": "text",
+            "content": "に、とうとう※陀多もくたびれて、もう一たぐりも上の方へはのぼれなくなってしまいました。そこで仕方がございませんから、まず一休み休むつもりで、糸の中途にぶら下りながら、遥かに目の下を見下しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　すると、一生懸命にのぼった甲斐があって、さっきまで自分がいた血の池は、今ではもう暗の底にいつの間にかかくれて居ります。それからあのぼんやり光っている恐しい針の山も、足の下になってしまいました。この分でのぼって行けば、地獄からぬけ出すのも、存外わけがないかも知れません。※陀多は両手を蜘蛛の糸にからみながら、ここへ来てから何年にも出した事のない声で、「しめた。しめた。」と笑いました。ところがふと気がつきますと、蜘蛛の糸の下の方には、数限",
+            "ruby": "かずかぎり"
+          },
+          {
+            "type": "ruby",
+            "base": "もない罪人たちが、自分ののぼった後をつけて、まるで蟻",
+            "ruby": "あり"
+          },
+          {
+            "type": "ruby",
+            "base": "の行列のように、やはり上へ上へ一心によじのぼって来るではございませんか。※陀多はこれを見ると、驚いたのと恐しいのとで、しばらくはただ、莫迦",
+            "ruby": "ばか"
+          },
+          {
+            "type": "ruby",
+            "base": "のように大きな口を開",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "いたまま、眼ばかり動かして居りました。自分一人でさえ断",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "れそうな、この細い蜘蛛の糸が、どうしてあれだけの人数",
+            "ruby": "にんず"
+          },
+          {
+            "type": "ruby",
+            "base": "の重みに堪える事が出来ましょう。もし万一途中で断",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "れたと致しましたら、折角ここへまでのぼって来たこの肝腎",
+            "ruby": "かんじん"
+          },
+          {
+            "type": "ruby",
+            "base": "な自分までも、元の地獄へ逆落",
+            "ruby": "さかおと"
+          },
+          {
+            "type": "ruby",
+            "base": "しに落ちてしまわなければなりません。そんな事があったら、大変でございます。が、そう云う中にも、罪人たちは何百となく何千となく、まっ暗な血の池の底から、うようよと這",
+            "ruby": "は"
+          },
+          {
+            "type": "text",
+            "content": "い上って、細く光っている蜘蛛の糸を、一列になりながら、せっせとのぼって参ります。今の中にどうかしなければ、糸はまん中から二つに断れて、落ちてしまうのに違いありません。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そこで※陀多は大きな声を出して、「こら、罪人ども。この蜘蛛の糸は己",
+            "ruby": "おれ"
+          },
+          {
+            "type": "ruby",
+            "base": "のものだぞ。お前たちは一体誰に尋",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "いて、のぼって来た。下りろ。下りろ。」と喚",
+            "ruby": "わめ"
+          },
+          {
+            "type": "text",
+            "content": "きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　その途端でございます。今まで何ともなかった蜘蛛の糸が、急に※陀多のぶら下っている所から、ぷつりと音を立てて断",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "れました。ですから※陀多もたまりません。あっと云う間",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "もなく風を切って、独楽",
+            "ruby": "こま"
+          },
+          {
+            "type": "text",
+            "content": "のようにくるくるまわりながら、見る見る中に暗の底へ、まっさかさまに落ちてしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　後にはただ極楽の蜘蛛の糸が、きらきらと細く光りながら、月も星もない空の中途に、短く垂れているばかりでございます。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "三"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　御釈迦様",
+            "ruby": "おしゃかさま"
+          },
+          {
+            "type": "ruby",
+            "base": "は極楽の蓮池",
+            "ruby": "はすいけ"
+          },
+          {
+            "type": "ruby",
+            "base": "のふちに立って、この一部始終",
+            "ruby": "しじゅう"
+          },
+          {
+            "type": "ruby",
+            "base": "をじっと見ていらっしゃいましたが、やがて※陀多",
+            "ruby": "かんだた"
+          },
+          {
+            "type": "text",
+            "content": "が血の池の底へ石のように沈んでしまいますと、悲しそうな御顔をなさりながら、またぶらぶら御歩きになり始めました。自分ばかり地獄からぬけ出そうとする、※陀多の無慈悲な心が、そうしてその心相当な罰をうけて、元の地獄へ落ちてしまったのが、御釈迦様の御目から見ると、浅間しく思召されたのでございましょう。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　しかし極楽の蓮池の蓮は、少しもそんな事には頓着",
+            "ruby": "とんじゃく"
+          },
+          {
+            "type": "ruby",
+            "base": "致しません。その玉のような白い花は、御釈迦様の御足",
+            "ruby": "おみあし"
+          },
+          {
+            "type": "ruby",
+            "base": "のまわりに、ゆらゆら萼",
+            "ruby": "うてな"
+          },
+          {
+            "type": "ruby",
+            "base": "を動かして、そのまん中にある金色の蕊",
+            "ruby": "ずい"
+          },
+          {
+            "type": "ruby",
+            "base": "からは、何とも云えない好",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "い匂が、絶間",
+            "ruby": "たえま"
+          },
+          {
+            "type": "ruby",
+            "base": "なくあたりへ溢",
+            "ruby": "あふ"
+          },
+          {
+            "type": "ruby",
+            "base": "れて居ります。極楽ももう午",
+            "ruby": "ひる"
+          },
+          {
+            "type": "text",
+            "content": "に近くなったのでございましょう。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "（大正七年四月十六日）"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「芥川龍之介全集2」ちくま文庫、筑摩書房"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1986（昭和61）年10月28日第1刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1996（平成8）年7月15日第11刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "親本：筑摩全集類聚版芥川龍之介全集"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1971（昭和46）年3月〜11月"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：平山誠、野口英司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：もりみつじゅんじ"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1997年11月10日公開"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2011年1月28日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "は極楽の蓮池",
+      "reading": "",
+      "meaning": "",
+      "frequency": 2,
+      "difficulty": 3,
+      "examples": [
+        {
+          "sentence": "　ある日の事でございます。御釈迦様は極楽の蓮池のふちを、独りでぶらぶら御歩きになっていらっしゃいました。池の中に咲いている蓮の花は、みんな玉のようにまっ白で、そのまん中にある金色の蕊からは、何とも云えない好い匂が、絶間なくあたりへ溢れて居ります。極楽は丁度朝なのでございましょう。",
+          "lineNumber": 20
+        },
+        {
+          "sentence": "　御釈迦様は極楽の蓮池のふちに立って、この一部始終をじっと見ていらっしゃいましたが、やがて※陀多が血の池の底へ石のように沈んでしまいますと、悲しそうな御顔をなさりながら、またぶらぶら御歩きになり始めました。自分ばかり地獄からぬけ出そうとする、※陀多の無慈悲な心が、そうしてその心相当な罰をうけて、元の地獄へ落ちてしまったのが、御釈迦様の御目から見ると、浅間しく思召されたのでございましょう。",
+          "lineNumber": 38
+        }
+      ]
+    },
+    {
+      "word": "からは、何とも云えない好",
+      "reading": "",
+      "meaning": "",
+      "frequency": 2,
+      "difficulty": 3,
+      "examples": [
+        {
+          "sentence": "　ある日の事でございます。御釈迦様は極楽の蓮池のふちを、独りでぶらぶら御歩きになっていらっしゃいました。池の中に咲いている蓮の花は、みんな玉のようにまっ白で、そのまん中にある金色の蕊からは、何とも云えない好い匂が、絶間なくあたりへ溢れて居ります。極楽は丁度朝なのでございましょう。",
+          "lineNumber": 20
+        },
+        {
+          "sentence": "　しかし極楽の蓮池の蓮は、少しもそんな事には頓着致しません。その玉のような白い花は、御釈迦様の御足のまわりに、ゆらゆら萼を動かして、そのまん中にある金色の蕊からは、何とも云えない好い匂が、絶間なくあたりへ溢れて居ります。極楽ももう午に近くなったのでございましょう。",
+          "lineNumber": 39
+        }
+      ]
+    },
+    {
+      "word": "なくあたりへ溢",
+      "reading": "",
+      "meaning": "",
+      "frequency": 2,
+      "difficulty": 3,
+      "examples": [
+        {
+          "sentence": "　ある日の事でございます。御釈迦様は極楽の蓮池のふちを、独りでぶらぶら御歩きになっていらっしゃいました。池の中に咲いている蓮の花は、みんな玉のようにまっ白で、そのまん中にある金色の蕊からは、何とも云えない好い匂が、絶間なくあたりへ溢れて居ります。極楽は丁度朝なのでございましょう。",
+          "lineNumber": 20
+        },
+        {
+          "sentence": "　しかし極楽の蓮池の蓮は、少しもそんな事には頓着致しません。その玉のような白い花は、御釈迦様の御足のまわりに、ゆらゆら萼を動かして、そのまん中にある金色の蕊からは、何とも云えない好い匂が、絶間なくあたりへ溢れて居ります。極楽ももう午に近くなったのでございましょう。",
+          "lineNumber": 39
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "comprehension": [
+      {
+        "id": "comp_1",
+        "type": "multiple_choice",
+        "question": "この物語の主人公は誰ですか？",
+        "options": [
+          "蜘蛛",
+          "翡翠",
+          "御足",
+          "人数"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "explanation": "主人公は蜘蛛です。"
+      },
+      {
+        "id": "comp_2",
+        "type": "multiple_choice",
+        "question": "物語の冒頭で語られていることは何ですか？",
+        "options": [
+          "　そこで※陀多は大きな声を出して、「こら、罪人ども。この蜘蛛...",
+          "主人公が旅に出る場面",
+          "事件が起きる場面",
+          "物語の結末"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2
+      },
+      {
+        "id": "comp_3",
+        "type": "multiple_choice",
+        "question": "この作品の主なテーマは何ですか？",
+        "options": [
+          "人間の本質",
+          "家族",
+          "勇気",
+          "冒険"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "explanation": "この作品は「人間の本質」をテーマにしています。"
+      },
+      {
+        "id": "comp_4",
+        "type": "short_answer",
+        "question": "この物語から学べることは何だと思いますか？",
+        "sampleAnswer": "人の気持ちを理解することの大切さ",
+        "difficulty": 4,
+        "rubric": [
+          "テーマとの関連性",
+          "自分の考えの表現",
+          "具体例の使用"
+        ]
+      },
+      {
+        "id": "comp_5",
+        "type": "true_false",
+        "question": "物語の中で「（大正七年四月十六日）...」という場面があります。",
+        "correctAnswer": true,
+        "difficulty": 2
+      }
+    ],
+    "vocabulary": [],
+    "kanji": [
+      {
+        "id": "kanji_1",
+        "type": "input",
+        "question": "「例」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "はすいけ",
+        "acceptableAnswers": [
+          "はすいけ",
+          "じごく"
+        ],
+        "difficulty": 1,
+        "hint": "4文字のひらがなです。"
+      },
+      {
+        "id": "kanji_2",
+        "type": "input",
+        "question": "「蓮」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "はすいけ",
+        "acceptableAnswers": [
+          "はすいけ",
+          "はす",
+          "ようす",
+          "じごく",
+          "しらはす",
+          "とんじゃく"
+        ],
+        "difficulty": 5,
+        "hint": "4文字のひらがなです。"
+      },
+      {
+        "id": "kanji_3",
+        "type": "input",
+        "question": "「池」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "はすいけ",
+        "acceptableAnswers": [
+          "はすいけ",
+          "はす",
+          "おたたず",
+          "じごく",
+          "かんだた",
+          "むせ",
+          "くも",
+          "かずかぎり",
+          "は",
+          "とんじゃく"
+        ],
+        "difficulty": 3,
+        "hint": "4文字のひらがなです。"
+      },
+      {
+        "id": "kanji_4",
+        "type": "input",
+        "question": "「丁」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "じごく",
+        "acceptableAnswers": [
+          "じごく",
+          "のぞ"
+        ],
+        "difficulty": 1,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_5",
+        "type": "input",
+        "question": "「度」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "じごく",
+        "acceptableAnswers": [
+          "じごく",
+          "のぞ"
+        ],
+        "difficulty": 2,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_6",
+        "type": "input",
+        "question": "「地」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "じごく",
+        "acceptableAnswers": [
+          "じごく",
+          "かんだた",
+          "むくい",
+          "ひすい",
+          "おろ",
+          "せめく",
+          "あせ",
+          "かずかぎり",
+          "さかおと"
+        ],
+        "difficulty": 2,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_7",
+        "type": "input",
+        "question": "「獄」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "じごく",
+        "acceptableAnswers": [
+          "じごく",
+          "かんだた",
+          "むくい",
+          "ひすい",
+          "おろ",
+          "せめく",
+          "あせ",
+          "かずかぎり",
+          "さかおと"
+        ],
+        "difficulty": 4,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_8",
+        "type": "input",
+        "question": "「日」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "おしゃかさま",
+        "acceptableAnswers": [
+          "おしゃかさま"
+        ],
+        "difficulty": 3,
+        "hint": "6文字のひらがなです。"
+      },
+      {
+        "id": "kanji_9",
+        "type": "input",
+        "question": "「事」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "おしゃかさま",
+        "acceptableAnswers": [
+          "おしゃかさま",
+          "くも",
+          "むくい",
+          "なにげ",
+          "かずかぎり",
+          "き",
+          "は",
+          "とんじゃく"
+        ],
+        "difficulty": 1,
+        "hint": "6文字のひらがなです。"
+      },
+      {
+        "id": "kanji_10",
+        "type": "input",
+        "question": "「御」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "おしゃかさま",
+        "acceptableAnswers": [
+          "おしゃかさま",
+          "はす",
+          "おたたず",
+          "じごく",
+          "くも",
+          "むくい",
+          "ひすい",
+          "しらはす",
+          "おろ",
+          "おみあし"
+        ],
+        "difficulty": 2,
+        "hint": "6文字のひらがなです。"
+      }
+    ]
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  },
+  "kanjiList": [
+    {
+      "character": "例",
+      "readings": [
+        "はすいけ",
+        "じごく"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "丁",
+      "readings": [
+        "じごく",
+        "のぞ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "事",
+      "readings": [
+        "おしゃかさま",
+        "くも",
+        "むくい",
+        "なにげ",
+        "かずかぎり",
+        "き",
+        "は",
+        "とんじゃく"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "中",
+      "readings": [
+        "はす",
+        "きんいろ",
+        "くも",
+        "かすか",
+        "うち",
+        "き",
+        "は",
+        "ずい"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "何",
+      "readings": [
+        "よ",
+        "かすか",
+        "なにげ",
+        "あせ",
+        "かずかぎり",
+        "は",
+        "き"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "云",
+      "readings": [
+        "よ",
+        "うごめ",
+        "くも",
+        "かすか",
+        "は",
+        "ま"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "佇",
+      "readings": [
+        "おたたず"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "下",
+      "readings": [
+        "ようす",
+        "じごく",
+        "おろ",
+        "かずかぎり",
+        "わめ",
+        "き"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "三",
+      "readings": [
+        "さんず"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "一",
+      "readings": [
+        "うごめ",
+        "くも",
+        "は",
+        "しらはす",
+        "かんだた",
+        "う",
+        "かずかぎり",
+        "ばか",
+        "き",
+        "しじゅう"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "人",
+      "readings": [
+        "うごめ",
+        "くも",
+        "かんだた",
+        "かすか",
+        "せめく",
+        "う",
+        "あり",
+        "き",
+        "にんず",
+        "は",
+        "おれ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "上",
+      "readings": [
+        "しらはす",
+        "かすか",
+        "くも",
+        "う",
+        "うち",
+        "ばか"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "万",
+      "readings": [
+        "あせ",
+        "き"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "今",
+      "readings": [
+        "かずかぎり",
+        "き"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "両",
+      "readings": [
+        "かずかぎり"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "体",
+      "readings": [
+        "き"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "度",
+      "readings": [
+        "じごく",
+        "のぞ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "地",
+      "readings": [
+        "じごく",
+        "かんだた",
+        "むくい",
+        "ひすい",
+        "おろ",
+        "せめく",
+        "あせ",
+        "かずかぎり",
+        "さかおと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "御",
+      "readings": [
+        "おしゃかさま",
+        "はす",
+        "おたたず",
+        "じごく",
+        "くも",
+        "むくい",
+        "ひすい",
+        "しらはす",
+        "おろ",
+        "おみあし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "咲",
+      "readings": [
+        "はす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "好",
+      "readings": [
+        "よ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "匂",
+      "readings": [
+        "におい",
+        "たえま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "容",
+      "readings": [
+        "ようす",
+        "むくい",
+        "うち"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "子",
+      "readings": [
+        "ようす",
+        "むくい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "底",
+      "readings": [
+        "すいしよう",
+        "かんだた",
+        "おろ",
+        "かずかぎり",
+        "は"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "当",
+      "readings": [
+        "すいしよう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "居",
+      "readings": [
+        "すいしよう",
+        "しらはす",
+        "かずかぎり",
+        "き",
+        "ひる"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "徹",
+      "readings": [
+        "さんず"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "山",
+      "readings": [
+        "のぞ",
+        "かすか",
+        "かずかぎり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "多",
+      "readings": [
+        "かんだた",
+        "くも",
+        "むやみ",
+        "むくい",
+        "むせ",
+        "う",
+        "かずかぎり",
+        "ばか",
+        "おれ",
+        "き",
+        "ま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "姿",
+      "readings": [
+        "くも"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "家",
+      "readings": [
+        "くも"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "働",
+      "readings": [
+        "くも"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "大",
+      "readings": [
+        "くも",
+        "むせ",
+        "あ",
+        "は",
+        "おれ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "坊",
+      "readings": [
+        "くも",
+        "むせ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "善",
+      "readings": [
+        "くも",
+        "むくい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "小",
+      "readings": [
+        "くも",
+        "むやみ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "匹",
+      "readings": [
+        "は",
+        "しらはす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "命",
+      "readings": [
+        "むやみ",
+        "かずかぎり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "助",
+      "readings": [
+        "むくい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "出",
+      "readings": [
+        "むくい",
+        "ひすい",
+        "むせ",
+        "うち",
+        "かずかぎり",
+        "き",
+        "おれ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "報",
+      "readings": [
+        "むくい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "幸",
+      "readings": [
+        "ひすい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "側",
+      "readings": [
+        "ひすい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "取",
+      "readings": [
+        "しらはす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "光",
+      "readings": [
+        "かすか",
+        "う",
+        "かずかぎり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "心",
+      "readings": [
+        "かすか",
+        "ばか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "墓",
+      "readings": [
+        "かすか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "微",
+      "readings": [
+        "かすか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "嘆",
+      "readings": [
+        "たんそく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "声",
+      "readings": [
+        "むせ",
+        "かずかぎり",
+        "おれ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "力",
+      "readings": [
+        "むせ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "咽",
+      "readings": [
+        "むせ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "天",
+      "readings": [
+        "くも"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "分",
+      "readings": [
+        "う",
+        "かずかぎり",
+        "あり",
+        "き",
+        "さかおと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "垂",
+      "readings": [
+        "う"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "参",
+      "readings": [
+        "う"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "喜",
+      "readings": [
+        "すが"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "存",
+      "readings": [
+        "かずかぎり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "外",
+      "readings": [
+        "かずかぎり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "年",
+      "readings": [
+        "かずかぎり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "後",
+      "readings": [
+        "あり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "列",
+      "readings": [
+        "ばか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "口",
+      "readings": [
+        "あ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "動",
+      "readings": [
+        "き",
+        "ずい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "堪",
+      "readings": [
+        "き"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "元",
+      "readings": [
+        "さかおと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "変",
+      "readings": [
+        "は"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "千",
+      "readings": [
+        "は"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "己",
+      "readings": [
+        "おれ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "前",
+      "readings": [
+        "き"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "尋",
+      "readings": [
+        "き"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "喚",
+      "readings": [
+        "わめ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "切",
+      "readings": [
+        "こま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "始",
+      "readings": [
+        "しじゅう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "少",
+      "readings": [
+        "とんじゃく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "午",
+      "readings": [
+        "ひる"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "池",
+      "readings": [
+        "はすいけ",
+        "はす",
+        "おたたず",
+        "じごく",
+        "かんだた",
+        "むせ",
+        "くも",
+        "かずかぎり",
+        "は",
+        "とんじゃく"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "日",
+      "readings": [
+        "おしゃかさま"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "様",
+      "readings": [
+        "おしゃかさま",
+        "おたたず",
+        "むくい",
+        "しらはす",
+        "おみあし"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "極",
+      "readings": [
+        "はすいけ",
+        "じごく",
+        "しらはす",
+        "あせ",
+        "とんじゃく",
+        "ひる"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "楽",
+      "readings": [
+        "はすいけ",
+        "じごく",
+        "しらはす",
+        "あせ",
+        "こま",
+        "とんじゃく",
+        "ひる"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "歩",
+      "readings": [
+        "はす"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "溢",
+      "readings": [
+        "あふ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "水",
+      "readings": [
+        "おもて",
+        "すいしよう",
+        "さんず"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "晶",
+      "readings": [
+        "すいしよう"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "河",
+      "readings": [
+        "のぞ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "景",
+      "readings": [
+        "のぞ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "止",
+      "readings": [
+        "くも"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "殺",
+      "readings": [
+        "くも",
+        "むやみ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "悪",
+      "readings": [
+        "くも"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "泥",
+      "readings": [
+        "くも",
+        "むせ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "時",
+      "readings": [
+        "くも",
+        "なにげ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "深",
+      "readings": [
+        "くも"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "林",
+      "readings": [
+        "くも"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "早",
+      "readings": [
+        "むやみ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "挙",
+      "readings": [
+        "むやみ",
+        "くも"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "暗",
+      "readings": [
+        "むやみ",
+        "かすか",
+        "くも",
+        "かずかぎり",
+        "は"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "思",
+      "readings": [
+        "むくい",
+        "かすか",
+        "う",
+        "かんだた"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "来",
+      "readings": [
+        "ひすい",
+        "せめく",
+        "かずかぎり",
+        "ばか",
+        "き",
+        "かんじん",
+        "わめ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    }
+  ]
+}

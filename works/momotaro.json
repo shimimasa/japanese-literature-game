@@ -1,0 +1,849 @@
+{
+  "id": "桃太郎",
+  "title": "桃太郎",
+  "titleKana": "",
+  "author": {
+    "name": "楠山正雄",
+    "nameKana": ""
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 5,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 3,
+      "vocabulary": 3,
+      "grammar": 3
+    },
+    "themes": [],
+    "totalCharacters": 671,
+    "estimatedReadingTime": 2
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　三にんは重",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "そうに、かけ声",
+            "ruby": "ごえ"
+          },
+          {
+            "type": "ruby",
+            "base": "をかけかけ進",
+            "ruby": "すす"
+          },
+          {
+            "type": "text",
+            "content": "んでいきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　うちではおじいさんと、おばあさんが、かわるがわる、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「もう桃太郎",
+            "ruby": "ももたろう"
+          },
+          {
+            "type": "ruby",
+            "base": "が帰",
+            "ruby": "かえ"
+          },
+          {
+            "type": "text",
+            "content": "りそうなものだが。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "い言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "い、首",
+            "ruby": "くび"
+          },
+          {
+            "type": "ruby",
+            "base": "をのばして待",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "っていました。そこへ桃太郎",
+            "ruby": "ももたろう"
+          },
+          {
+            "type": "ruby",
+            "base": "が三にんのりっぱな家来",
+            "ruby": "けらい"
+          },
+          {
+            "type": "ruby",
+            "base": "に、ぶんどりの宝物",
+            "ruby": "たからもの"
+          },
+          {
+            "type": "ruby",
+            "base": "を引",
+            "ruby": "ひ"
+          },
+          {
+            "type": "ruby",
+            "base": "かせて、さもとくいらしい様子",
+            "ruby": "ようす"
+          },
+          {
+            "type": "ruby",
+            "base": "をして帰",
+            "ruby": "かえ"
+          },
+          {
+            "type": "ruby",
+            "base": "って来",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "ましたので、おじいさんもおばあさんも、目も鼻",
+            "ruby": "はな"
+          },
+          {
+            "type": "ruby",
+            "base": "もなくして喜",
+            "ruby": "よろこ"
+          },
+          {
+            "type": "text",
+            "content": "びました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「えらいぞ、えらいぞ、それこそ日本一",
+            "ruby": "にっぽんいち"
+          },
+          {
+            "type": "text",
+            "content": "だ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　とおじいさんは言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「まあ、まあ、けががなくって、何",
+            "ruby": "なに"
+          },
+          {
+            "type": "text",
+            "content": "よりさ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　とおばあさんは言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　桃太郎",
+            "ruby": "ももたろう"
+          },
+          {
+            "type": "ruby",
+            "base": "は、その時",
+            "ruby": "とき"
+          },
+          {
+            "type": "ruby",
+            "base": "犬",
+            "ruby": "いぬ"
+          },
+          {
+            "type": "ruby",
+            "base": "と猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "ときじの方",
+            "ruby": "ほう"
+          },
+          {
+            "type": "ruby",
+            "base": "を向",
+            "ruby": "む"
+          },
+          {
+            "type": "ruby",
+            "base": "いてこう言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どうだ。鬼",
+            "ruby": "おに"
+          },
+          {
+            "type": "text",
+            "content": "せいばつはおもしろかったなあ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　犬",
+            "ruby": "いぬ"
+          },
+          {
+            "type": "ruby",
+            "base": "はワン、ワンとうれしそうにほえながら、前足",
+            "ruby": "まえあし"
+          },
+          {
+            "type": "ruby",
+            "base": "で立",
+            "ruby": "た"
+          },
+          {
+            "type": "text",
+            "content": "ちました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "はキャッ、キャッと笑",
+            "ruby": "わら"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、白",
+            "ruby": "しろ"
+          },
+          {
+            "type": "ruby",
+            "base": "い歯",
+            "ruby": "は"
+          },
+          {
+            "type": "ruby",
+            "base": "をむき出",
+            "ruby": "だ"
+          },
+          {
+            "type": "text",
+            "content": "しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　きじはケン、ケンと鳴",
+            "ruby": "な"
+          },
+          {
+            "type": "ruby",
+            "base": "きながら、くるくると宙返",
+            "ruby": "ちゅうがえ"
+          },
+          {
+            "type": "text",
+            "content": "りをしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　空",
+            "ruby": "そら"
+          },
+          {
+            "type": "ruby",
+            "base": "は青々",
+            "ruby": "あおあお"
+          },
+          {
+            "type": "ruby",
+            "base": "と晴",
+            "ruby": "は"
+          },
+          {
+            "type": "ruby",
+            "base": "れ上",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "がって、お庭",
+            "ruby": "にわ"
+          },
+          {
+            "type": "ruby",
+            "base": "には桜",
+            "ruby": "さくら"
+          },
+          {
+            "type": "ruby",
+            "base": "の花",
+            "ruby": "はな"
+          },
+          {
+            "type": "ruby",
+            "base": "が咲",
+            "ruby": "さ"
+          },
+          {
+            "type": "ruby",
+            "base": "き乱",
+            "ruby": "みだ"
+          },
+          {
+            "type": "text",
+            "content": "れていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「日本の神話と十大昔話」講談社学術文庫、講談社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1983（昭和58）年5月10日第1刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1992（平成4）年4月20日第14刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "※「そのお城",
+            "ruby": "しろ"
+          },
+          {
+            "type": "ruby",
+            "base": "のいちばん高",
+            "ruby": "たか"
+          },
+          {
+            "type": "ruby",
+            "base": "い」「こうして何年",
+            "ruby": "なんねん"
+          },
+          {
+            "type": "text",
+            "content": "も」の行頭が下がっていないのは底本のままです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：鈴木厚司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：大久保ゆう"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2003年8月27日作成"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2013年10月21日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "　三にんは重",
+      "reading": "おも",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "そうに、かけ声",
+      "reading": "ごえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "をかけかけ進",
+      "reading": "すす",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「もう桃太郎",
+      "reading": "ももたろう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "が帰",
+      "reading": "かえ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "　と言",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "い言",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "い、首",
+      "reading": "くび",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "をのばして待",
+      "reading": "ま",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "っていました。そこへ桃太郎",
+      "reading": "ももたろう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "が三にんのりっぱな家来",
+      "reading": "けらい",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "に、ぶんどりの宝物",
+      "reading": "たからもの",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "を引",
+      "reading": "ひ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "かせて、さもとくいらしい様子",
+      "reading": "ようす",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "をして帰",
+      "reading": "かえ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "って来",
+      "reading": "き",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "ましたので、おじいさんもおばあさんも、目も鼻",
+      "reading": "はな",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "もなくして喜",
+      "reading": "よろこ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「えらいぞ、えらいぞ、それこそ日本一",
+      "reading": "にっぽんいち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　とおじいさんは言",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「まあ、まあ、けががなくって、何",
+      "reading": "なに",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　とおばあさんは言",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　桃太郎",
+      "reading": "ももたろう",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "は、その時",
+      "reading": "とき",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "と猿",
+      "reading": "さる",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "ときじの方",
+      "reading": "ほう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "を向",
+      "reading": "む",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "いてこう言",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「どうだ。鬼",
+      "reading": "おに",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　犬",
+      "reading": "いぬ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "はワン、ワンとうれしそうにほえながら、前足",
+      "reading": "まえあし",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "で立",
+      "reading": "た",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "　猿",
+      "reading": "さる",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "はキャッ、キャッと笑",
+      "reading": "わら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "いながら、白",
+      "reading": "しろ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "い歯",
+      "reading": "は",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "をむき出",
+      "reading": "だ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "　きじはケン、ケンと鳴",
+      "reading": "な",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "きながら、くるくると宙返",
+      "reading": "ちゅうがえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　空",
+      "reading": "そら",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "は青々",
+      "reading": "あおあお",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "と晴",
+      "reading": "は",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "れ上",
+      "reading": "あ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "がって、お庭",
+      "reading": "にわ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "には桜",
+      "reading": "さくら",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "の花",
+      "reading": "はな",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "が咲",
+      "reading": "さ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "き乱",
+      "reading": "みだ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "※「そのお城",
+      "reading": "しろ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のいちばん高",
+      "reading": "たか",
+      "meaning": "",
+      "difficulty": 3
+    }
+  ],
+  "quiz": {
+    "comprehension": []
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  }
+}

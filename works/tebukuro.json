@@ -1,0 +1,538 @@
+{
+  "id": "手袋を買いに",
+  "title": "手袋を買いに",
+  "titleKana": "",
+  "author": {
+    "name": "新美南吉",
+    "nameKana": "にいみなんきち",
+    "birthYear": 1913,
+    "deathYear": 1943
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 5,
+    "difficulty": {
+      "overall": 4,
+      "kanji": 4,
+      "vocabulary": 3,
+      "grammar": 4,
+      "sentenceLength": 40
+    },
+    "themes": [
+      "優しさ",
+      "悲しみ",
+      "動物"
+    ],
+    "totalCharacters": 439,
+    "estimatedReadingTime": 2,
+    "genres": [
+      "童話",
+      "児童文学"
+    ],
+    "statistics": {
+      "totalCharacters": 439,
+      "totalKanji": 120,
+      "uniqueKanji": 73,
+      "kanjiRatio": "27.3%",
+      "sentenceCount": 11,
+      "averageSentenceLength": 40
+    },
+    "learningObjectives": [
+      "作品のテーマを理解する"
+    ],
+    "relatedWorks": [
+      {
+        "type": "same_author",
+        "reason": "同じ作者の作品",
+        "works": [
+          "手袋を買いに",
+          "おじいさんのランプ",
+          "花のき村と盗人たち"
+        ]
+      },
+      {
+        "type": "similar_theme",
+        "reason": "似たテーマの作品",
+        "works": [
+          "ごん狐",
+          "手袋を買いに"
+        ]
+      },
+      {
+        "type": "similar_difficulty",
+        "reason": "同じレベルの作品",
+        "works": [
+          "注文の多い料理店",
+          "走れメロス"
+        ]
+      }
+    ]
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二匹の狐は森の方へ帰って行きました。月が出たので、狐の毛なみが銀色に光り、その足あとには、コバルトの影がたまりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「母ちゃん、人間ってちっとも恐",
+            "ruby": "こわ"
+          },
+          {
+            "type": "text",
+            "content": "かないや」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうして？」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「坊、間違えてほんとうのお手々出しちゃったの。でも帽子屋さん、掴",
+            "ruby": "つか"
+          },
+          {
+            "type": "text",
+            "content": "まえやしなかったもの。ちゃんとこんないい暖い手袋くれたもの」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "と言って手袋のはまった両手をパンパンやって見せました。お母さん狐は、"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「まあ！」とあきれましたが、「ほんとうに人間はいいものかしら。ほんとうに人間はいいものかしら」とつぶやきました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「新美南吉童話集」岩波文庫、岩波書店"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1996（平成8）年7月16日第1刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1997（平成9）年7月15日第2刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：大野晋"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：伊藤祥"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1999年3月2日公開"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2011年4月27日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [],
+  "quiz": {
+    "comprehension": [
+      {
+        "id": "comp_2",
+        "type": "multiple_choice",
+        "question": "物語の冒頭で語られていることは何ですか？",
+        "options": [
+          "「まあ！」とあきれましたが、「ほんとうに人間はいいものかしら...",
+          "主人公が旅に出る場面",
+          "事件が起きる場面",
+          "物語の結末"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2
+      },
+      {
+        "id": "comp_3",
+        "type": "multiple_choice",
+        "question": "この作品の主なテーマは何ですか？",
+        "options": [
+          "優しさ",
+          "友情",
+          "勇気",
+          "家族"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "explanation": "この作品は「優しさ」をテーマにしています。"
+      },
+      {
+        "id": "comp_4",
+        "type": "short_answer",
+        "question": "この物語から学べることは何だと思いますか？",
+        "sampleAnswer": "人の気持ちを理解することの大切さ",
+        "difficulty": 4,
+        "rubric": [
+          "テーマとの関連性",
+          "自分の考えの表現",
+          "具体例の使用"
+        ]
+      },
+      {
+        "id": "comp_5",
+        "type": "true_false",
+        "question": "物語の中で「底本：「新美南吉童話集」岩波文庫、岩波書...」という場面があります。",
+        "correctAnswer": true,
+        "difficulty": 2
+      }
+    ],
+    "vocabulary": [],
+    "kanji": [
+      {
+        "id": "kanji_1",
+        "type": "input",
+        "question": "「母」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こわ",
+        "acceptableAnswers": [
+          "こわ"
+        ],
+        "difficulty": 3,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_2",
+        "type": "input",
+        "question": "「人」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こわ",
+        "acceptableAnswers": [
+          "こわ"
+        ],
+        "difficulty": 1,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_3",
+        "type": "input",
+        "question": "「間」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こわ",
+        "acceptableAnswers": [
+          "こわ",
+          "つか"
+        ],
+        "difficulty": 5,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_4",
+        "type": "input",
+        "question": "「恐」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こわ",
+        "acceptableAnswers": [
+          "こわ"
+        ],
+        "difficulty": 3,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_5",
+        "type": "input",
+        "question": "「坊」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "つか",
+        "acceptableAnswers": [
+          "つか"
+        ],
+        "difficulty": 2,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_6",
+        "type": "input",
+        "question": "「違」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "つか",
+        "acceptableAnswers": [
+          "つか"
+        ],
+        "difficulty": 5,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_7",
+        "type": "input",
+        "question": "「手」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "つか",
+        "acceptableAnswers": [
+          "つか"
+        ],
+        "difficulty": 3,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_8",
+        "type": "input",
+        "question": "「出」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "つか",
+        "acceptableAnswers": [
+          "つか"
+        ],
+        "difficulty": 2,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_9",
+        "type": "input",
+        "question": "「帽」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "つか",
+        "acceptableAnswers": [
+          "つか"
+        ],
+        "difficulty": 2,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_10",
+        "type": "input",
+        "question": "「子」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "つか",
+        "acceptableAnswers": [
+          "つか"
+        ],
+        "difficulty": 2,
+        "hint": "2文字のひらがなです。"
+      }
+    ]
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  },
+  "kanjiList": [
+    {
+      "character": "人",
+      "readings": [
+        "こわ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "坊",
+      "readings": [
+        "つか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "出",
+      "readings": [
+        "つか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "帽",
+      "readings": [
+        "つか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "子",
+      "readings": [
+        "つか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "屋",
+      "readings": [
+        "つか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "母",
+      "readings": [
+        "こわ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "恐",
+      "readings": [
+        "こわ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "手",
+      "readings": [
+        "つか"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "掴",
+      "readings": [
+        "つか"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "間",
+      "readings": [
+        "こわ",
+        "つか"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "違",
+      "readings": [
+        "つか"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    }
+  ]
+}

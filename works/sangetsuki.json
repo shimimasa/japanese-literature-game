@@ -1,0 +1,176 @@
+{
+  "id": "山月記",
+  "title": "山月記",
+  "titleKana": "",
+  "author": {
+    "name": "中島敦",
+    "nameKana": ""
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 3,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 3,
+      "vocabulary": 3,
+      "grammar": 3
+    },
+    "themes": [],
+    "totalCharacters": 305,
+    "estimatedReadingTime": 1
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　一行が丘の上についた時、彼等は、言われた通りに振返って、先程の林間の草地を眺",
+            "ruby": "なが"
+          },
+          {
+            "type": "ruby",
+            "base": "めた。忽ち、一匹の虎が草の茂みから道の上に躍り出たのを彼等は見た。虎は、既に白く光を失った月を仰いで、二声三声咆哮",
+            "ruby": "ほうこう"
+          },
+          {
+            "type": "text",
+            "content": "したかと思うと、又、元の叢に躍り入って、再びその姿を見なかった。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「李陵・山月記」新潮文庫、新潮社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1969（昭和44）年9月20日発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：平松大樹"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：林めぐみ"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1998年11月12日公開"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2010年11月2日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "　一行が丘の上についた時、彼等は、言われた通りに振返って、先程の林間の草地を眺",
+      "reading": "なが",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "めた。忽ち、一匹の虎が草の茂みから道の上に躍り出たのを彼等は見た。虎は、既に白く光を失った月を仰いで、二声三声咆哮",
+      "reading": "ほうこう",
+      "meaning": "",
+      "difficulty": 3
+    }
+  ],
+  "quiz": {
+    "comprehension": []
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  }
+}

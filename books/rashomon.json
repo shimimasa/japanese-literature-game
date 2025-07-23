@@ -1,0 +1,2823 @@
+{
+  "id": "羅生門",
+  "title": "羅生門",
+  "titleKana": "",
+  "author": {
+    "name": "芥川龍之介",
+    "nameKana": "あくたがわりゅうのすけ",
+    "birthYear": 1892,
+    "deathYear": 1927
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "taisho",
+    "gradeLevel": 9,
+    "difficulty": {
+      "overall": 4,
+      "kanji": 5,
+      "vocabulary": 3,
+      "grammar": 4,
+      "sentenceLength": 40
+    },
+    "themes": [
+      "人間の本質",
+      "善悪",
+      "エゴイズム",
+      "生存",
+      "人間性"
+    ],
+    "totalCharacters": 6277,
+    "estimatedReadingTime": 16,
+    "genres": [
+      "短編小説",
+      "歴史小説"
+    ],
+    "publishedYear": 1915,
+    "jlptLevel": "N2",
+    "teachingPoints": [
+      "極限状況での人間性",
+      "道徳的ジレンマ"
+    ],
+    "statistics": {
+      "totalCharacters": 6277,
+      "totalKanji": 1784,
+      "uniqueKanji": 545,
+      "kanjiRatio": "28.4%",
+      "sentenceCount": 155,
+      "averageSentenceLength": 40
+    },
+    "learningObjectives": [
+      "漢字の読み方を学ぶ",
+      "古典的な日本語表現を理解する",
+      "作品のテーマを理解する"
+    ],
+    "relatedWorks": [
+      {
+        "type": "same_author",
+        "reason": "同じ作者の作品",
+        "works": [
+          "羅生門",
+          "蜘蛛の糸",
+          "鼻"
+        ]
+      },
+      {
+        "type": "similar_theme",
+        "reason": "似たテーマの作品",
+        "works": []
+      },
+      {
+        "type": "similar_difficulty",
+        "reason": "同じレベルの作品",
+        "works": [
+          "羅生門",
+          "山月記",
+          "こころ"
+        ]
+      }
+    ]
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "羅生門"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "芥川龍之介"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "-------------------------------------------------------"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "【テキスト中に現れる記号について】"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "《》：ルビ"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（例）下人",
+            "ruby": "げにん"
+          },
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "｜：ルビの付く文字列の始まりを特定する記号"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（例）所々丹塗",
+            "ruby": "にぬり"
+          },
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "［＃］：入力者注　主に外字の説明や、傍点の位置の指定"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　（数字は、JIS X 0213の面区点番号またはUnicode、底本のページと行数）"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "（例）※"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "-------------------------------------------------------"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ある日の暮方の事である。一人の下人",
+            "ruby": "げにん"
+          },
+          {
+            "type": "ruby",
+            "base": "が、羅生門",
+            "ruby": "らしょうもん"
+          },
+          {
+            "type": "text",
+            "content": "の下で雨やみを待っていた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　広い門の下には、この男のほかに誰もいない。ただ、所々丹塗",
+            "ruby": "にぬり"
+          },
+          {
+            "type": "ruby",
+            "base": "の剥",
+            "ruby": "は"
+          },
+          {
+            "type": "ruby",
+            "base": "げた、大きな円柱",
+            "ruby": "まるばしら"
+          },
+          {
+            "type": "ruby",
+            "base": "に、蟋蟀",
+            "ruby": "きりぎりす"
+          },
+          {
+            "type": "ruby",
+            "base": "が一匹とまっている。羅生門が、朱雀大路",
+            "ruby": "すざくおおじ"
+          },
+          {
+            "type": "ruby",
+            "base": "にある以上は、この男のほかにも、雨やみをする市女笠",
+            "ruby": "いちめがさ"
+          },
+          {
+            "type": "ruby",
+            "base": "や揉烏帽子",
+            "ruby": "もみえぼし"
+          },
+          {
+            "type": "text",
+            "content": "が、もう二三人はありそうなものである。それが、この男のほかには誰もいない。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　何故かと云うと、この二三年、京都には、地震とか辻風",
+            "ruby": "つじかぜ"
+          },
+          {
+            "type": "ruby",
+            "base": "とか火事とか饑饉とか云う災",
+            "ruby": "わざわい"
+          },
+          {
+            "type": "ruby",
+            "base": "がつづいて起った。そこで洛中",
+            "ruby": "らくちゅう"
+          },
+          {
+            "type": "ruby",
+            "base": "のさびれ方は一通りではない。旧記によると、仏像や仏具を打砕いて、その丹",
+            "ruby": "に"
+          },
+          {
+            "type": "ruby",
+            "base": "がついたり、金銀の箔",
+            "ruby": "はく"
+          },
+          {
+            "type": "ruby",
+            "base": "がついたりした木を、路ばたにつみ重ねて、薪",
+            "ruby": "たきぎ"
+          },
+          {
+            "type": "ruby",
+            "base": "の料",
+            "ruby": "しろ"
+          },
+          {
+            "type": "ruby",
+            "base": "に売っていたと云う事である。洛中がその始末であるから、羅生門の修理などは、元より誰も捨てて顧る者がなかった。するとその荒れ果てたのをよい事にして、狐狸",
+            "ruby": "こり"
+          },
+          {
+            "type": "ruby",
+            "base": "が棲",
+            "ruby": "す"
+          },
+          {
+            "type": "ruby",
+            "base": "む。盗人",
+            "ruby": "ぬすびと"
+          },
+          {
+            "type": "text",
+            "content": "が棲む。とうとうしまいには、引取り手のない死人を、この門へ持って来て、棄てて行くと云う習慣さえ出来た。そこで、日の目が見えなくなると、誰でも気味を悪るがって、この門の近所へは足ぶみをしない事になってしまったのである。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　その代りまた鴉",
+            "ruby": "からす"
+          },
+          {
+            "type": "ruby",
+            "base": "がどこからか、たくさん集って来た。昼間見ると、その鴉が何羽となく輪を描いて、高い鴟尾",
+            "ruby": "しび"
+          },
+          {
+            "type": "ruby",
+            "base": "のまわりを啼きながら、飛びまわっている。ことに門の上の空が、夕焼けであかくなる時には、それが胡麻",
+            "ruby": "ごま"
+          },
+          {
+            "type": "ruby",
+            "base": "をまいたようにはっきり見えた。鴉は、勿論、門の上にある死人の肉を、啄",
+            "ruby": "ついば"
+          },
+          {
+            "type": "ruby",
+            "base": "みに来るのである。――もっとも今日は、刻限",
+            "ruby": "こくげん"
+          },
+          {
+            "type": "ruby",
+            "base": "が遅いせいか、一羽も見えない。ただ、所々、崩れかかった、そうしてその崩れ目に長い草のはえた石段の上に、鴉の糞",
+            "ruby": "ふん"
+          },
+          {
+            "type": "ruby",
+            "base": "が、点々と白くこびりついているのが見える。下人は七段ある石段の一番上の段に、洗いざらした紺の襖",
+            "ruby": "あお"
+          },
+          {
+            "type": "ruby",
+            "base": "の尻を据えて、右の頬に出来た、大きな面皰",
+            "ruby": "にきび"
+          },
+          {
+            "type": "text",
+            "content": "を気にしながら、ぼんやり、雨のふるのを眺めていた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　作者はさっき、「下人が雨やみを待っていた」と書いた。しかし、下人は雨がやんでも、格別どうしようと云う当てはない。ふだんなら、勿論、主人の家へ帰る可き筈である。所がその主人からは、四五日前に暇を出された。前にも書いたように、当時京都の町は一通りならず衰微",
+            "ruby": "すいび"
+          },
+          {
+            "type": "ruby",
+            "base": "していた。今この下人が、永年、使われていた主人から、暇を出されたのも、実はこの衰微の小さな余波にほかならない。だから「下人が雨やみを待っていた」と云うよりも「雨にふりこめられた下人が、行き所がなくて、途方にくれていた」と云う方が、適当である。その上、今日の空模様も少からず、この平安朝の下人の Sentimentalisme に影響した。申",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "の刻",
+            "ruby": "こく"
+          },
+          {
+            "type": "ruby",
+            "base": "下",
+            "ruby": "さが"
+          },
+          {
+            "type": "ruby",
+            "base": "りからふり出した雨は、いまだに上るけしきがない。そこで、下人は、何をおいても差当り明日",
+            "ruby": "あす"
+          },
+          {
+            "type": "text",
+            "content": "の暮しをどうにかしようとして――云わばどうにもならない事を、どうにかしようとして、とりとめもない考えをたどりながら、さっきから朱雀大路にふる雨の音を、聞くともなく聞いていたのである。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　雨は、羅生門をつつんで、遠くから、ざあっと云う音をあつめて来る。夕闇は次第に空を低くして、見上げると、門の屋根が、斜につき出した甍",
+            "ruby": "いらか"
+          },
+          {
+            "type": "text",
+            "content": "の先に、重たくうす暗い雲を支えている。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　どうにもならない事を、どうにかするためには、手段を選んでいる遑",
+            "ruby": "いとま"
+          },
+          {
+            "type": "ruby",
+            "base": "はない。選んでいれば、築土",
+            "ruby": "ついじ"
+          },
+          {
+            "type": "ruby",
+            "base": "の下か、道ばたの土の上で、饑死",
+            "ruby": "うえじに"
+          },
+          {
+            "type": "ruby",
+            "base": "をするばかりである。そうして、この門の上へ持って来て、犬のように棄てられてしまうばかりである。選ばないとすれば――下人の考えは、何度も同じ道を低徊",
+            "ruby": "ていかい"
+          },
+          {
+            "type": "ruby",
+            "base": "した揚句",
+            "ruby": "あげく"
+          },
+          {
+            "type": "ruby",
+            "base": "に、やっとこの局所へ逢着",
+            "ruby": "ほうちゃく"
+          },
+          {
+            "type": "ruby",
+            "base": "した。しかしこの「すれば」は、いつまでたっても、結局「すれば」であった。下人は、手段を選ばないという事を肯定しながらも、この「すれば」のかたをつけるために、当然、その後に来る可き「盗人",
+            "ruby": "ぬすびと"
+          },
+          {
+            "type": "text",
+            "content": "になるよりほかに仕方がない」と云う事を、積極的に肯定するだけの、勇気が出ずにいたのである。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人は、大きな嚔",
+            "ruby": "くさめ"
+          },
+          {
+            "type": "ruby",
+            "base": "をして、それから、大儀",
+            "ruby": "たいぎ"
+          },
+          {
+            "type": "ruby",
+            "base": "そうに立上った。夕冷えのする京都は、もう火桶",
+            "ruby": "ひおけ"
+          },
+          {
+            "type": "ruby",
+            "base": "が欲しいほどの寒さである。風は門の柱と柱との間を、夕闇と共に遠慮なく、吹きぬける。丹塗",
+            "ruby": "にぬり"
+          },
+          {
+            "type": "ruby",
+            "base": "の柱にとまっていた蟋蟀",
+            "ruby": "きりぎりす"
+          },
+          {
+            "type": "text",
+            "content": "も、もうどこかへ行ってしまった。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人は、頸",
+            "ruby": "くび"
+          },
+          {
+            "type": "ruby",
+            "base": "をちぢめながら、山吹",
+            "ruby": "やまぶき"
+          },
+          {
+            "type": "ruby",
+            "base": "の汗袗",
+            "ruby": "かざみ"
+          },
+          {
+            "type": "ruby",
+            "base": "に重ねた、紺の襖",
+            "ruby": "あお"
+          },
+          {
+            "type": "ruby",
+            "base": "の肩を高くして門のまわりを見まわした。雨風の患",
+            "ruby": "うれえ"
+          },
+          {
+            "type": "ruby",
+            "base": "のない、人目にかかる惧",
+            "ruby": "おそれ"
+          },
+          {
+            "type": "ruby",
+            "base": "のない、一晩楽にねられそうな所があれば、そこでともかくも、夜を明かそうと思ったからである。すると、幸い門の上の楼へ上る、幅の広い、これも丹を塗った梯子",
+            "ruby": "はしご"
+          },
+          {
+            "type": "ruby",
+            "base": "が眼についた。上なら、人がいたにしても、どうせ死人ばかりである。下人はそこで、腰にさげた聖柄",
+            "ruby": "ひじりづか"
+          },
+          {
+            "type": "ruby",
+            "base": "の太刀",
+            "ruby": "たち"
+          },
+          {
+            "type": "ruby",
+            "base": "が鞘走",
+            "ruby": "さやばし"
+          },
+          {
+            "type": "ruby",
+            "base": "らないように気をつけながら、藁草履",
+            "ruby": "わらぞうり"
+          },
+          {
+            "type": "text",
+            "content": "をはいた足を、その梯子の一番下の段へふみかけた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それから、何分かの後である。羅生門の楼の上へ出る、幅の広い梯子の中段に、一人の男が、猫のように身をちぢめて、息を殺しながら、上の容子",
+            "ruby": "ようす"
+          },
+          {
+            "type": "ruby",
+            "base": "を窺っていた。楼の上からさす火の光が、かすかに、その男の右の頬をぬらしている。短い鬚の中に、赤く膿",
+            "ruby": "うみ"
+          },
+          {
+            "type": "ruby",
+            "base": "を持った面皰",
+            "ruby": "にきび"
+          },
+          {
+            "type": "ruby",
+            "base": "のある頬である。下人は、始めから、この上にいる者は、死人ばかりだと高を括",
+            "ruby": "くく"
+          },
+          {
+            "type": "ruby",
+            "base": "っていた。それが、梯子を二三段上って見ると、上では誰か火をとぼして、しかもその火をそこここと動かしているらしい。これは、その濁った、黄いろい光が、隅々に蜘蛛",
+            "ruby": "くも"
+          },
+          {
+            "type": "text",
+            "content": "の巣をかけた天井裏に、揺れながら映ったので、すぐにそれと知れたのである。この雨の夜に、この羅生門の上で、火をともしているからは、どうせただの者ではない。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人は、守宮",
+            "ruby": "やもり"
+          },
+          {
+            "type": "ruby",
+            "base": "のように足音をぬすんで、やっと急な梯子を、一番上の段まで這うようにして上りつめた。そうして体を出来るだけ、平",
+            "ruby": "たいら"
+          },
+          {
+            "type": "ruby",
+            "base": "にしながら、頸を出来るだけ、前へ出して、恐る恐る、楼の内を覗",
+            "ruby": "のぞ"
+          },
+          {
+            "type": "text",
+            "content": "いて見た。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　見ると、楼の内には、噂に聞いた通り、幾つかの死骸",
+            "ruby": "しがい"
+          },
+          {
+            "type": "ruby",
+            "base": "が、無造作に棄ててあるが、火の光の及ぶ範囲が、思ったより狭いので、数は幾つともわからない。ただ、おぼろげながら、知れるのは、その中に裸の死骸と、着物を着た死骸とがあるという事である。勿論、中には女も男もまじっているらしい。そうして、その死骸は皆、それが、かつて、生きていた人間だと云う事実さえ疑われるほど、土を捏",
+            "ruby": "こ"
+          },
+          {
+            "type": "ruby",
+            "base": "ねて造った人形のように、口を開",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "いたり手を延ばしたりして、ごろごろ床の上にころがっていた。しかも、肩とか胸とかの高くなっている部分に、ぼんやりした火の光をうけて、低くなっている部分の影を一層暗くしながら、永久に唖",
+            "ruby": "おし"
+          },
+          {
+            "type": "text",
+            "content": "の如く黙っていた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人",
+            "ruby": "げにん"
+          },
+          {
+            "type": "ruby",
+            "base": "は、それらの死骸の腐爛",
+            "ruby": "ふらん"
+          },
+          {
+            "type": "ruby",
+            "base": "した臭気に思わず、鼻を掩",
+            "ruby": "おお"
+          },
+          {
+            "type": "text",
+            "content": "った。しかし、その手は、次の瞬間には、もう鼻を掩う事を忘れていた。ある強い感情が、ほとんどことごとくこの男の嗅覚を奪ってしまったからだ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人の眼は、その時、はじめてその死骸の中に蹲",
+            "ruby": "うずくま"
+          },
+          {
+            "type": "ruby",
+            "base": "っている人間を見た。檜皮色",
+            "ruby": "ひわだいろ"
+          },
+          {
+            "type": "ruby",
+            "base": "の着物を着た、背の低い、痩",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "せた、白髪頭",
+            "ruby": "しらがあたま"
+          },
+          {
+            "type": "ruby",
+            "base": "の、猿のような老婆である。その老婆は、右の手に火をともした松の木片",
+            "ruby": "きぎれ"
+          },
+          {
+            "type": "text",
+            "content": "を持って、その死骸の一つの顔を覗きこむように眺めていた。髪の毛の長い所を見ると、多分女の死骸であろう。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人は、六分の恐怖と四分の好奇心とに動かされて、暫時",
+            "ruby": "ざんじ"
+          },
+          {
+            "type": "ruby",
+            "base": "は呼吸",
+            "ruby": "いき"
+          },
+          {
+            "type": "ruby",
+            "base": "をするのさえ忘れていた。旧記の記者の語を借りれば、「頭身",
+            "ruby": "とうしん"
+          },
+          {
+            "type": "ruby",
+            "base": "の毛も太る」ように感じたのである。すると老婆は、松の木片を、床板の間に挿して、それから、今まで眺めていた死骸の首に両手をかけると、丁度、猿の親が猿の子の虱",
+            "ruby": "しらみ"
+          },
+          {
+            "type": "text",
+            "content": "をとるように、その長い髪の毛を一本ずつ抜きはじめた。髪は手に従って抜けるらしい。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　その髪の毛が、一本ずつ抜けるのに従って、下人の心からは、恐怖が少しずつ消えて行った。そうして、それと同時に、この老婆に対するはげしい憎悪が、少しずつ動いて来た。――いや、この老婆に対すると云っては、語弊",
+            "ruby": "ごへい"
+          },
+          {
+            "type": "ruby",
+            "base": "があるかも知れない。むしろ、あらゆる悪に対する反感が、一分毎に強さを増して来たのである。この時、誰かがこの下人に、さっき門の下でこの男が考えていた、饑死",
+            "ruby": "うえじに"
+          },
+          {
+            "type": "ruby",
+            "base": "をするか盗人",
+            "ruby": "ぬすびと"
+          },
+          {
+            "type": "ruby",
+            "base": "になるかと云う問題を、改めて持出したら、恐らく下人は、何の未練もなく、饑死を選んだ事であろう。それほど、この男の悪を憎む心は、老婆の床に挿した松の木片",
+            "ruby": "きぎれ"
+          },
+          {
+            "type": "text",
+            "content": "のように、勢いよく燃え上り出していたのである。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　下人には、勿論、何故老婆が死人の髪の毛を抜くかわからなかった。従って、合理的には、それを善悪のいずれに片づけてよいか知らなかった。しかし下人にとっては、この雨の夜に、この羅生門の上で、死人の髪の毛を抜くと云う事が、それだけで既に許すべからざる悪であった。勿論、下人は、さっきまで自分が、盗人になる気でいた事なぞは、とうに忘れていたのである。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そこで、下人は、両足に力を入れて、いきなり、梯子から上へ飛び上った。そうして聖柄",
+            "ruby": "ひじりづか"
+          },
+          {
+            "type": "text",
+            "content": "の太刀に手をかけながら、大股に老婆の前へ歩みよった。老婆が驚いたのは云うまでもない。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　老婆は、一目下人を見ると、まるで弩",
+            "ruby": "いしゆみ"
+          },
+          {
+            "type": "ruby",
+            "base": "にでも弾",
+            "ruby": "はじ"
+          },
+          {
+            "type": "text",
+            "content": "かれたように、飛び上った。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おのれ、どこへ行く。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人は、老婆が死骸につまずきながら、慌てふためいて逃げようとする行手を塞",
+            "ruby": "ふさ"
+          },
+          {
+            "type": "ruby",
+            "base": "いで、こう罵",
+            "ruby": "ののし"
+          },
+          {
+            "type": "ruby",
+            "base": "った。老婆は、それでも下人をつきのけて行こうとする。下人はまた、それを行かすまいとして、押しもどす。二人は死骸の中で、しばらく、無言のまま、つかみ合った。しかし勝敗は、はじめからわかっている。下人はとうとう、老婆の腕をつかんで、無理にそこへ※",
+            "ruby": "ね"
+          },
+          {
+            "type": "ruby",
+            "base": "じ倒した。丁度、鶏",
+            "ruby": "にわとり"
+          },
+          {
+            "type": "text",
+            "content": "の脚のような、骨と皮ばかりの腕である。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「何をしていた。云え。云わぬと、これだぞよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人は、老婆をつき放すと、いきなり、太刀の鞘",
+            "ruby": "さや"
+          },
+          {
+            "type": "ruby",
+            "base": "を払って、白い鋼",
+            "ruby": "はがね"
+          },
+          {
+            "type": "ruby",
+            "base": "の色をその眼の前へつきつけた。けれども、老婆は黙っている。両手をわなわなふるわせて、肩で息を切りながら、眼を、眼球",
+            "ruby": "めだま"
+          },
+          {
+            "type": "ruby",
+            "base": "が※",
+            "ruby": "まぶた"
+          },
+          {
+            "type": "ruby",
+            "base": "の外へ出そうになるほど、見開いて、唖のように執拗",
+            "ruby": "しゅうね"
+          },
+          {
+            "type": "ruby",
+            "base": "く黙っている。これを見ると、下人は始めて明白にこの老婆の生死が、全然、自分の意志に支配されていると云う事を意識した。そうしてこの意識は、今までけわしく燃えていた憎悪の心を、いつの間にか冷ましてしまった。後",
+            "ruby": "あと"
+          },
+          {
+            "type": "text",
+            "content": "に残ったのは、ただ、ある仕事をして、それが円満に成就した時の、安らかな得意と満足とがあるばかりである。そこで、下人は、老婆を見下しながら、少し声を柔らげてこう云った。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「己",
+            "ruby": "おれ"
+          },
+          {
+            "type": "ruby",
+            "base": "は検非違使",
+            "ruby": "けびいし"
+          },
+          {
+            "type": "ruby",
+            "base": "の庁の役人などではない。今し方この門の下を通りかかった旅の者だ。だからお前に縄",
+            "ruby": "なわ"
+          },
+          {
+            "type": "text",
+            "content": "をかけて、どうしようと云うような事はない。ただ、今時分この門の上で、何をして居たのだか、それを己に話しさえすればいいのだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　すると、老婆は、見開いていた眼を、一層大きくして、じっとその下人の顔を見守った。※",
+            "ruby": "まぶた"
+          },
+          {
+            "type": "ruby",
+            "base": "の赤くなった、肉食鳥のような、鋭い眼で見たのである。それから、皺で、ほとんど、鼻と一つになった唇を、何か物でも噛んでいるように動かした。細い喉で、尖った喉仏",
+            "ruby": "のどぼとけ"
+          },
+          {
+            "type": "ruby",
+            "base": "の動いているのが見える。その時、その喉から、鴉",
+            "ruby": "からす"
+          },
+          {
+            "type": "ruby",
+            "base": "の啼くような声が、喘",
+            "ruby": "あえ"
+          },
+          {
+            "type": "text",
+            "content": "ぎ喘ぎ、下人の耳へ伝わって来た。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「この髪を抜いてな、この髪を抜いてな、鬘",
+            "ruby": "かずら"
+          },
+          {
+            "type": "text",
+            "content": "にしようと思うたのじゃ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人は、老婆の答が存外、平凡なのに失望した。そうして失望すると同時に、また前の憎悪が、冷やかな侮蔑",
+            "ruby": "ぶべつ"
+          },
+          {
+            "type": "ruby",
+            "base": "と一しょに、心の中へはいって来た。すると、その気色",
+            "ruby": "けしき"
+          },
+          {
+            "type": "ruby",
+            "base": "が、先方へも通じたのであろう。老婆は、片手に、まだ死骸の頭から奪った長い抜け毛を持ったなり、蟇",
+            "ruby": "ひき"
+          },
+          {
+            "type": "text",
+            "content": "のつぶやくような声で、口ごもりながら、こんな事を云った。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「成程な、死人",
+            "ruby": "しびと"
+          },
+          {
+            "type": "ruby",
+            "base": "の髪の毛を抜くと云う事は、何ぼう悪い事かも知れぬ。じゃが、ここにいる死人どもは、皆、そのくらいな事を、されてもいい人間ばかりだぞよ。現在、わしが今、髪を抜いた女などはな、蛇を四寸",
+            "ruby": "しすん"
+          },
+          {
+            "type": "ruby",
+            "base": "ばかりずつに切って干したのを、干魚",
+            "ruby": "ほしうお"
+          },
+          {
+            "type": "ruby",
+            "base": "だと云うて、太刀帯",
+            "ruby": "たてわき"
+          },
+          {
+            "type": "ruby",
+            "base": "の陣へ売りに往",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "んだわ。疫病",
+            "ruby": "えやみ"
+          },
+          {
+            "type": "ruby",
+            "base": "にかかって死ななんだら、今でも売りに往んでいた事であろ。それもよ、この女の売る干魚は、味がよいと云うて、太刀帯どもが、欠かさず菜料",
+            "ruby": "さいりよう"
+          },
+          {
+            "type": "text",
+            "content": "に買っていたそうな。わしは、この女のした事が悪いとは思うていぬ。せねば、饑死をするのじゃて、仕方がなくした事であろ。されば、今また、わしのしていた事も悪い事とは思わぬぞよ。これとてもやはりせねば、饑死をするじゃて、仕方がなくする事じゃわいの。じゃて、その仕方がない事を、よく知っていたこの女は、大方わしのする事も大目に見てくれるであろ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　老婆は、大体こんな意味の事を云った。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人は、太刀を鞘",
+            "ruby": "さや"
+          },
+          {
+            "type": "ruby",
+            "base": "におさめて、その太刀の柄",
+            "ruby": "つか"
+          },
+          {
+            "type": "ruby",
+            "base": "を左の手でおさえながら、冷然として、この話を聞いていた。勿論、右の手では、赤く頬に膿を持った大きな面皰",
+            "ruby": "にきび"
+          },
+          {
+            "type": "text",
+            "content": "を気にしながら、聞いているのである。しかし、これを聞いている中に、下人の心には、ある勇気が生まれて来た。それは、さっき門の下で、この男には欠けていた勇気である。そうして、またさっきこの門の上へ上って、この老婆を捕えた時の勇気とは、全然、反対な方向に動こうとする勇気である。下人は、饑死をするか盗人になるかに、迷わなかったばかりではない。その時のこの男の心もちから云えば、饑死などと云う事は、ほとんど、考える事さえ出来ないほど、意識の外に追い出されていた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「きっと、そうか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　老婆の話が完",
+            "ruby": "おわ"
+          },
+          {
+            "type": "ruby",
+            "base": "ると、下人は嘲",
+            "ruby": "あざけ"
+          },
+          {
+            "type": "ruby",
+            "base": "るような声で念を押した。そうして、一足前へ出ると、不意に右の手を面皰",
+            "ruby": "にきび"
+          },
+          {
+            "type": "ruby",
+            "base": "から離して、老婆の襟上",
+            "ruby": "えりがみ"
+          },
+          {
+            "type": "text",
+            "content": "をつかみながら、噛みつくようにこう云った。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「では、己",
+            "ruby": "おれ"
+          },
+          {
+            "type": "ruby",
+            "base": "が引剥",
+            "ruby": "ひはぎ"
+          },
+          {
+            "type": "text",
+            "content": "をしようと恨むまいな。己もそうしなければ、饑死をする体なのだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人は、すばやく、老婆の着物を剥ぎとった。それから、足にしがみつこうとする老婆を、手荒く死骸の上へ蹴倒した。梯子の口までは、僅に五歩を数えるばかりである。下人は、剥ぎとった檜皮色",
+            "ruby": "ひわだいろ"
+          },
+          {
+            "type": "text",
+            "content": "の着物をわきにかかえて、またたく間に急な梯子を夜の底へかけ下りた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　しばらく、死んだように倒れていた老婆が、死骸の中から、その裸の体を起したのは、それから間もなくの事である。老婆はつぶやくような、うめくような声を立てながら、まだ燃えている火の光をたよりに、梯子の口まで、這って行った。そうして、そこから、短い白髪",
+            "ruby": "しらが"
+          },
+          {
+            "type": "ruby",
+            "base": "を倒",
+            "ruby": "さかさま"
+          },
+          {
+            "type": "ruby",
+            "base": "にして、門の下を覗きこんだ。外には、ただ、黒洞々",
+            "ruby": "こくとうとう"
+          },
+          {
+            "type": "text",
+            "content": "たる夜があるばかりである。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　下人の行方",
+            "ruby": "ゆくえ"
+          },
+          {
+            "type": "text",
+            "content": "は、誰も知らない。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "（大正四年九月）"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「芥川龍之介全集1」ちくま文庫、筑摩書房"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1986（昭和61）年9月24日第1刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1997（平成9）年4月15日第14刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本の親本：「筑摩全集類聚　芥川龍之介全集第一巻」筑摩書房"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1971（昭和46）年3月5日初版第1刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "初出：「帝国文学」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1915（大正4）年11月号"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "※底本の編者による脚注は省略しました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：平山誠、野口英司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：もりみつじゅんじ"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1997年10月29日公開"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2022年7月16日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [],
+  "quiz": {
+    "comprehension": [
+      {
+        "id": "comp_1",
+        "type": "multiple_choice",
+        "question": "この物語の主人公は誰ですか？",
+        "options": [
+          "数字",
+          "死骸",
+          "勇気",
+          "主人"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "explanation": "主人公は数字です。"
+      },
+      {
+        "id": "comp_2",
+        "type": "multiple_choice",
+        "question": "物語の冒頭で語られていることは何ですか？",
+        "options": [
+          "　下人は、守宮のように足音をぬすんで、やっと急な梯子を、一番...",
+          "主人公が旅に出る場面",
+          "事件が起きる場面",
+          "物語の結末"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2
+      },
+      {
+        "id": "comp_3",
+        "type": "multiple_choice",
+        "question": "この作品の主なテーマは何ですか？",
+        "options": [
+          "人間の本質",
+          "愛情",
+          "家族",
+          "自然"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "explanation": "この作品は「人間の本質」をテーマにしています。"
+      },
+      {
+        "id": "comp_4",
+        "type": "short_answer",
+        "question": "この物語から学べることは何だと思いますか？",
+        "sampleAnswer": "極限状況での人間性",
+        "difficulty": 4,
+        "rubric": [
+          "テーマとの関連性",
+          "自分の考えの表現",
+          "具体例の使用"
+        ]
+      },
+      {
+        "id": "comp_5",
+        "type": "true_false",
+        "question": "物語の中で「【テキスト中に現れる記号について】...」という場面があります。",
+        "correctAnswer": true,
+        "difficulty": 2
+      }
+    ],
+    "vocabulary": [],
+    "kanji": [
+      {
+        "id": "kanji_1",
+        "type": "input",
+        "question": "「例」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "げにん",
+        "acceptableAnswers": [
+          "げにん",
+          "にぬり"
+        ],
+        "difficulty": 1,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_2",
+        "type": "input",
+        "question": "「下」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "げにん",
+        "acceptableAnswers": [
+          "げにん",
+          "にぬり",
+          "あお",
+          "すいび",
+          "さる",
+          "あす",
+          "うえじに",
+          "ていかい",
+          "ぬすびと",
+          "くさめ",
+          "くび",
+          "ひじりづか",
+          "くく",
+          "やもり",
+          "うずくま",
+          "ざんじ",
+          "ごへい",
+          "きぎれ",
+          "いしゆみ",
+          "ふさ",
+          "ね",
+          "さや",
+          "あと",
+          "なわ",
+          "まぶた",
+          "ぶべつ",
+          "あざけ",
+          "ひわだいろ",
+          "こくとうとう",
+          "ゆくえ"
+        ],
+        "difficulty": 1,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_3",
+        "type": "input",
+        "question": "「人」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "げにん",
+        "acceptableAnswers": [
+          "げにん",
+          "ぬすびと",
+          "ついば",
+          "あお",
+          "すいび",
+          "さる",
+          "あす",
+          "ていかい",
+          "くさめ",
+          "くび",
+          "おそれ",
+          "ひじりづか",
+          "ようす",
+          "くく",
+          "やもり",
+          "こ",
+          "あ",
+          "うずくま",
+          "ひわだいろ",
+          "ざんじ",
+          "ごへい",
+          "うえじに",
+          "きぎれ",
+          "いしゆみ",
+          "ふさ",
+          "ね",
+          "さや",
+          "あと",
+          "なわ",
+          "まぶた",
+          "ぶべつ",
+          "しびと",
+          "しすん",
+          "あざけ",
+          "ゆくえ"
+        ],
+        "difficulty": 1,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_4",
+        "type": "input",
+        "question": "「所」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "にぬり",
+        "acceptableAnswers": [
+          "にぬり",
+          "ふん",
+          "すいび",
+          "さる",
+          "ほうちゃく",
+          "はしご"
+        ],
+        "difficulty": 3,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_5",
+        "type": "input",
+        "question": "「丹」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "にぬり",
+        "acceptableAnswers": [
+          "にぬり",
+          "に",
+          "はしご"
+        ],
+        "difficulty": 1,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_6",
+        "type": "input",
+        "question": "「塗」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "にぬり",
+        "acceptableAnswers": [
+          "にぬり",
+          "はしご"
+        ],
+        "difficulty": 2,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_7",
+        "type": "input",
+        "question": "「日」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "げにん",
+        "acceptableAnswers": [
+          "げにん",
+          "こくげん",
+          "すいび",
+          "さる",
+          "あす"
+        ],
+        "difficulty": 3,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_8",
+        "type": "input",
+        "question": "「暮」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "げにん",
+        "acceptableAnswers": [
+          "げにん"
+        ],
+        "difficulty": 3,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_9",
+        "type": "input",
+        "question": "「方」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "げにん",
+        "acceptableAnswers": [
+          "げにん",
+          "に",
+          "さる",
+          "なわ",
+          "ひき",
+          "ゆくえ"
+        ],
+        "difficulty": 3,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_10",
+        "type": "input",
+        "question": "「事」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "げにん",
+        "acceptableAnswers": [
+          "げにん",
+          "わざわい",
+          "こり",
+          "いとま",
+          "ぬすびと",
+          "こ",
+          "きぎれ",
+          "あと",
+          "しすん",
+          "さいりよう",
+          "しらが"
+        ],
+        "difficulty": 1,
+        "hint": "3文字のひらがなです。"
+      }
+    ]
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  },
+  "kanjiList": [
+    {
+      "character": "例",
+      "readings": [
+        "げにん",
+        "にぬり"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "下",
+      "readings": [
+        "げにん",
+        "にぬり",
+        "あお",
+        "すいび",
+        "さる",
+        "あす",
+        "うえじに",
+        "ていかい",
+        "ぬすびと",
+        "くさめ",
+        "くび",
+        "ひじりづか",
+        "くく",
+        "やもり",
+        "うずくま",
+        "ざんじ",
+        "ごへい",
+        "きぎれ",
+        "いしゆみ",
+        "ふさ",
+        "ね",
+        "さや",
+        "あと",
+        "なわ",
+        "まぶた",
+        "ぶべつ",
+        "あざけ",
+        "ひわだいろ",
+        "こくとうとう",
+        "ゆくえ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "人",
+      "readings": [
+        "げにん",
+        "ぬすびと",
+        "ついば",
+        "あお",
+        "すいび",
+        "さる",
+        "あす",
+        "ていかい",
+        "くさめ",
+        "くび",
+        "おそれ",
+        "ひじりづか",
+        "ようす",
+        "くく",
+        "やもり",
+        "こ",
+        "あ",
+        "うずくま",
+        "ひわだいろ",
+        "ざんじ",
+        "ごへい",
+        "うえじに",
+        "きぎれ",
+        "いしゆみ",
+        "ふさ",
+        "ね",
+        "さや",
+        "あと",
+        "なわ",
+        "まぶた",
+        "ぶべつ",
+        "しびと",
+        "しすん",
+        "あざけ",
+        "ゆくえ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "丹",
+      "readings": [
+        "にぬり",
+        "に",
+        "はしご"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "事",
+      "readings": [
+        "げにん",
+        "わざわい",
+        "こり",
+        "いとま",
+        "ぬすびと",
+        "こ",
+        "きぎれ",
+        "あと",
+        "しすん",
+        "さいりよう",
+        "しらが"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "一",
+      "readings": [
+        "げにん",
+        "すざくおおじ",
+        "に",
+        "ふん",
+        "あお",
+        "すいび",
+        "はしご",
+        "ようす",
+        "たいら",
+        "おし",
+        "ごへい",
+        "うえじに",
+        "いしゆみ",
+        "まぶた",
+        "のどぼとけ",
+        "けしき",
+        "にきび"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "以",
+      "readings": [
+        "いちめがさ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "上",
+      "readings": [
+        "いちめがさ",
+        "ごま",
+        "ついば",
+        "ふん",
+        "あお",
+        "さる",
+        "あす",
+        "いらか",
+        "うえじに",
+        "ていかい",
+        "ひおけ",
+        "はしご",
+        "ひじりづか",
+        "ようす",
+        "うみ",
+        "くく",
+        "くも",
+        "たいら",
+        "おし",
+        "えりがみ",
+        "ひわだいろ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "何",
+      "readings": [
+        "つじかぜ",
+        "しび",
+        "あす",
+        "ていかい",
+        "ようす",
+        "きぎれ",
+        "のどぼとけ",
+        "しすん"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "云",
+      "readings": [
+        "つじかぜ",
+        "わざわい",
+        "こり",
+        "すいび",
+        "さる",
+        "いらか",
+        "こ",
+        "ごへい",
+        "きぎれ",
+        "あと",
+        "しすん",
+        "たてわき",
+        "さいりよう"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "二",
+      "readings": [
+        "つじかぜ",
+        "くも",
+        "ね"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "三",
+      "readings": [
+        "つじかぜ",
+        "くも"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "京",
+      "readings": [
+        "つじかぜ",
+        "すいび",
+        "ひおけ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "中",
+      "readings": [
+        "らくちゅう",
+        "こり",
+        "ようす",
+        "うみ",
+        "こ",
+        "うずくま",
+        "ね",
+        "けしき",
+        "しらが"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "仏",
+      "readings": [
+        "に",
+        "のどぼとけ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "修",
+      "readings": [
+        "こり"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "代",
+      "readings": [
+        "からす"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "今",
+      "readings": [
+        "こくげん",
+        "さる",
+        "しらみ",
+        "あと",
+        "なわ",
+        "しすん",
+        "さいりよう"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "七",
+      "readings": [
+        "あお"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "作",
+      "readings": [
+        "すいび",
+        "こ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "主",
+      "readings": [
+        "すいび",
+        "さる"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "五",
+      "readings": [
+        "すいび",
+        "ひわだいろ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "使",
+      "readings": [
+        "さる",
+        "けびいし"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "余",
+      "readings": [
+        "さる"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "低",
+      "readings": [
+        "いらか",
+        "ていかい",
+        "おし",
+        "や"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "体",
+      "readings": [
+        "たいら",
+        "しらが"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "久",
+      "readings": [
+        "おし"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "両",
+      "readings": [
+        "しらみ",
+        "ひじりづか",
+        "めだま"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "丁",
+      "readings": [
+        "しらみ",
+        "にわとり"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "侮",
+      "readings": [
+        "ぶべつ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "不",
+      "readings": [
+        "にきび"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "塗",
+      "readings": [
+        "にぬり",
+        "はしご"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "広",
+      "readings": [
+        "にぬり",
+        "はしご",
+        "ようす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "剥",
+      "readings": [
+        "は",
+        "ひはぎ",
+        "ひわだいろ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "大",
+      "readings": [
+        "まるばしら",
+        "すざくおおじ",
+        "にきび",
+        "くさめ",
+        "たいぎ",
+        "まぶた"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "円",
+      "readings": [
+        "まるばしら"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "匹",
+      "readings": [
+        "すざくおおじ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "市",
+      "readings": [
+        "いちめがさ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "女",
+      "readings": [
+        "いちめがさ",
+        "こ",
+        "しすん",
+        "さいりよう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "帽",
+      "readings": [
+        "もみえぼし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "子",
+      "readings": [
+        "もみえぼし",
+        "はしご",
+        "ようす",
+        "くも",
+        "たいら",
+        "しらみ",
+        "ひじりづか",
+        "ひわだいろ",
+        "しらが"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "年",
+      "readings": [
+        "つじかぜ",
+        "さる"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "地",
+      "readings": [
+        "つじかぜ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "像",
+      "readings": [
+        "に"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "具",
+      "readings": [
+        "に"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "売",
+      "readings": [
+        "こり",
+        "い",
+        "さいりよう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "始",
+      "readings": [
+        "こり",
+        "くく",
+        "あと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "元",
+      "readings": [
+        "こり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "尾",
+      "readings": [
+        "しび"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "啼",
+      "readings": [
+        "ごま",
+        "あえ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "夕",
+      "readings": [
+        "ごま",
+        "いらか",
+        "ひおけ",
+        "にぬり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "勿",
+      "readings": [
+        "ついば",
+        "すいび",
+        "こ",
+        "にきび"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "啄",
+      "readings": [
+        "ついば"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "刻",
+      "readings": [
+        "こくげん",
+        "こく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "崩",
+      "readings": [
+        "ふん"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "尻",
+      "readings": [
+        "にきび"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "右",
+      "readings": [
+        "にきび",
+        "うみ",
+        "きぎれ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "出",
+      "readings": [
+        "にきび",
+        "すいび",
+        "さる",
+        "あす",
+        "いらか",
+        "ようす",
+        "たいら",
+        "のぞ",
+        "きぎれ",
+        "しゅうね"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "待",
+      "readings": [
+        "すいび",
+        "さる"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "別",
+      "readings": [
+        "すいび"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "当",
+      "readings": [
+        "すいび",
+        "さる",
+        "あす",
+        "ぬすびと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "家",
+      "readings": [
+        "すいび"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "帰",
+      "readings": [
+        "すいび"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "可",
+      "readings": [
+        "すいび",
+        "ぬすびと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "四",
+      "readings": [
+        "すいび",
+        "ざんじ",
+        "しすん"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "前",
+      "readings": [
+        "すいび",
+        "のぞ",
+        "めだま",
+        "なわ",
+        "ぶべつ",
+        "にきび"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "微",
+      "readings": [
+        "すいび",
+        "さる"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "実",
+      "readings": [
+        "さる",
+        "こ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "小",
+      "readings": [
+        "さる"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "少",
+      "readings": [
+        "さる",
+        "ごへい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "平",
+      "readings": [
+        "さる",
+        "たいら",
+        "ぶべつ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "安",
+      "readings": [
+        "さる"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "影",
+      "readings": [
+        "さる",
+        "おし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "差",
+      "readings": [
+        "あす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "屋",
+      "readings": [
+        "いらか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "土",
+      "readings": [
+        "ついじ",
+        "うえじに",
+        "こ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "度",
+      "readings": [
+        "ていかい",
+        "しらみ",
+        "にわとり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "同",
+      "readings": [
+        "ていかい",
+        "ごへい",
+        "ぶべつ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "徊",
+      "readings": [
+        "ていかい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "句",
+      "readings": [
+        "あげく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "局",
+      "readings": [
+        "ほうちゃく",
+        "ぬすびと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "定",
+      "readings": [
+        "ぬすびと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "後",
+      "readings": [
+        "ぬすびと",
+        "ようす",
+        "あと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "嚔",
+      "readings": [
+        "くさめ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "儀",
+      "readings": [
+        "たいぎ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "冷",
+      "readings": [
+        "ひおけ",
+        "あと",
+        "ぶべつ",
+        "にきび"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "寒",
+      "readings": [
+        "にぬり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "共",
+      "readings": [
+        "にぬり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "吹",
+      "readings": [
+        "にぬり",
+        "やまぶき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "山",
+      "readings": [
+        "やまぶき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "夜",
+      "readings": [
+        "はしご"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "幸",
+      "readings": [
+        "はしご"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "幅",
+      "readings": [
+        "はしご",
+        "ようす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "太",
+      "readings": [
+        "たち",
+        "しらみ",
+        "さや",
+        "たてわき",
+        "さいりよう",
+        "つか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "刀",
+      "readings": [
+        "たち",
+        "さや",
+        "たてわき",
+        "さいりよう",
+        "つか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "履",
+      "readings": [
+        "わらぞうり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "分",
+      "readings": [
+        "ようす",
+        "おし",
+        "ざんじ",
+        "うえじに",
+        "あと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "容",
+      "readings": [
+        "ようす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "光",
+      "readings": [
+        "うみ",
+        "くも",
+        "こ",
+        "おし",
+        "しらが"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "動",
+      "readings": [
+        "くも",
+        "ざんじ",
+        "ごへい",
+        "のどぼとけ",
+        "からす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    }
+  ]
+}

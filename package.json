@@ -1,0 +1,27 @@
+{
+  "name": "japanese-literature-game",
+  "version": "1.0.0",
+  "description": "日本名作文学読解ゲームアプリケーション",
+  "main": "app-v2.js",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "node build-config.js",
+    "build:prod": "NODE_ENV=production node build-config.js",
+    "test": "node test-runner.js",
+    "clean": "rm -rf dist",
+    "serve:dist": "cd dist && python -m http.server 8001",
+    "cleanup": "node code-cleanup.js",
+    "cleanup:report": "node code-cleanup.js > cleanup-report.txt"
+  },
+  "keywords": [
+    "japanese",
+    "literature",
+    "game",
+    "education",
+    "reading"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}

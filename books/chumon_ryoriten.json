@@ -1,0 +1,3575 @@
+{
+  "id": "注文の多い料理店",
+  "title": "注文の多い料理店",
+  "titleKana": "",
+  "author": {
+    "name": "宮沢賢治",
+    "nameKana": "みやざわけんじ",
+    "birthYear": 1896,
+    "deathYear": 1933
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 5,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 5,
+      "vocabulary": 3,
+      "grammar": 2,
+      "sentenceLength": 27
+    },
+    "themes": [
+      "自然",
+      "宗教",
+      "自己犠牲",
+      "自然への畏敬",
+      "人間の傲慢",
+      "教訓"
+    ],
+    "totalCharacters": 5713,
+    "estimatedReadingTime": 15,
+    "genres": [
+      "童話",
+      "詩",
+      "ファンタジー"
+    ],
+    "publishedYear": 1924,
+    "jlptLevel": "N3",
+    "teachingPoints": [
+      "自然との共生",
+      "謙虚さの大切さ"
+    ],
+    "statistics": {
+      "totalCharacters": 5713,
+      "totalKanji": 986,
+      "uniqueKanji": 332,
+      "kanjiRatio": "17.3%",
+      "sentenceCount": 211,
+      "averageSentenceLength": 27
+    },
+    "learningObjectives": [
+      "漢字の読み方を学ぶ",
+      "作品のテーマを理解する"
+    ],
+    "relatedWorks": [
+      {
+        "type": "same_author",
+        "reason": "同じ作者の作品",
+        "works": [
+          "銀河鉄道の夜",
+          "セロ弾きのゴーシュ",
+          "風の又三郎"
+        ]
+      },
+      {
+        "type": "similar_theme",
+        "reason": "似たテーマの作品",
+        "works": [
+          "注文の多い料理店",
+          "風の又三郎"
+        ]
+      },
+      {
+        "type": "similar_difficulty",
+        "reason": "同じレベルの作品",
+        "works": [
+          "注文の多い料理店",
+          "走れメロス"
+        ]
+      }
+    ]
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　二人の若い紳士",
+            "ruby": "しんし"
+          },
+          {
+            "type": "ruby",
+            "base": "が、すっかりイギリスの兵隊のかたちをして、ぴかぴかする鉄砲",
+            "ruby": "てっぽう"
+          },
+          {
+            "type": "ruby",
+            "base": "をかついで、白熊",
+            "ruby": "しろくま"
+          },
+          {
+            "type": "ruby",
+            "base": "のような犬を二疋",
+            "ruby": "ひき"
+          },
+          {
+            "type": "ruby",
+            "base": "つれて、だいぶ山奥",
+            "ruby": "やまおく"
+          },
+          {
+            "type": "ruby",
+            "base": "の、木の葉のかさかさしたとこを、こんなことを云",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いながら、あるいておりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ぜんたい、ここらの山は怪",
+            "ruby": "け"
+          },
+          {
+            "type": "ruby",
+            "base": "しからんね。鳥も獣",
+            "ruby": "けもの"
+          },
+          {
+            "type": "text",
+            "content": "も一疋も居やがらん。なんでも構わないから、早くタンタアーンと、やって見たいもんだなあ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「鹿",
+            "ruby": "しか"
+          },
+          {
+            "type": "ruby",
+            "base": "の黄いろな横っ腹なんぞに、二三発お見舞",
+            "ruby": "みまい"
+          },
+          {
+            "type": "ruby",
+            "base": "もうしたら、ずいぶん痛快だろうねえ。くるくるまわって、それからどたっと倒",
+            "ruby": "たお"
+          },
+          {
+            "type": "text",
+            "content": "れるだろうねえ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　それはだいぶの山奥でした。案内してきた専門の鉄砲打ちも、ちょっとまごついて、どこかへ行ってしまったくらいの山奥でした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それに、あんまり山が物凄",
+            "ruby": "ものすご"
+          },
+          {
+            "type": "ruby",
+            "base": "いので、その白熊のような犬が、二疋いっしょにめまいを起こして、しばらく吠",
+            "ruby": "うな"
+          },
+          {
+            "type": "ruby",
+            "base": "って、それから泡",
+            "ruby": "あわ"
+          },
+          {
+            "type": "ruby",
+            "base": "を吐",
+            "ruby": "は"
+          },
+          {
+            "type": "text",
+            "content": "いて死んでしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「じつにぼくは、二千四百円の損害だ」と一人の紳士が、その犬の眼",
+            "ruby": "ま"
+          },
+          {
+            "type": "text",
+            "content": "ぶたを、ちょっとかえしてみて言いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ぼくは二千八百円の損害だ。」と、もひとりが、くやしそうに、あたまをまげて言いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　はじめの紳士は、すこし顔いろを悪くして、じっと、もひとりの紳士の、顔つきを見ながら云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ぼくはもう戻",
+            "ruby": "もど"
+          },
+          {
+            "type": "text",
+            "content": "ろうとおもう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「さあ、ぼくもちょうど寒くはなったし腹は空",
+            "ruby": "す"
+          },
+          {
+            "type": "text",
+            "content": "いてきたし戻ろうとおもう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「そいじゃ、これで切りあげよう。なあに戻りに、昨日",
+            "ruby": "きのう"
+          },
+          {
+            "type": "ruby",
+            "base": "の宿屋で、山鳥を拾円",
+            "ruby": "じゅうえん"
+          },
+          {
+            "type": "text",
+            "content": "も買って帰ればいい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「兎",
+            "ruby": "うさぎ"
+          },
+          {
+            "type": "text",
+            "content": "もでていたねえ。そうすれば結局おんなじこった。では帰ろうじゃないか」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ところがどうも困ったことは、どっちへ行けば戻れるのか、いっこうに見当がつかなくなっていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　風がどうと吹",
+            "ruby": "ふ"
+          },
+          {
+            "type": "text",
+            "content": "いてきて、草はざわざわ、木の葉はかさかさ、木はごとんごとんと鳴りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうも腹が空いた。さっきから横っ腹が痛くてたまらないんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ぼくもそうだ。もうあんまりあるきたくないな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「あるきたくないよ。ああ困ったなあ、何かたべたいなあ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「喰",
+            "ruby": "た"
+          },
+          {
+            "type": "text",
+            "content": "べたいもんだなあ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人の紳士は、ざわざわ鳴るすすきの中で、こんなことを云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　その時ふとうしろを見ますと、立派な一軒",
+            "ruby": "いっけん"
+          },
+          {
+            "type": "text",
+            "content": "の西洋造りの家がありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そして玄関",
+            "ruby": "げんかん"
+          },
+          {
+            "type": "text",
+            "content": "には"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "RESTAURANT"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "西洋料理店"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "WILDCAT HOUSE"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "山猫軒"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "という札がでていました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「君、ちょうどいい。ここはこれでなかなか開けてるんだ。入ろうじゃないか」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おや、こんなとこにおかしいね。しかしとにかく何か食事ができるんだろう」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「もちろんできるさ。看板にそう書いてあるじゃないか」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「はいろうじゃないか。ぼくはもう何か喰べたくて倒れそうなんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　二人は玄関に立ちました。玄関は白い瀬戸",
+            "ruby": "せと"
+          },
+          {
+            "type": "ruby",
+            "base": "の煉瓦",
+            "ruby": "れんが"
+          },
+          {
+            "type": "text",
+            "content": "で組んで、実に立派なもんです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そして硝子",
+            "ruby": "がらす"
+          },
+          {
+            "type": "text",
+            "content": "の開き戸がたって、そこに金文字でこう書いてありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どなたもどうかお入りください。決してご遠慮",
+            "ruby": "えんりょ"
+          },
+          {
+            "type": "text",
+            "content": "はありません」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人はそこで、ひどくよろこんで言いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「こいつはどうだ、やっぱり世の中はうまくできてるねえ、きょう一日なんぎしたけれど、こんどはこんないいこともある。このうちは料理店だけれどもただでご馳走",
+            "ruby": "ちそう"
+          },
+          {
+            "type": "text",
+            "content": "するんだぜ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうもそうらしい。決してご遠慮はありませんというのはその意味だ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　二人は戸を押",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "して、なかへ入りました。そこはすぐ廊下",
+            "ruby": "ろうか"
+          },
+          {
+            "type": "text",
+            "content": "になっていました。その硝子戸の裏側には、金文字でこうなっていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ことに肥",
+            "ruby": "ふと"
+          },
+          {
+            "type": "ruby",
+            "base": "ったお方や若いお方は、大歓迎",
+            "ruby": "だいかんげい"
+          },
+          {
+            "type": "text",
+            "content": "いたします」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人は大歓迎というので、もう大よろこびです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「君、ぼくらは大歓迎にあたっているのだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ぼくらは両方兼ねてるから」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ずんずん廊下を進んで行きますと、こんどは水いろのペンキ塗",
+            "ruby": "ぬ"
+          },
+          {
+            "type": "ruby",
+            "base": "りの扉",
+            "ruby": "と"
+          },
+          {
+            "type": "text",
+            "content": "がありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どうも変な家",
+            "ruby": "うち"
+          },
+          {
+            "type": "text",
+            "content": "だ。どうしてこんなにたくさん戸があるのだろう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「これはロシア式だ。寒いとこや山の中はみんなこうさ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　そして二人はその扉をあけようとしますと、上に黄いろな字でこう書いてありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「当軒は注文の多い料理店ですからどうかそこはご承知ください」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なかなかはやってるんだ。こんな山の中で。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「それあそうだ。見たまえ、東京の大きな料理屋だって大通りにはすくないだろう」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人は云いながら、その扉をあけました。するとその裏側に、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「注文はずいぶん多いでしょうがどうか一々こらえて下さい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「これはぜんたいどういうんだ。」ひとりの紳士は顔をしかめました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「うん、これはきっと注文があまり多くて支度",
+            "ruby": "したく"
+          },
+          {
+            "type": "ruby",
+            "base": "が手間取るけれどもごめん下さいと斯",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "ういうことだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「そうだろう。早くどこか室",
+            "ruby": "へや"
+          },
+          {
+            "type": "text",
+            "content": "の中にはいりたいもんだな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「そしてテーブルに座",
+            "ruby": "すわ"
+          },
+          {
+            "type": "text",
+            "content": "りたいもんだな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ところがどうもうるさいことは、また扉が一つありました。そしてそのわきに鏡がかかって、その下には長い柄",
+            "ruby": "え"
+          },
+          {
+            "type": "text",
+            "content": "のついたブラシが置いてあったのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　扉には赤い字で、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「お客さまがた、ここで髪",
+            "ruby": "かみ"
+          },
+          {
+            "type": "text",
+            "content": "をきちんとして、それからはきもの"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　の泥",
+            "ruby": "どろ"
+          },
+          {
+            "type": "text",
+            "content": "を落してください。」"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "と書いてありました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「これはどうも尤",
+            "ruby": "もっと"
+          },
+          {
+            "type": "text",
+            "content": "もだ。僕もさっき玄関で、山のなかだとおもって見くびったんだよ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「作法の厳しい家だ。きっとよほど偉",
+            "ruby": "えら"
+          },
+          {
+            "type": "text",
+            "content": "い人たちが、たびたび来るんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そこで二人は、きれいに髪をけずって、靴",
+            "ruby": "くつ"
+          },
+          {
+            "type": "text",
+            "content": "の泥を落しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そしたら、どうです。ブラシを板の上に置くや否",
+            "ruby": "いな"
+          },
+          {
+            "type": "text",
+            "content": "や、そいつがぼうっとかすんで無くなって、風がどうっと室の中に入ってきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　二人はびっくりして、互",
+            "ruby": "たがい"
+          },
+          {
+            "type": "ruby",
+            "base": "によりそって、扉をがたんと開けて、次の室へ入って行きました。早く何か暖いものでもたべて、元気をつけて置かないと、もう途方",
+            "ruby": "とほう"
+          },
+          {
+            "type": "text",
+            "content": "もないことになってしまうと、二人とも思ったのでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　扉の内側に、また変なことが書いてありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「鉄砲と弾丸",
+            "ruby": "たま"
+          },
+          {
+            "type": "text",
+            "content": "をここへ置いてください。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　見るとすぐ横に黒い台がありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なるほど、鉄砲を持ってものを食うという法はない。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いや、よほど偉いひとが始終来ているんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人は鉄砲をはずし、帯皮を解いて、それを台の上に置きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　また黒い扉がありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どうか帽子",
+            "ruby": "ぼうし"
+          },
+          {
+            "type": "ruby",
+            "base": "と外套",
+            "ruby": "がいとう"
+          },
+          {
+            "type": "text",
+            "content": "と靴をおとり下さい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうだ、とるか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「仕方ない、とろう。たしかによっぽどえらいひとなんだ。奥に来ているのは」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　二人は帽子とオーバーコートを釘",
+            "ruby": "くぎ"
+          },
+          {
+            "type": "text",
+            "content": "にかけ、靴をぬいでぺたぺたあるいて扉の中にはいりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　扉の裏側には、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ネクタイピン、カフスボタン、眼鏡",
+            "ruby": "めがね"
+          },
+          {
+            "type": "ruby",
+            "base": "、財布",
+            "ruby": "さいふ"
+          },
+          {
+            "type": "text",
+            "content": "、その他金物類、"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ことに尖",
+            "ruby": "とが"
+          },
+          {
+            "type": "text",
+            "content": "ったものは、みんなここに置いてください」"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "と書いてありました。扉のすぐ横には黒塗りの立派な金庫も、ちゃんと口を開けて置いてありました。鍵",
+            "ruby": "かぎ"
+          },
+          {
+            "type": "ruby",
+            "base": "まで添",
+            "ruby": "そ"
+          },
+          {
+            "type": "text",
+            "content": "えてあったのです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ははあ、何かの料理に電気をつかうと見えるね。金気",
+            "ruby": "かなけ"
+          },
+          {
+            "type": "ruby",
+            "base": "のものはあぶない。ことに尖ったものはあぶないと斯",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "う云うんだろう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「そうだろう。して見ると勘定",
+            "ruby": "かんじょう"
+          },
+          {
+            "type": "ruby",
+            "base": "は帰りにここで払",
+            "ruby": "はら"
+          },
+          {
+            "type": "text",
+            "content": "うのだろうか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうもそうらしい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そうだ。きっと。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　二人はめがねをはずしたり、カフスボタンをとったり、みんな金庫のなかに入れて、ぱちんと錠",
+            "ruby": "じょう"
+          },
+          {
+            "type": "text",
+            "content": "をかけました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　すこし行きますとまた扉",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "があって、その前に硝子",
+            "ruby": "がらす"
+          },
+          {
+            "type": "ruby",
+            "base": "の壺",
+            "ruby": "つぼ"
+          },
+          {
+            "type": "ruby",
+            "base": "が一つありました。扉には斯",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "う書いてありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「壺のなかのクリームを顔や手足にすっかり塗ってください。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　みるとたしかに壺のなかのものは牛乳のクリームでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「クリームをぬれというのはどういうんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「これはね、外がひじょうに寒いだろう。室",
+            "ruby": "へや"
+          },
+          {
+            "type": "text",
+            "content": "のなかがあんまり暖いとひびがきれるから、その予防なんだ。どうも奥には、よほどえらいひとがきている。こんなとこで、案外ぼくらは、貴族とちかづきになるかも知れないよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人は壺のクリームを、顔に塗って手に塗ってそれから靴下をぬいで足に塗りました。それでもまだ残っていましたから、それは二人ともめいめいこっそり顔へ塗るふりをしながら喰べました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　それから大急ぎで扉をあけますと、その裏側には、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「クリームをよく塗りましたか、耳にもよく塗りましたか、」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "と書いてあって、ちいさなクリームの壺がここにも置いてありました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「そうそう、ぼくは耳には塗らなかった。あぶなく耳にひびを切らすとこだった。ここの主人はじつに用意周到",
+            "ruby": "しゅうとう"
+          },
+          {
+            "type": "text",
+            "content": "だね。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああ、細かいとこまでよく気がつくよ。ところでぼくは早く何か喰べたいんだが、どうも斯うどこまでも廊下じゃ仕方ないね。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　するとすぐその前に次の戸がありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「料理はもうすぐできます。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　十五分とお待たせはいたしません。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　すぐたべられます。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　早くあなたの頭に瓶",
+            "ruby": "びん"
+          },
+          {
+            "type": "ruby",
+            "base": "の中の香水をよく振",
+            "ruby": "ふ"
+          },
+          {
+            "type": "text",
+            "content": "りかけてください。」"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　そして戸の前には金ピカの香水の瓶が置いてありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人はその香水を、頭へぱちゃぱちゃ振りかけました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ところがその香水は、どうも酢",
+            "ruby": "す"
+          },
+          {
+            "type": "ruby",
+            "base": "のような匂",
+            "ruby": "におい"
+          },
+          {
+            "type": "text",
+            "content": "がするのでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「この香水はへんに酢くさい。どうしたんだろう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「まちがえたんだ。下女が風邪",
+            "ruby": "かぜ"
+          },
+          {
+            "type": "text",
+            "content": "でも引いてまちがえて入れたんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人は扉をあけて中にはいりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　扉の裏側には、大きな字で斯う書いてありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いろいろ注文が多くてうるさかったでしょう。お気の毒でした。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　もうこれだけです。どうかからだ中に、壺の中の塩をたくさん"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　よくもみ込んでください。」"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　なるほど立派な青い瀬戸の塩壺は置いてありましたが、こんどというこんどは二人ともぎょっとしてお互にクリームをたくさん塗った顔を見合せました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうもおかしいぜ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ぼくもおかしいとおもう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「沢山",
+            "ruby": "たくさん"
+          },
+          {
+            "type": "text",
+            "content": "の注文というのは、向うがこっちへ注文してるんだよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「だからさ、西洋料理店というのは、ぼくの考えるところでは、西洋料理を、来た人にたべさせるのではなくて、来た人を西洋料理にして、食べてやる家",
+            "ruby": "うち"
+          },
+          {
+            "type": "text",
+            "content": "とこういうことなんだ。これは、その、つ、つ、つ、つまり、ぼ、ぼ、ぼくらが……。」がたがたがたがた、ふるえだしてもうものが言えませんでした。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「その、ぼ、ぼくらが、……うわあ。」がたがたがたがたふるえだして、もうものが言えませんでした。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「遁",
+            "ruby": "に"
+          },
+          {
+            "type": "ruby",
+            "base": "げ……。」がたがたしながら一人の紳士はうしろの戸を押",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "そうとしましたが、どうです、戸はもう一分",
+            "ruby": "いちぶ"
+          },
+          {
+            "type": "text",
+            "content": "も動きませんでした。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　奥の方にはまだ一枚扉があって、大きなかぎ穴が二つつき、銀いろのホークとナイフの形が切りだしてあって、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いや、わざわざご苦労です。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　大へん結構にできました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　さあさあおなかにおはいりください。」"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "と書いてありました。おまけにかぎ穴からはきょろきょろ二つの青い眼玉",
+            "ruby": "めだま"
+          },
+          {
+            "type": "text",
+            "content": "がこっちをのぞいています。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「うわあ。」がたがたがたがた。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「うわあ。」がたがたがたがた。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ふたりは泣き出しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　すると戸の中では、こそこそこんなことを云っています。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「だめだよ。もう気がついたよ。塩をもみこまないようだよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「あたりまえさ。親分の書きようがまずいんだ。あすこへ、いろいろ注文が多くてうるさかったでしょう、お気の毒でしたなんて、間抜",
+            "ruby": "まぬ"
+          },
+          {
+            "type": "text",
+            "content": "けたことを書いたもんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どっちでもいいよ。どうせぼくらには、骨も分けて呉",
+            "ruby": "く"
+          },
+          {
+            "type": "text",
+            "content": "れやしないんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「それはそうだ。けれどももしここへあいつらがはいって来なかったら、それはぼくらの責任だぜ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「呼ぼうか、呼ぼう。おい、お客さん方、早くいらっしゃい。いらっしゃい。いらっしゃい。お皿",
+            "ruby": "さら"
+          },
+          {
+            "type": "text",
+            "content": "も洗ってありますし、菜っ葉ももうよく塩でもんで置きました。あとはあなたがたと、菜っ葉をうまくとりあわせて、まっ白なお皿にのせるだけです。はやくいらっしゃい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「へい、いらっしゃい、いらっしゃい。それともサラドはお嫌",
+            "ruby": "きら"
+          },
+          {
+            "type": "text",
+            "content": "いですか。そんならこれから火を起してフライにしてあげましょうか。とにかくはやくいらっしゃい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　二人はあんまり心を痛めたために、顔がまるでくしゃくしゃの紙屑",
+            "ruby": "かみくず"
+          },
+          {
+            "type": "text",
+            "content": "のようになり、お互にその顔を見合せ、ぶるぶるふるえ、声もなく泣きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　中ではふっふっとわらってまた叫",
+            "ruby": "さけ"
+          },
+          {
+            "type": "text",
+            "content": "んでいます。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いらっしゃい、いらっしゃい。そんなに泣いては折角",
+            "ruby": "せっかく"
+          },
+          {
+            "type": "text",
+            "content": "のクリームが流れるじゃありませんか。へい、ただいま。じきもってまいります。さあ、早くいらっしゃい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「早くいらっしゃい。親方がもうナフキンをかけて、ナイフをもって、舌なめずりして、お客さま方を待っていられます。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人は泣いて泣いて泣いて泣いて泣きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　そのときうしろからいきなり、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「わん、わん、ぐゎあ。」という声がして、あの白熊",
+            "ruby": "しろくま"
+          },
+          {
+            "type": "ruby",
+            "base": "のような犬が二疋",
+            "ruby": "ひき"
+          },
+          {
+            "type": "ruby",
+            "base": "、扉",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "をつきやぶって室",
+            "ruby": "へや"
+          },
+          {
+            "type": "ruby",
+            "base": "の中に飛び込んできました。鍵穴",
+            "ruby": "かぎあな"
+          },
+          {
+            "type": "ruby",
+            "base": "の眼玉はたちまちなくなり、犬どもはううとうなってしばらく室の中をくるくる廻",
+            "ruby": "まわ"
+          },
+          {
+            "type": "text",
+            "content": "っていましたが、また一声"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「わん。」と高く吠",
+            "ruby": "ほ"
+          },
+          {
+            "type": "text",
+            "content": "えて、いきなり次の扉に飛びつきました。戸はがたりとひらき、犬どもは吸い込まれるように飛んで行きました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　その扉の向うのまっくらやみのなかで、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「にゃあお、くゎあ、ごろごろ。」という声がして、それからがさがさ鳴りました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　室はけむりのように消え、二人は寒さにぶるぶるふるえて、草の中に立っていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　見ると、上着や靴",
+            "ruby": "くつ"
+          },
+          {
+            "type": "ruby",
+            "base": "や財布",
+            "ruby": "さいふ"
+          },
+          {
+            "type": "ruby",
+            "base": "やネクタイピンは、あっちの枝",
+            "ruby": "えだ"
+          },
+          {
+            "type": "ruby",
+            "base": "にぶらさがったり、こっちの根もとにちらばったりしています。風がどうと吹",
+            "ruby": "ふ"
+          },
+          {
+            "type": "text",
+            "content": "いてきて、草はざわざわ、木の葉はかさかさ、木はごとんごとんと鳴りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　犬がふうとうなって戻",
+            "ruby": "もど"
+          },
+          {
+            "type": "text",
+            "content": "ってきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　そしてうしろからは、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「旦那",
+            "ruby": "だんな"
+          },
+          {
+            "type": "text",
+            "content": "あ、旦那あ、」と叫ぶものがあります。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　二人は俄",
+            "ruby": "にわ"
+          },
+          {
+            "type": "text",
+            "content": "かに元気がついて"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おおい、おおい、ここだぞ、早く来い。」と叫びました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　簔帽子",
+            "ruby": "みのぼうし"
+          },
+          {
+            "type": "ruby",
+            "base": "をかぶった専門の猟師",
+            "ruby": "りょうし"
+          },
+          {
+            "type": "text",
+            "content": "が、草をざわざわ分けてやってきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　そこで二人はやっと安心しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そして猟師のもってきた団子",
+            "ruby": "だんご"
+          },
+          {
+            "type": "ruby",
+            "base": "をたべ、途中",
+            "ruby": "とちゅう"
+          },
+          {
+            "type": "text",
+            "content": "で十円だけ山鳥を買って東京に帰りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　しかし、さっき一ぺん紙くずのようになった二人の顔だけは、東京に帰っても、お湯にはいっても、もうもとのとおりになおりませんでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「注文の多い料理店」新潮文庫、新潮社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1990（平成2）年5月25日発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1997（平成9）年5月10日17刷"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "初出：「イーハトヴ童話　注文の多い料理店」盛岡市杜陵出版部・東京光原社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1924（大正13）年12月1日"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：土屋隆"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：noriko saito"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2005年1月26日作成"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [],
+  "quiz": {
+    "comprehension": [
+      {
+        "id": "comp_1",
+        "type": "multiple_choice",
+        "question": "この物語の主人公は誰ですか？",
+        "options": [
+          "二人",
+          "昨日",
+          "注文",
+          "料理"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "explanation": "主人公は二人です。"
+      },
+      {
+        "id": "comp_2",
+        "type": "multiple_choice",
+        "question": "物語の冒頭で語られていることは何ですか？",
+        "options": [
+          "「鹿の黄いろな横っ腹なんぞに、二三発お見舞もうしたら、ずいぶ...",
+          "主人公が旅に出る場面",
+          "事件が起きる場面",
+          "物語の結末"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2
+      },
+      {
+        "id": "comp_3",
+        "type": "multiple_choice",
+        "question": "この作品の主なテーマは何ですか？",
+        "options": [
+          "自然",
+          "平和",
+          "愛情",
+          "冒険"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "explanation": "この作品は「自然」をテーマにしています。"
+      },
+      {
+        "id": "comp_4",
+        "type": "short_answer",
+        "question": "この物語から学べることは何だと思いますか？",
+        "sampleAnswer": "自然との共生",
+        "difficulty": 4,
+        "rubric": [
+          "テーマとの関連性",
+          "自分の考えの表現",
+          "具体例の使用"
+        ]
+      },
+      {
+        "id": "comp_5",
+        "type": "true_false",
+        "question": "物語の中で「　二人はその香水を、頭へぱちゃぱちゃ振り...」という場面があります。",
+        "correctAnswer": true,
+        "difficulty": 2
+      }
+    ],
+    "vocabulary": [],
+    "kanji": [
+      {
+        "id": "kanji_1",
+        "type": "input",
+        "question": "「二」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "しんし",
+        "acceptableAnswers": [
+          "しんし",
+          "ひき",
+          "みまい",
+          "うな",
+          "ま",
+          "せと",
+          "お",
+          "くつ",
+          "たがい",
+          "くぎ",
+          "じょう",
+          "めだま",
+          "かみくず",
+          "にわ"
+        ],
+        "difficulty": 1,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_2",
+        "type": "input",
+        "question": "「人」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "しんし",
+        "acceptableAnswers": [
+          "しんし",
+          "ま",
+          "せと",
+          "お",
+          "くつ",
+          "たがい",
+          "くぎ",
+          "じょう",
+          "しゅうとう",
+          "うち",
+          "かみくず",
+          "にわ"
+        ],
+        "difficulty": 1,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_3",
+        "type": "input",
+        "question": "「若」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "しんし",
+        "acceptableAnswers": [
+          "しんし",
+          "だいかんげい"
+        ],
+        "difficulty": 5,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_4",
+        "type": "input",
+        "question": "「紳」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "しんし",
+        "acceptableAnswers": [
+          "しんし",
+          "ま",
+          "お"
+        ],
+        "difficulty": 4,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_5",
+        "type": "input",
+        "question": "「士」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "しんし",
+        "acceptableAnswers": [
+          "しんし",
+          "ま",
+          "お"
+        ],
+        "difficulty": 2,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_6",
+        "type": "input",
+        "question": "「兵」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "てっぽう",
+        "acceptableAnswers": [
+          "てっぽう"
+        ],
+        "difficulty": 2,
+        "hint": "4文字のひらがなです。"
+      },
+      {
+        "id": "kanji_7",
+        "type": "input",
+        "question": "「隊」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "てっぽう",
+        "acceptableAnswers": [
+          "てっぽう"
+        ],
+        "difficulty": 5,
+        "hint": "4文字のひらがなです。"
+      },
+      {
+        "id": "kanji_8",
+        "type": "input",
+        "question": "「鉄」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "てっぽう",
+        "acceptableAnswers": [
+          "てっぽう",
+          "たま"
+        ],
+        "difficulty": 5,
+        "hint": "4文字のひらがなです。"
+      },
+      {
+        "id": "kanji_9",
+        "type": "input",
+        "question": "「砲」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "てっぽう",
+        "acceptableAnswers": [
+          "てっぽう",
+          "たま"
+        ],
+        "difficulty": 4,
+        "hint": "4文字のひらがなです。"
+      },
+      {
+        "id": "kanji_10",
+        "type": "input",
+        "question": "「白」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "しろくま",
+        "acceptableAnswers": [
+          "しろくま",
+          "うな",
+          "せと"
+        ],
+        "difficulty": 4,
+        "hint": "4文字のひらがなです。"
+      }
+    ]
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  },
+  "kanjiList": [
+    {
+      "character": "二",
+      "readings": [
+        "しんし",
+        "ひき",
+        "みまい",
+        "うな",
+        "ま",
+        "せと",
+        "お",
+        "くつ",
+        "たがい",
+        "くぎ",
+        "じょう",
+        "めだま",
+        "かみくず",
+        "にわ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "人",
+      "readings": [
+        "しんし",
+        "ま",
+        "せと",
+        "お",
+        "くつ",
+        "たがい",
+        "くぎ",
+        "じょう",
+        "しゅうとう",
+        "うち",
+        "かみくず",
+        "にわ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "云",
+      "readings": [
+        "い"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "三",
+      "readings": [
+        "みまい"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "一",
+      "readings": [
+        "ま",
+        "いっけん",
+        "ちそう",
+        "え",
+        "こ",
+        "お",
+        "いちぶ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "世",
+      "readings": [
+        "ちそう"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "中",
+      "readings": [
+        "ちそう",
+        "ふ",
+        "さけ",
+        "かぎあな",
+        "まわ",
+        "とちゅう"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "下",
+      "readings": [
+        "ろうか",
+        "ぬ",
+        "こ",
+        "え",
+        "かぜ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "作",
+      "readings": [
+        "えら"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "上",
+      "readings": [
+        "いな",
+        "くつ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "互",
+      "readings": [
+        "たがい"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "何",
+      "readings": [
+        "とほう",
+        "かなけ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "丸",
+      "readings": [
+        "たま"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "主",
+      "readings": [
+        "しゅうとう"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "俄",
+      "readings": [
+        "にわ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "士",
+      "readings": [
+        "しんし",
+        "ま",
+        "お"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "兵",
+      "readings": [
+        "てっぽう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "山",
+      "readings": [
+        "やまおく",
+        "け",
+        "ものすご",
+        "じゅうえん",
+        "たくさん"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "奥",
+      "readings": [
+        "やまおく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "快",
+      "readings": [
+        "たお"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "倒",
+      "readings": [
+        "たお"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "凄",
+      "readings": [
+        "ものすご"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "吠",
+      "readings": [
+        "うな",
+        "ほ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "吐",
+      "readings": [
+        "は"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "千",
+      "readings": [
+        "ま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "四",
+      "readings": [
+        "ま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "円",
+      "readings": [
+        "ま",
+        "じゅうえん"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "害",
+      "readings": [
+        "ま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "寒",
+      "readings": [
+        "す",
+        "へや"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "切",
+      "readings": [
+        "きのう",
+        "しゅうとう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "宿",
+      "readings": [
+        "じゅうえん"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "屋",
+      "readings": [
+        "じゅうえん"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "兎",
+      "readings": [
+        "うさぎ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "吹",
+      "readings": [
+        "ふ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "喰",
+      "readings": [
+        "た"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "子",
+      "readings": [
+        "がらす",
+        "ぼうし",
+        "くぎ",
+        "みのぼうし",
+        "だんご"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "入",
+      "readings": [
+        "えんりょ",
+        "ろうか",
+        "とほう",
+        "じょう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "店",
+      "readings": [
+        "ちそう",
+        "うち"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "廊",
+      "readings": [
+        "ろうか",
+        "ぬ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "大",
+      "readings": [
+        "だいかんげい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "塗",
+      "readings": [
+        "ぬ",
+        "かぎ",
+        "しゅうとう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "変",
+      "readings": [
+        "うち"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "家",
+      "readings": [
+        "うち",
+        "えら"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "多",
+      "readings": [
+        "したく",
+        "まぬ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "度",
+      "readings": [
+        "したく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "取",
+      "readings": [
+        "こ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "室",
+      "readings": [
+        "へや",
+        "とほう",
+        "まわ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "座",
+      "readings": [
+        "すわ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "客",
+      "readings": [
+        "かみ",
+        "さら"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "尤",
+      "readings": [
+        "もっと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "厳",
+      "readings": [
+        "えら"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "偉",
+      "readings": [
+        "えら"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "否",
+      "readings": [
+        "いな"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "元",
+      "readings": [
+        "とほう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "弾",
+      "readings": [
+        "たま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "帽",
+      "readings": [
+        "ぼうし",
+        "くぎ",
+        "みのぼうし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "外",
+      "readings": [
+        "がいとう",
+        "へや"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "套",
+      "readings": [
+        "がいとう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "布",
+      "readings": [
+        "さいふ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "尖",
+      "readings": [
+        "とが",
+        "こ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "庫",
+      "readings": [
+        "かぎ",
+        "じょう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "口",
+      "readings": [
+        "かぎ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "勘",
+      "readings": [
+        "かんじょう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "定",
+      "readings": [
+        "かんじょう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "帰",
+      "readings": [
+        "はら"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "前",
+      "readings": [
+        "がらす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "壺",
+      "readings": [
+        "つぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "周",
+      "readings": [
+        "しゅうとう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "到",
+      "readings": [
+        "しゅうとう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "匂",
+      "readings": [
+        "におい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "女",
+      "readings": [
+        "かぜ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "分",
+      "readings": [
+        "いちぶ",
+        "まぬ",
+        "く"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "呉",
+      "readings": [
+        "く"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "呼",
+      "readings": [
+        "さら"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "嫌",
+      "readings": [
+        "きら"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "心",
+      "readings": [
+        "かみくず"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "屑",
+      "readings": [
+        "かみくず"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "叫",
+      "readings": [
+        "さけ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "声",
+      "readings": [
+        "しろくま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "廻",
+      "readings": [
+        "まわ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "専",
+      "readings": [
+        "りょうし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "師",
+      "readings": [
+        "りょうし",
+        "だんご"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "団",
+      "readings": [
+        "だんご"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "木",
+      "readings": [
+        "い"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "怪",
+      "readings": [
+        "け"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "横",
+      "readings": [
+        "みまい",
+        "かぎ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "泡",
+      "readings": [
+        "あわ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "損",
+      "readings": [
+        "ま"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "戻",
+      "readings": [
+        "もど",
+        "きのう"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "昨",
+      "readings": [
+        "きのう"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "日",
+      "readings": [
+        "きのう",
+        "ちそう"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "拾",
+      "readings": [
+        "じゅうえん"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "時",
+      "readings": [
+        "いっけん"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "派",
+      "readings": [
+        "いっけん",
+        "かぎ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "戸",
+      "readings": [
+        "せと",
+        "お",
+        "いちぶ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "決",
+      "readings": [
+        "えんりょ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "慮",
+      "readings": [
+        "えんりょ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "料",
+      "readings": [
+        "ちそう",
+        "かなけ",
+        "うち"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "押",
+      "readings": [
+        "お"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "方",
+      "readings": [
+        "だいかんげい",
+        "とほう",
+        "さら"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    }
+  ]
+}

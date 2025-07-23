@@ -1,0 +1,2426 @@
+{
+  "id": "ごん狐",
+  "title": "ごん狐",
+  "titleKana": "",
+  "author": {
+    "name": "新美南吉",
+    "nameKana": "にいみなんきち",
+    "birthYear": 1913,
+    "deathYear": 1943
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 4,
+    "difficulty": {
+      "overall": 4,
+      "kanji": 5,
+      "vocabulary": 3,
+      "grammar": 3,
+      "sentenceLength": 32
+    },
+    "themes": [
+      "優しさ",
+      "悲しみ",
+      "動物",
+      "後悔",
+      "誤解",
+      "償い"
+    ],
+    "totalCharacters": 3926,
+    "estimatedReadingTime": 10,
+    "genres": [
+      "童話",
+      "児童文学"
+    ],
+    "publishedYear": 1932,
+    "jlptLevel": "N4",
+    "teachingPoints": [
+      "相手の気持ちを考える",
+      "コミュニケーションの大切さ"
+    ],
+    "statistics": {
+      "totalCharacters": 3926,
+      "totalKanji": 665,
+      "uniqueKanji": 218,
+      "kanjiRatio": "16.9%",
+      "sentenceCount": 121,
+      "averageSentenceLength": 32
+    },
+    "learningObjectives": [
+      "漢字の読み方を学ぶ",
+      "作品のテーマを理解する"
+    ],
+    "relatedWorks": [
+      {
+        "type": "same_author",
+        "reason": "同じ作者の作品",
+        "works": [
+          "手袋を買いに",
+          "おじいさんのランプ",
+          "花のき村と盗人たち"
+        ]
+      },
+      {
+        "type": "similar_theme",
+        "reason": "似たテーマの作品",
+        "works": [
+          "ごん狐",
+          "手袋を買いに"
+        ]
+      },
+      {
+        "type": "similar_difficulty",
+        "reason": "同じレベルの作品",
+        "works": [
+          "ごん狐",
+          "手袋を買いに",
+          "おむすびころりん"
+        ]
+      }
+    ]
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　一ばんしまいに、太いうなぎをつかみにかかりましたが、何しろぬるぬるとすべりぬけるので、手ではつかめません。ごんはじれったくなって、頭をびくの中につッこんで、うなぎの頭を口にくわえました。うなぎは、キュッと言ってごんの首へまきつきました。そのとたんに兵十が、向うから、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「うわアぬすと狐め」と、どなりたてました。ごんは、びっくりしてとびあがりました。うなぎをふりすててにげようとしましたが、うなぎは、ごんの首にまきついたままはなれません。ごんはそのまま横っとびにとび出して一しょうけんめいに、にげていきました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ほら穴の近くの、はんの木の下でふりかえって見ましたが、兵十は追っかけては来ませんでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ごんは、ほっとして、うなぎの頭をかみくだき、やっとはずして穴のそとの、草の葉の上にのせておきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "二"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　十日",
+            "ruby": "とおか"
+          },
+          {
+            "type": "ruby",
+            "base": "ほどたって、ごんが、弥助",
+            "ruby": "やすけ"
+          },
+          {
+            "type": "ruby",
+            "base": "というお百姓の家の裏を通りかかりますと、そこの、いちじくの木のかげで、弥助の家内",
+            "ruby": "かない"
+          },
+          {
+            "type": "ruby",
+            "base": "が、おはぐろをつけていました。鍛冶屋",
+            "ruby": "かじや"
+          },
+          {
+            "type": "ruby",
+            "base": "の新兵衛",
+            "ruby": "しんべえ"
+          },
+          {
+            "type": "text",
+            "content": "の家のうらを通ると、新兵衛の家内が髪をすいていました。ごんは、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ふふん、村に何かあるんだな」と、思いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「何",
+            "ruby": "なん"
+          },
+          {
+            "type": "text",
+            "content": "だろう、秋祭かな。祭なら、太鼓や笛の音がしそうなものだ。それに第一、お宮にのぼりが立つはずだが」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　こんなことを考えながらやって来ますと、いつの間",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "にか、表に赤い井戸のある、兵十の家の前へ来ました。その小さな、こわれかけた家の中には、大勢",
+            "ruby": "おおぜい"
+          },
+          {
+            "type": "ruby",
+            "base": "の人があつまっていました。よそいきの着物を着て、腰に手拭",
+            "ruby": "てぬぐい"
+          },
+          {
+            "type": "ruby",
+            "base": "をさげたりした女たちが、表のかまどで火をたいています。大きな鍋",
+            "ruby": "なべ"
+          },
+          {
+            "type": "text",
+            "content": "の中では、何かぐずぐず煮えていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああ、葬式だ」と、ごんは思いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「兵十の家のだれが死んだんだろう」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　お午",
+            "ruby": "ひる"
+          },
+          {
+            "type": "ruby",
+            "base": "がすぎると、ごんは、村の墓地へ行って、六地蔵",
+            "ruby": "ろくじぞう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんのかげにかくれていました。いいお天気で、遠く向うには、お城の屋根瓦",
+            "ruby": "やねがわら"
+          },
+          {
+            "type": "ruby",
+            "base": "が光っています。墓地には、ひがん花",
+            "ruby": "ばな"
+          },
+          {
+            "type": "ruby",
+            "base": "が、赤い布",
+            "ruby": "きれ"
+          },
+          {
+            "type": "ruby",
+            "base": "のようにさきつづいていました。と、村の方から、カーン、カーン、と、鐘",
+            "ruby": "かね"
+          },
+          {
+            "type": "ruby",
+            "base": "が鳴って来ました。葬式の出る合図",
+            "ruby": "あいず"
+          },
+          {
+            "type": "text",
+            "content": "です。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　やがて、白い着物を着た葬列のものたちがやって来るのがちらちら見えはじめました。話声",
+            "ruby": "はなしごえ"
+          },
+          {
+            "type": "text",
+            "content": "も近くなりました。葬列は墓地へはいって来ました。人々が通ったあとには、ひがん花が、ふみおられていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ごんはのびあがって見ました。兵十が、白いかみしもをつけて、位牌",
+            "ruby": "いはい"
+          },
+          {
+            "type": "ruby",
+            "base": "をささげています。いつもは、赤いさつま芋",
+            "ruby": "いも"
+          },
+          {
+            "type": "text",
+            "content": "みたいな元気のいい顔が、きょうは何だかしおれていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ははん、死んだのは兵十のおっ母",
+            "ruby": "かあ"
+          },
+          {
+            "type": "text",
+            "content": "だ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ごんはそう思いながら、頭をひっこめました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　その晩、ごんは、穴の中で考えました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「兵十のおっ母は、床",
+            "ruby": "とこ"
+          },
+          {
+            "type": "text",
+            "content": "についていて、うなぎが食べたいと言ったにちがいない。それで兵十がはりきり網をもち出したんだ。ところが、わしがいたずらをして、うなぎをとって来てしまった。だから兵十は、おっ母にうなぎを食べさせることができなかった。そのままおっ母は、死んじゃったにちがいない。ああ、うなぎが食べたい、うなぎが食べたいとおもいながら、死んだんだろう。ちょッ、あんないたずらをしなけりゃよかった。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "三"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　兵十が、赤い井戸のところで、麦をといでいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　兵十は今まで、おっ母と二人",
+            "ruby": "ふたり"
+          },
+          {
+            "type": "text",
+            "content": "きりで、貧しいくらしをしていたもので、おっ母が死んでしまっては、もう一人ぼっちでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おれと同じ一人ぼっちの兵十か」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　こちらの物置",
+            "ruby": "ものおき"
+          },
+          {
+            "type": "ruby",
+            "base": "の後",
+            "ruby": "うしろ"
+          },
+          {
+            "type": "text",
+            "content": "から見ていたごんは、そう思いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ごんは物置のそばをはなれて、向うへいきかけますと、どこかで、いわしを売る声がします。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いわしのやすうりだアい。いきのいいいわしだアい」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ごんは、その、いせいのいい声のする方へ走っていきました。と、弥助",
+            "ruby": "やすけ"
+          },
+          {
+            "type": "text",
+            "content": "のおかみさんが、裏戸口から、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いわしをおくれ。」と言いました。いわし売",
+            "ruby": "うり"
+          },
+          {
+            "type": "ruby",
+            "base": "は、いわしのかごをつんだ車を、道ばたにおいて、ぴかぴか光るいわしを両手でつかんで、弥助の家の中へもってはいりました。ごんはそのすきまに、かごの中から、五、六ぴきのいわしをつかみ出して、もと来た方へかけだしました。そして、兵十の家の裏口から、家の中へいわしを投げこんで、穴へ向",
+            "ruby": "むか"
+          },
+          {
+            "type": "text",
+            "content": "ってかけもどりました。途中の坂の上でふりかえって見ますと、兵十がまだ、井戸のところで麦をといでいるのが小さく見えました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ごんは、うなぎのつぐないに、まず一つ、いいことをしたと思いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　つぎの日には、ごんは山で栗",
+            "ruby": "くり"
+          },
+          {
+            "type": "ruby",
+            "base": "をどっさりひろって、それをかかえて、兵十の家へいきました。裏口からのぞいて見ますと、兵十は、午飯",
+            "ruby": "ひるめし"
+          },
+          {
+            "type": "ruby",
+            "base": "をたべかけて、茶椀",
+            "ruby": "ちゃわん"
+          },
+          {
+            "type": "ruby",
+            "base": "をもったまま、ぼんやりと考えこんでいました。へんなことには兵十の頬",
+            "ruby": "ほっ"
+          },
+          {
+            "type": "text",
+            "content": "ぺたに、かすり傷がついています。どうしたんだろうと、ごんが思っていますと、兵十がひとりごとをいいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「一たいだれが、いわしなんかをおれの家へほうりこんでいったんだろう。おかげでおれは、盗人",
+            "ruby": "ぬすびと"
+          },
+          {
+            "type": "text",
+            "content": "と思われて、いわし屋のやつに、ひどい目にあわされた」と、ぶつぶつ言っています。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ごんは、これはしまったと思いました。かわいそうに兵十は、いわし屋にぶんなぐられて、あんな傷までつけられたのか。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ごんはこうおもいながら、そっと物置の方へまわってその入口に、栗をおいてかえりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　つぎの日も、そのつぎの日もごんは、栗をひろっては、兵十の家へもって来てやりました。そのつぎの日には、栗ばかりでなく、まつたけも二、三ぼんもっていきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "四"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　月のいい晩でした。ごんは、ぶらぶらあそびに出かけました。中山さまのお城の下を通ってすこしいくと、細い道の向うから、だれか来るようです。話声が聞えます。チンチロリン、チンチロリンと松虫が鳴いています。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ごんは、道の片がわにかくれて、じっとしていました。話声はだんだん近くなりました。それは、兵十と加助",
+            "ruby": "かすけ"
+          },
+          {
+            "type": "text",
+            "content": "というお百姓でした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そうそう、なあ加助」と、兵十がいいました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああん？」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おれあ、このごろ、とてもふしぎなことがあるんだ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「何が？」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おっ母が死んでからは、だれだか知らんが、おれに栗やまつたけなんかを、まいにちまいにちくれるんだよ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ふうん、だれが？」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「それがわからんのだよ。おれの知らんうちに、おいていくんだ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ごんは、ふたりのあとをつけていきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ほんとかい？」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ほんとだとも。うそと思うなら、あした見に来",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "いよ。その栗を見せてやるよ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「へえ、へんなこともあるもんだなア」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　それなり、二人はだまって歩いていきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　加助がひょいと、後",
+            "ruby": "うしろ"
+          },
+          {
+            "type": "ruby",
+            "base": "を見ました。ごんはびくっとして、小さくなってたちどまりました。加助は、ごんには気がつかないで、そのままさっさとあるきました。吉兵衛",
+            "ruby": "きちべえ"
+          },
+          {
+            "type": "ruby",
+            "base": "というお百姓の家まで来ると、二人はそこへはいっていきました。ポンポンポンポンと木魚",
+            "ruby": "もくぎょ"
+          },
+          {
+            "type": "ruby",
+            "base": "の音がしています。窓の障子",
+            "ruby": "しょうじ"
+          },
+          {
+            "type": "ruby",
+            "base": "にあかりがさしていて、大きな坊主頭",
+            "ruby": "ぼうずあたま"
+          },
+          {
+            "type": "text",
+            "content": "がうつって動いていました。ごんは、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おねんぶつがあるんだな」と思いながら井戸のそばにしゃがんでいました。しばらくすると、また三人ほど、人がつれだって吉兵衛の家へはいっていきました。お経を読む声がきこえて来ました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "五"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ごんは、おねんぶつがすむまで、井戸のそばにしゃがんでいました。兵十と加助は、また一しょにかえっていきます。ごんは、二人の話をきこうと思って、ついていきました。兵十の影法師",
+            "ruby": "かげぼうし"
+          },
+          {
+            "type": "text",
+            "content": "をふみふみいきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　お城の前まで来たとき、加助が言い出しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さっきの話は、きっと、そりゃあ、神さまのしわざだぞ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「えっ？」と、兵十はびっくりして、加助の顔を見ました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おれは、あれからずっと考えていたが、どうも、そりゃ、人間じゃない、神さまだ、神さまが、お前がたった一人になったのをあわれに思わっしゃって、いろんなものをめぐんで下さるんだよ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そうかなあ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そうだとも。だから、まいにち神さまにお礼を言うがいいよ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「うん」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ごんは、へえ、こいつはつまらないなと思いました。おれが、栗や松たけを持っていってやるのに、そのおれにはお礼をいわないで、神さまにお礼をいうんじゃア、おれは、引き合わないなあ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "六"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そのあくる日もごんは、栗をもって、兵十の家へ出かけました。兵十は物置で縄",
+            "ruby": "なわ"
+          },
+          {
+            "type": "text",
+            "content": "をなっていました。それでごんは家の裏口から、こっそり中へはいりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　そのとき兵十は、ふと顔をあげました。と狐が家の中へはいったではありませんか。こないだうなぎをぬすみやがったあのごん狐めが、またいたずらをしに来たな。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ようし。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　兵十は立ちあがって、納屋",
+            "ruby": "なや"
+          },
+          {
+            "type": "ruby",
+            "base": "にかけてある火縄銃",
+            "ruby": "ひなわじゅう"
+          },
+          {
+            "type": "text",
+            "content": "をとって、火薬をつめました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そして足音をしのばせてちかよって、今戸口を出ようとするごんを、ドンと、うちました。ごんは、ばたりとたおれました。兵十はかけよって来ました。家の中を見ると、土間",
+            "ruby": "どま"
+          },
+          {
+            "type": "text",
+            "content": "に栗が、かためておいてあるのが目につきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おや」と兵十は、びっくりしてごんに目を落しました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ごん、お前",
+            "ruby": "まい"
+          },
+          {
+            "type": "text",
+            "content": "だったのか。いつも栗をくれたのは」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ごんは、ぐったりと目をつぶったまま、うなずきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　兵十は火縄銃をばたりと、とり落しました。青い煙が、まだ筒口",
+            "ruby": "つつぐち"
+          },
+          {
+            "type": "text",
+            "content": "から細く出ていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「新美南吉童話集」岩波文庫、岩波書店"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1996（平成8）年7月16日発行第1刷"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1997（平成9）年7月15日発行第2刷"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "初出：「赤い鳥　復刊第三巻第一号」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1932（昭和7）年1月号"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "※入力時に使われた底本が不明とのことなので、表記は岩波文庫版に合わせた。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：林裕司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：浜野智"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1998年10月23日公開"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2012年5月8日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [],
+  "quiz": {
+    "comprehension": [
+      {
+        "id": "comp_1",
+        "type": "multiple_choice",
+        "question": "この物語の主人公は誰ですか？",
+        "options": [
+          "兵十",
+          "茶椀",
+          "話声",
+          "井戸"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "explanation": "主人公は兵十です。"
+      },
+      {
+        "id": "comp_2",
+        "type": "multiple_choice",
+        "question": "物語の冒頭で語られていることは何ですか？",
+        "options": [
+          "「ふふん、村に何かあるんだな」と、思いました。...",
+          "主人公が旅に出る場面",
+          "事件が起きる場面",
+          "物語の結末"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2
+      },
+      {
+        "id": "comp_3",
+        "type": "multiple_choice",
+        "question": "この作品の主なテーマは何ですか？",
+        "options": [
+          "優しさ",
+          "勇気",
+          "平和",
+          "正義"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "explanation": "この作品は「優しさ」をテーマにしています。"
+      },
+      {
+        "id": "comp_4",
+        "type": "short_answer",
+        "question": "この物語から学べることは何だと思いますか？",
+        "sampleAnswer": "相手の気持ちを考える",
+        "difficulty": 4,
+        "rubric": [
+          "テーマとの関連性",
+          "自分の考えの表現",
+          "具体例の使用"
+        ]
+      },
+      {
+        "id": "comp_5",
+        "type": "true_false",
+        "question": "物語の中で「　お城の前まで来たとき、加助が言い出しま...」という場面があります。",
+        "correctAnswer": true,
+        "difficulty": 2
+      }
+    ],
+    "vocabulary": [],
+    "kanji": [
+      {
+        "id": "kanji_1",
+        "type": "input",
+        "question": "「十」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "とおか",
+        "acceptableAnswers": [
+          "とおか",
+          "おおぜい",
+          "いはい",
+          "かあ",
+          "とこ",
+          "ふたり",
+          "むか",
+          "ひるめし",
+          "ほっ",
+          "かすけ",
+          "かげぼうし",
+          "なわ",
+          "なや",
+          "どま",
+          "つつぐち"
+        ],
+        "difficulty": 2,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_2",
+        "type": "input",
+        "question": "「日」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "とおか",
+        "acceptableAnswers": [
+          "とおか",
+          "くり",
+          "なわ"
+        ],
+        "difficulty": 3,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_3",
+        "type": "input",
+        "question": "「弥」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "やすけ",
+        "acceptableAnswers": [
+          "やすけ",
+          "かない",
+          "むか"
+        ],
+        "difficulty": 2,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_4",
+        "type": "input",
+        "question": "「助」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "やすけ",
+        "acceptableAnswers": [
+          "やすけ",
+          "かない",
+          "むか",
+          "かすけ",
+          "うしろ",
+          "きちべえ",
+          "かげぼうし"
+        ],
+        "difficulty": 2,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_5",
+        "type": "input",
+        "question": "「百」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "かない",
+        "acceptableAnswers": [
+          "かない",
+          "もくぎょ"
+        ],
+        "difficulty": 4,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_6",
+        "type": "input",
+        "question": "「姓」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "かない",
+        "acceptableAnswers": [
+          "かない",
+          "もくぎょ"
+        ],
+        "difficulty": 2,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_7",
+        "type": "input",
+        "question": "「家」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "かない",
+        "acceptableAnswers": [
+          "かない",
+          "おおぜい",
+          "むか",
+          "ひるめし",
+          "ぬすびと",
+          "もくぎょ",
+          "なわ",
+          "どま"
+        ],
+        "difficulty": 2,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_8",
+        "type": "input",
+        "question": "「裏」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "かない",
+        "acceptableAnswers": [
+          "かない",
+          "むか",
+          "ひるめし"
+        ],
+        "difficulty": 5,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_9",
+        "type": "input",
+        "question": "「通」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "かない",
+        "acceptableAnswers": [
+          "かない"
+        ],
+        "difficulty": 5,
+        "hint": "3文字のひらがなです。"
+      },
+      {
+        "id": "kanji_10",
+        "type": "input",
+        "question": "「木」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "かない",
+        "acceptableAnswers": [
+          "かない",
+          "もくぎょ"
+        ],
+        "difficulty": 3,
+        "hint": "3文字のひらがなです。"
+      }
+    ]
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  },
+  "kanjiList": [
+    {
+      "character": "何",
+      "readings": [
+        "なん"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "井",
+      "readings": [
+        "おおぜい",
+        "かげぼうし"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "中",
+      "readings": [
+        "おおぜい",
+        "むか",
+        "どま"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "人",
+      "readings": [
+        "てぬぐい",
+        "ふたり",
+        "ぬすびと",
+        "もくぎょ",
+        "かげぼうし"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "位",
+      "readings": [
+        "いはい"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "今",
+      "readings": [
+        "ふたり",
+        "どま"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "二",
+      "readings": [
+        "ふたり",
+        "もくぎょ",
+        "かげぼうし"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "両",
+      "readings": [
+        "むか"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "五",
+      "readings": [
+        "むか"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "一",
+      "readings": [
+        "ぬすびと",
+        "かげぼうし"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "主",
+      "readings": [
+        "ぼうずあたま"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "十",
+      "readings": [
+        "とおか",
+        "おおぜい",
+        "いはい",
+        "かあ",
+        "とこ",
+        "ふたり",
+        "むか",
+        "ひるめし",
+        "ほっ",
+        "かすけ",
+        "かげぼうし",
+        "なわ",
+        "なや",
+        "どま",
+        "つつぐち"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "弥",
+      "readings": [
+        "やすけ",
+        "かない",
+        "むか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "助",
+      "readings": [
+        "やすけ",
+        "かない",
+        "むか",
+        "かすけ",
+        "うしろ",
+        "きちべえ",
+        "かげぼうし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "姓",
+      "readings": [
+        "かない",
+        "もくぎょ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "家",
+      "readings": [
+        "かない",
+        "おおぜい",
+        "むか",
+        "ひるめし",
+        "ぬすびと",
+        "もくぎょ",
+        "なわ",
+        "どま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "内",
+      "readings": [
+        "かない"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "冶",
+      "readings": [
+        "かじや"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "屋",
+      "readings": [
+        "かじや",
+        "やねがわら",
+        "なや"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "兵",
+      "readings": [
+        "しんべえ",
+        "おおぜい",
+        "いはい",
+        "かあ",
+        "とこ",
+        "ふたり",
+        "むか",
+        "ひるめし",
+        "ほっ",
+        "かすけ",
+        "きちべえ",
+        "かげぼうし",
+        "なわ",
+        "なや",
+        "どま",
+        "つつぐち"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "前",
+      "readings": [
+        "おおぜい",
+        "まい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "小",
+      "readings": [
+        "おおぜい",
+        "きちべえ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "大",
+      "readings": [
+        "おおぜい",
+        "なべ",
+        "ぼうずあたま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "勢",
+      "readings": [
+        "おおぜい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "女",
+      "readings": [
+        "なべ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "午",
+      "readings": [
+        "ひる",
+        "ひるめし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "墓",
+      "readings": [
+        "ろくじぞう",
+        "ばな"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "地",
+      "readings": [
+        "ろくじぞう",
+        "ばな"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "六",
+      "readings": [
+        "ろくじぞう",
+        "むか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "天",
+      "readings": [
+        "やねがわら"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "向",
+      "readings": [
+        "やねがわら",
+        "むか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "城",
+      "readings": [
+        "やねがわら"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "光",
+      "readings": [
+        "ばな",
+        "むか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "布",
+      "readings": [
+        "きれ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "式",
+      "readings": [
+        "あいず"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "出",
+      "readings": [
+        "あいず",
+        "むか",
+        "なわ",
+        "どま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "合",
+      "readings": [
+        "あいず"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "図",
+      "readings": [
+        "あいず"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "列",
+      "readings": [
+        "はなしごえ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "声",
+      "readings": [
+        "はなしごえ",
+        "やすけ",
+        "かすけ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "床",
+      "readings": [
+        "とこ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "後",
+      "readings": [
+        "うしろ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "売",
+      "readings": [
+        "うり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "口",
+      "readings": [
+        "むか",
+        "ひるめし",
+        "どま",
+        "つつぐち"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "山",
+      "readings": [
+        "くり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "加",
+      "readings": [
+        "かすけ",
+        "うしろ",
+        "きちべえ",
+        "かげぼうし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "吉",
+      "readings": [
+        "きちべえ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "子",
+      "readings": [
+        "しょうじ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "坊",
+      "readings": [
+        "ぼうずあたま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "影",
+      "readings": [
+        "かげぼうし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "師",
+      "readings": [
+        "かげぼうし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "土",
+      "readings": [
+        "どま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "日",
+      "readings": [
+        "とおか",
+        "くり",
+        "なわ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "木",
+      "readings": [
+        "かない",
+        "もくぎょ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "新",
+      "readings": [
+        "しんべえ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "来",
+      "readings": [
+        "ま",
+        "おおぜい",
+        "あいず",
+        "はなしごえ",
+        "むか",
+        "こ",
+        "もくぎょ",
+        "どま"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "戸",
+      "readings": [
+        "おおぜい",
+        "かげぼうし",
+        "どま"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "手",
+      "readings": [
+        "てぬぐい",
+        "むか"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "拭",
+      "readings": [
+        "てぬぐい"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "村",
+      "readings": [
+        "ろくじぞう",
+        "かね"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "気",
+      "readings": [
+        "やねがわら",
+        "きちべえ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "根",
+      "readings": [
+        "やねがわら"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "方",
+      "readings": [
+        "かね",
+        "やすけ",
+        "むか"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "死",
+      "readings": [
+        "かあ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "母",
+      "readings": [
+        "かあ",
+        "とこ",
+        "ふたり"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "投",
+      "readings": [
+        "むか"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "栗",
+      "readings": [
+        "くり",
+        "なわ"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "椀",
+      "readings": [
+        "ちゃわん"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "思",
+      "readings": [
+        "こ",
+        "かげぼうし"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "法",
+      "readings": [
+        "かげぼうし"
+      ],
+      "difficulty": 3,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "百",
+      "readings": [
+        "かない",
+        "もくぎょ"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "着",
+      "readings": [
+        "てぬぐい",
+        "はなしごえ"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "物",
+      "readings": [
+        "てぬぐい",
+        "はなしごえ",
+        "ものおき",
+        "なわ"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "火",
+      "readings": [
+        "なべ",
+        "ひなわじゅう",
+        "つつぐち"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "瓦",
+      "readings": [
+        "やねがわら"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "白",
+      "readings": [
+        "はなしごえ",
+        "いはい"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "牌",
+      "readings": [
+        "いはい"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "置",
+      "readings": [
+        "ものおき",
+        "なわ"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "穴",
+      "readings": [
+        "むか"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "盗",
+      "readings": [
+        "ぬすびと"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "片",
+      "readings": [
+        "かすけ"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "窓",
+      "readings": [
+        "しょうじ"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "縄",
+      "readings": [
+        "なわ",
+        "ひなわじゅう",
+        "つつぐち"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "立",
+      "readings": [
+        "なや"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "納",
+      "readings": [
+        "なや"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "煙",
+      "readings": [
+        "つつぐち"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "筒",
+      "readings": [
+        "つつぐち"
+      ],
+      "difficulty": 4,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "裏",
+      "readings": [
+        "かない",
+        "むか",
+        "ひるめし"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "通",
+      "readings": [
+        "かない"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "鍛",
+      "readings": [
+        "かじや"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "衛",
+      "readings": [
+        "しんべえ",
+        "きちべえ"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "考",
+      "readings": [
+        "ま",
+        "ほっ"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "間",
+      "readings": [
+        "ま",
+        "どま"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "表",
+      "readings": [
+        "おおぜい",
+        "なべ"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "赤",
+      "readings": [
+        "おおぜい",
+        "きれ",
+        "いも"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "腰",
+      "readings": [
+        "てぬぐい"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "鍋",
+      "readings": [
+        "なべ"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "行",
+      "readings": [
+        "ろくじぞう"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "蔵",
+      "readings": [
+        "ろくじぞう"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "遠",
+      "readings": [
+        "やねがわら"
+      ],
+      "difficulty": 5,
+      "strokeOrder": "",
+      "meanings": []
+    }
+  ]
+}

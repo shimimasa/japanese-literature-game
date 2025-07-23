@@ -1,0 +1,4116 @@
+{
+  "id": "セロ弾きのゴーシュ",
+  "title": "セロ弾きのゴーシュ",
+  "titleKana": "",
+  "author": {
+    "name": "宮沢賢治",
+    "nameKana": "みやざわけんじ",
+    "birthYear": 1896,
+    "deathYear": 1933
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 5,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 5,
+      "vocabulary": 3,
+      "grammar": 2,
+      "sentenceLength": 28
+    },
+    "themes": [
+      "自然",
+      "宗教",
+      "自己犠牲"
+    ],
+    "totalCharacters": 12128,
+    "estimatedReadingTime": 31,
+    "genres": [
+      "童話",
+      "詩",
+      "ファンタジー"
+    ],
+    "statistics": {
+      "totalCharacters": 12128,
+      "totalKanji": 1603,
+      "uniqueKanji": 416,
+      "kanjiRatio": "13.2%",
+      "sentenceCount": 434,
+      "averageSentenceLength": 28
+    },
+    "learningObjectives": [
+      "漢字の読み方を学ぶ",
+      "作品のテーマを理解する"
+    ],
+    "relatedWorks": [
+      {
+        "type": "same_author",
+        "reason": "同じ作者の作品",
+        "works": [
+          "銀河鉄道の夜",
+          "セロ弾きのゴーシュ",
+          "風の又三郎"
+        ]
+      },
+      {
+        "type": "similar_theme",
+        "reason": "似たテーマの作品",
+        "works": [
+          "注文の多い料理店",
+          "風の又三郎"
+        ]
+      },
+      {
+        "type": "similar_difficulty",
+        "reason": "同じレベルの作品",
+        "works": [
+          "注文の多い料理店",
+          "走れメロス"
+        ]
+      }
+    ]
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "セロ弾きのゴーシュ"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "宮沢賢治"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "-------------------------------------------------------"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "【テキスト中に現れる記号について】"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "《》：ルビ"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（例）眼",
+            "ruby": "め"
+          },
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "｜：ルビの付く文字列の始まりを特定する記号"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（例）第六交響曲",
+            "ruby": "こうきょうきょく"
+          },
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "-------------------------------------------------------"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュは町の活動写真館でセロを弾く係りでした。けれどもあんまり上手でないという評判でした。上手でないどころではなく実は仲間の楽手のなかではいちばん下手でしたから、いつでも楽長にいじめられるのでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ひるすぎみんなは楽屋に円くならんで今度の町の音楽会へ出す第六交響曲",
+            "ruby": "こうきょうきょく"
+          },
+          {
+            "type": "text",
+            "content": "の練習をしていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　トランペットは一生けん命歌っています。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ヴァイオリンも二いろ風のように鳴っています。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　クラリネットもボーボーとそれに手伝っています。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ゴーシュも口をりんと結んで眼",
+            "ruby": "め"
+          },
+          {
+            "type": "ruby",
+            "base": "を皿",
+            "ruby": "さら"
+          },
+          {
+            "type": "ruby",
+            "base": "のようにして楽譜",
+            "ruby": "がくふ"
+          },
+          {
+            "type": "text",
+            "content": "を見つめながらもう一心に弾いています。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　にわかにぱたっと楽長が両手を鳴らしました。みんなぴたりと曲をやめてしんとしました。楽長がどなりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「セロがおくれた。トォテテ　テテテイ、ここからやり直し。はいっ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　みんなは今の所の少し前の所からやり直しました。ゴーシュは顔をまっ赤にして額に汗",
+            "ruby": "あせ"
+          },
+          {
+            "type": "ruby",
+            "base": "を出しながらやっといま云",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "われたところを通りました。ほっと安心しながら、つづけて弾いていますと楽長がまた手をぱっと拍",
+            "ruby": "う"
+          },
+          {
+            "type": "text",
+            "content": "ちました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「セロっ。糸が合わない。困るなあ。ぼくはきみにドレミファを教えてまでいるひまはないんだがなあ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　みんなは気の毒そうにしてわざとじぶんの譜をのぞき込",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "んだりじぶんの楽器をはじいて見たりしています。ゴーシュはあわてて糸を直しました。これはじつはゴーシュも悪いのですがセロもずいぶん悪いのでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「今の前の小節から。はいっ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　みんなはまたはじめました。ゴーシュも口をまげて一生けん命です。そしてこんどはかなり進みました。いいあんばいだと思っていると楽長がおどすような形をしてまたぱたっと手を拍ちました。またかとゴーシュはどきっとしましたがありがたいことにはこんどは別の人でした。ゴーシュはそこでさっきじぶんのときみんながしたようにわざとじぶんの譜へ眼を近づけて何か考えるふりをしていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ではすぐ今の次。はいっ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そらと思って弾き出したかと思うといきなり楽長が足をどんと踏",
+            "ruby": "ふ"
+          },
+          {
+            "type": "text",
+            "content": "んでどなり出しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「だめだ。まるでなっていない。このへんは曲の心臓なんだ。それがこんながさがさしたことで。諸君。演奏までもうあと十日しかないんだよ。音楽を専門にやっているぼくらがあの金沓鍛冶",
+            "ruby": "かなぐつかじ"
+          },
+          {
+            "type": "ruby",
+            "base": "だの砂糖屋の丁稚",
+            "ruby": "でっち"
+          },
+          {
+            "type": "ruby",
+            "base": "なんかの寄り集りに負けてしまったらいったいわれわれの面目",
+            "ruby": "めんもく"
+          },
+          {
+            "type": "ruby",
+            "base": "はどうなるんだ。おいゴーシュ君。君には困るんだがなあ。表情ということがまるでできてない。怒",
+            "ruby": "おこ"
+          },
+          {
+            "type": "ruby",
+            "base": "るも喜ぶも感情というものがさっぱり出ないんだ。それにどうしてもぴたっと外の楽器と合わないもなあ。いつでもきみだけとけた靴",
+            "ruby": "くつ"
+          },
+          {
+            "type": "ruby",
+            "base": "のひもを引きずってみんなのあとをついてあるくようなんだ、困るよ、しっかりしてくれないとねえ。光輝",
+            "ruby": "こうき"
+          },
+          {
+            "type": "ruby",
+            "base": "あるわが金星音楽団がきみ一人のために悪評をとるようなことでは、みんなへもまったく気の毒だからな。では今日は練習はここまで、休んで六時にはかっきりボックスへ入ってくれ給",
+            "ruby": "たま"
+          },
+          {
+            "type": "text",
+            "content": "え。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　みんなはおじぎをして、それからたばこをくわえてマッチをすったりどこかへ出て行ったりしました。ゴーシュはその粗末",
+            "ruby": "そまつ"
+          },
+          {
+            "type": "ruby",
+            "base": "な箱",
+            "ruby": "はこ"
+          },
+          {
+            "type": "ruby",
+            "base": "みたいなセロをかかえて壁",
+            "ruby": "かべ"
+          },
+          {
+            "type": "ruby",
+            "base": "の方へ向いて口をまげてぼろぼろ泪",
+            "ruby": "なみだ"
+          },
+          {
+            "type": "text",
+            "content": "をこぼしましたが、気をとり直してじぶんだけたったひとりいまやったところをはじめからしずかにもいちど弾きはじめました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　その晩遅",
+            "ruby": "おそ"
+          },
+          {
+            "type": "ruby",
+            "base": "くゴーシュは何か巨",
+            "ruby": "おお"
+          },
+          {
+            "type": "ruby",
+            "base": "きな黒いものをしょってじぶんの家へ帰ってきました。家といってもそれは町はずれの川ばたにあるこわれた水車小屋で、ゴーシュはそこにたった一人ですんでいて午前は小屋のまわりの小さな畑でトマトの枝",
+            "ruby": "えだ"
+          },
+          {
+            "type": "ruby",
+            "base": "をきったり甘藍",
+            "ruby": "キャベジ"
+          },
+          {
+            "type": "ruby",
+            "base": "の虫をひろったりしてひるすぎになるといつも出て行っていたのです。ゴーシュがうちへ入ってあかりをつけるとさっきの黒い包みをあけました。それは何でもない。あの夕方のごつごつしたセロでした。ゴーシュはそれを床",
+            "ruby": "ゆか"
+          },
+          {
+            "type": "ruby",
+            "base": "の上にそっと置くと、いきなり棚",
+            "ruby": "たな"
+          },
+          {
+            "type": "text",
+            "content": "からコップをとってバケツの水をごくごくのみました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それから頭を一つふって椅子",
+            "ruby": "いす"
+          },
+          {
+            "type": "ruby",
+            "base": "へかけるとまるで虎",
+            "ruby": "とら"
+          },
+          {
+            "type": "ruby",
+            "base": "みたいな勢",
+            "ruby": "いきおい"
+          },
+          {
+            "type": "text",
+            "content": "でひるの譜を弾きはじめました。譜をめくりながら弾いては考え考えては弾き一生けん命しまいまで行くとまたはじめからなんべんもなんべんもごうごうごうごう弾きつづけました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　夜中もとうにすぎてしまいはもうじぶんが弾いているのかもわからないようになって顔もまっ赤になり眼もまるで血走ってとても物凄",
+            "ruby": "ものすご"
+          },
+          {
+            "type": "ruby",
+            "base": "い顔つきになりいまにも倒",
+            "ruby": "たお"
+          },
+          {
+            "type": "text",
+            "content": "れるかと思うように見えました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そのとき誰",
+            "ruby": "たれ"
+          },
+          {
+            "type": "ruby",
+            "base": "かうしろの扉",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "をとんとんと叩",
+            "ruby": "たた"
+          },
+          {
+            "type": "text",
+            "content": "くものがありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ホーシュ君か。」ゴーシュはねぼけたように叫",
+            "ruby": "さけ"
+          },
+          {
+            "type": "ruby",
+            "base": "びました。ところがすうと扉を押",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "してはいって来たのはいままで五六ぺん見たことのある大きな三毛猫",
+            "ruby": "みけねこ"
+          },
+          {
+            "type": "text",
+            "content": "でした。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュの畑からとった半分熟したトマトをさも重そうに持って来てゴーシュの前におろして云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ああくたびれた。なかなか運搬",
+            "ruby": "うんぱん"
+          },
+          {
+            "type": "text",
+            "content": "はひどいやな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「何だと」ゴーシュがききました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「これおみやです。たべてください。」三毛猫が云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュはひるからのむしゃくしゃを一ぺんにどなりつけました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「誰がきさまにトマトなど持ってこいと云った。第一おれがきさまらのもってきたものなど食うか。それからそのトマトだっておれの畑のやつだ。何だ。赤くもならないやつをむしって。いままでもトマトの茎",
+            "ruby": "くき"
+          },
+          {
+            "type": "text",
+            "content": "をかじったりけちらしたりしたのはおまえだろう。行ってしまえ。ねこめ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　すると猫は肩",
+            "ruby": "かた"
+          },
+          {
+            "type": "text",
+            "content": "をまるくして眼をすぼめてはいましたが口のあたりでにやにやわらって云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「先生、そうお怒りになっちゃ、おからだにさわります。それよりシューマンのトロメライをひいてごらんなさい。きいてあげますから。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「生意気なことを云うな。ねこのくせに。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　セロ弾きはしゃくにさわってこのねこのやつどうしてくれようとしばらく考えました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いやご遠慮",
+            "ruby": "えんりょ"
+          },
+          {
+            "type": "text",
+            "content": "はありません。どうぞ。わたしはどうも先生の音楽をきかないとねむられないんです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「生意気だ。生意気だ。生意気だ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュはすっかりまっ赤になってひるま楽長のしたように足ぶみしてどなりましたがにわかに気を変えて云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「では弾くよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ゴーシュは何と思ったか扉",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "にかぎをかって窓もみんなしめてしまい、それからセロをとりだしてあかしを消しました。すると外から二十日過ぎの月のひかりが室",
+            "ruby": "へや"
+          },
+          {
+            "type": "text",
+            "content": "のなかへ半分ほどはいってきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「何をひけと。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「トロメライ、ロマチックシューマン作曲。」猫は口を拭",
+            "ruby": "ふ"
+          },
+          {
+            "type": "text",
+            "content": "いて済まして云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そうか。トロメライというのはこういうのか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　セロ弾きは何と思ったかまずはんけちを引きさいてじぶんの耳の穴へぎっしりつめました。それからまるで嵐",
+            "ruby": "あらし"
+          },
+          {
+            "type": "ruby",
+            "base": "のような勢",
+            "ruby": "いきおい"
+          },
+          {
+            "type": "ruby",
+            "base": "で「印度",
+            "ruby": "インド"
+          },
+          {
+            "type": "ruby",
+            "base": "の虎狩",
+            "ruby": "とらがり"
+          },
+          {
+            "type": "text",
+            "content": "」という譜を弾きはじめました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　すると猫はしばらく首をまげて聞いていましたがいきなりパチパチパチッと眼をしたかと思うとぱっと扉の方へ飛びのきました。そしていきなりどんと扉へからだをぶっつけましたが扉はあきませんでした。猫はさあこれはもう一生一代の失敗をしたという風にあわてだして眼や額からぱちぱち火花を出しました。するとこんどは口のひげからも鼻からも出ましたから猫はくすぐったがってしばらくくしゃみをするような顔をしてそれからまたさあこうしてはいられないぞというようにはせあるきだしました。ゴーシュはすっかり面白",
+            "ruby": "おもしろ"
+          },
+          {
+            "type": "text",
+            "content": "くなってますます勢よくやり出しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「先生もうたくさんです。たくさんですよ。ご生ですからやめてください。これからもう先生のタクトなんかとりませんから。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「だまれ。これから虎をつかまえる所だ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　猫はくるしがってはねあがってまわったり壁にからだをくっつけたりしましたが壁についたあとはしばらく青くひかるのでした。しまいは猫はまるで風車のようにぐるぐるぐるぐるゴーシュをまわりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュもすこしぐるぐるして来ましたので、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さあこれで許してやるぞ」と云いながらようようやめました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　すると猫もけろりとして"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「先生、こんやの演奏はどうかしてますね。」と云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　セロ弾きはまたぐっとしゃくにさわりましたが何気ない風で巻たばこを一本だして口にくわえそれからマッチを一本とって"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どうだい。工合",
+            "ruby": "ぐあい"
+          },
+          {
+            "type": "text",
+            "content": "をわるくしないかい。舌を出してごらん。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　猫はばかにしたように尖",
+            "ruby": "とが"
+          },
+          {
+            "type": "text",
+            "content": "った長い舌をベロリと出しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ははあ、少し荒",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "れたね。」セロ弾きは云いながらいきなりマッチを舌でシュッとすってじぶんのたばこへつけました。さあ猫は愕",
+            "ruby": "おどろ"
+          },
+          {
+            "type": "ruby",
+            "base": "いたの何の舌を風車のようにふりまわしながら入り口の扉",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "へ行って頭でどんとぶっつかってはよろよろとしてまた戻",
+            "ruby": "もど"
+          },
+          {
+            "type": "text",
+            "content": "って来てどんとぶっつかってはよろよろまた戻って来てまたぶっつかってはよろよろにげみちをこさえようとしました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュはしばらく面白そうに見ていましたが"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「出してやるよ。もう来るなよ。ばか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　セロ弾きは扉をあけて猫が風のように萱",
+            "ruby": "かや"
+          },
+          {
+            "type": "text",
+            "content": "のなかを走って行くのを見てちょっとわらいました。それから、やっとせいせいしたというようにぐっすりねむりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　次の晩もゴーシュがまた黒いセロの包みをかついで帰ってきました。そして水をごくごくのむとそっくりゆうべのとおりぐんぐんセロを弾きはじめました。十二時は間もなく過ぎ一時もすぎ二時もすぎてもゴーシュはまだやめませんでした。それからもう何時だかもわからず弾いているかもわからずごうごうやっていますと誰",
+            "ruby": "たれ"
+          },
+          {
+            "type": "text",
+            "content": "か屋根裏をこっこっと叩くものがあります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「猫、まだこりないのか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ゴーシュが叫びますといきなり天井",
+            "ruby": "てんじょう"
+          },
+          {
+            "type": "ruby",
+            "base": "の穴からぽろんと音がして一疋",
+            "ruby": "ぴき"
+          },
+          {
+            "type": "text",
+            "content": "の灰いろの鳥が降りて来ました。床へとまったのを見るとそれはかっこうでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「鳥まで来るなんて。何の用だ。」ゴーシュが云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「音楽を教わりたいのです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　かっこう鳥はすまして云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュは笑って"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「音楽だと。おまえの歌は、かっこう、かっこうというだけじゃあないか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　するとかっこうが大へんまじめに"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ええ、それなんです。けれどもむずかしいですからねえ。」と云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「むずかしいもんか。おまえたちのはたくさん啼",
+            "ruby": "な"
+          },
+          {
+            "type": "text",
+            "content": "くのがひどいだけで、なきようは何でもないじゃないか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ところがそれがひどいんです。たとえばかっこうとこうなくのとかっこうとこうなくのとでは聞いていてもよほどちがうでしょう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ちがわないね。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ではあなたにはわからないんです。わたしらのなかまならかっこうと一万云えば一万みんなちがうんです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「勝手だよ。そんなにわかってるなら何もおれの処",
+            "ruby": "ところ"
+          },
+          {
+            "type": "text",
+            "content": "へ来なくてもいいではないか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ところが私はドレミファを正確にやりたいんです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ドレミファもくそもあるか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ええ、外国へ行く前にぜひ一度いるんです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「外国もくそもあるか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「先生どうかドレミファを教えてください。わたしはついてうたいますから。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「うるさいなあ。そら三べんだけ弾",
+            "ruby": "ひ"
+          },
+          {
+            "type": "text",
+            "content": "いてやるからすんだらさっさと帰るんだぞ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュはセロを取り上げてボロンボロンと糸を合わせてドレミファソラシドとひきました。するとかっこうはあわてて羽をばたばたしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ちがいます、ちがいます。そんなんでないんです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「うるさいなあ。ではおまえやってごらん。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「こうですよ。」かっこうはからだをまえに曲げてしばらく構えてから"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「かっこう」と一つなきました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「何だい。それがドレミファかい。おまえたちには、それではドレミファも第六交響楽",
+            "ruby": "こうきょうがく"
+          },
+          {
+            "type": "text",
+            "content": "も同じなんだな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「それはちがいます。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうちがうんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「むずかしいのはこれをたくさん続けたのがあるんです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「つまりこうだろう。」セロ弾きはまたセロをとって、かっこうかっこうかっこうかっこうかっこうとつづけてひきました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　するとかっこうはたいへんよろこんで途中",
+            "ruby": "とちゅう"
+          },
+          {
+            "type": "ruby",
+            "base": "からかっこうかっこうかっこうかっこうとついて叫",
+            "ruby": "さけ"
+          },
+          {
+            "type": "text",
+            "content": "びました。それももう一生けん命からだをまげていつまでも叫ぶのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュはとうとう手が痛くなって"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「こら、いいかげんにしないか。」と云いながらやめました。するとかっこうは残念そうに眼",
+            "ruby": "め"
+          },
+          {
+            "type": "text",
+            "content": "をつりあげてまだしばらくないていましたがやっと"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「……かっこうかくうかっかっかっかっか」と云ってやめました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュがすっかりおこってしまって、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「こらとり、もう用が済んだらかえれ」と云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうかもういっぺん弾いてください。あなたのはいいようだけれどもすこしちがうんです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「何だと、おれがきさまに教わってるんではないんだぞ。帰らんか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうかたったもう一ぺんおねがいです。どうか。」かっこうは頭を何べんもこんこん下げました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ではこれっきりだよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュは弓をかまえました。かっこうは「くっ」とひとつ息をして"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ではなるべく永くおねがいいたします。」といってまた一つおじぎをしました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いやになっちまうなあ。」ゴーシュはにが笑いしながら弾きはじめました。するとかっこうはまたまるで本気になって「かっこうかっこうかっこう」とからだをまげてじつに一生けん命叫びました。ゴーシュははじめはむしゃくしゃしていましたがいつまでもつづけて弾いているうちにふっと何だかこれは鳥の方がほんとうのドレミファにはまっているかなという気がしてきました。どうも弾けば弾くほどかっこうの方がいいような気がするのでした。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「えいこんなばかなことしていたらおれは鳥になってしまうんじゃないか。」とゴーシュはいきなりぴたりとセロをやめました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　するとかっこうはどしんと頭を叩",
+            "ruby": "たた"
+          },
+          {
+            "type": "text",
+            "content": "かれたようにふらふらっとしてそれからまたさっきのように"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「かっこうかっこうかっこうかっかっかっかっかっ」と云",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "ってやめました。それから恨",
+            "ruby": "うら"
+          },
+          {
+            "type": "text",
+            "content": "めしそうにゴーシュを見て"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なぜやめたんですか。ぼくらならどんな意気地ないやつでものどから血が出るまでは叫ぶんですよ。」と云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「何を生意気な。こんなばかなまねをいつまでしていられるか。もう出て行け。見ろ。夜があけるんじゃないか。」ゴーシュは窓を指さしました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　東のそらがぼうっと銀いろになってそこをまっ黒な雲が北の方へどんどん走っています。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ではお日さまの出るまでどうぞ。もう一ぺん。ちょっとですから。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　かっこうはまた頭を下げました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「黙",
+            "ruby": "だま"
+          },
+          {
+            "type": "text",
+            "content": "れっ。いい気になって。このばか鳥め。出て行かんとむしって朝飯に食ってしまうぞ。」ゴーシュはどんと床をふみました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　するとかっこうはにわかにびっくりしたようにいきなり窓をめがけて飛び立ちました。そして硝子",
+            "ruby": "ガラス"
+          },
+          {
+            "type": "text",
+            "content": "にはげしく頭をぶっつけてばたっと下へ落ちました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「何だ、硝子へばかだなあ。」ゴーシュはあわてて立って窓をあけようとしましたが元来この窓はそんなにいつでもするする開く窓ではありませんでした。ゴーシュが窓のわくをしきりにがたがたしているうちにまたかっこうがばっとぶっつかって下へ落ちました。見ると嘴",
+            "ruby": "くちばし"
+          },
+          {
+            "type": "text",
+            "content": "のつけねからすこし血が出ています。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いまあけてやるから待っていろったら。」ゴーシュがやっと二寸ばかり窓をあけたとき、かっこうは起きあがって何が何でもこんどこそというようにじっと窓の向うの東のそらをみつめて、あらん限りの力をこめた風でぱっと飛びたちました。もちろんこんどは前よりひどく硝子につきあたってかっこうは下へ落ちたまましばらく身動きもしませんでした。つかまえてドアから飛ばしてやろうとゴーシュが手を出しましたらいきなりかっこうは眼をひらいて飛びのきました。そしてまたガラスへ飛びつきそうにするのです。ゴーシュは思わず足を上げて窓をばっとけりました。ガラスは二三枚物すごい音して砕",
+            "ruby": "くだ"
+          },
+          {
+            "type": "ruby",
+            "base": "け窓はわくのまま外へ落ちました。そのがらんとなった窓のあとをかっこうが矢のように外へ飛びだしました。そしてもうどこまでもどこまでもまっすぐに飛んで行ってとうとう見えなくなってしまいました。ゴーシュはしばらく呆",
+            "ruby": "あき"
+          },
+          {
+            "type": "ruby",
+            "base": "れたように外を見ていましたが、そのまま倒",
+            "ruby": "たお"
+          },
+          {
+            "type": "ruby",
+            "base": "れるように室",
+            "ruby": "へや"
+          },
+          {
+            "type": "ruby",
+            "base": "のすみへころがって睡",
+            "ruby": "ねむ"
+          },
+          {
+            "type": "text",
+            "content": "ってしまいました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　次の晩もゴーシュは夜中すぎまでセロを弾いてつかれて水を一杯",
+            "ruby": "いっぱい"
+          },
+          {
+            "type": "ruby",
+            "base": "のんでいますと、また扉",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "をこつこつ叩",
+            "ruby": "たた"
+          },
+          {
+            "type": "text",
+            "content": "くものがあります。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　今夜は何が来てもゆうべのかっこうのようにはじめからおどかして追い払",
+            "ruby": "はら"
+          },
+          {
+            "type": "ruby",
+            "base": "ってやろうと思ってコップをもったまま待ち構えて居",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "りますと、扉がすこしあいて一疋の狸",
+            "ruby": "たぬき"
+          },
+          {
+            "type": "text",
+            "content": "の子がはいってきました。ゴーシュはそこでその扉をもう少し広くひらいて置いてどんと足をふんで、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「こら、狸、おまえは狸汁",
+            "ruby": "たぬきじる"
+          },
+          {
+            "type": "ruby",
+            "base": "ということを知っているかっ。」とどなりました。すると狸の子はぼんやりした顔をしてきちんと床へ座",
+            "ruby": "すわ"
+          },
+          {
+            "type": "text",
+            "content": "ったままどうもわからないというように首をまげて考えていましたが、しばらくたって"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「狸汁ってぼく知らない。」と云いました。ゴーシュはその顔を見て思わず吹",
+            "ruby": "ふ"
+          },
+          {
+            "type": "ruby",
+            "base": "き出そうとしましたが、まだ無理に恐",
+            "ruby": "こわ"
+          },
+          {
+            "type": "text",
+            "content": "い顔をして、"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「では教えてやろう。狸汁というのはな。おまえのような狸をな、キャベジや塩とまぜてくたくたと煮",
+            "ruby": "に"
+          },
+          {
+            "type": "text",
+            "content": "ておれさまの食うようにしたものだ。」と云いました。すると狸の子はまたふしぎそうに"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「だってぼくのお父さんがね、ゴーシュさんはとてもいい人でこわくないから行って習えと云ったよ。」と云いました。そこでゴーシュもとうとう笑い出してしまいました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「何を習えと云ったんだ。おれはいそがしいんじゃないか。それに睡いんだよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　狸の子は俄",
+            "ruby": "にわか"
+          },
+          {
+            "type": "ruby",
+            "base": "に勢",
+            "ruby": "いきおい"
+          },
+          {
+            "type": "text",
+            "content": "がついたように一足前へ出ました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ぼくは小太鼓",
+            "ruby": "こだいこ"
+          },
+          {
+            "type": "text",
+            "content": "の係りでねえ。セロへ合わせてもらって来いと云われたんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どこにも小太鼓がないじゃないか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そら、これ」狸の子はせなかから棒きれを二本出しました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「それでどうするんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ではね、『愉快",
+            "ruby": "ゆかい"
+          },
+          {
+            "type": "text",
+            "content": "な馬車屋』を弾いてください。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なんだ愉快な馬車屋ってジャズか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ああこの譜",
+            "ruby": "ふ"
+          },
+          {
+            "type": "text",
+            "content": "だよ。」狸の子はせなかからまた一枚の譜をとり出しました。ゴーシュは手にとってわらい出しました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ふう、変な曲だなあ。よし、さあ弾くぞ。おまえは小太鼓を叩くのか。」ゴーシュは狸の子がどうするのかと思ってちらちらそっちを見ながら弾きはじめました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　すると狸の子は棒をもってセロの駒",
+            "ruby": "こま"
+          },
+          {
+            "type": "ruby",
+            "base": "の下のところを拍子",
+            "ruby": "ひょうし"
+          },
+          {
+            "type": "ruby",
+            "base": "をとってぽんぽん叩きはじめました。それがなかなかうまいので弾いているうちにゴーシュはこれは面白",
+            "ruby": "おもしろ"
+          },
+          {
+            "type": "text",
+            "content": "いぞと思いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　おしまいまでひいてしまうと狸の子はしばらく首をまげて考えました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　それからやっと考えついたというように云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ゴーシュさんはこの二番目の糸をひくときはきたいに遅",
+            "ruby": "おく"
+          },
+          {
+            "type": "text",
+            "content": "れるねえ。なんだかぼくがつまずくようになるよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュははっとしました。たしかにその糸はどんなに手早く弾いてもすこしたってからでないと音が出ないような気がゆうべからしていたのでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いや、そうかもしれない。このセロは悪いんだよ。」とゴーシュはかなしそうに云いました。すると狸は気の毒そうにしてまたしばらく考えていましたが"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どこが悪いんだろうなあ。ではもう一ぺん弾いてくれますか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いいとも弾くよ。」ゴーシュははじめました。狸の子はさっきのようにとんとん叩きながら時々頭をまげてセロに耳をつけるようにしました。そしておしまいまで来たときは今夜もまた東がぼうと明るくなっていました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああ夜が明けたぞ。どうもありがとう。」狸の子は大へんあわてて譜や棒きれをせなかへしょってゴムテープでぱちんととめておじぎを二つ三つすると急いで外へ出て行ってしまいました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ゴーシュはぼんやりしてしばらくゆうべのこわれたガラスからはいってくる風を吸っていましたが、町へ出て行くまで睡って元気をとり戻",
+            "ruby": "もど"
+          },
+          {
+            "type": "ruby",
+            "base": "そうと急いでねどこへもぐり込",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "みました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　次の晩もゴーシュは夜通しセロを弾いて明方近く思わずつかれて楽譜をもったままうとうとしていますとまた誰",
+            "ruby": "たれ"
+          },
+          {
+            "type": "ruby",
+            "base": "か扉",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "をこつこつと叩くものがあります。それもまるで聞えるか聞えないかの位でしたが毎晩のことなのでゴーシュはすぐ聞きつけて「おはいり。」と云いました。すると戸のすきまからはいって来たのは一ぴきの野ねずみでした。そして大へんちいさなこどもをつれてちょろちょろとゴーシュの前へ歩いてきました。そのまた野ねずみのこどもときたらまるでけしごむのくらいしかないのでゴーシュはおもわずわらいました。すると野ねずみは何をわらわれたろうというようにきょろきょろしながらゴーシュの前に来て、青い栗",
+            "ruby": "くり"
+          },
+          {
+            "type": "text",
+            "content": "の実を一つぶ前においてちゃんとおじぎをして云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「先生、この児",
+            "ruby": "こ"
+          },
+          {
+            "type": "ruby",
+            "base": "があんばいがわるくて死にそうでございますが先生お慈悲",
+            "ruby": "じひ"
+          },
+          {
+            "type": "text",
+            "content": "になおしてやってくださいまし。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おれが医者などやれるもんか。」ゴーシュはすこしむっとして云いました。すると野ねずみのお母さんは下を向いてしばらくだまっていましたがまた思い切ったように云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「先生、それはうそでございます、先生は毎日あんなに上手にみんなの病気をなおしておいでになるではありませんか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「何のことだかわからんね。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「だって先生先生のおかげで、兎",
+            "ruby": "うさぎ"
+          },
+          {
+            "type": "text",
+            "content": "さんのおばあさんもなおりましたし狸さんのお父さんもなおりましたしあんな意地悪のみみずくまでなおしていただいたのにこの子ばかりお助けをいただけないとはあんまり情ないことでございます。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「おいおい、それは何かの間ちがいだよ。おれはみみずくの病気なんどなおしてやったことはないからな。もっとも狸の子はゆうべ来て楽隊のまねをして行ったがね。ははん。」ゴーシュは呆",
+            "ruby": "あき"
+          },
+          {
+            "type": "text",
+            "content": "れてその子ねずみを見おろしてわらいました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　すると野鼠",
+            "ruby": "のねずみ"
+          },
+          {
+            "type": "text",
+            "content": "のお母さんは泣きだしてしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ああこの児",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "はどうせ病気になるならもっと早くなればよかった。さっきまであれ位ごうごうと鳴らしておいでになったのに、病気になるといっしょにぴたっと音がとまってもうあとはいくらおねがいしても鳴らしてくださらないなんて。何てふしあわせな子どもだろう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ゴーシュはびっくりして叫",
+            "ruby": "さけ"
+          },
+          {
+            "type": "text",
+            "content": "びました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「何だと、ぼくがセロを弾けばみみずくや兎の病気がなおると。どういうわけだ。それは。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　野ねずみは眼",
+            "ruby": "め"
+          },
+          {
+            "type": "text",
+            "content": "を片手でこすりこすり云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「はい、ここらのものは病気になるとみんな先生のおうちの床下にはいって療",
+            "ruby": "なお"
+          },
+          {
+            "type": "text",
+            "content": "すのでございます。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「すると療るのか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「はい。からだ中とても血のまわりがよくなって大へんいい気持ちですぐ療る方もあればうちへ帰ってから療る方もあります。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ああそうか。おれのセロの音がごうごうひびくと、それがあんまの代りになっておまえたちの病気がなおるというのか。よし。わかったよ。やってやろう。」ゴーシュはちょっとギウギウと糸を合せてそれからいきなりのねずみのこどもをつまんでセロの孔",
+            "ruby": "あな"
+          },
+          {
+            "type": "text",
+            "content": "から中へ入れてしまいました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「わたしもいっしょについて行きます。どこの病院でもそうですから。」おっかさんの野ねずみはきちがいのようになってセロに飛びつきました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おまえさんもはいるかね。」セロ弾きはおっかさんの野ねずみをセロの孔からくぐしてやろうとしましたが顔が半分しかはいりませんでした。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　野ねずみはばたばたしながら中のこどもに叫びました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おまえそこはいいかい。落ちるときいつも教えるように足をそろえてうまく落ちたかい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いい。うまく落ちた。」こどものねずみはまるで蚊",
+            "ruby": "か"
+          },
+          {
+            "type": "text",
+            "content": "のような小さな声でセロの底で返事しました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「大丈夫",
+            "ruby": "だいじょうぶ"
+          },
+          {
+            "type": "ruby",
+            "base": "さ。だから泣き声出すなというんだ。」ゴーシュはおっかさんのねずみを下におろしてそれから弓をとって何とかラプソディとかいうものをごうごうがあがあ弾きました。するとおっかさんのねずみはいかにも心配そうにその音の工合",
+            "ruby": "ぐあい"
+          },
+          {
+            "type": "text",
+            "content": "をきいていましたがとうとうこらえ切れなくなったふうで"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「もう沢山",
+            "ruby": "たくさん"
+          },
+          {
+            "type": "text",
+            "content": "です。どうか出してやってください。」と云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なあんだ、これでいいのか。」ゴーシュはセロをまげて孔のところに手をあてて待っていましたら間もなくこどものねずみが出てきました。ゴーシュは、だまってそれをおろしてやりました。見るとすっかり目をつぶってぶるぶるぶるぶるふるえていました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうだったの。いいかい。気分は。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　こどものねずみはすこしもへんじもしないでまだしばらく眼をつぶったままぶるぶるぶるぶるふるえていましたがにわかに起きあがって走りだした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああよくなったんだ。ありがとうございます。ありがとうございます。」おっかさんのねずみもいっしょに走っていましたが、まもなくゴーシュの前に来てしきりにおじぎをしながら"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ありがとうございますありがとうございます」と十ばかり云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュは何がなかあいそうになって"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おい、おまえたちはパンはたべるのか。」とききました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　すると野鼠はびっくりしたようにきょろきょろあたりを見まわしてから"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いえ、もうおパンというものは小麦の粉をこねたりむしたりしてこしらえたものでふくふく膨",
+            "ruby": "ふく"
+          },
+          {
+            "type": "ruby",
+            "base": "らんでいておいしいものなそうでございますが、そうでなくても私どもはおうちの戸棚",
+            "ruby": "とだな"
+          },
+          {
+            "type": "text",
+            "content": "へなど参ったこともございませんし、ましてこれ位お世話になりながらどうしてそれを運びになんど参れましょう。」と云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いや、そのことではないんだ。ただたべるのかときいたんだ。ではたべるんだな。ちょっと待てよ。その腹の悪いこどもへやるからな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュはセロを床へ置いて戸棚からパンを一つまみむしって野ねずみの前へ置きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　野ねずみはもうまるでばかのようになって泣いたり笑ったりおじぎをしたりしてから大じそうにそれをくわえてこどもをさきに立てて外へ出て行きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「あああ。鼠と話するのもなかなかつかれるぞ。」ゴーシュはねどこへどっかり倒",
+            "ruby": "たお"
+          },
+          {
+            "type": "text",
+            "content": "れてすぐぐうぐうねむってしまいました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それから六日目の晩でした。金星音楽団の人たちは町の公会堂のホールの裏にある控室",
+            "ruby": "ひかえしつ"
+          },
+          {
+            "type": "ruby",
+            "base": "へみんなぱっと顔をほてらしてめいめい楽器をもって、ぞろぞろホールの舞台",
+            "ruby": "ぶたい"
+          },
+          {
+            "type": "ruby",
+            "base": "から引きあげて来ました。首尾よく第六交響曲を仕上げたのです。ホールでは拍手",
+            "ruby": "はくしゅ"
+          },
+          {
+            "type": "ruby",
+            "base": "の音がまだ嵐",
+            "ruby": "あらし"
+          },
+          {
+            "type": "ruby",
+            "base": "のように鳴って居",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "ります。楽長はポケットへ手をつっ込んで拍手なんかどうでもいいというようにのそのそみんなの間を歩きまわっていましたが、じつはどうして嬉",
+            "ruby": "うれ"
+          },
+          {
+            "type": "text",
+            "content": "しさでいっぱいなのでした。みんなはたばこをくわえてマッチをすったり楽器をケースへ入れたりしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ホールはまだぱちぱち手が鳴っています。それどころではなくいよいよそれが高くなって何だかこわいような手がつけられないような音になりました。大きな白いリボンを胸につけた司会者がはいって来ました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「アンコールをやっていますが、何かみじかいものでもきかせてやってくださいませんか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　すると楽長がきっとなって答えました。「いけませんな。こういう大物のあとへ何を出したってこっちの気の済むようには行くもんでないんです。」"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「では楽長さん出て一寸",
+            "ruby": "ちょっと"
+          },
+          {
+            "type": "ruby",
+            "base": "挨拶",
+            "ruby": "あいさつ"
+          },
+          {
+            "type": "text",
+            "content": "してください。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「だめだ。おい、ゴーシュ君、何か出て弾いてやってくれ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「わたしがですか。」ゴーシュは呆気",
+            "ruby": "あっけ"
+          },
+          {
+            "type": "text",
+            "content": "にとられました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「君だ、君だ。」ヴァイオリンの一番の人がいきなり顔をあげて云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「さあ出て行きたまえ。」楽長が云いました。みんなもセロをむりにゴーシュに持たせて扉",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "をあけるといきなり舞台へゴーシュを押",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "し出してしまいました。ゴーシュがその孔のあいたセロをもってじつに困ってしまって舞台へ出るとみんなはそら見ろというように一そうひどく手を叩",
+            "ruby": "たた"
+          },
+          {
+            "type": "text",
+            "content": "きました。わあと叫んだものもあるようでした。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どこまでひとをばかにするんだ。よし見ていろ。印度",
+            "ruby": "インド"
+          },
+          {
+            "type": "ruby",
+            "base": "の虎狩",
+            "ruby": "とらがり"
+          },
+          {
+            "type": "text",
+            "content": "をひいてやるから。」ゴーシュはすっかり落ちついて舞台のまん中へ出ました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それからあの猫",
+            "ruby": "ねこ"
+          },
+          {
+            "type": "ruby",
+            "base": "の来たときのようにまるで怒",
+            "ruby": "おこ"
+          },
+          {
+            "type": "ruby",
+            "base": "った象のような勢",
+            "ruby": "いきおい"
+          },
+          {
+            "type": "ruby",
+            "base": "で虎狩りを弾きました。ところが聴衆",
+            "ruby": "ちょうしゅう"
+          },
+          {
+            "type": "text",
+            "content": "はしいんとなって一生けん命聞いています。ゴーシュはどんどん弾きました。猫が切ながってぱちぱち火花を出したところも過ぎました。扉へからだを何べんもぶっつけた所も過ぎました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　曲が終るとゴーシュはもうみんなの方などは見もせずちょうどその猫のようにすばやくセロをもって楽屋へ遁",
+            "ruby": "に"
+          },
+          {
+            "type": "ruby",
+            "base": "げ込みました。すると楽屋では楽長はじめ仲間がみんな火事にでもあったあとのように眼をじっとしてひっそりとすわり込んでいます。ゴーシュはやぶれかぶれだと思ってみんなの間をさっさとあるいて行って向うの長椅子",
+            "ruby": "ながいす"
+          },
+          {
+            "type": "text",
+            "content": "へどっかりとからだをおろして足を組んですわりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　するとみんなが一ぺんに顔をこっちへ向けてゴーシュを見ましたがやはりまじめでべつにわらっているようでもありませんでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「こんやは変な晩だなあ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ゴーシュは思いました。ところが楽長は立って云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ゴーシュ君、よかったぞお。あんな曲だけれどもここではみんなかなり本気になって聞いてたぞ。一週間か十日の間にずいぶん仕上げたなあ。十日前とくらべたらまるで赤ん坊と兵隊だ。やろうと思えばいつでもやれたんじゃないか、君。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　仲間もみんな立って来て「よかったぜ」とゴーシュに云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いや、からだが丈夫だからこんなこともできるよ。普通",
+            "ruby": "ふつう"
+          },
+          {
+            "type": "text",
+            "content": "の人なら死んでしまうからな。」楽長が向うで云っていました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　その晩遅",
+            "ruby": "おそ"
+          },
+          {
+            "type": "text",
+            "content": "くゴーシュは自分のうちへ帰って来ました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そしてまた水をがぶがぶ呑",
+            "ruby": "の"
+          },
+          {
+            "type": "text",
+            "content": "みました。それから窓をあけていつかかっこうの飛んで行ったと思った遠くのそらをながめながら"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああかっこう。あのときはすまなかったなあ。おれは怒ったんじゃなかったんだ。」と云いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「新編　銀河鉄道の夜」新潮文庫、新潮社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1989（平成元）年6月15日発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1994（平成6）年6月5日13刷"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本の親本：「新修宮沢賢治全集　第十二巻」筑摩書房"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1980（昭和55）年1月"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：水口充、野口英司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：野口英司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1999年7月23日公開"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2008年10月25日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "　その晩遅",
+      "reading": "",
+      "meaning": "",
+      "frequency": 2,
+      "difficulty": 3,
+      "examples": [
+        {
+          "sentence": "　その晩遅くゴーシュは何か巨きな黒いものをしょってじぶんの家へ帰ってきました。家といってもそれは町はずれの川ばたにあるこわれた水車小屋で、ゴーシュはそこにたった一人ですんでいて午前は小屋のまわりの小さな畑でトマトの枝をきったり甘藍の虫をひろったりしてひるすぎになるといつも出て行っていたのです。ゴーシュがうちへ入ってあかりをつけるとさっきの黒い包みをあけました。それは何でもない。あの夕方のごつごつしたセロでした。ゴーシュはそれを床の上にそっと置くと、いきなり棚からコップをとってバケツの水をごくごくのみました。",
+          "lineNumber": 31
+        },
+        {
+          "sentence": "　その晩遅くゴーシュは自分のうちへ帰って来ました。",
+          "lineNumber": 206
+        }
+      ]
+    },
+    {
+      "word": "の虎狩",
+      "reading": "",
+      "meaning": "",
+      "frequency": 2,
+      "difficulty": 2,
+      "examples": [
+        {
+          "sentence": "　セロ弾きは何と思ったかまずはんけちを引きさいてじぶんの耳の穴へぎっしりつめました。それからまるで嵐のような勢で「印度の虎狩」という譜を弾きはじめました。",
+          "lineNumber": 54
+        },
+        {
+          "sentence": "「どこまでひとをばかにするんだ。よし見ていろ。印度の虎狩をひいてやるから。」ゴーシュはすっかり落ちついて舞台のまん中へ出ました。",
+          "lineNumber": 197
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "comprehension": [
+      {
+        "id": "comp_1",
+        "type": "multiple_choice",
+        "question": "この物語の主人公は誰ですか？",
+        "options": [
+          "練習",
+          "音楽",
+          "失敗",
+          "工合"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "explanation": "主人公は練習です。"
+      },
+      {
+        "id": "comp_2",
+        "type": "multiple_choice",
+        "question": "物語の冒頭で語られていることは何ですか？",
+        "options": [
+          "「狸汁ってぼく知らない。」と云いました。ゴーシュはその顔を見...",
+          "主人公が旅に出る場面",
+          "事件が起きる場面",
+          "物語の結末"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2
+      },
+      {
+        "id": "comp_3",
+        "type": "multiple_choice",
+        "question": "この作品の主なテーマは何ですか？",
+        "options": [
+          "自然",
+          "友情",
+          "平和",
+          "家族"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "explanation": "この作品は「自然」をテーマにしています。"
+      },
+      {
+        "id": "comp_4",
+        "type": "short_answer",
+        "question": "この物語から学べることは何だと思いますか？",
+        "sampleAnswer": "人の気持ちを理解することの大切さ",
+        "difficulty": 4,
+        "rubric": [
+          "テーマとの関連性",
+          "自分の考えの表現",
+          "具体例の使用"
+        ]
+      },
+      {
+        "id": "comp_5",
+        "type": "true_false",
+        "question": "物語の中で「「うるさいなあ。ではおまえやってごらん。...」という場面があります。",
+        "correctAnswer": true,
+        "difficulty": 2
+      }
+    ],
+    "vocabulary": [],
+    "kanji": [
+      {
+        "id": "kanji_1",
+        "type": "input",
+        "question": "「例」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "め",
+        "acceptableAnswers": [
+          "め",
+          "こうきょうきょく"
+        ],
+        "difficulty": 1,
+        "hint": "1文字のひらがなです。"
+      },
+      {
+        "id": "kanji_2",
+        "type": "input",
+        "question": "「眼」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "め",
+        "acceptableAnswers": [
+          "め",
+          "ものすご",
+          "おもしろ",
+          "くだ",
+          "ながいす"
+        ],
+        "difficulty": 4,
+        "hint": "1文字のひらがなです。"
+      },
+      {
+        "id": "kanji_3",
+        "type": "input",
+        "question": "「第」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こうきょうきょく",
+        "acceptableAnswers": [
+          "こうきょうきょく",
+          "くき",
+          "こうきょうがく",
+          "はくしゅ"
+        ],
+        "difficulty": 4,
+        "hint": "8文字のひらがなです。"
+      },
+      {
+        "id": "kanji_4",
+        "type": "input",
+        "question": "「六」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こうきょうきょく",
+        "acceptableAnswers": [
+          "こうきょうきょく",
+          "たま",
+          "みけねこ",
+          "こうきょうがく",
+          "ひかえしつ",
+          "はくしゅ"
+        ],
+        "difficulty": 2,
+        "hint": "8文字のひらがなです。"
+      },
+      {
+        "id": "kanji_5",
+        "type": "input",
+        "question": "「交」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こうきょうきょく",
+        "acceptableAnswers": [
+          "こうきょうきょく",
+          "こうきょうがく",
+          "はくしゅ"
+        ],
+        "difficulty": 1,
+        "hint": "8文字のひらがなです。"
+      },
+      {
+        "id": "kanji_6",
+        "type": "input",
+        "question": "「響」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こうきょうきょく",
+        "acceptableAnswers": [
+          "こうきょうきょく",
+          "こうきょうがく",
+          "はくしゅ"
+        ],
+        "difficulty": 5,
+        "hint": "8文字のひらがなです。"
+      },
+      {
+        "id": "kanji_7",
+        "type": "input",
+        "question": "「曲」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こうきょうきょく",
+        "acceptableAnswers": [
+          "こうきょうきょく",
+          "かなぐつかじ",
+          "ふ",
+          "はくしゅ",
+          "に"
+        ],
+        "difficulty": 3,
+        "hint": "8文字のひらがなです。"
+      },
+      {
+        "id": "kanji_8",
+        "type": "input",
+        "question": "「楽」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こうきょうきょく",
+        "acceptableAnswers": [
+          "こうきょうきょく",
+          "がくふ",
+          "う",
+          "ふ",
+          "かなぐつかじ",
+          "くつ",
+          "たま",
+          "こうきょうがく",
+          "たれ",
+          "あき",
+          "ひかえしつ",
+          "ぶたい",
+          "うれ",
+          "ちょっと",
+          "と",
+          "に",
+          "ながいす"
+        ],
+        "difficulty": 3,
+        "hint": "8文字のひらがなです。"
+      },
+      {
+        "id": "kanji_9",
+        "type": "input",
+        "question": "「屋」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こうきょうきょく",
+        "acceptableAnswers": [
+          "こうきょうきょく",
+          "でっち",
+          "えだ",
+          "に",
+          "ながいす"
+        ],
+        "difficulty": 2,
+        "hint": "8文字のひらがなです。"
+      },
+      {
+        "id": "kanji_10",
+        "type": "input",
+        "question": "「円」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "こうきょうきょく",
+        "acceptableAnswers": [
+          "こうきょうきょく"
+        ],
+        "difficulty": 2,
+        "hint": "8文字のひらがなです。"
+      }
+    ]
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  },
+  "kanjiList": [
+    {
+      "character": "例",
+      "readings": [
+        "め",
+        "こうきょうきょく"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "交",
+      "readings": [
+        "こうきょうきょく",
+        "こうきょうがく",
+        "はくしゅ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "今",
+      "readings": [
+        "こうきょうきょく",
+        "あせ",
+        "たま",
+        "はら"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "会",
+      "readings": [
+        "こうきょうきょく",
+        "ひかえしつ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "云",
+      "readings": [
+        "い",
+        "くき",
+        "おどろ",
+        "め",
+        "ふ",
+        "くり",
+        "と"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "丁",
+      "readings": [
+        "でっち"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "一",
+      "readings": [
+        "たま",
+        "えだ",
+        "いす",
+        "くき",
+        "おもしろ",
+        "たれ",
+        "ぴき",
+        "いっぱい",
+        "たぬき",
+        "くり",
+        "ちょっと",
+        "たた"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "人",
+      "readings": [
+        "たま",
+        "えだ",
+        "ひかえしつ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "休",
+      "readings": [
+        "たま"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "何",
+      "readings": [
+        "おお",
+        "ゆか",
+        "くき",
+        "と",
+        "あらし",
+        "たれ",
+        "ところ",
+        "こうきょうがく",
+        "くちばし",
+        "くだ",
+        "はら",
+        "くり",
+        "あき",
+        "ぐあい"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "上",
+      "readings": [
+        "たな",
+        "くだ",
+        "はくしゅ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "中",
+      "readings": [
+        "ものすご",
+        "とちゅう",
+        "いっぱい"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "五",
+      "readings": [
+        "みけねこ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "三",
+      "readings": [
+        "みけねこ",
+        "ひ",
+        "くだ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "二",
+      "readings": [
+        "へや",
+        "たれ",
+        "くだ",
+        "おく"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "作",
+      "readings": [
+        "ふ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "代",
+      "readings": [
+        "おもしろ",
+        "あな"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "井",
+      "readings": [
+        "てんじょう"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "下",
+      "readings": [
+        "くちばし",
+        "くだ",
+        "ひょうし",
+        "なお",
+        "ぐあい"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "俄",
+      "readings": [
+        "にわか"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "位",
+      "readings": [
+        "くり"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "丈",
+      "readings": [
+        "だいじょうぶ",
+        "ふつう"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "仕",
+      "readings": [
+        "はくしゅ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "仲",
+      "readings": [
+        "ながいす"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "事",
+      "readings": [
+        "ながいす"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "六",
+      "readings": [
+        "こうきょうきょく",
+        "たま",
+        "みけねこ",
+        "こうきょうがく",
+        "ひかえしつ",
+        "はくしゅ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "屋",
+      "readings": [
+        "こうきょうきょく",
+        "でっち",
+        "えだ",
+        "に",
+        "ながいす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "円",
+      "readings": [
+        "こうきょうきょく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "度",
+      "readings": [
+        "こうきょうきょく",
+        "インド"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "出",
+      "readings": [
+        "こうきょうきょく",
+        "い",
+        "ふ",
+        "くつ",
+        "そまつ",
+        "ゆか",
+        "おもしろ",
+        "くだ",
+        "こわ",
+        "もど",
+        "ぐあい",
+        "ちょっと",
+        "と",
+        "たた"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "口",
+      "readings": [
+        "め",
+        "なみだ",
+        "ふ",
+        "おもしろ",
+        "と"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "少",
+      "readings": [
+        "あせ",
+        "あ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "前",
+      "readings": [
+        "あせ",
+        "えだ",
+        "くだ",
+        "くり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "安",
+      "readings": [
+        "う"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "心",
+      "readings": [
+        "う",
+        "かなぐつかじ",
+        "ぐあい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "弾",
+      "readings": [
+        "う",
+        "ふ",
+        "ものすご",
+        "あらし",
+        "おどろ",
+        "かや",
+        "たれ",
+        "ひ",
+        "いっぱい",
+        "おもしろ",
+        "ぐあい",
+        "ちょうしゅう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "君",
+      "readings": [
+        "かなぐつかじ",
+        "おこ",
+        "さけ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "奏",
+      "readings": [
+        "かなぐつかじ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "十",
+      "readings": [
+        "かなぐつかじ",
+        "へや",
+        "たれ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "専",
+      "readings": [
+        "かなぐつかじ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "冶",
+      "readings": [
+        "かなぐつかじ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "寄",
+      "readings": [
+        "めんもく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "困",
+      "readings": [
+        "おこ",
+        "こうき",
+        "たた"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "喜",
+      "readings": [
+        "くつ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "外",
+      "readings": [
+        "くつ",
+        "へや",
+        "あき",
+        "たお"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "器",
+      "readings": [
+        "くつ",
+        "ぶたい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "合",
+      "readings": [
+        "くつ",
+        "ぐあい",
+        "あな"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "引",
+      "readings": [
+        "こうき",
+        "あらし",
+        "はくしゅ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "光",
+      "readings": [
+        "こうき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "団",
+      "readings": [
+        "たま",
+        "ひかえしつ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "入",
+      "readings": [
+        "たま",
+        "ゆか",
+        "と"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "壁",
+      "readings": [
+        "かべ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "向",
+      "readings": [
+        "なみだ",
+        "くだ",
+        "ながいす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "巨",
+      "readings": [
+        "おお"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "家",
+      "readings": [
+        "えだ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "帰",
+      "readings": [
+        "えだ",
+        "たれ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "川",
+      "readings": [
+        "えだ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "小",
+      "readings": [
+        "えだ",
+        "こだいこ",
+        "ふく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "午",
+      "readings": [
+        "えだ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "包",
+      "readings": [
+        "ゆか",
+        "たれ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "夕",
+      "readings": [
+        "ゆか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "床",
+      "readings": [
+        "ゆか",
+        "すわ",
+        "なお"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "子",
+      "readings": [
+        "いす",
+        "ガラス",
+        "くちばし",
+        "くだ",
+        "すわ",
+        "にわか",
+        "こま",
+        "ひょうし",
+        "あき",
+        "ながいす"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "勢",
+      "readings": [
+        "いきおい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "夜",
+      "readings": [
+        "ものすご",
+        "いっぱい",
+        "はら",
+        "たれ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "凄",
+      "readings": [
+        "ものすご"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "倒",
+      "readings": [
+        "たお"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "叩",
+      "readings": [
+        "たた",
+        "おもしろ",
+        "くり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "叫",
+      "readings": [
+        "さけ",
+        "てんじょう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "大",
+      "readings": [
+        "みけねこ",
+        "くり",
+        "だいじょうぶ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "室",
+      "readings": [
+        "へや",
+        "ひかえしつ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "嵐",
+      "readings": [
+        "あらし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "印",
+      "readings": [
+        "インド"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "失",
+      "readings": [
+        "おもしろ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "工",
+      "readings": [
+        "ぐあい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "尖",
+      "readings": [
+        "とが"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "天",
+      "readings": [
+        "てんじょう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "啼",
+      "readings": [
+        "な"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "勝",
+      "readings": [
+        "ところ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "処",
+      "readings": [
+        "ところ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "念",
+      "readings": [
+        "め"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "元",
+      "readings": [
+        "くちばし",
+        "もど"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "嘴",
+      "readings": [
+        "くちばし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "待",
+      "readings": [
+        "くだ",
+        "お"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "寸",
+      "readings": [
+        "くだ",
+        "ちょっと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "力",
+      "readings": [
+        "くだ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "動",
+      "readings": [
+        "くだ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "呆",
+      "readings": [
+        "あき",
+        "あっけ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "居",
+      "readings": [
+        "お"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "座",
+      "readings": [
+        "すわ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "吹",
+      "readings": [
+        "ふ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "塩",
+      "readings": [
+        "に"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "太",
+      "readings": [
+        "こだいこ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "快",
+      "readings": [
+        "ゆかい"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "吸",
+      "readings": [
+        "もど"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "先",
+      "readings": [
+        "こ",
+        "じひ",
+        "うさぎ",
+        "なお"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "児",
+      "readings": [
+        "こ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "兎",
+      "readings": [
+        "うさぎ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "孔",
+      "readings": [
+        "あな",
+        "たた"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "夫",
+      "readings": [
+        "だいじょうぶ",
+        "ふつう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    }
+  ]
+}

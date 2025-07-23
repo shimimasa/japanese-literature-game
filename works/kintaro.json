@@ -1,0 +1,3635 @@
+{
+  "id": "文福茶がま",
+  "title": "文福茶がま",
+  "titleKana": "",
+  "author": {
+    "name": "楠山正雄",
+    "nameKana": ""
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 3,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 3,
+      "vocabulary": 3,
+      "grammar": 3
+    },
+    "themes": [],
+    "totalCharacters": 4262,
+    "estimatedReadingTime": 11
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　一"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　むかし、上野国",
+            "ruby": "こうずけのくに"
+          },
+          {
+            "type": "ruby",
+            "base": "館林",
+            "ruby": "たてばやし"
+          },
+          {
+            "type": "ruby",
+            "base": "に、茂林寺",
+            "ruby": "もりんじ"
+          },
+          {
+            "type": "ruby",
+            "base": "というお寺",
+            "ruby": "てら"
+          },
+          {
+            "type": "ruby",
+            "base": "がありました。このお寺",
+            "ruby": "てら"
+          },
+          {
+            "type": "ruby",
+            "base": "の和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんはたいそうお茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "の湯",
+            "ruby": "ゆ"
+          },
+          {
+            "type": "ruby",
+            "base": "がすきで、いろいろとかわったお茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "道具",
+            "ruby": "どうぐ"
+          },
+          {
+            "type": "ruby",
+            "base": "を集",
+            "ruby": "あつ"
+          },
+          {
+            "type": "ruby",
+            "base": "めてまいにち、それをいじっては楽",
+            "ruby": "たの"
+          },
+          {
+            "type": "text",
+            "content": "しみにしていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ある日和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんは用事",
+            "ruby": "ようじ"
+          },
+          {
+            "type": "ruby",
+            "base": "があって町",
+            "ruby": "まち"
+          },
+          {
+            "type": "ruby",
+            "base": "へ行った帰",
+            "ruby": "かえ"
+          },
+          {
+            "type": "ruby",
+            "base": "りに、一軒",
+            "ruby": "けん"
+          },
+          {
+            "type": "ruby",
+            "base": "の道具屋",
+            "ruby": "どうぐや"
+          },
+          {
+            "type": "ruby",
+            "base": "で、気",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "に入",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "った形",
+            "ruby": "かたち"
+          },
+          {
+            "type": "ruby",
+            "base": "の茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまを見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "つけました。和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんはさっそくそれを買",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "って帰",
+            "ruby": "かえ"
+          },
+          {
+            "type": "ruby",
+            "base": "って、自分",
+            "ruby": "じぶん"
+          },
+          {
+            "type": "ruby",
+            "base": "のお部屋",
+            "ruby": "へや"
+          },
+          {
+            "type": "ruby",
+            "base": "に飾",
+            "ruby": "かざ"
+          },
+          {
+            "type": "text",
+            "content": "って、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どうです、なかなかいい茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "text",
+            "content": "がまでしょう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と、来",
+            "ruby": "く"
+          },
+          {
+            "type": "ruby",
+            "base": "る人ごとに見",
+            "ruby": "み"
+          },
+          {
+            "type": "text",
+            "content": "せて、じまんしていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ある晩",
+            "ruby": "ばん"
+          },
+          {
+            "type": "ruby",
+            "base": "和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんはいつものとおりお居間",
+            "ruby": "いま"
+          },
+          {
+            "type": "ruby",
+            "base": "に茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまを飾",
+            "ruby": "かざ"
+          },
+          {
+            "type": "ruby",
+            "base": "ったまま、そのそばでうとうと居眠",
+            "ruby": "いねむ"
+          },
+          {
+            "type": "ruby",
+            "base": "りをしていました。そのうちほんとうにぐっすり、寝込",
+            "ruby": "ねこ"
+          },
+          {
+            "type": "text",
+            "content": "んでしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんのお部屋",
+            "ruby": "へや"
+          },
+          {
+            "type": "ruby",
+            "base": "があんまり静",
+            "ruby": "しず"
+          },
+          {
+            "type": "ruby",
+            "base": "かなので、小僧",
+            "ruby": "こぞう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんたちは、どうしたのかと思",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "って、そっと障子",
+            "ruby": "しょうじ"
+          },
+          {
+            "type": "ruby",
+            "base": "の透",
+            "ruby": "す"
+          },
+          {
+            "type": "ruby",
+            "base": "き間",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "から中をのぞいてみました。すると和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんのそばに布団",
+            "ruby": "ふとん"
+          },
+          {
+            "type": "ruby",
+            "base": "をしいて座",
+            "ruby": "すわ"
+          },
+          {
+            "type": "ruby",
+            "base": "っていた茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまが、ひとりでにむくむくと動",
+            "ruby": "うご"
+          },
+          {
+            "type": "ruby",
+            "base": "き出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "しました。「おや。」と思",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "ううちに、茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまからひょっこり頭",
+            "ruby": "あたま"
+          },
+          {
+            "type": "ruby",
+            "base": "が出て、太",
+            "ruby": "ふと"
+          },
+          {
+            "type": "ruby",
+            "base": "いしっぽがはえて、四本",
+            "ruby": "ほん"
+          },
+          {
+            "type": "ruby",
+            "base": "の足",
+            "ruby": "あし"
+          },
+          {
+            "type": "ruby",
+            "base": "が出て、やがてのそのそとお部屋",
+            "ruby": "へや"
+          },
+          {
+            "type": "ruby",
+            "base": "の中を歩",
+            "ruby": "ある"
+          },
+          {
+            "type": "ruby",
+            "base": "き出",
+            "ruby": "だ"
+          },
+          {
+            "type": "text",
+            "content": "しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　小僧",
+            "ruby": "こぞう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんたちはびっくりして、お部屋",
+            "ruby": "へや"
+          },
+          {
+            "type": "ruby",
+            "base": "の中へとび込",
+            "ruby": "こ"
+          },
+          {
+            "type": "ruby",
+            "base": "んで来",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "て、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「やあ、たいへんだ。茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまが化",
+            "ruby": "ば"
+          },
+          {
+            "type": "text",
+            "content": "けた。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さん、和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さん。茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまが歩",
+            "ruby": "ある"
+          },
+          {
+            "type": "ruby",
+            "base": "き出",
+            "ruby": "だ"
+          },
+          {
+            "type": "text",
+            "content": "しましたよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と、てんでんにとんきょうな声",
+            "ruby": "こえ"
+          },
+          {
+            "type": "ruby",
+            "base": "を立",
+            "ruby": "た"
+          },
+          {
+            "type": "ruby",
+            "base": "ててさわぎ出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "しました。その音",
+            "ruby": "おと"
+          },
+          {
+            "type": "ruby",
+            "base": "に和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "text",
+            "content": "さんは目をさまして、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「やかましい、何",
+            "ruby": "なに"
+          },
+          {
+            "type": "text",
+            "content": "をさわぐのだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　と目をこすりながらしかりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「でも和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さん、ごらんなさい。ほら、あのとおり茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまが歩",
+            "ruby": "ある"
+          },
+          {
+            "type": "text",
+            "content": "きますよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　こうてんでんに言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "うので、和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんも小僧",
+            "ruby": "こぞう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんたちの指",
+            "ruby": "ゆび"
+          },
+          {
+            "type": "ruby",
+            "base": "さす方",
+            "ruby": "ほう"
+          },
+          {
+            "type": "ruby",
+            "base": "を見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "ますと、茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまにはもう頭",
+            "ruby": "あたま"
+          },
+          {
+            "type": "ruby",
+            "base": "も足",
+            "ruby": "あし"
+          },
+          {
+            "type": "ruby",
+            "base": "もしっぽもありません。ちゃんともとの茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまになって、いつの間",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "にか布団",
+            "ruby": "ふとん"
+          },
+          {
+            "type": "ruby",
+            "base": "の上にのって、すましていました。和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "text",
+            "content": "さんはおこって、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「何",
+            "ruby": "なん"
+          },
+          {
+            "type": "ruby",
+            "base": "だ。ばかなことを言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "うにもほどがある。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「でもへんだなあ。たしかに歩",
+            "ruby": "ある"
+          },
+          {
+            "type": "text",
+            "content": "いていたのに。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　こう言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら小僧",
+            "ruby": "こぞう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんたちはふしぎそうに、寄",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "って来",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "て茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまをたたいてみました。茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまは「かん。」と鳴",
+            "ruby": "な"
+          },
+          {
+            "type": "text",
+            "content": "りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それみろ。やっぱりただの茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまだ。くだらないことを言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "って、せっかくいい心持",
+            "ruby": "こころも"
+          },
+          {
+            "type": "ruby",
+            "base": "ちに寝",
+            "ruby": "ね"
+          },
+          {
+            "type": "ruby",
+            "base": "ているところを起",
+            "ruby": "お"
+          },
+          {
+            "type": "text",
+            "content": "こしてしまった。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんにひどくしかられて、小僧",
+            "ruby": "こぞう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんたちはしょげて、ぶつぶつ口こごとを言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら引",
+            "ruby": "ひ"
+          },
+          {
+            "type": "ruby",
+            "base": "っ込",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "んでいきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そのあくる日和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "text",
+            "content": "さんは、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「せっかく茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまを買",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "って来",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "て、ながめてばかりいてもつまらない。今日",
+            "ruby": "きょう"
+          },
+          {
+            "type": "ruby",
+            "base": "はひとつ使",
+            "ruby": "つか"
+          },
+          {
+            "type": "text",
+            "content": "いだめしをしてやろう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "って、茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまに水をくみ入",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "れました。すると小さな茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまのくせに、いきなり手",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "おけに一ぱいの水をがぶりと飲",
+            "ruby": "の"
+          },
+          {
+            "type": "text",
+            "content": "んでしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんは少",
+            "ruby": "すこ"
+          },
+          {
+            "type": "ruby",
+            "base": "し「へんだ。」と思",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "いましたが、ほかに変",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "わったこともないので、安心",
+            "ruby": "あんしん"
+          },
+          {
+            "type": "ruby",
+            "base": "してまた水を入",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "れて、いろりにかけました。すると、しばらくしてお尻",
+            "ruby": "しり"
+          },
+          {
+            "type": "ruby",
+            "base": "があたたまってくると、茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまはだしぬけに、「あつい。」と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "って、いろりの外",
+            "ruby": "そと"
+          },
+          {
+            "type": "ruby",
+            "base": "へとび出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "しました。おやと思",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "う間",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "にたぬきの頭",
+            "ruby": "あたま"
+          },
+          {
+            "type": "ruby",
+            "base": "が出て、四本",
+            "ruby": "ほん"
+          },
+          {
+            "type": "ruby",
+            "base": "の足",
+            "ruby": "あし"
+          },
+          {
+            "type": "ruby",
+            "base": "が出て、太",
+            "ruby": "ふと"
+          },
+          {
+            "type": "ruby",
+            "base": "いしっぽがはえて、のこのことおざしきの中を歩",
+            "ruby": "ある"
+          },
+          {
+            "type": "ruby",
+            "base": "き出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "しましたから、和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんは、「わあッ。」と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "って、思",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "わずとび上",
+            "ruby": "あ"
+          },
+          {
+            "type": "text",
+            "content": "がりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「たいへん、たいへん。茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまが化",
+            "ruby": "ば"
+          },
+          {
+            "type": "ruby",
+            "base": "けた。だれか来",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "てくれ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんがびっくりして大きな声",
+            "ruby": "こえ"
+          },
+          {
+            "type": "ruby",
+            "base": "で呼",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "び立",
+            "ruby": "た"
+          },
+          {
+            "type": "ruby",
+            "base": "てますと、小僧",
+            "ruby": "こぞう"
+          },
+          {
+            "type": "text",
+            "content": "さんたちは、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「そら来",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "た。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　というので、向",
+            "ruby": "む"
+          },
+          {
+            "type": "ruby",
+            "base": "こう鉢巻",
+            "ruby": "はちま"
+          },
+          {
+            "type": "ruby",
+            "base": "きで、ほうきやはたきを持",
+            "ruby": "も"
+          },
+          {
+            "type": "ruby",
+            "base": "ってとび込",
+            "ruby": "こ"
+          },
+          {
+            "type": "ruby",
+            "base": "んで来",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "ました。でももうその時分",
+            "ruby": "じぶん"
+          },
+          {
+            "type": "ruby",
+            "base": "にはもとの茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまになって、布団",
+            "ruby": "ふとん"
+          },
+          {
+            "type": "ruby",
+            "base": "の上にすましていました。たたけばまた「かん。かん。」と鳴",
+            "ruby": "な"
+          },
+          {
+            "type": "text",
+            "content": "りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんはまだびっくりしたような顔",
+            "ruby": "かお"
+          },
+          {
+            "type": "text",
+            "content": "をしながら、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どうもいい茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまを手",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "に入",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "れたと思",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "ったら、とんだものをしょい込",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "んだ。どうしたものだろう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と考",
+            "ruby": "かんが"
+          },
+          {
+            "type": "ruby",
+            "base": "えていますと、門",
+            "ruby": "もん"
+          },
+          {
+            "type": "ruby",
+            "base": "の外",
+            "ruby": "そと"
+          },
+          {
+            "type": "text",
+            "content": "で、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「くずい、くずい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　という声",
+            "ruby": "こえ"
+          },
+          {
+            "type": "text",
+            "content": "がしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ああ、いいところへくず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "が来",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "た。こんな茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまはいっそくず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "に売",
+            "ruby": "う"
+          },
+          {
+            "type": "text",
+            "content": "ってしまおう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんはこう言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "って、さっそくくず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "を呼",
+            "ruby": "よ"
+          },
+          {
+            "type": "text",
+            "content": "ばせました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　くず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "は和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんの出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "した茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまを手",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "に取",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "って、なでてみたり、たたいてみたり、底",
+            "ruby": "そこ"
+          },
+          {
+            "type": "text",
+            "content": "をかえしてみたりしたあとで、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「これはけっこうな品物",
+            "ruby": "しなもの"
+          },
+          {
+            "type": "text",
+            "content": "です。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "って、茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまを買",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "って、くずかごの中に入",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "れて持",
+            "ruby": "も"
+          },
+          {
+            "type": "text",
+            "content": "って行きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　二"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまを買",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "ったくず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "は、うちへ帰",
+            "ruby": "かえ"
+          },
+          {
+            "type": "text",
+            "content": "ってもまだにこにこして、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「これはこのごろにない掘",
+            "ruby": "ほ"
+          },
+          {
+            "type": "ruby",
+            "base": "り出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "しものだ。どうかして道具",
+            "ruby": "どうぐ"
+          },
+          {
+            "type": "ruby",
+            "base": "ずきなお金持",
+            "ruby": "かねも"
+          },
+          {
+            "type": "ruby",
+            "base": "ちをつかまえて、いい価",
+            "ruby": "ね"
+          },
+          {
+            "type": "ruby",
+            "base": "に売",
+            "ruby": "う"
+          },
+          {
+            "type": "text",
+            "content": "らなければならない。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　こう独",
+            "ruby": "ひと"
+          },
+          {
+            "type": "ruby",
+            "base": "り言",
+            "ruby": "ごと"
+          },
+          {
+            "type": "ruby",
+            "base": "を言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、その晩",
+            "ruby": "ばん"
+          },
+          {
+            "type": "ruby",
+            "base": "はだいじそうに茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまをまくら元",
+            "ruby": "もと"
+          },
+          {
+            "type": "ruby",
+            "base": "に飾",
+            "ruby": "かざ"
+          },
+          {
+            "type": "ruby",
+            "base": "って、ぐっすり寝",
+            "ruby": "ね"
+          },
+          {
+            "type": "ruby",
+            "base": "ました。すると真夜中",
+            "ruby": "まよなか"
+          },
+          {
+            "type": "text",
+            "content": "すぎになって、どこかで、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「もしもしくず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "さん、くず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "text",
+            "content": "さん。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と呼",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "ぶ声",
+            "ruby": "こえ"
+          },
+          {
+            "type": "ruby",
+            "base": "がしました。はっとして目をさましますと、まくら元",
+            "ruby": "もと"
+          },
+          {
+            "type": "ruby",
+            "base": "にさっきの茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまがいつの間",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "にか毛",
+            "ruby": "け"
+          },
+          {
+            "type": "ruby",
+            "base": "むくじゃらな頭",
+            "ruby": "あたま"
+          },
+          {
+            "type": "ruby",
+            "base": "と太",
+            "ruby": "ふと"
+          },
+          {
+            "type": "ruby",
+            "base": "いしっぽを出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "して、ちょこなんと座",
+            "ruby": "すわ"
+          },
+          {
+            "type": "ruby",
+            "base": "っていました。くず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "はびっくりして、はね起",
+            "ruby": "お"
+          },
+          {
+            "type": "text",
+            "content": "きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「やあ、たいへん。茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまが化",
+            "ruby": "ば"
+          },
+          {
+            "type": "text",
+            "content": "けたぞ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「くず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "text",
+            "content": "さん、そんなにおどろかないでもいいよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「だっておどろかずにいられるものかい。茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまに毛",
+            "ruby": "け"
+          },
+          {
+            "type": "ruby",
+            "base": "がはえて歩",
+            "ruby": "ある"
+          },
+          {
+            "type": "ruby",
+            "base": "き出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "せば、だれだっておどろくだろうじゃないか。いったいお前",
+            "ruby": "まえ"
+          },
+          {
+            "type": "ruby",
+            "base": "は何",
+            "ruby": "なん"
+          },
+          {
+            "type": "text",
+            "content": "だい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「わたしは文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまといって、ほんとうはたぬきの化",
+            "ruby": "ば"
+          },
+          {
+            "type": "ruby",
+            "base": "けた茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまですよ。じつはある日野原",
+            "ruby": "のはら"
+          },
+          {
+            "type": "ruby",
+            "base": "へ出て遊",
+            "ruby": "あそ"
+          },
+          {
+            "type": "ruby",
+            "base": "んでいるところを五、六人",
+            "ruby": "にん"
+          },
+          {
+            "type": "ruby",
+            "base": "の男",
+            "ruby": "おとこ"
+          },
+          {
+            "type": "ruby",
+            "base": "に追",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "いまわされて、しかたなしに茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまに化",
+            "ruby": "ば"
+          },
+          {
+            "type": "ruby",
+            "base": "けて草",
+            "ruby": "くさ"
+          },
+          {
+            "type": "ruby",
+            "base": "の中にころがっていると、またその男",
+            "ruby": "おとこ"
+          },
+          {
+            "type": "ruby",
+            "base": "たちが見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "つけて、こんどは茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまだ、茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまだ、いいものが手",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "に入",
+            "ruby": "はい"
+          },
+          {
+            "type": "ruby",
+            "base": "った。これをどこかへ売",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "りとばして、みんなでうまいものを買",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "って食",
+            "ruby": "た"
+          },
+          {
+            "type": "ruby",
+            "base": "べようと言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いました。それでわたしは古道具屋",
+            "ruby": "ふるどうぐや"
+          },
+          {
+            "type": "ruby",
+            "base": "に売",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "られて、店先",
+            "ruby": "みせさき"
+          },
+          {
+            "type": "ruby",
+            "base": "にさらされて、さんざん窮屈",
+            "ruby": "きゅうくつ"
+          },
+          {
+            "type": "ruby",
+            "base": "な目にあいました。その上何",
+            "ruby": "なに"
+          },
+          {
+            "type": "ruby",
+            "base": "も食",
+            "ruby": "た"
+          },
+          {
+            "type": "ruby",
+            "base": "べさせてくれないので、おなかがすいて死",
+            "ruby": "し"
+          },
+          {
+            "type": "ruby",
+            "base": "にそうになったところを、お寺",
+            "ruby": "てら"
+          },
+          {
+            "type": "ruby",
+            "base": "の和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんに買",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "われて行",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "きました。お寺",
+            "ruby": "てら"
+          },
+          {
+            "type": "ruby",
+            "base": "では、やっと手",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "おけに一ぱいの水をもらって、一口",
+            "ruby": "ひとくち"
+          },
+          {
+            "type": "ruby",
+            "base": "にがぶ飲",
+            "ruby": "の"
+          },
+          {
+            "type": "ruby",
+            "base": "みしてほっと息",
+            "ruby": "いき"
+          },
+          {
+            "type": "ruby",
+            "base": "をついたところを、いきなりいろりにのせられて、お尻",
+            "ruby": "しり"
+          },
+          {
+            "type": "ruby",
+            "base": "から火あぶりにされたのにはさすがにおどろきました。もうもうあんな所",
+            "ruby": "ところ"
+          },
+          {
+            "type": "ruby",
+            "base": "はこりこりです。あなたは人のいい、しんせつな方",
+            "ruby": "かた"
+          },
+          {
+            "type": "ruby",
+            "base": "らしいから、どうぞしばらくわたしをうちに置",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "いて養",
+            "ruby": "やしな"
+          },
+          {
+            "type": "ruby",
+            "base": "って下",
+            "ruby": "くだ"
+          },
+          {
+            "type": "ruby",
+            "base": "さいませんか。きっとお礼",
+            "ruby": "れい"
+          },
+          {
+            "type": "text",
+            "content": "はしますから。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「うん、うん、置",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "いてやるぐらいわけのないことだ。だがお礼",
+            "ruby": "れい"
+          },
+          {
+            "type": "text",
+            "content": "をするってどんなことをするつもりだい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「へえ。見世物",
+            "ruby": "みせもの"
+          },
+          {
+            "type": "ruby",
+            "base": "でいろいろおもしろい芸当",
+            "ruby": "げいとう"
+          },
+          {
+            "type": "ruby",
+            "base": "をして見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "せて、あなたにたんとお金",
+            "ruby": "かね"
+          },
+          {
+            "type": "ruby",
+            "base": "もうけをさせて上",
+            "ruby": "あ"
+          },
+          {
+            "type": "text",
+            "content": "げますよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ふん、芸当",
+            "ruby": "げいとう"
+          },
+          {
+            "type": "text",
+            "content": "っていったいどんなことをするのだい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「さあ、さし当",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "たり綱渡",
+            "ruby": "つなわた"
+          },
+          {
+            "type": "ruby",
+            "base": "りの軽",
+            "ruby": "かる"
+          },
+          {
+            "type": "ruby",
+            "base": "わざに、文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまの浮",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "かれ踊",
+            "ruby": "おど"
+          },
+          {
+            "type": "ruby",
+            "base": "りをやりましょう。もうくず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "なんかやめてしまって、見世物師",
+            "ruby": "みせものし"
+          },
+          {
+            "type": "ruby",
+            "base": "におなんなさい。あしたからたんとお金",
+            "ruby": "かね"
+          },
+          {
+            "type": "text",
+            "content": "がもうかりますよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　こう言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "われてくず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "はすっかり乗",
+            "ruby": "の"
+          },
+          {
+            "type": "ruby",
+            "base": "り気",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "になってしまいました。そして茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまのすすめるとおりくず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "text",
+            "content": "をやめてしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そのあくる日夜",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "が明",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "けると、くず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "はさっそく見世物",
+            "ruby": "みせもの"
+          },
+          {
+            "type": "ruby",
+            "base": "のしたくにかかりました。まず町",
+            "ruby": "まち"
+          },
+          {
+            "type": "ruby",
+            "base": "の盛",
+            "ruby": "さか"
+          },
+          {
+            "type": "ruby",
+            "base": "り場",
+            "ruby": "ば"
+          },
+          {
+            "type": "ruby",
+            "base": "に一軒",
+            "ruby": "けん"
+          },
+          {
+            "type": "ruby",
+            "base": "見世物小屋",
+            "ruby": "みせものごや"
+          },
+          {
+            "type": "ruby",
+            "base": "をこしらえて、文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまの綱渡",
+            "ruby": "つなわた"
+          },
+          {
+            "type": "ruby",
+            "base": "りと浮",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "かれ踊",
+            "ruby": "おど"
+          },
+          {
+            "type": "ruby",
+            "base": "りの絵",
+            "ruby": "え"
+          },
+          {
+            "type": "ruby",
+            "base": "をかいた大看板",
+            "ruby": "おおかんばん"
+          },
+          {
+            "type": "ruby",
+            "base": "を上",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "げ、太夫元",
+            "ruby": "たゆうもと"
+          },
+          {
+            "type": "ruby",
+            "base": "と木戸番",
+            "ruby": "きどばん"
+          },
+          {
+            "type": "ruby",
+            "base": "と口上",
+            "ruby": "こうじょう"
+          },
+          {
+            "type": "ruby",
+            "base": "言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いを自分",
+            "ruby": "じぶん"
+          },
+          {
+            "type": "ruby",
+            "base": "一人",
+            "ruby": "ひとり"
+          },
+          {
+            "type": "ruby",
+            "base": "で兼",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "ねました。そして木戸口",
+            "ruby": "きどぐち"
+          },
+          {
+            "type": "ruby",
+            "base": "に座",
+            "ruby": "すわ"
+          },
+          {
+            "type": "ruby",
+            "base": "って大きな声",
+            "ruby": "こえ"
+          },
+          {
+            "type": "text",
+            "content": "で、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「さあ、さあ、大評判",
+            "ruby": "おおひょうばん"
+          },
+          {
+            "type": "ruby",
+            "base": "の文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまに毛",
+            "ruby": "け"
+          },
+          {
+            "type": "ruby",
+            "base": "が生",
+            "ruby": "は"
+          },
+          {
+            "type": "ruby",
+            "base": "えて、手足",
+            "ruby": "てあし"
+          },
+          {
+            "type": "ruby",
+            "base": "が生",
+            "ruby": "は"
+          },
+          {
+            "type": "ruby",
+            "base": "えて、綱渡",
+            "ruby": "つなわた"
+          },
+          {
+            "type": "ruby",
+            "base": "りの軽",
+            "ruby": "かる"
+          },
+          {
+            "type": "ruby",
+            "base": "わざから、浮",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "かれ踊",
+            "ruby": "おど"
+          },
+          {
+            "type": "ruby",
+            "base": "りのふしぎな芸当",
+            "ruby": "げいとう"
+          },
+          {
+            "type": "ruby",
+            "base": "、評判",
+            "ruby": "ひょうばん"
+          },
+          {
+            "type": "ruby",
+            "base": "じゃ、評判",
+            "ruby": "ひょうばん"
+          },
+          {
+            "type": "text",
+            "content": "じゃ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と呼",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "び立",
+            "ruby": "た"
+          },
+          {
+            "type": "text",
+            "content": "てました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　往来",
+            "ruby": "おうらい"
+          },
+          {
+            "type": "ruby",
+            "base": "の人たちは、ふしぎな看板",
+            "ruby": "かんばん"
+          },
+          {
+            "type": "ruby",
+            "base": "とおもしろそうな口上",
+            "ruby": "こうじょう"
+          },
+          {
+            "type": "ruby",
+            "base": "に釣",
+            "ruby": "つ"
+          },
+          {
+            "type": "ruby",
+            "base": "られて、ぞろぞろ見世物小屋",
+            "ruby": "みせものごや"
+          },
+          {
+            "type": "ruby",
+            "base": "へ詰",
+            "ruby": "つ"
+          },
+          {
+            "type": "ruby",
+            "base": "めかけて来",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "て、たちまち、まんいんになってしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　やがて拍子木",
+            "ruby": "ひょうしぎ"
+          },
+          {
+            "type": "ruby",
+            "base": "が鳴",
+            "ruby": "な"
+          },
+          {
+            "type": "ruby",
+            "base": "って、幕",
+            "ruby": "まく"
+          },
+          {
+            "type": "ruby",
+            "base": "が上",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "がりますと、文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまが、のこのこ楽屋",
+            "ruby": "がくや"
+          },
+          {
+            "type": "ruby",
+            "base": "から出て来",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "て、お目見",
+            "ruby": "めみ"
+          },
+          {
+            "type": "ruby",
+            "base": "えのごあいさつをしました。見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "るとそれは思",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "いもつかない、大きな茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまに手足",
+            "ruby": "てあし"
+          },
+          {
+            "type": "ruby",
+            "base": "の生",
+            "ruby": "は"
+          },
+          {
+            "type": "ruby",
+            "base": "えた化",
+            "ruby": "ば"
+          },
+          {
+            "type": "ruby",
+            "base": "け物",
+            "ruby": "もの"
+          },
+          {
+            "type": "ruby",
+            "base": "でしたから、見物",
+            "ruby": "けんぶつ"
+          },
+          {
+            "type": "ruby",
+            "base": "はみんな「あっ。」と言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "って目をまるくしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それだけでもふしぎなのに、その茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまの化",
+            "ruby": "ば"
+          },
+          {
+            "type": "ruby",
+            "base": "け物",
+            "ruby": "もの"
+          },
+          {
+            "type": "ruby",
+            "base": "が両方",
+            "ruby": "りょうほう"
+          },
+          {
+            "type": "ruby",
+            "base": "の手",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "に唐傘",
+            "ruby": "からかさ"
+          },
+          {
+            "type": "ruby",
+            "base": "をさして扇",
+            "ruby": "おうぎ"
+          },
+          {
+            "type": "ruby",
+            "base": "を開",
+            "ruby": "ひら"
+          },
+          {
+            "type": "ruby",
+            "base": "いて、綱",
+            "ruby": "つな"
+          },
+          {
+            "type": "ruby",
+            "base": "の上に両足",
+            "ruby": "りょうあし"
+          },
+          {
+            "type": "ruby",
+            "base": "をかけました。そして重",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "い体",
+            "ruby": "からだ"
+          },
+          {
+            "type": "ruby",
+            "base": "を器用",
+            "ruby": "きよう"
+          },
+          {
+            "type": "ruby",
+            "base": "に調子",
+            "ruby": "ちょうし"
+          },
+          {
+            "type": "ruby",
+            "base": "をとりながら、綱渡",
+            "ruby": "つなわた"
+          },
+          {
+            "type": "ruby",
+            "base": "りの一曲",
+            "ruby": "きょく"
+          },
+          {
+            "type": "ruby",
+            "base": "を首尾",
+            "ruby": "しゅび"
+          },
+          {
+            "type": "ruby",
+            "base": "よくやってのけましたから、見物",
+            "ruby": "けんぶつ"
+          },
+          {
+            "type": "ruby",
+            "base": "はいよいよ感心",
+            "ruby": "かんしん"
+          },
+          {
+            "type": "ruby",
+            "base": "して、小屋",
+            "ruby": "こや"
+          },
+          {
+            "type": "text",
+            "content": "もわれるほどのかっさいをあびせかけました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それからは何",
+            "ruby": "なに"
+          },
+          {
+            "type": "ruby",
+            "base": "をしても、文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまが変",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "わった芸当",
+            "ruby": "げいとう"
+          },
+          {
+            "type": "ruby",
+            "base": "をやって見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "せるたんびに、見物",
+            "ruby": "けんぶつ"
+          },
+          {
+            "type": "ruby",
+            "base": "は大喜",
+            "ruby": "おおよろこ"
+          },
+          {
+            "type": "text",
+            "content": "びで、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「こんなおもしろい見世物",
+            "ruby": "みせもの"
+          },
+          {
+            "type": "ruby",
+            "base": "は生",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "まれてはじめて見",
+            "ruby": "み"
+          },
+          {
+            "type": "text",
+            "content": "た。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　とてんでんに言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いあって、またぞろぞろ帰",
+            "ruby": "かえ"
+          },
+          {
+            "type": "ruby",
+            "base": "っていきました。それからは文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまの評判",
+            "ruby": "ひょうばん"
+          },
+          {
+            "type": "ruby",
+            "base": "は、方々",
+            "ruby": "ほうぼう"
+          },
+          {
+            "type": "ruby",
+            "base": "にひろがって、近所",
+            "ruby": "きんじょ"
+          },
+          {
+            "type": "ruby",
+            "base": "の人はいうまでもなく、遠国",
+            "ruby": "えんごく"
+          },
+          {
+            "type": "ruby",
+            "base": "からもわざわざわらじがけで見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "に来",
+            "ruby": "く"
+          },
+          {
+            "type": "ruby",
+            "base": "る人で毎日",
+            "ruby": "まいにち"
+          },
+          {
+            "type": "ruby",
+            "base": "毎晩",
+            "ruby": "まいばん"
+          },
+          {
+            "type": "ruby",
+            "base": "たいへんな大入",
+            "ruby": "おおい"
+          },
+          {
+            "type": "ruby",
+            "base": "りでしたから、わずかの間",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "にくず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "は大金持",
+            "ruby": "おおがねも"
+          },
+          {
+            "type": "text",
+            "content": "ちになりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そのうちにくず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "は、「こうやって文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまのおかげでいつまでもお金",
+            "ruby": "かね"
+          },
+          {
+            "type": "ruby",
+            "base": "もうけをしていても際限",
+            "ruby": "さいげん"
+          },
+          {
+            "type": "ruby",
+            "base": "のないことだから、ここらで休",
+            "ruby": "やす"
+          },
+          {
+            "type": "ruby",
+            "base": "ませてやりましょう。」と考",
+            "ruby": "かんが"
+          },
+          {
+            "type": "ruby",
+            "base": "えました。そこである日文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまを呼",
+            "ruby": "よ"
+          },
+          {
+            "type": "text",
+            "content": "んで、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「お前",
+            "ruby": "まえ"
+          },
+          {
+            "type": "ruby",
+            "base": "をこれまで随分",
+            "ruby": "ずいぶん"
+          },
+          {
+            "type": "ruby",
+            "base": "働",
+            "ruby": "はたら"
+          },
+          {
+            "type": "ruby",
+            "base": "かせるだけ働",
+            "ruby": "はたら"
+          },
+          {
+            "type": "ruby",
+            "base": "かして、おかげでわたしも大",
+            "ruby": "たい"
+          },
+          {
+            "type": "ruby",
+            "base": "したお金持",
+            "ruby": "かねも"
+          },
+          {
+            "type": "ruby",
+            "base": "ちになった。人間",
+            "ruby": "にんげん"
+          },
+          {
+            "type": "ruby",
+            "base": "の欲",
+            "ruby": "よく"
+          },
+          {
+            "type": "ruby",
+            "base": "には限",
+            "ruby": "かぎ"
+          },
+          {
+            "type": "ruby",
+            "base": "りがないといいながら、そうそう欲",
+            "ruby": "よく"
+          },
+          {
+            "type": "ruby",
+            "base": "ばるのは悪",
+            "ruby": "わる"
+          },
+          {
+            "type": "ruby",
+            "base": "いことだから、今日",
+            "ruby": "きょう"
+          },
+          {
+            "type": "ruby",
+            "base": "限",
+            "ruby": "かぎ"
+          },
+          {
+            "type": "ruby",
+            "base": "りお前",
+            "ruby": "まえ"
+          },
+          {
+            "type": "ruby",
+            "base": "を見世物",
+            "ruby": "みせもの"
+          },
+          {
+            "type": "ruby",
+            "base": "に出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "すことはやめて、もとのとおり茂林寺",
+            "ruby": "もりんじ"
+          },
+          {
+            "type": "ruby",
+            "base": "に納",
+            "ruby": "おさ"
+          },
+          {
+            "type": "ruby",
+            "base": "めることにしよう。その代",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "わりこんどは和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんに頼",
+            "ruby": "たの"
+          },
+          {
+            "type": "ruby",
+            "base": "んで、ただの茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまのようにいろりにかけて、火あぶりになんぞしないようにして、大切",
+            "ruby": "たいせつ"
+          },
+          {
+            "type": "ruby",
+            "base": "にお寺",
+            "ruby": "てら"
+          },
+          {
+            "type": "ruby",
+            "base": "の宝物",
+            "ruby": "ほうもつ"
+          },
+          {
+            "type": "ruby",
+            "base": "にして、錦",
+            "ruby": "にしき"
+          },
+          {
+            "type": "ruby",
+            "base": "の布団",
+            "ruby": "ふとん"
+          },
+          {
+            "type": "ruby",
+            "base": "にのせて、しごく安楽",
+            "ruby": "あんらく"
+          },
+          {
+            "type": "ruby",
+            "base": "な御隠居",
+            "ruby": "ごいんきょ"
+          },
+          {
+            "type": "ruby",
+            "base": "の身分",
+            "ruby": "みぶん"
+          },
+          {
+            "type": "ruby",
+            "base": "にして上",
+            "ruby": "あ"
+          },
+          {
+            "type": "text",
+            "content": "げるがどうだね。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　こう言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いますと、文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "text",
+            "content": "がまは、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「そうですね。わたしもくたびれましたから、ここらで少",
+            "ruby": "すこ"
+          },
+          {
+            "type": "ruby",
+            "base": "し休",
+            "ruby": "やす"
+          },
+          {
+            "type": "text",
+            "content": "ませてもらいましょうか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そこでくず屋",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "は文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまに、見世物",
+            "ruby": "みせもの"
+          },
+          {
+            "type": "ruby",
+            "base": "でもうけたお金",
+            "ruby": "かね"
+          },
+          {
+            "type": "ruby",
+            "base": "を半分",
+            "ruby": "はんぶん"
+          },
+          {
+            "type": "ruby",
+            "base": "そえて、茂林寺",
+            "ruby": "もりんじ"
+          },
+          {
+            "type": "ruby",
+            "base": "の和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "さんの所",
+            "ruby": "ところ"
+          },
+          {
+            "type": "ruby",
+            "base": "へ持",
+            "ruby": "も"
+          },
+          {
+            "type": "text",
+            "content": "って行きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　和尚",
+            "ruby": "おしょう"
+          },
+          {
+            "type": "text",
+            "content": "さんは、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ほい、ほい、それは奇特",
+            "ruby": "きどく"
+          },
+          {
+            "type": "text",
+            "content": "な。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまとお金",
+            "ruby": "かね"
+          },
+          {
+            "type": "ruby",
+            "base": "を受",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "け取",
+            "ruby": "と"
+          },
+          {
+            "type": "text",
+            "content": "りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　文福",
+            "ruby": "ぶんぶく"
+          },
+          {
+            "type": "ruby",
+            "base": "茶",
+            "ruby": "ちゃ"
+          },
+          {
+            "type": "ruby",
+            "base": "がまもそれなりくたびれて寝込",
+            "ruby": "ねこ"
+          },
+          {
+            "type": "ruby",
+            "base": "んででもしまったのか、それからは別段",
+            "ruby": "べつだん"
+          },
+          {
+            "type": "ruby",
+            "base": "手足",
+            "ruby": "てあし"
+          },
+          {
+            "type": "ruby",
+            "base": "が生",
+            "ruby": "は"
+          },
+          {
+            "type": "ruby",
+            "base": "えて踊",
+            "ruby": "おど"
+          },
+          {
+            "type": "ruby",
+            "base": "り出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "すというようなこともなく、このお寺",
+            "ruby": "てら"
+          },
+          {
+            "type": "ruby",
+            "base": "の宝物",
+            "ruby": "ほうもつ"
+          },
+          {
+            "type": "ruby",
+            "base": "になって、今日",
+            "ruby": "こんにち"
+          },
+          {
+            "type": "ruby",
+            "base": "まで伝",
+            "ruby": "つた"
+          },
+          {
+            "type": "text",
+            "content": "わっているそうです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「日本の神話と十大昔話」講談社学術文庫、講談社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1983（昭和58）年5月10日第1刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1992（平成4）年4月20日第14刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：鈴木厚司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：大久保ゆう"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2003年8月2日作成"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "　むかし、上野国",
+      "reading": "こうずけのくに",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "館林",
+      "reading": "たてばやし",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "に、茂林寺",
+      "reading": "もりんじ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "というお寺",
+      "reading": "てら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "がありました。このお寺",
+      "reading": "てら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の和尚",
+      "reading": "おしょう",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "さんはたいそうお茶",
+      "reading": "ちゃ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の湯",
+      "reading": "ゆ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "がすきで、いろいろとかわったお茶",
+      "reading": "ちゃ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "道具",
+      "reading": "どうぐ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "を集",
+      "reading": "あつ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "めてまいにち、それをいじっては楽",
+      "reading": "たの",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　ある日和尚",
+      "reading": "おしょう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "さんは用事",
+      "reading": "ようじ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "があって町",
+      "reading": "まち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "へ行った帰",
+      "reading": "かえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "りに、一軒",
+      "reading": "けん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の道具屋",
+      "reading": "どうぐや",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "で、気",
+      "reading": "き",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "に入",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "った形",
+      "reading": "かたち",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "の茶",
+      "reading": "ちゃ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "がまを見",
+      "reading": "み",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "つけました。和尚",
+      "reading": "おしょう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "さんはさっそくそれを買",
+      "reading": "か",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "って帰",
+      "reading": "かえ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "って、自分",
+      "reading": "じぶん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のお部屋",
+      "reading": "へや",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "に飾",
+      "reading": "かざ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "「どうです、なかなかいい茶",
+      "reading": "ちゃ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　と、来",
+      "reading": "く",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "る人ごとに見",
+      "reading": "み",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　ある晩",
+      "reading": "ばん",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "和尚",
+      "reading": "おしょう",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "さんはいつものとおりお居間",
+      "reading": "いま",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "に茶",
+      "reading": "ちゃ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "がまを飾",
+      "reading": "かざ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "ったまま、そのそばでうとうと居眠",
+      "reading": "いねむ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "りをしていました。そのうちほんとうにぐっすり、寝込",
+      "reading": "ねこ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　和尚",
+      "reading": "おしょう",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "さんのお部屋",
+      "reading": "へや",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "があんまり静",
+      "reading": "しず",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "かなので、小僧",
+      "reading": "こぞう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "さんたちは、どうしたのかと思",
+      "reading": "おも",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "って、そっと障子",
+      "reading": "しょうじ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の透",
+      "reading": "す",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "き間",
+      "reading": "ま",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "から中をのぞいてみました。すると和尚",
+      "reading": "おしょう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "さんのそばに布団",
+      "reading": "ふとん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "をしいて座",
+      "reading": "すわ",
+      "meaning": "",
+      "difficulty": 3
+    }
+  ],
+  "quiz": {
+    "comprehension": []
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  }
+}

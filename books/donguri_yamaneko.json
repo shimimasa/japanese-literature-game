@@ -1,0 +1,1691 @@
+{
+  "id": "どんぐりと山猫",
+  "title": "どんぐりと山猫",
+  "titleKana": "",
+  "author": {
+    "name": "宮沢賢治",
+    "nameKana": ""
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 5,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 3,
+      "vocabulary": 3,
+      "grammar": 3
+    },
+    "themes": [],
+    "totalCharacters": 5940,
+    "estimatedReadingTime": 15
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　一郎がすこし行きますと、そこはもう笛",
+            "ruby": "ふえ"
+          },
+          {
+            "type": "ruby",
+            "base": "ふきの滝",
+            "ruby": "たき"
+          },
+          {
+            "type": "ruby",
+            "base": "でした。笛ふきの滝というのは、まっ白な岩の崖",
+            "ruby": "がけ"
+          },
+          {
+            "type": "text",
+            "content": "のなかほどに、小さな穴があいていて、そこから水が笛のように鳴って飛び出し、すぐ滝になって、ごうごう谷におちているのをいうのでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　一郎は滝に向いて叫",
+            "ruby": "さけ"
+          },
+          {
+            "type": "text",
+            "content": "びました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おいおい、笛ふき、やまねこがここを通らなかったかい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　滝がぴーぴー答えました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「やまねこは、さっき、馬車で西の方へ飛んで行きましたよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おかしいな、西ならぼくのうちの方だ。けれども、まあも少し行ってみよう。ふえふき、ありがとう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　滝はまたもとのように笛を吹きつづけました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　一郎がまたすこし行きますと、一本のぶなの木のしたに、たくさんの白いきのこが、どってこどってこどってこと、変な楽隊をやっていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　一郎はからだをかがめて、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おい、きのこ、やまねこが、ここを通らなかったかい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "とききました。するときのこは"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「やまねこなら、けさはやく、馬車で南の方へ飛んで行きましたよ。」とこたえました。一郎は首をひねりました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「みなみならあっちの山のなかだ。おかしいな。まあもすこし行ってみよう。きのこ、ありがとう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　きのこはみんないそがしそうに、どってこどってこと、あのへんな楽隊をつづけました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　一郎はまたすこし行きました。すると一本のくるみの木の梢",
+            "ruby": "こずえ"
+          },
+          {
+            "type": "ruby",
+            "base": "を、栗鼠",
+            "ruby": "りす"
+          },
+          {
+            "type": "text",
+            "content": "がぴょんととんでいました。一郎はすぐ手まねぎしてそれをとめて、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おい、りす、やまねこがここを通らなかったかい。」とたずねました。するとりすは、木の上から、額に手をかざして、一郎を見ながらこたえました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「やまねこなら、けさまだくらいうちに馬車でみなみの方へ飛んで行きましたよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「みなみへ行ったなんて、二",
+            "ruby": "ふた"
+          },
+          {
+            "type": "ruby",
+            "base": "とこでそんなことを言うのはおかしいなあ。けれどもまあもすこし行ってみよう。りす、ありがとう。」りすはもう居ませんでした。ただくるみのいちばん上の枝",
+            "ruby": "えだ"
+          },
+          {
+            "type": "text",
+            "content": "がゆれ、となりのぶなの葉がちらっとひかっただけでした。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　一郎がすこし行きましたら、谷川にそったみちは、もう細くなって消えてしまいました。そして谷川の南の、まっ黒な榧",
+            "ruby": "かや"
+          },
+          {
+            "type": "ruby",
+            "base": "の木の森の方へ、あたらしいちいさなみちがついていました。一郎はそのみちをのぼって行きました。榧の枝はまっくろに重なりあって、青ぞらは一きれも見えず、みちは大へん急な坂になりました。一郎が顔をまっかにして、汗",
+            "ruby": "あせ"
+          },
+          {
+            "type": "ruby",
+            "base": "をぽとぽとおとしながら、その坂をのぼりますと、にわかにぱっと明るくなって、眼がちくっとしました。そこはうつくしい黄金",
+            "ruby": "きん"
+          },
+          {
+            "type": "text",
+            "content": "いろの草地で、草は風にざわざわ鳴り、まわりは立派なオリーブいろのかやの木のもりでかこまれてありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　その草地のまん中に、せいの低いおかしな形の男が、膝",
+            "ruby": "ひざ"
+          },
+          {
+            "type": "ruby",
+            "base": "を曲げて手に革鞭",
+            "ruby": "かわむち"
+          },
+          {
+            "type": "text",
+            "content": "をもって、だまってこっちをみていたのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　一郎はだんだんそばへ行って、びっくりして立ちどまってしまいました。その男は、片眼で、見えない方の眼は、白くびくびくうごき、上着のような半纒",
+            "ruby": "はんてん"
+          },
+          {
+            "type": "ruby",
+            "base": "のようなへんなものを着て、だいいち足が、ひどくまがって山羊",
+            "ruby": "やぎ"
+          },
+          {
+            "type": "text",
+            "content": "のよう、ことにそのあしさきときたら、ごはんをもるへらのかたちだったのです。一郎は気味が悪かったのですが、なるべく落ちついてたずねました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「あなたは山猫をしりませんか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　するとその男は、横眼で一郎の顔を見て、口をまげてにやっとわらって言いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「山ねこさまはいますぐに、ここに戻",
+            "ruby": "もど"
+          },
+          {
+            "type": "ruby",
+            "base": "ってお出",
+            "ruby": "で"
+          },
+          {
+            "type": "text",
+            "content": "やるよ。おまえは一郎さんだな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　一郎はぎょっとして、一あしうしろにさがって、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「え、ぼく一郎です。けれども、どうしてそれを知ってますか。」と言いました。するとその奇体",
+            "ruby": "きたい"
+          },
+          {
+            "type": "text",
+            "content": "な男はいよいよにやにやしてしまいました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そんだら、はがき見だべ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「見ました。それで来たんです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「あのぶんしょうは、ずいぶん下手だべ。」と男は下をむいてかなしそうに言いました。一郎はきのどくになって、"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さあ、なかなか、ぶんしょうがうまいようでしたよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "と言いますと、男はよろこんで、息をはあはあして、耳のあたりまでまっ赤になり、きもののえりをひろげて、風をからだに入れながら、"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「あの字もなかなかうまいか。」とききました。一郎は、おもわず笑いだしながら、へんじしました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「うまいですね。五年生だってあのくらいには書けないでしょう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　すると男は、急にまたいやな顔をしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「五年生っていうのは、尋常",
+            "ruby": "じんじょう"
+          },
+          {
+            "type": "text",
+            "content": "五年生だべ。」その声が、あんまり力なくあわれに聞えましたので、一郎はあわてて言いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いいえ、大学校の五年生ですよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　すると、男はまたよろこんで、まるで、顔じゅう口のようにして、にたにたにたにた笑って叫びました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「あのはがきはわしが書いたのだよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　一郎はおかしいのをこらえて、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ぜんたいあなたはなにですか。」とたずねますと、男は急にまじめになって、"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「わしは山ねこさまの馬車別当",
+            "ruby": "べっとう"
+          },
+          {
+            "type": "text",
+            "content": "だよ。」と言いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　そのとき、風がどうと吹いてきて、草はいちめん波だち、別当は、急にていねいなおじぎをしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　一郎はおかしいとおもって、ふりかえって見ますと、そこに山猫が、黄いろな陣羽織",
+            "ruby": "じんばおり"
+          },
+          {
+            "type": "ruby",
+            "base": "のようなものを着て、緑いろの眼をまん円にして立っていました。やっぱり山猫の耳は、立って尖",
+            "ruby": "とが"
+          },
+          {
+            "type": "ruby",
+            "base": "っているなと、一郎がおもいましたら、山ねこはぴょこっとおじぎをしました。一郎もていねいに挨拶",
+            "ruby": "あいさつ"
+          },
+          {
+            "type": "text",
+            "content": "しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いや、こんにちは、きのうははがきをありがとう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　山猫はひげをぴんとひっぱって、腹をつき出して言いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「こんにちは、よくいらっしゃいました。じつはおとといから、めんどうなあらそいがおこって、ちょっと裁判にこまりましたので、あなたのお考えを、うかがいたいとおもいましたのです。まあ、ゆっくり、おやすみください。じき、どんぐりどもがまいりましょう。どうもまい年",
+            "ruby": "とし"
+          },
+          {
+            "type": "ruby",
+            "base": "、この裁判でくるしみます。」山ねこは、ふところから、巻煙草",
+            "ruby": "まきたばこ"
+          },
+          {
+            "type": "ruby",
+            "base": "の箱",
+            "ruby": "はこ"
+          },
+          {
+            "type": "text",
+            "content": "を出して、じぶんが一本くわえ、"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いかがですか。」と一郎に出しました。一郎はびっくりして、"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いいえ。」と言いましたら、山ねこはおおようにわらって、"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ふふん、まだお若いから、」と言いながら、マッチをしゅっと擦",
+            "ruby": "す"
+          },
+          {
+            "type": "ruby",
+            "base": "って、わざと顔をしかめて、青いけむりをふうと吐",
+            "ruby": "は"
+          },
+          {
+            "type": "text",
+            "content": "きました。山ねこの馬車別当は、気を付けの姿勢で、しゃんと立っていましたが、いかにも、たばこのほしいのをむりにこらえているらしく、なみだをぼろぼろこぼしました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そのとき、一郎は、足もとでパチパチ塩のはぜるような、音をききました。びっくりして屈",
+            "ruby": "かが"
+          },
+          {
+            "type": "ruby",
+            "base": "んで見ますと、草のなかに、あっちにもこっちにも、黄金",
+            "ruby": "きん"
+          },
+          {
+            "type": "ruby",
+            "base": "いろの円いものが、ぴかぴかひかっているのでした。よくみると、みんなそれは赤いずぼんをはいたどんぐりで、もうその数ときたら、三百でも利",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "かないようでした。わあわあわあわあ、みんななにか云",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "っているのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「あ、来たな。蟻",
+            "ruby": "あり"
+          },
+          {
+            "type": "ruby",
+            "base": "のようにやってくる。おい、さあ、早くベルを鳴らせ。今日はそこが日当りがいいから、そこのとこの草を刈",
+            "ruby": "か"
+          },
+          {
+            "type": "ruby",
+            "base": "れ。」やまねこは巻たばこを投げすてて、大いそぎで馬車別当にいいつけました。馬車別当もたいへんあわてて、腰",
+            "ruby": "こし"
+          },
+          {
+            "type": "ruby",
+            "base": "から大きな鎌",
+            "ruby": "かま"
+          },
+          {
+            "type": "text",
+            "content": "をとりだして、ざっくざっくと、やまねこの前のとこの草を刈りました。そこへ四方の草のなかから、どんぐりどもが、ぎらぎらひかって、飛び出して、わあわあわあわあ言いました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　馬車別当が、こんどは鈴",
+            "ruby": "すず"
+          },
+          {
+            "type": "ruby",
+            "base": "をがらんがらんがらんがらんと振",
+            "ruby": "ふ"
+          },
+          {
+            "type": "ruby",
+            "base": "りました。音はかやの森に、がらんがらんがらんがらんとひびき、黄金",
+            "ruby": "きん"
+          },
+          {
+            "type": "ruby",
+            "base": "のどんぐりどもは、すこししずかになりました。見ると山ねこは、もういつか、黒い長い繻子",
+            "ruby": "しゅす"
+          },
+          {
+            "type": "ruby",
+            "base": "の服を着て、勿体",
+            "ruby": "もったい"
+          },
+          {
+            "type": "ruby",
+            "base": "らしく、どんぐりどもの前にすわっていました。まるで奈良",
+            "ruby": "なら"
+          },
+          {
+            "type": "ruby",
+            "base": "のだいぶつさまにさんけいするみんなの絵のようだと一郎はおもいました。別当がこんどは、革鞭",
+            "ruby": "かわむち"
+          },
+          {
+            "type": "text",
+            "content": "を二三べん、ひゅうぱちっ、ひゅう、ぱちっと鳴らしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　空が青くすみわたり、どんぐりはぴかぴかしてじつにきれいでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「裁判ももう今日で三日目だぞ、いい加減になかなおりをしたらどうだ。」山ねこが、すこし心配そうに、それでもむりに威張",
+            "ruby": "いば"
+          },
+          {
+            "type": "text",
+            "content": "って言いますと、どんぐりどもは口々に叫びました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いえいえ、だめです、なんといったって頭のとがってるのがいちばんえらいんです。そしてわたしがいちばんとがっています。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いいえ、ちがいます。まるいのがえらいのです。いちばんまるいのはわたしです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「大きなことだよ。大きなのがいちばんえらいんだよ。わたしがいちばん大きいからわたしがえらいんだよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そうでないよ。わたしのほうがよほど大きいと、きのうも判事さんがおっしゃったじゃないか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「だめだい、そんなこと。せいの高いのだよ。せいの高いことなんだよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「押",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "しっこのえらいひとだよ。押しっこをしてきめるんだよ。」もうみんな、がやがやがやがや言って、なにがなんだか、まるで蜂",
+            "ruby": "はち"
+          },
+          {
+            "type": "ruby",
+            "base": "の巣",
+            "ruby": "す"
+          },
+          {
+            "type": "text",
+            "content": "をつっついたようで、わけがわからなくなりました。そこでやまねこが叫びました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「やかましい。ここをなんとこころえる。しずまれ、しずまれ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　別当がむちをひゅうぱちっとならしましたのでどんぐりどもは、やっとしずまりました。やまねこは、ぴんとひげをひねって言いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「裁判ももうきょうで三日目だぞ。いい加減に仲なおりしたらどうだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　すると、もうどんぐりどもが、くちぐちに云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いえいえ、だめです。なんといったって、頭のとがっているのがいちばんえらいのです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いいえ、ちがいます。まるいのがえらいのです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そうでないよ。大きなことだよ。」がやがやがやがや、もうなにがなんだかわからなくなりました。山猫が叫びました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「だまれ、やかましい。ここをなんと心得る。しずまれしずまれ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　別当が、むちをひゅうぱちっと鳴らしました。山猫がひげをぴんとひねって言いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「裁判ももうきょうで三日目だぞ。いい加減になかなおりをしたらどうだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いえ、いえ、だめです。あたまのとがったものが……。」がやがやがやがや。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　山ねこが叫びました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「やかましい。ここをなんとこころえる。しずまれ、しずまれ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　別当が、むちをひゅうぱちっと鳴らし、どんぐりはみんなしずまりました。山猫が一郎にそっと申しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「このとおりです。どうしたらいいでしょう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　一郎はわらってこたえました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そんなら、こう言いわたしたらいいでしょう。このなかでいちばんばかで、めちゃくちゃで、まるでなっていないようなのが、いちばんえらいとね。ぼくお説教できいたんです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　山猫",
+            "ruby": "やまねこ"
+          },
+          {
+            "type": "ruby",
+            "base": "はなるほどというふうにうなずいて、それからいかにも気取って、繻子",
+            "ruby": "しゅす"
+          },
+          {
+            "type": "ruby",
+            "base": "のきものの胸",
+            "ruby": "えり"
+          },
+          {
+            "type": "text",
+            "content": "を開いて、黄いろの陣羽織をちょっと出してどんぐりどもに申しわたしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「よろしい。しずかにしろ。申しわたしだ。このなかで、いちばんえらくなくて、ばかで、めちゃくちゃで、てんでなっていなくて、あたまのつぶれたようなやつが、いちばんえらいのだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　どんぐりは、しいんとしてしまいました。それはそれはしいんとして、堅",
+            "ruby": "かた"
+          },
+          {
+            "type": "text",
+            "content": "まってしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そこで山猫は、黒い繻子の服をぬいで、額の汗",
+            "ruby": "あせ"
+          },
+          {
+            "type": "ruby",
+            "base": "をぬぐいながら、一郎の手をとりました。別当も大よろこびで、五六ぺん、鞭",
+            "ruby": "むち"
+          },
+          {
+            "type": "text",
+            "content": "をひゅうぱちっ、ひゅうぱちっ、ひゅうひゅうぱちっと鳴らしました。やまねこが言いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どうもありがとうございました。これほどのひどい裁判を、まるで一分半でかたづけてくださいました。どうかこれからわたしの裁判所の、名誉",
+            "ruby": "めいよ"
+          },
+          {
+            "type": "text",
+            "content": "判事になってください。これからも、葉書が行ったら、どうか来てくださいませんか。そのたびにお礼はいたします。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「承知しました。お礼なんかいりませんよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いいえ、お礼はどうかとってください。わたしのじんかくにかかわりますから。そしてこれからは、葉書にかねた一郎どのと書いて、こちらを裁判所としますが、ようございますか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　一郎が「ええ、かまいません。」と申しますと、やまねこはまだなにか言いたそうに、しばらくひげをひねって、眼をぱちぱちさせていましたが、とうとう決心したらしく言い出しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それから、はがきの文句ですが、これからは、用事これありに付き、明日",
+            "ruby": "みょうにち"
+          },
+          {
+            "type": "text",
+            "content": "出頭すべしと書いてどうでしょう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　一郎はわらって言いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さあ、なんだか変ですね。そいつだけはやめた方がいいでしょう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　山猫は、どうも言いようがまずかった、いかにも残念だというふうに、しばらくひげをひねったまま、下を向いていましたが、やっとあきらめて言いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それでは、文句はいままでのとおりにしましょう。そこで今日のお礼ですが、あなたは黄金",
+            "ruby": "きん"
+          },
+          {
+            "type": "ruby",
+            "base": "のどんぐり一升",
+            "ruby": "しょう"
+          },
+          {
+            "type": "ruby",
+            "base": "と、塩鮭",
+            "ruby": "しおざけ"
+          },
+          {
+            "type": "text",
+            "content": "のあたまと、どっちをおすきですか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「黄金のどんぐりがすきです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　山猫は、鮭",
+            "ruby": "しゃけ"
+          },
+          {
+            "type": "text",
+            "content": "の頭でなくて、まあよかったというように、口早に馬車別当に云いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どんぐりを一升早くもってこい。一升にたりなかったら、めっきのどんぐりもまぜてこい。はやく。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　別当は、さっきのどんぐりをますに入れて、はかって叫",
+            "ruby": "さけ"
+          },
+          {
+            "type": "text",
+            "content": "びました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ちょうど一升あります。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　山ねこの陣羽織が風にばたばた鳴りました。そこで山ねこは、大きく延びあがって、めをつぶって、半分あくびをしながら言いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「よし、はやく馬車のしたくをしろ。」白い大きなきのこでこしらえた馬車が、ひっぱりだされました。そしてなんだかねずみいろの、おかしな形の馬がついています。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さあ、おうちへお送りいたしましょう。」山猫が言いました。二人は馬車にのり別当は、どんぐりのますを馬車のなかに入れました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ひゅう、ぱちっ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　馬車は草地をはなれました。木や藪",
+            "ruby": "やぶ"
+          },
+          {
+            "type": "ruby",
+            "base": "がけむりのようにぐらぐらゆれました。一郎は黄金",
+            "ruby": "きん"
+          },
+          {
+            "type": "text",
+            "content": "のどんぐりを見、やまねこはとぼけたかおつきで、遠くをみていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　馬車が進むにしたがって、どんぐりはだんだん光がうすくなって、まもなく馬車がとまったときは、あたりまえの茶いろのどんぐりに変っていました。そして、山ねこの黄いろな陣羽織も、別当も、きのこの馬車も、一度に見えなくなって、一郎はじぶんのうちの前に、どんぐりを入れたますを持って立っていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　それからあと、山ねこ拝というはがきは、もうきませんでした。やっぱり、出頭すべしと書いてもいいと言えばよかったと、一郎はときどき思うのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「注文の多い料理店」新潮文庫、新潮社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1990（平成2）年5月25日発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1997（平成9）年5月10日17刷"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "初出：「イーハトヴ童話　注文の多い料理店」盛岡市杜陵出版部・東京光原社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1924（大正13）年12月1日"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：土屋隆"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：noriko saito"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2005年1月26日作成"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "　一郎がすこし行きますと、そこはもう笛",
+      "reading": "ふえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "ふきの滝",
+      "reading": "たき",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "でした。笛ふきの滝というのは、まっ白な岩の崖",
+      "reading": "がけ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　一郎は滝に向いて叫",
+      "reading": "さけ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　一郎はまたすこし行きました。すると一本のくるみの木の梢",
+      "reading": "こずえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "を、栗鼠",
+      "reading": "りす",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "「みなみへ行ったなんて、二",
+      "reading": "ふた",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "とこでそんなことを言うのはおかしいなあ。けれどもまあもすこし行ってみよう。りす、ありがとう。」りすはもう居ませんでした。ただくるみのいちばん上の枝",
+      "reading": "えだ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　一郎がすこし行きましたら、谷川にそったみちは、もう細くなって消えてしまいました。そして谷川の南の、まっ黒な榧",
+      "reading": "かや",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の木の森の方へ、あたらしいちいさなみちがついていました。一郎はそのみちをのぼって行きました。榧の枝はまっくろに重なりあって、青ぞらは一きれも見えず、みちは大へん急な坂になりました。一郎が顔をまっかにして、汗",
+      "reading": "あせ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "をぽとぽとおとしながら、その坂をのぼりますと、にわかにぱっと明るくなって、眼がちくっとしました。そこはうつくしい黄金",
+      "reading": "きん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　その草地のまん中に、せいの低いおかしな形の男が、膝",
+      "reading": "ひざ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "を曲げて手に革鞭",
+      "reading": "かわむち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　一郎はだんだんそばへ行って、びっくりして立ちどまってしまいました。その男は、片眼で、見えない方の眼は、白くびくびくうごき、上着のような半纒",
+      "reading": "はんてん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のようなへんなものを着て、だいいち足が、ひどくまがって山羊",
+      "reading": "やぎ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「山ねこさまはいますぐに、ここに戻",
+      "reading": "もど",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "ってお出",
+      "reading": "で",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "「え、ぼく一郎です。けれども、どうしてそれを知ってますか。」と言いました。するとその奇体",
+      "reading": "きたい",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「五年生っていうのは、尋常",
+      "reading": "じんじょう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「わしは山ねこさまの馬車別当",
+      "reading": "べっとう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　一郎はおかしいとおもって、ふりかえって見ますと、そこに山猫が、黄いろな陣羽織",
+      "reading": "じんばおり",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のようなものを着て、緑いろの眼をまん円にして立っていました。やっぱり山猫の耳は、立って尖",
+      "reading": "とが",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "っているなと、一郎がおもいましたら、山ねこはぴょこっとおじぎをしました。一郎もていねいに挨拶",
+      "reading": "あいさつ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「こんにちは、よくいらっしゃいました。じつはおとといから、めんどうなあらそいがおこって、ちょっと裁判にこまりましたので、あなたのお考えを、うかがいたいとおもいましたのです。まあ、ゆっくり、おやすみください。じき、どんぐりどもがまいりましょう。どうもまい年",
+      "reading": "とし",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "、この裁判でくるしみます。」山ねこは、ふところから、巻煙草",
+      "reading": "まきたばこ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の箱",
+      "reading": "はこ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "「ふふん、まだお若いから、」と言いながら、マッチをしゅっと擦",
+      "reading": "す",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "って、わざと顔をしかめて、青いけむりをふうと吐",
+      "reading": "は",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　そのとき、一郎は、足もとでパチパチ塩のはぜるような、音をききました。びっくりして屈",
+      "reading": "かが",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "んで見ますと、草のなかに、あっちにもこっちにも、黄金",
+      "reading": "きん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "いろの円いものが、ぴかぴかひかっているのでした。よくみると、みんなそれは赤いずぼんをはいたどんぐりで、もうその数ときたら、三百でも利",
+      "reading": "き",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "かないようでした。わあわあわあわあ、みんななにか云",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「あ、来たな。蟻",
+      "reading": "あり",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のようにやってくる。おい、さあ、早くベルを鳴らせ。今日はそこが日当りがいいから、そこのとこの草を刈",
+      "reading": "か",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "れ。」やまねこは巻たばこを投げすてて、大いそぎで馬車別当にいいつけました。馬車別当もたいへんあわてて、腰",
+      "reading": "こし",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "から大きな鎌",
+      "reading": "かま",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　馬車別当が、こんどは鈴",
+      "reading": "すず",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "をがらんがらんがらんがらんと振",
+      "reading": "ふ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "りました。音はかやの森に、がらんがらんがらんがらんとひびき、黄金",
+      "reading": "きん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のどんぐりどもは、すこししずかになりました。見ると山ねこは、もういつか、黒い長い繻子",
+      "reading": "しゅす",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の服を着て、勿体",
+      "reading": "もったい",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "らしく、どんぐりどもの前にすわっていました。まるで奈良",
+      "reading": "なら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のだいぶつさまにさんけいするみんなの絵のようだと一郎はおもいました。別当がこんどは、革鞭",
+      "reading": "かわむち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「裁判ももう今日で三日目だぞ、いい加減になかなおりをしたらどうだ。」山ねこが、すこし心配そうに、それでもむりに威張",
+      "reading": "いば",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「押",
+      "reading": "お",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "しっこのえらいひとだよ。押しっこをしてきめるんだよ。」もうみんな、がやがやがやがや言って、なにがなんだか、まるで蜂",
+      "reading": "はち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の巣",
+      "reading": "す",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "　山猫",
+      "reading": "やまねこ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "はなるほどというふうにうなずいて、それからいかにも気取って、繻子",
+      "reading": "しゅす",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のきものの胸",
+      "reading": "えり",
+      "meaning": "",
+      "difficulty": 3
+    }
+  ],
+  "quiz": {
+    "comprehension": []
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  }
+}

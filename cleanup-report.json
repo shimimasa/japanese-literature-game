@@ -1,0 +1,284 @@
+{
+  "summary": {
+    "totalFiles": 31,
+    "jsFiles": 28,
+    "cssFiles": 3,
+    "unusedFiles": 3,
+    "todos": 1,
+    "deprecatedCode": 43
+  },
+  "details": {
+    "unusedFiles": [
+      "app.js",
+      "book-library.js",
+      "recovery-manager.js"
+    ],
+    "todos": [
+      {
+        "file": "code-cleanup.js",
+        "line": 155,
+        "content": "if (line.includes('TODO:') || line.includes('FIXME:') || line.includes('HACK:')) {"
+      }
+    ],
+    "deprecatedCode": [
+      {
+        "file": "app-controller.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 4
+      },
+      {
+        "file": "app-controller.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 9
+      },
+      {
+        "file": "app-v2.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 3
+      },
+      {
+        "file": "app-v2.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 2
+      },
+      {
+        "file": "app.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 2
+      },
+      {
+        "file": "app.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 19
+      },
+      {
+        "file": "book-adapter.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 5
+      },
+      {
+        "file": "book-library.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 7
+      },
+      {
+        "file": "book-loader.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 1
+      },
+      {
+        "file": "book-loader.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 14
+      },
+      {
+        "file": "build-config.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 7
+      },
+      {
+        "file": "build-config.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 3
+      },
+      {
+        "file": "certificate-generator.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 2
+      },
+      {
+        "file": "code-cleanup.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 23
+      },
+      {
+        "file": "code-cleanup.js",
+        "pattern": "/debugger;/g",
+        "message": "debugger文は削除",
+        "count": 1
+      },
+      {
+        "file": "code-cleanup.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 10
+      },
+      {
+        "file": "code-cleanup.js",
+        "pattern": "/!=\\s*[^=]/g",
+        "message": "!=は!==に置換",
+        "count": 2
+      },
+      {
+        "file": "data-validator.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 33
+      },
+      {
+        "file": "debug-console.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 13
+      },
+      {
+        "file": "dictionary-service.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 6
+      },
+      {
+        "file": "error-handler.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 14
+      },
+      {
+        "file": "flow-validator.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 2
+      },
+      {
+        "file": "flow-validator.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 18
+      },
+      {
+        "file": "game-manager.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 6
+      },
+      {
+        "file": "memory-manager.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 3
+      },
+      {
+        "file": "memory-manager.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 4
+      },
+      {
+        "file": "onboarding-flow.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 6
+      },
+      {
+        "file": "performance-optimizer.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 3
+      },
+      {
+        "file": "performance-optimizer.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 6
+      },
+      {
+        "file": "progress-manager.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 2
+      },
+      {
+        "file": "progress-manager.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 2
+      },
+      {
+        "file": "recovery-manager.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 2
+      },
+      {
+        "file": "recovery-manager.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 7
+      },
+      {
+        "file": "statistics-analyzer.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 12
+      },
+      {
+        "file": "storage-manager.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 2
+      },
+      {
+        "file": "storage-manager.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 15
+      },
+      {
+        "file": "test-suite.js",
+        "pattern": "/console\\.log\\(/g",
+        "message": "console.logは本番環境では削除",
+        "count": 36
+      },
+      {
+        "file": "test-suite.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 15
+      },
+      {
+        "file": "integration-tests.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 4
+      },
+      {
+        "file": "unit-tests.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 3
+      },
+      {
+        "file": "text-renderer.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 15
+      },
+      {
+        "file": "touch-handler.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 9
+      },
+      {
+        "file": "ui-manager.js",
+        "pattern": "/==\\s*[^=]/g",
+        "message": "==は===に置換",
+        "count": 18
+      }
+    ]
+  }
+}

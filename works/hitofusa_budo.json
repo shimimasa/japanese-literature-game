@@ -1,0 +1,787 @@
+{
+  "id": "一房の葡萄",
+  "title": "一房の葡萄",
+  "titleKana": "",
+  "author": {
+    "name": "有島武郎",
+    "nameKana": ""
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 3,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 3,
+      "vocabulary": 3,
+      "grammar": 3
+    },
+    "themes": [],
+    "totalCharacters": 2046,
+    "estimatedReadingTime": 6
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　一時",
+            "ruby": "いちじ"
+          },
+          {
+            "type": "ruby",
+            "base": "がやがやとやかましかった生徒達はみんな教場",
+            "ruby": "きょうじょう"
+          },
+          {
+            "type": "ruby",
+            "base": "に這入",
+            "ruby": "はい"
+          },
+          {
+            "type": "ruby",
+            "base": "って、急にしんとするほどあたりが静かになりました。僕は淋",
+            "ruby": "さび"
+          },
+          {
+            "type": "ruby",
+            "base": "しくって淋しくってしようがない程",
+            "ruby": "ほど"
+          },
+          {
+            "type": "ruby",
+            "base": "悲しくなりました。あの位好きな先生を苦しめたかと思うと僕は本当に悪いことをしてしまったと思いました。葡萄",
+            "ruby": "ぶどう"
+          },
+          {
+            "type": "ruby",
+            "base": "などは迚",
+            "ruby": "とて"
+          },
+          {
+            "type": "ruby",
+            "base": "も喰",
+            "ruby": "た"
+          },
+          {
+            "type": "text",
+            "content": "べる気になれないでいつまでも泣いていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ふと僕は肩を軽くゆすぶられて眼をさましました。僕は先生の部屋",
+            "ruby": "へや"
+          },
+          {
+            "type": "ruby",
+            "base": "でいつの間にか泣寝入りをしていたと見えます。少し痩",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "せて身長",
+            "ruby": "せい"
+          },
+          {
+            "type": "ruby",
+            "base": "の高い先生は笑顔",
+            "ruby": "えがお"
+          },
+          {
+            "type": "ruby",
+            "base": "を見せて僕を見おろしていられました。僕は眠ったために気分がよくなって今まであったことは忘れてしまって、少し恥しそうに笑いかえしながら、慌",
+            "ruby": "あわ"
+          },
+          {
+            "type": "ruby",
+            "base": "てて膝の上から辷",
+            "ruby": "すべ"
+          },
+          {
+            "type": "text",
+            "content": "り落ちそうになっていた葡萄の房をつまみ上げましたが、すぐ悲しいことを思い出して笑いも何も引込んでしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「そんなに悲しい顔をしないでもよろしい。もうみんなは帰ってしまいましたから、あなたはお帰りなさい。そして明日",
+            "ruby": "あす"
+          },
+          {
+            "type": "ruby",
+            "base": "はどんなことがあっても学校に来なければいけませんよ。あなたの顔を見ないと私",
+            "ruby": "わたくし"
+          },
+          {
+            "type": "ruby",
+            "base": "は悲しく思いますよ。屹度",
+            "ruby": "きっと"
+          },
+          {
+            "type": "text",
+            "content": "ですよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そういって先生は僕のカバンの中にそっと葡萄の房を入れて下さいました。僕はいつものように海岸通りを、海を眺",
+            "ruby": "なが"
+          },
+          {
+            "type": "ruby",
+            "base": "めたり船を眺めたりしながらつまらなく家",
+            "ruby": "いえ"
+          },
+          {
+            "type": "text",
+            "content": "に帰りました。そして葡萄をおいしく喰べてしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　けれども次の日が来ると僕は中々学校に行く気にはなれませんでした。お腹",
+            "ruby": "なか"
+          },
+          {
+            "type": "ruby",
+            "base": "が痛くなればいいと思ったり、頭痛がすればいいと思ったりしたけれども、その日に限って虫歯一本痛みもしないのです。仕方なしにいやいやながら家",
+            "ruby": "いえ"
+          },
+          {
+            "type": "ruby",
+            "base": "は出ましたが、ぶらぶらと考えながら歩きました。どうしても学校の門を這入ることは出来ないように思われたのです。けれども先生の別れの時の言葉を思い出すと、僕は先生の顔だけはなんといっても見たくてしかたがありませんでした。僕が行かなかったら先生は屹度悲しく思われるに違いない。もう一度先生のやさしい眼で見られたい。ただその一事",
+            "ruby": "ひとこと"
+          },
+          {
+            "type": "text",
+            "content": "があるばかりで僕は学校の門をくぐりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そうしたらどうでしょう、先",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "ず第一に待ち切っていたようにジムが飛んで来て、僕の手を握ってくれました。そして昨日",
+            "ruby": "きのう"
+          },
+          {
+            "type": "ruby",
+            "base": "のことなんか忘れてしまったように、親切に僕の手をひいてどぎまぎしている僕を先生の部屋に連れて行くのです。僕はなんだか訳がわかりませんでした。学校に行ったらみんなが遠くの方から僕を見て「見ろ泥棒の※",
+            "ruby": "うそ"
+          },
+          {
+            "type": "ruby",
+            "base": "つきの日本人が来た」とでも悪口をいうだろうと思っていたのにこんな風にされると気味が悪い程",
+            "ruby": "ほど"
+          },
+          {
+            "type": "text",
+            "content": "でした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人の足音を聞きつけてか、先生はジムがノックしない前に、戸を開けて下さいました。二人は部屋の中に這入りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ジム、あなたはいい子、よく私",
+            "ruby": "わたくし"
+          },
+          {
+            "type": "ruby",
+            "base": "の言ったことがわかってくれましたね。ジムはもうあなたからあやまって貰",
+            "ruby": "もら"
+          },
+          {
+            "type": "ruby",
+            "base": "わなくってもいいと言っています。二人は今からいいお友達になればそれでいいんです。二人とも上手",
+            "ruby": "じょうず"
+          },
+          {
+            "type": "ruby",
+            "base": "に握手をなさい。」と先生はにこにこしながら僕達を向い合せました。僕はでもあんまり勝手過ぎるようでもじもじしていますと、ジムはいそいそとぶら下げている僕の手を引張り出して堅く握ってくれました。僕はもうなんといってこの嬉",
+            "ruby": "うれ"
+          },
+          {
+            "type": "ruby",
+            "base": "しさを表せばいいのか分らないで、唯",
+            "ruby": "ただ"
+          },
+          {
+            "type": "ruby",
+            "base": "恥しく笑う外",
+            "ruby": "ほか"
+          },
+          {
+            "type": "text",
+            "content": "ありませんでした。ジムも気持よさそうに、笑顔をしていました。先生はにこにこしながら僕に、"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「昨日",
+            "ruby": "きのう"
+          },
+          {
+            "type": "ruby",
+            "base": "の葡萄",
+            "ruby": "ぶどう"
+          },
+          {
+            "type": "ruby",
+            "base": "はおいしかったの。」と問われました。僕は顔を真赤",
+            "ruby": "まっか"
+          },
+          {
+            "type": "text",
+            "content": "にして「ええ」と白状するより仕方がありませんでした。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そんなら又あげましょうね。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そういって、先生は真白",
+            "ruby": "まっしろ"
+          },
+          {
+            "type": "ruby",
+            "base": "なリンネルの着物につつまれた体",
+            "ruby": "からだ"
+          },
+          {
+            "type": "ruby",
+            "base": "を窓からのび出させて、葡萄の一房をもぎ取って、真白",
+            "ruby": "まっしろ"
+          },
+          {
+            "type": "ruby",
+            "base": "い左の手の上に粉のふいた紫色の房を乗せて、細長い銀色の鋏",
+            "ruby": "はさみ"
+          },
+          {
+            "type": "ruby",
+            "base": "で真中",
+            "ruby": "まんなか"
+          },
+          {
+            "type": "ruby",
+            "base": "からぷつりと二つに切って、ジムと僕とに下さいました。真白い手",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "の平",
+            "ruby": "ひら"
+          },
+          {
+            "type": "text",
+            "content": "に紫色の葡萄の粒が重って乗っていたその美しさを僕は今でもはっきりと思い出すことが出来ます。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　僕はその時から前より少しいい子になり、少しはにかみ屋でなくなったようです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それにしても僕の大好きなあのいい先生はどこに行かれたでしょう。もう二度とは遇",
+            "ruby": "あ"
+          },
+          {
+            "type": "text",
+            "content": "えないと知りながら、僕は今でもあの先生がいたらなあと思います。秋になるといつでも葡萄の房は紫色に色づいて美しく粉をふきますけれども、それを受けた大理石のような白い美しい手はどこにも見つかりません。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「赤い鳥傑作集」新潮文庫、新潮社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1955（昭和30）年6月25日発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1974（昭和49）年9月10日29刷改版"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1984（昭和59）年10月10日44刷"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "初出：「赤い鳥　第五巻第二号」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1920（大正9）年8月"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "※表題は底本では、「一房",
+            "ruby": "ひとふさ"
+          },
+          {
+            "type": "ruby",
+            "base": "の葡萄",
+            "ruby": "ぶどう"
+          },
+          {
+            "type": "text",
+            "content": "」となっています。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：鈴木厚司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1999年2月13日公開"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2018年10月15日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（https://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "　一時",
+      "reading": "いちじ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "がやがやとやかましかった生徒達はみんな教場",
+      "reading": "きょうじょう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "に這入",
+      "reading": "はい",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "って、急にしんとするほどあたりが静かになりました。僕は淋",
+      "reading": "さび",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "しくって淋しくってしようがない程",
+      "reading": "ほど",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "悲しくなりました。あの位好きな先生を苦しめたかと思うと僕は本当に悪いことをしてしまったと思いました。葡萄",
+      "reading": "ぶどう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "などは迚",
+      "reading": "とて",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "も喰",
+      "reading": "た",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "　ふと僕は肩を軽くゆすぶられて眼をさましました。僕は先生の部屋",
+      "reading": "へや",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "でいつの間にか泣寝入りをしていたと見えます。少し痩",
+      "reading": "や",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "せて身長",
+      "reading": "せい",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "の高い先生は笑顔",
+      "reading": "えがお",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "を見せて僕を見おろしていられました。僕は眠ったために気分がよくなって今まであったことは忘れてしまって、少し恥しそうに笑いかえしながら、慌",
+      "reading": "あわ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "てて膝の上から辷",
+      "reading": "すべ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「そんなに悲しい顔をしないでもよろしい。もうみんなは帰ってしまいましたから、あなたはお帰りなさい。そして明日",
+      "reading": "あす",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "はどんなことがあっても学校に来なければいけませんよ。あなたの顔を見ないと私",
+      "reading": "わたくし",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "は悲しく思いますよ。屹度",
+      "reading": "きっと",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　そういって先生は僕のカバンの中にそっと葡萄の房を入れて下さいました。僕はいつものように海岸通りを、海を眺",
+      "reading": "なが",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "めたり船を眺めたりしながらつまらなく家",
+      "reading": "いえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　けれども次の日が来ると僕は中々学校に行く気にはなれませんでした。お腹",
+      "reading": "なか",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "が痛くなればいいと思ったり、頭痛がすればいいと思ったりしたけれども、その日に限って虫歯一本痛みもしないのです。仕方なしにいやいやながら家",
+      "reading": "いえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "は出ましたが、ぶらぶらと考えながら歩きました。どうしても学校の門を這入ることは出来ないように思われたのです。けれども先生の別れの時の言葉を思い出すと、僕は先生の顔だけはなんといっても見たくてしかたがありませんでした。僕が行かなかったら先生は屹度悲しく思われるに違いない。もう一度先生のやさしい眼で見られたい。ただその一事",
+      "reading": "ひとこと",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　そうしたらどうでしょう、先",
+      "reading": "ま",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "ず第一に待ち切っていたようにジムが飛んで来て、僕の手を握ってくれました。そして昨日",
+      "reading": "きのう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のことなんか忘れてしまったように、親切に僕の手をひいてどぎまぎしている僕を先生の部屋に連れて行くのです。僕はなんだか訳がわかりませんでした。学校に行ったらみんなが遠くの方から僕を見て「見ろ泥棒の※",
+      "reading": "うそ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "つきの日本人が来た」とでも悪口をいうだろうと思っていたのにこんな風にされると気味が悪い程",
+      "reading": "ほど",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「ジム、あなたはいい子、よく私",
+      "reading": "わたくし",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の言ったことがわかってくれましたね。ジムはもうあなたからあやまって貰",
+      "reading": "もら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "わなくってもいいと言っています。二人は今からいいお友達になればそれでいいんです。二人とも上手",
+      "reading": "じょうず",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "に握手をなさい。」と先生はにこにこしながら僕達を向い合せました。僕はでもあんまり勝手過ぎるようでもじもじしていますと、ジムはいそいそとぶら下げている僕の手を引張り出して堅く握ってくれました。僕はもうなんといってこの嬉",
+      "reading": "うれ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "しさを表せばいいのか分らないで、唯",
+      "reading": "ただ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "恥しく笑う外",
+      "reading": "ほか",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「昨日",
+      "reading": "きのう",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "の葡萄",
+      "reading": "ぶどう",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "はおいしかったの。」と問われました。僕は顔を真赤",
+      "reading": "まっか",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　そういって、先生は真白",
+      "reading": "まっしろ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "なリンネルの着物につつまれた体",
+      "reading": "からだ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "を窓からのび出させて、葡萄の一房をもぎ取って、真白",
+      "reading": "まっしろ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "い左の手の上に粉のふいた紫色の房を乗せて、細長い銀色の鋏",
+      "reading": "はさみ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "で真中",
+      "reading": "まんなか",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "からぷつりと二つに切って、ジムと僕とに下さいました。真白い手",
+      "reading": "て",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の平",
+      "reading": "ひら",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "　それにしても僕の大好きなあのいい先生はどこに行かれたでしょう。もう二度とは遇",
+      "reading": "あ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "※表題は底本では、「一房",
+      "reading": "ひとふさ",
+      "meaning": "",
+      "difficulty": 3
+    }
+  ],
+  "quiz": {
+    "comprehension": []
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  }
+}

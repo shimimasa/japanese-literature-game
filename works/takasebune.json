@@ -1,0 +1,1563 @@
+{
+  "id": "高瀬舟",
+  "title": "高瀬舟",
+  "titleKana": "",
+  "author": {
+    "name": "森鴎外",
+    "nameKana": ""
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "meiji",
+    "gradeLevel": 3,
+    "difficulty": {
+      "overall": 4,
+      "kanji": 5,
+      "vocabulary": 3,
+      "grammar": 4,
+      "sentenceLength": 42
+    },
+    "themes": [],
+    "totalCharacters": 4000,
+    "estimatedReadingTime": 10,
+    "statistics": {
+      "totalCharacters": 4000,
+      "totalKanji": 1076,
+      "uniqueKanji": 374,
+      "kanjiRatio": "26.9%",
+      "sentenceCount": 96,
+      "averageSentenceLength": 42
+    },
+    "learningObjectives": [
+      "漢字の読み方を学ぶ",
+      "古典的な日本語表現を理解する"
+    ],
+    "relatedWorks": [
+      {
+        "type": "same_author",
+        "reason": "同じ作者の作品",
+        "works": []
+      },
+      {
+        "type": "similar_difficulty",
+        "reason": "同じレベルの作品",
+        "works": [
+          "注文の多い料理店",
+          "走れメロス"
+        ]
+      }
+    ]
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　一體此懸隔はどうして生じて來るだらう。只上邊だけを見て、それは喜助には身に係累がないのに、こつちにはあるからだと云つてしまへばそれまでである。しかしそれは※である。よしや自分が一人者であつたとしても、どうも喜助のやうな心持にはなられさうにない。この根柢はもつと深い處にあるやうだと、庄兵衞は思つた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　庄兵衞は只漠然と、人の一生といふやうな事を思つて見た。人は身に病があると、此病がなかつたらと思ふ。其日其日の食がないと、食つて行かれたらと思ふ。萬一の時に備へる蓄がないと、少しでも蓄があつたらと思ふ。蓄があつても、又其蓄がもつと多かつたらと思ふ。此の如くに先から先へと考へて見れば、人はどこまで往つて踏み止まることが出來るものやら分からない。それを今目の前で踏み止まつて見せてくれるのが此喜助だと、庄兵衞は氣が附いた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　庄兵衞は今さらのやうに驚異の目を※",
+            "ruby": "みは"
+          },
+          {
+            "type": "ruby",
+            "base": "つて喜助を見た。此時庄兵衞は空を仰いでゐる喜助の頭から毫光",
+            "ruby": "がうくわう"
+          },
+          {
+            "type": "text",
+            "content": "がさすやうに思つた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　――――――――――――――――"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　庄兵衞は喜助の顏をまもりつつ又、「喜助さん」と呼び掛けた。今度は「さん」と云つたが、これは十分の意識を以て稱呼を改めたわけではない。其聲が我口から出て我耳に入るや否や、庄兵衞は此稱呼の不穩當なのに氣が附いたが、今さら既に出た詞を取り返すことも出來なかつた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「はい」と答へた喜助も、「さん」と呼ばれたのを不審に思ふらしく、おそる／＼庄兵衞の氣色を覗つた。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　庄兵衞は少し間の惡いのをこらへて云つた。「色々の事を聞くやうだが、お前が今度島へ遣られるのは、人をあやめたからだと云ふ事だ。己に序にそのわけを話して聞せてくれぬか。」"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　喜助はひどく恐れ入つた樣子で、「かしこまりました」と云つて、小聲で話し出した。「どうも飛んだ心得違",
+            "ruby": "こゝろえちがひ"
+          },
+          {
+            "type": "ruby",
+            "base": "で、恐ろしい事をいたしまして、なんとも申し上げやうがございませぬ。跡で思つて見ますと、どうしてあんな事が出來たかと、自分ながら不思議でなりませぬ。全く夢中でいたしましたのでございます。わたくしは小さい時に二親が時疫",
+            "ruby": "じえき"
+          },
+          {
+            "type": "ruby",
+            "base": "で亡くなりまして、弟と二人跡に殘りました。初は丁度軒下に生れた狗",
+            "ruby": "いぬ"
+          },
+          {
+            "type": "ruby",
+            "base": "の子にふびんを掛けるやうに町内の人達がお惠下さいますので、近所中の走使などをいたして、飢ゑ凍えもせずに、育ちました。次第に大きくなりまして職を搜しますにも、なるたけ二人が離れないやうにいたして、一しよにゐて、助け合つて働きました。去年の秋の事でございます。わたくしは弟と一しよに、西陣の織場に這入りまして、空引",
+            "ruby": "そらびき"
+          },
+          {
+            "type": "ruby",
+            "base": "と云ふことをいたすことになりました。そのうち弟が病氣で働けなくなつたのでございます。其頃わたくし共は北山の掘立小屋同樣の所に寢起をいたして、紙屋川の橋を渡つて織場へ通つてをりましたが、わたくしが暮れてから、食物などを買つて歸ると、弟は待ち受けてゐて、わたくしを一人で稼がせては濟まない／＼と申してをりました。或る日いつものやうに何心なく歸つて見ますと、弟は布團の上に突つ伏してゐまして、周圍は血だらけなのでございます。わたくしはびつくりいたして、手に持つてゐた竹の皮包や何かを、そこへおつぽり出して、傍へ往つて『どうした／＼』と申しました。すると弟は眞蒼な顏の、兩方の頬から腮へ掛けて血に染つたのを擧げて、わたくしを見ましたが、物を言ふことが出來ませぬ。息をいたす度に、創口でひゆう／＼と云ふ音がいたすだけでございます。わたくしにはどうも樣子がわかりませんので、『どうしたのだい、血を吐いたのかい』と云つて、傍へ寄らうといたすと、弟は右の手を床に衝いて、少し體を起しました。左の手はしつかり腮の下の所を押へてゐますが、其指の間から黒血の固まりがはみ出してゐます。弟は目でわたくしの傍へ寄るのを留めるやうにして口を利きました。やう／＼物が言へるやうになつたのでございます。『濟まない。どうぞ堪忍してくれ。どうせなほりさうにもない病氣だから、早く死んで少しでも兄きに樂がさせたいと思つたのだ。笛を切つたら、すぐ死ねるだらうと思つたが息がそこから漏れるだけで死ねない。深く／＼と思つて、力一ぱい押し込むと、横へすべつてしまつた。刃は飜",
+            "ruby": "こぼ"
+          },
+          {
+            "type": "ruby",
+            "base": "れはしなかつたやうだ。これを旨く拔いてくれたら己は死ねるだらうと思つてゐる。物を言ふのがせつなくつて可けない。どうぞ手を借して拔いてくれ』と云ふのでございます。弟が左の手を弛めるとそこから又息が漏ります。わたくしはなんと云はうにも、聲が出ませんので、默つて弟の咽の創を覗いて見ますと、なんでも右の手に剃刀を持つて、横に笛を切つたが、それでは死に切れなかつたので、其儘剃刀を、刳るやうに深く突つ込んだものと見えます。柄がやつと二寸ばかり創口から出てゐます。わたくしはそれだけの事を見て、どうしようと云ふ思案も附かずに、弟の顏を見ました。弟はぢつとわたくしを見詰めてゐます。わたくしはやつとの事で、『待つてゐてくれ、お醫者を呼んで來るから』と申しました。弟は怨めしさうな目附をいたしましたが、又左の手で喉をしつかり押へて、『醫者がなんになる、あゝ苦しい、早く拔いてくれ、頼む』と云ふのでございます。わたくしは途方に暮れたやうな心持になつて、只弟の顏ばかり見てをります。こんな時は、不思議なもので、目が物を言ひます。弟の目は『早くしろ、早くしろ』と云つて、さも怨めしさうにわたくしを見てゐます。わたくしの頭の中では、なんだかかう車の輪のやうな物がぐる／＼廻つてゐるやうでございましたが、弟の目は恐ろしい催促を罷",
+            "ruby": "や"
+          },
+          {
+            "type": "ruby",
+            "base": "めません。それに其目の怨めしさうなのが段々險しくなつて來て、とう／＼敵の顏をでも睨むやうな、憎々しい目になつてしまひます。それを見てゐて、わたくしはとう／＼、これは弟の言つた通にして遣らなくてはならないと思ひました。わたくしは『しかたがない、拔いて遣るぞ』と申しました。すると弟の目の色がからりと變つて、晴やかに、さも嬉しさうになりました。わたくしはなんでも一と思にしなくてはと思つて膝を撞",
+            "ruby": "つ"
+          },
+          {
+            "type": "ruby",
+            "base": "くやうにして體を前へ乘り出しました。弟は衝いてゐた右の手を放して、今まで喉を押へてゐた手の肘を床に衝いて、横になりました。わたくしは剃刀の柄をしつかり握つて、ずつと引きました。此時わたくしの内から締めて置いた表口の戸をあけて、近所の婆あさんが這入つて來ました。留守の間、弟に藥を飮ませたり何かしてくれるやうに、わたくしの頼んで置いた婆あさんなのでございます。もう大ぶ内のなかが暗くなつてゐましたから、わたくしには婆あさんがどれだけの事を見たのだかわかりませんでしたが、婆あさんはあつと云つた切、表口をあけ放しにして置いて驅け出してしまひました。わたくしは剃刀を拔く時、手早く拔かう、眞直に拔かうと云ふだけの用心はいたしましたが、どうも拔いた時の手應",
+            "ruby": "てごたへ"
+          },
+          {
+            "type": "ruby",
+            "base": "は、今まで切れてゐなかつた所を切つたやうに思はれました。刃が外の方へ向ひてゐましたから、外の方が切れたのでございませう。わたくしは剃刀を握つた儘、婆あさんの這入つて來て又驅け出して行つたのを、ぼんやりして見てをりました。婆あさんが行つてしまつてから、氣が附いて弟を見ますと、弟はもう息が切れてをりました。創口からは大そうな血が出てをりました。それから年寄衆",
+            "ruby": "としよりしゆう"
+          },
+          {
+            "type": "text",
+            "content": "がお出になつて、役場へ連れて行かれますまで、わたくしは剃刀を傍に置いて、目を半分あいた儘死んでゐる弟の顏を見詰めてゐたのでございます。」"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　少し俯向き加減になつて庄兵衞の顏を下から見上げて話してゐた喜助は、かう云つてしまつて視線を膝の上に落した。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　喜助の話は好く條理が立つてゐる。殆ど條理が立ち過ぎてゐると云つても好い位である。これは半年程の間、當時の事を幾度も思ひ浮べて見たのと、役場で問はれ、町奉行所で調べられる其度毎に、注意に注意を加へて浚つて見させられたのとのためである。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　庄兵衞は其場の樣子を目のあたり見るやうな思ひをして聞いてゐたが、これが果して弟殺しと云ふものだらうか、人殺しと云ふものだらうかと云ふ疑が、話を半分聞いた時から起つて來て、聞いてしまつても、其疑を解くことが出來なかつた。弟は剃刀を拔いてくれたら死なれるだらうから、拔いてくれと云つた。それを拔いて遣つて死なせたのだ、殺したのだとは云はれる。しかし其儘にして置いても、どうせ死ななくてはならぬ弟であつたらしい。それが早く死にたいと云つたのは、苦しさに耐へなかつたからである。喜助は其苦を見てゐるに忍びなかつた。苦から救つて遣らうと思つて命を絶つた。それが罪であらうか。殺したのは罪に相違ない。しかしそれが苦から救ふためであつたと思ふと、そこに疑が生じて、どうしても解けぬのである。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　庄兵衞の心の中には、いろ／＼に考へて見た末に、自分より上のものの判斷に任す外ないと云ふ念、オオトリテエに從ふ外ないと云ふ念が生じた。庄兵衞はお奉行樣の判斷を、其儘自分の判斷にしようと思つたのである。さうは思つても、庄兵衞はまだどこやらに腑に落ちぬものが殘つてゐるので、なんだかお奉行樣に聞いて見たくてならなかつた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　次第に更けて行く朧夜に、沈默の人二人を載せた高瀬舟は、黒い水の面をすべつて行つた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "（大正五年一月「中央公論」第三十一年第一號）"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「日本現代文學全集　7　森鴎外集」講談社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1962（昭和37）年1月19日初版第1刷"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1980（昭和55）年5月26日増補改訂版第1刷"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "初出：「中央公論　第三十一年第一號」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1916（大正5）年1月"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：青空文庫"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：青空文庫"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1997年10月16日公開"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2011年4月27日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [],
+  "quiz": {
+    "comprehension": [
+      {
+        "id": "comp_1",
+        "type": "multiple_choice",
+        "question": "この物語の主人公は誰ですか？",
+        "options": [
+          "庄兵衞",
+          "剃刀",
+          "兩方",
+          "中央公論"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "explanation": "主人公は庄兵衞です。"
+      },
+      {
+        "id": "comp_2",
+        "type": "multiple_choice",
+        "question": "物語の冒頭で語られていることは何ですか？",
+        "options": [
+          "「はい」と答へた喜助も、「さん」と呼ばれたのを不審に思ふらし...",
+          "主人公が旅に出る場面",
+          "事件が起きる場面",
+          "物語の結末"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2
+      },
+      {
+        "id": "comp_4",
+        "type": "short_answer",
+        "question": "この物語から学べることは何だと思いますか？",
+        "sampleAnswer": "人の気持ちを理解することの大切さ",
+        "difficulty": 4,
+        "rubric": [
+          "テーマとの関連性",
+          "自分の考えの表現",
+          "具体例の使用"
+        ]
+      },
+      {
+        "id": "comp_5",
+        "type": "true_false",
+        "question": "物語の中で「初出：「中央公論　第三十一年第一號」...」という場面があります。",
+        "correctAnswer": true,
+        "difficulty": 2
+      }
+    ],
+    "vocabulary": [],
+    "kanji": [
+      {
+        "id": "kanji_1",
+        "type": "input",
+        "question": "「庄」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "みは",
+        "acceptableAnswers": [
+          "みは",
+          "がうくわう"
+        ],
+        "difficulty": 2,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_2",
+        "type": "input",
+        "question": "「兵」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "みは",
+        "acceptableAnswers": [
+          "みは",
+          "がうくわう"
+        ],
+        "difficulty": 2,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_3",
+        "type": "input",
+        "question": "「衞」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "みは",
+        "acceptableAnswers": [
+          "みは",
+          "がうくわう"
+        ],
+        "difficulty": 5,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_4",
+        "type": "input",
+        "question": "「今」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "みは",
+        "acceptableAnswers": [
+          "みは",
+          "てごたへ",
+          "としよりしゆう"
+        ],
+        "difficulty": 1,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_5",
+        "type": "input",
+        "question": "「驚」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "みは",
+        "acceptableAnswers": [
+          "みは"
+        ],
+        "difficulty": 5,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_6",
+        "type": "input",
+        "question": "「異」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "みは",
+        "acceptableAnswers": [
+          "みは"
+        ],
+        "difficulty": 4,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_7",
+        "type": "input",
+        "question": "「目」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "みは",
+        "acceptableAnswers": [
+          "みは",
+          "こぼ",
+          "や",
+          "つ"
+        ],
+        "difficulty": 4,
+        "hint": "2文字のひらがなです。"
+      },
+      {
+        "id": "kanji_8",
+        "type": "input",
+        "question": "「喜」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "がうくわう",
+        "acceptableAnswers": [
+          "がうくわう",
+          "こゝろえちがひ"
+        ],
+        "difficulty": 2,
+        "hint": "5文字のひらがなです。"
+      },
+      {
+        "id": "kanji_9",
+        "type": "input",
+        "question": "「助」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "がうくわう",
+        "acceptableAnswers": [
+          "がうくわう",
+          "こゝろえちがひ",
+          "そらびき"
+        ],
+        "difficulty": 2,
+        "hint": "5文字のひらがなです。"
+      },
+      {
+        "id": "kanji_10",
+        "type": "input",
+        "question": "「見」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "がうくわう",
+        "acceptableAnswers": [
+          "がうくわう",
+          "じえき",
+          "こぼ",
+          "や",
+          "つ",
+          "てごたへ",
+          "としよりしゆう"
+        ],
+        "difficulty": 5,
+        "hint": "5文字のひらがなです。"
+      }
+    ]
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  },
+  "kanjiList": [
+    {
+      "character": "今",
+      "readings": [
+        "みは",
+        "てごたへ",
+        "としよりしゆう"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "仰",
+      "readings": [
+        "がうくわう"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "云",
+      "readings": [
+        "こゝろえちがひ",
+        "こぼ",
+        "や",
+        "てごたへ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "事",
+      "readings": [
+        "じえき",
+        "そらびき",
+        "や",
+        "てごたへ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "上",
+      "readings": [
+        "じえき",
+        "こぼ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "來",
+      "readings": [
+        "じえき",
+        "こぼ",
+        "や",
+        "つ",
+        "てごたへ",
+        "としよりしゆう"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "不",
+      "readings": [
+        "じえき",
+        "や"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "中",
+      "readings": [
+        "じえき",
+        "そらびき",
+        "や"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "二",
+      "readings": [
+        "じえき",
+        "いぬ",
+        "そらびき",
+        "や"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "亡",
+      "readings": [
+        "いぬ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "人",
+      "readings": [
+        "いぬ",
+        "そらびき",
+        "こぼ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "丁",
+      "readings": [
+        "いぬ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "下",
+      "readings": [
+        "いぬ",
+        "そらびき",
+        "こぼ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "使",
+      "readings": [
+        "そらびき"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "一",
+      "readings": [
+        "そらびき",
+        "こぼ",
+        "つ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "何",
+      "readings": [
+        "こぼ",
+        "てごたへ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "伏",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "促",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "乘",
+      "readings": [
+        "てごたへ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "庄",
+      "readings": [
+        "みは",
+        "がうくわう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "兵",
+      "readings": [
+        "みは",
+        "がうくわう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "喜",
+      "readings": [
+        "がうくわう",
+        "こゝろえちがひ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "助",
+      "readings": [
+        "がうくわう",
+        "こゝろえちがひ",
+        "そらびき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "光",
+      "readings": [
+        "がうくわう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "入",
+      "readings": [
+        "こゝろえちがひ",
+        "そらびき",
+        "てごたへ",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "子",
+      "readings": [
+        "こゝろえちがひ",
+        "そらびき",
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "小",
+      "readings": [
+        "こゝろえちがひ",
+        "じえき",
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "出",
+      "readings": [
+        "こゝろえちがひ",
+        "じえき",
+        "こぼ",
+        "や",
+        "てごたへ",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "心",
+      "readings": [
+        "こゝろえちがひ",
+        "こぼ",
+        "や",
+        "てごたへ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "得",
+      "readings": [
+        "こゝろえちがひ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "分",
+      "readings": [
+        "じえき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "全",
+      "readings": [
+        "じえき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "夢",
+      "readings": [
+        "じえき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "弟",
+      "readings": [
+        "いぬ",
+        "そらびき",
+        "こぼ",
+        "や",
+        "つ",
+        "てごたへ",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "初",
+      "readings": [
+        "いぬ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "度",
+      "readings": [
+        "いぬ",
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "内",
+      "readings": [
+        "そらびき",
+        "てごたへ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "凍",
+      "readings": [
+        "そらびき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "大",
+      "readings": [
+        "そらびき",
+        "てごたへ",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "合",
+      "readings": [
+        "そらびき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "働",
+      "readings": [
+        "そらびき",
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "去",
+      "readings": [
+        "そらびき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "年",
+      "readings": [
+        "そらびき",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "場",
+      "readings": [
+        "そらびき",
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "引",
+      "readings": [
+        "そらびき",
+        "てごたへ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "其",
+      "readings": [
+        "こぼ",
+        "や",
+        "つ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "共",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "北",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "山",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "屋",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "同",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "寢",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "川",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "待",
+      "readings": [
+        "こぼ",
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "受",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "布",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "團",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "周",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "圍",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "包",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "傍",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "往",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "兩",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "創",
+      "readings": [
+        "こぼ",
+        "や",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "口",
+      "readings": [
+        "こぼ",
+        "や",
+        "てごたへ",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "吐",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "寄",
+      "readings": [
+        "こぼ",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "右",
+      "readings": [
+        "こぼ",
+        "や",
+        "てごたへ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "床",
+      "readings": [
+        "こぼ",
+        "てごたへ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "少",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "左",
+      "readings": [
+        "こぼ",
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "固",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "利",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "堪",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "忍",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "兄",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "切",
+      "readings": [
+        "こぼ",
+        "や",
+        "てごたへ",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "力",
+      "readings": [
+        "こぼ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "刃",
+      "readings": [
+        "こぼ",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "己",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "可",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "借",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "弛",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "又",
+      "readings": [
+        "や",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "咽",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "剃",
+      "readings": [
+        "や",
+        "てごたへ",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "刀",
+      "readings": [
+        "や",
+        "てごたへ",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "儘",
+      "readings": [
+        "や",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "刳",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "寸",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "呼",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "喉",
+      "readings": [
+        "や",
+        "てごたへ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "只",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "廻",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "催",
+      "readings": [
+        "や"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "嬉",
+      "readings": [
+        "つ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "前",
+      "readings": [
+        "てごたへ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "婆",
+      "readings": [
+        "てごたへ",
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "守",
+      "readings": [
+        "てごたへ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "外",
+      "readings": [
+        "としよりしゆう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    }
+  ]
+}

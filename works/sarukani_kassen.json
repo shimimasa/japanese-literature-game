@@ -1,0 +1,3172 @@
+{
+  "id": "猿かに合戦",
+  "title": "猿かに合戦",
+  "titleKana": "",
+  "author": {
+    "name": "楠山正雄",
+    "nameKana": ""
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 3,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 3,
+      "vocabulary": 3,
+      "grammar": 3
+    },
+    "themes": [],
+    "totalCharacters": 3533,
+    "estimatedReadingTime": 9
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　一"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　むかし、むかし、あるところに、猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "text",
+            "content": "とかにがありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ある日猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "とかにはお天気",
+            "ruby": "てんき"
+          },
+          {
+            "type": "ruby",
+            "base": "がいいので、連",
+            "ruby": "つ"
+          },
+          {
+            "type": "ruby",
+            "base": "れだって遊",
+            "ruby": "あそ"
+          },
+          {
+            "type": "ruby",
+            "base": "びに出ました。その途中",
+            "ruby": "とちゅう"
+          },
+          {
+            "type": "ruby",
+            "base": "、山道",
+            "ruby": "やまみち"
+          },
+          {
+            "type": "ruby",
+            "base": "で猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "は柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "の種",
+            "ruby": "たね"
+          },
+          {
+            "type": "ruby",
+            "base": "を拾",
+            "ruby": "ひろ"
+          },
+          {
+            "type": "ruby",
+            "base": "いました。またしばらく行",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "くと、川",
+            "ruby": "かわ"
+          },
+          {
+            "type": "ruby",
+            "base": "のそばでかにはおむすびを拾",
+            "ruby": "ひろ"
+          },
+          {
+            "type": "text",
+            "content": "いました。かには、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「こんないいものを拾",
+            "ruby": "ひろ"
+          },
+          {
+            "type": "text",
+            "content": "った。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "って猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "に見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "せますと、猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "text",
+            "content": "も、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「わたしだってこんないいものを拾",
+            "ruby": "ひろ"
+          },
+          {
+            "type": "text",
+            "content": "った。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "って、柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "の種",
+            "ruby": "たね"
+          },
+          {
+            "type": "ruby",
+            "base": "を見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "せました。けれど猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "はほんとうはおむすびがほしくってならないものですから、かにに向",
+            "ruby": "む"
+          },
+          {
+            "type": "text",
+            "content": "かって、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どうだ、この柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "の種",
+            "ruby": "たね"
+          },
+          {
+            "type": "ruby",
+            "base": "と取",
+            "ruby": "と"
+          },
+          {
+            "type": "text",
+            "content": "りかえっこをしないか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「でもおむすびの方",
+            "ruby": "ほう"
+          },
+          {
+            "type": "text",
+            "content": "が大きいじゃないか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　とかには言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「でも柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "の種",
+            "ruby": "たね"
+          },
+          {
+            "type": "ruby",
+            "base": "は、まけば芽",
+            "ruby": "め"
+          },
+          {
+            "type": "ruby",
+            "base": "が出て木になって、おいしい実",
+            "ruby": "み"
+          },
+          {
+            "type": "text",
+            "content": "がなるよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "は言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いました。そう言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "われるとかにも種",
+            "ruby": "たね"
+          },
+          {
+            "type": "text",
+            "content": "がほしくなって、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「それもそうだなあ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、とうとう大きなおむすびと、小さな柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "の種",
+            "ruby": "たね"
+          },
+          {
+            "type": "ruby",
+            "base": "とを取",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "りかえてしまいました。猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "はうまくかにをだましておむすびをもらうと、見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "せびらかしながらうまそうにむしゃむしゃ食",
+            "ruby": "た"
+          },
+          {
+            "type": "text",
+            "content": "べて、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さようなら、かにさん、ごちそうさま。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "って、のそのそ自分",
+            "ruby": "じぶん"
+          },
+          {
+            "type": "ruby",
+            "base": "のうちへ帰",
+            "ruby": "かえ"
+          },
+          {
+            "type": "text",
+            "content": "っていきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　二"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　かには柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "の種",
+            "ruby": "たね"
+          },
+          {
+            "type": "ruby",
+            "base": "をさっそくお庭",
+            "ruby": "にわ"
+          },
+          {
+            "type": "text",
+            "content": "にまきました。そして、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「早",
+            "ruby": "はや"
+          },
+          {
+            "type": "ruby",
+            "base": "く芽",
+            "ruby": "め"
+          },
+          {
+            "type": "ruby",
+            "base": "を出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "せ、柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "の種",
+            "ruby": "たね"
+          },
+          {
+            "type": "text",
+            "content": "。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "さぬと、はさみでちょん切",
+            "ruby": "ぎ"
+          },
+          {
+            "type": "text",
+            "content": "るぞ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いました。すると間",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "もなく、かわいらしい芽",
+            "ruby": "め"
+          },
+          {
+            "type": "text",
+            "content": "がにょきんと出ました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　かにはその芽",
+            "ruby": "め"
+          },
+          {
+            "type": "ruby",
+            "base": "に向",
+            "ruby": "む"
+          },
+          {
+            "type": "ruby",
+            "base": "かって毎日",
+            "ruby": "まいにち"
+          },
+          {
+            "type": "text",
+            "content": "、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「早",
+            "ruby": "はや"
+          },
+          {
+            "type": "ruby",
+            "base": "く木になれ、柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "の芽",
+            "ruby": "め"
+          },
+          {
+            "type": "text",
+            "content": "よ。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "ならぬと、はさみでちょん切",
+            "ruby": "ぎ"
+          },
+          {
+            "type": "text",
+            "content": "るぞ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いました。すると柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "の芽",
+            "ruby": "め"
+          },
+          {
+            "type": "ruby",
+            "base": "はずんずんのびて、大きな木になって、枝",
+            "ruby": "えだ"
+          },
+          {
+            "type": "ruby",
+            "base": "が出て、葉",
+            "ruby": "は"
+          },
+          {
+            "type": "ruby",
+            "base": "が茂",
+            "ruby": "しげ"
+          },
+          {
+            "type": "ruby",
+            "base": "って、やがて花",
+            "ruby": "はな"
+          },
+          {
+            "type": "ruby",
+            "base": "が咲",
+            "ruby": "さ"
+          },
+          {
+            "type": "text",
+            "content": "きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　かにはこんどはその木に向",
+            "ruby": "む"
+          },
+          {
+            "type": "ruby",
+            "base": "かって毎日",
+            "ruby": "まいにち"
+          },
+          {
+            "type": "text",
+            "content": "、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「早",
+            "ruby": "はや"
+          },
+          {
+            "type": "ruby",
+            "base": "く実",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "がなれ、柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "text",
+            "content": "の木よ。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "ならぬと、はさみでちょん切",
+            "ruby": "ぎ"
+          },
+          {
+            "type": "text",
+            "content": "るぞ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いました。すると間",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "もなく柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "の木にはたくさん実",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "がなって、ずんずん赤",
+            "ruby": "あか"
+          },
+          {
+            "type": "ruby",
+            "base": "くなりました。それを下からかには見上",
+            "ruby": "みあ"
+          },
+          {
+            "type": "text",
+            "content": "げて、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「うまそうだなあ。早",
+            "ruby": "はや"
+          },
+          {
+            "type": "ruby",
+            "base": "く一つ食",
+            "ruby": "た"
+          },
+          {
+            "type": "text",
+            "content": "べてみたい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　といって、手",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "をのばしましたが、背",
+            "ruby": "せい"
+          },
+          {
+            "type": "ruby",
+            "base": "がひくくってとどきません。こんどは木の上に登",
+            "ruby": "のぼ"
+          },
+          {
+            "type": "ruby",
+            "base": "ろうとしましたが、横",
+            "ruby": "よこ"
+          },
+          {
+            "type": "ruby",
+            "base": "ばいですからいくら登",
+            "ruby": "のぼ"
+          },
+          {
+            "type": "ruby",
+            "base": "っても登",
+            "ruby": "のぼ"
+          },
+          {
+            "type": "ruby",
+            "base": "っても落",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "ちてしまいます。とうとうかにもあきらめて、それでも毎日",
+            "ruby": "まいにち"
+          },
+          {
+            "type": "text",
+            "content": "、くやしそうに下からながめていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　するとある日猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "が来",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "て、鈴",
+            "ruby": "すず"
+          },
+          {
+            "type": "ruby",
+            "base": "なりになっている柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "を見上",
+            "ruby": "みあ"
+          },
+          {
+            "type": "ruby",
+            "base": "げてよだれをたらしました。そしてこんなにりっぱな実",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "がなるなら、おむすびと取",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "りかえっこをするのではなかったと思",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "いました。それを見",
+            "ruby": "み"
+          },
+          {
+            "type": "text",
+            "content": "てかには、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "さん、ながめていないで、登",
+            "ruby": "のぼ"
+          },
+          {
+            "type": "ruby",
+            "base": "って取",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "ってくれないか。お礼",
+            "ruby": "れい"
+          },
+          {
+            "type": "ruby",
+            "base": "には柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "を少",
+            "ruby": "すこ"
+          },
+          {
+            "type": "ruby",
+            "base": "し上",
+            "ruby": "あ"
+          },
+          {
+            "type": "text",
+            "content": "げるよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いました。猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "text",
+            "content": "は、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「しめた。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "わないばかりの顔",
+            "ruby": "かお"
+          },
+          {
+            "type": "text",
+            "content": "をして、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「よしよし、取",
+            "ruby": "と"
+          },
+          {
+            "type": "ruby",
+            "base": "って上",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "げるから待",
+            "ruby": "ま"
+          },
+          {
+            "type": "text",
+            "content": "っておいで。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、するする木の上に登",
+            "ruby": "のぼ"
+          },
+          {
+            "type": "ruby",
+            "base": "っていきました。そして枝",
+            "ruby": "えだ"
+          },
+          {
+            "type": "ruby",
+            "base": "と枝",
+            "ruby": "えだ"
+          },
+          {
+            "type": "ruby",
+            "base": "との間",
+            "ruby": "あいだ"
+          },
+          {
+            "type": "ruby",
+            "base": "にゆっくり腰",
+            "ruby": "こし"
+          },
+          {
+            "type": "ruby",
+            "base": "をかけて、まず一つ、うまそうな赤",
+            "ruby": "あか"
+          },
+          {
+            "type": "ruby",
+            "base": "い柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "をもいで、わざと、「どうもおいしい柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "だ。」と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "い言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "い、むしゃむしゃ食",
+            "ruby": "た"
+          },
+          {
+            "type": "text",
+            "content": "べはじめました。かにはうらやましそうに下でながめていましたが、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「おい、おい、自分",
+            "ruby": "じぶん"
+          },
+          {
+            "type": "ruby",
+            "base": "ばかり食",
+            "ruby": "た"
+          },
+          {
+            "type": "ruby",
+            "base": "べないで、早",
+            "ruby": "はや"
+          },
+          {
+            "type": "text",
+            "content": "くここへもほうっておくれよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いますと、猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "は、「よし、よし。」と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、わざと青",
+            "ruby": "あお"
+          },
+          {
+            "type": "ruby",
+            "base": "い柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "をもいでほうり出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "しました。かにはあわてて拾",
+            "ruby": "ひろ"
+          },
+          {
+            "type": "ruby",
+            "base": "って食",
+            "ruby": "た"
+          },
+          {
+            "type": "text",
+            "content": "べてみますと、それはしぶくって口がまがりそうでした。かにが、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「これこれ、こんなしぶいのはだめだよ。もっとあまいのをおくれよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いますと、猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "は「よし、よし。」と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、もっと青",
+            "ruby": "あお"
+          },
+          {
+            "type": "text",
+            "content": "いのをもいで、ほうりました。かにが、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「こんどもやっぱりしぶくってだめだ。ほんとうにあまいのをおくれよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いますと、猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "text",
+            "content": "はうるさそうに、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「よし、そんならこれをやる。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、いちばん青",
+            "ruby": "あお"
+          },
+          {
+            "type": "ruby",
+            "base": "い硬",
+            "ruby": "かた"
+          },
+          {
+            "type": "ruby",
+            "base": "いのをもいで、あおむいて待",
+            "ruby": "ま"
+          },
+          {
+            "type": "ruby",
+            "base": "っているかにの頭",
+            "ruby": "あたま"
+          },
+          {
+            "type": "ruby",
+            "base": "をめがけて力",
+            "ruby": "ちから"
+          },
+          {
+            "type": "ruby",
+            "base": "いっぱい投",
+            "ruby": "な"
+          },
+          {
+            "type": "ruby",
+            "base": "げつけますと、かには、「あっ。」と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "ったなり、ひどく甲羅",
+            "ruby": "こうら"
+          },
+          {
+            "type": "ruby",
+            "base": "をうたれて、目をまわして、死",
+            "ruby": "し"
+          },
+          {
+            "type": "ruby",
+            "base": "んでしまいました。猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "は、「ざまをみろ。」と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、こんどこそあまい柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "を一人",
+            "ruby": "ひとり"
+          },
+          {
+            "type": "ruby",
+            "base": "じめにして、おなかのやぶれるほどたくさん食",
+            "ruby": "た"
+          },
+          {
+            "type": "ruby",
+            "base": "べて、その上両手",
+            "ruby": "りょうて"
+          },
+          {
+            "type": "ruby",
+            "base": "にかかえきれないほど持",
+            "ruby": "も"
+          },
+          {
+            "type": "ruby",
+            "base": "って、あとをも見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "ずにどんどん逃",
+            "ruby": "に"
+          },
+          {
+            "type": "ruby",
+            "base": "げて行",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "ってしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "が行ってしまったあとへ、そのときちょうど裏",
+            "ruby": "うら"
+          },
+          {
+            "type": "ruby",
+            "base": "の小川",
+            "ruby": "おがわ"
+          },
+          {
+            "type": "ruby",
+            "base": "へ友",
+            "ruby": "とも"
+          },
+          {
+            "type": "ruby",
+            "base": "だちと遊",
+            "ruby": "あそ"
+          },
+          {
+            "type": "ruby",
+            "base": "びに行っていた子がにが帰",
+            "ruby": "かえ"
+          },
+          {
+            "type": "ruby",
+            "base": "って来",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "ました。見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "ると柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "の木の下に親",
+            "ruby": "おや"
+          },
+          {
+            "type": "ruby",
+            "base": "がにが甲羅",
+            "ruby": "こうら"
+          },
+          {
+            "type": "ruby",
+            "base": "をくだかれて死",
+            "ruby": "し"
+          },
+          {
+            "type": "ruby",
+            "base": "んでいます。子がにはびっくりしておいおい泣",
+            "ruby": "な"
+          },
+          {
+            "type": "ruby",
+            "base": "き出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "しました。泣",
+            "ruby": "な"
+          },
+          {
+            "type": "ruby",
+            "base": "きながら、「いったいだれがこんなひどいことをしたのだろう。」と思",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "ってよく見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "ますと、さっきまであれほどみごとになっていた柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "がきれいになくなって、青",
+            "ruby": "あお"
+          },
+          {
+            "type": "ruby",
+            "base": "い青",
+            "ruby": "あお"
+          },
+          {
+            "type": "ruby",
+            "base": "いしぶ柿",
+            "ruby": "がき"
+          },
+          {
+            "type": "ruby",
+            "base": "ばかりが残",
+            "ruby": "のこ"
+          },
+          {
+            "type": "text",
+            "content": "っていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「じゃあ、猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "のやつが殺",
+            "ruby": "ころ"
+          },
+          {
+            "type": "ruby",
+            "base": "して、柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "を取",
+            "ruby": "と"
+          },
+          {
+            "type": "text",
+            "content": "っていったのだな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　とかにはくやしがって、またおいおい泣",
+            "ruby": "な"
+          },
+          {
+            "type": "ruby",
+            "base": "き出",
+            "ruby": "だ"
+          },
+          {
+            "type": "text",
+            "content": "しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　するとそこへ栗",
+            "ruby": "くり"
+          },
+          {
+            "type": "ruby",
+            "base": "がぽんとはねて来",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "て、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「かにさん、かにさん、なぜ泣",
+            "ruby": "な"
+          },
+          {
+            "type": "text",
+            "content": "くの。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と聞",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "きました。子がには、猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "が親",
+            "ruby": "おや"
+          },
+          {
+            "type": "ruby",
+            "base": "がにを殺",
+            "ruby": "ころ"
+          },
+          {
+            "type": "ruby",
+            "base": "したから、かたきを討",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "ちたいと言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いますと、栗",
+            "ruby": "くり"
+          },
+          {
+            "type": "text",
+            "content": "は、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「にくい猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "だ。よしよし、おじさんがかたきをとってやるから、お泣",
+            "ruby": "な"
+          },
+          {
+            "type": "text",
+            "content": "きでない。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それでも子がには泣",
+            "ruby": "な"
+          },
+          {
+            "type": "ruby",
+            "base": "いていますと、こんどは蜂",
+            "ruby": "はち"
+          },
+          {
+            "type": "ruby",
+            "base": "がぶんとうなって来",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "て、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「かにさん、かにさん、なぜ泣",
+            "ruby": "な"
+          },
+          {
+            "type": "text",
+            "content": "くの。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と聞",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　子がには猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "が親",
+            "ruby": "おや"
+          },
+          {
+            "type": "ruby",
+            "base": "がにを殺",
+            "ruby": "ころ"
+          },
+          {
+            "type": "ruby",
+            "base": "したから、かたきを討",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "ちたいと言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いました。すると蜂",
+            "ruby": "はち"
+          },
+          {
+            "type": "text",
+            "content": "も、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「にくい猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "だ。よしよし、おじさんがかたきをとってやるから、お泣",
+            "ruby": "な"
+          },
+          {
+            "type": "text",
+            "content": "きでない。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それでも子がにがまだ泣",
+            "ruby": "な"
+          },
+          {
+            "type": "ruby",
+            "base": "いていますと、こんどは昆布",
+            "ruby": "こんぶ"
+          },
+          {
+            "type": "ruby",
+            "base": "がのろのろすべって来",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "て、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「かにさん、かにさん、なぜ泣",
+            "ruby": "な"
+          },
+          {
+            "type": "text",
+            "content": "くの。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と聞",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　子がには猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "が親",
+            "ruby": "おや"
+          },
+          {
+            "type": "ruby",
+            "base": "がにを殺",
+            "ruby": "ころ"
+          },
+          {
+            "type": "ruby",
+            "base": "したから、かたきを討",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "ちたいと言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いました。すると昆布",
+            "ruby": "こんぶ"
+          },
+          {
+            "type": "text",
+            "content": "も、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「にくい猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "だ。よしよし、おじさんがかたきをとってやるから、お泣",
+            "ruby": "な"
+          },
+          {
+            "type": "text",
+            "content": "きでない。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それでも子がにがまだ泣",
+            "ruby": "な"
+          },
+          {
+            "type": "ruby",
+            "base": "いていますと、こんどは臼",
+            "ruby": "うす"
+          },
+          {
+            "type": "ruby",
+            "base": "がころころころがって来",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "て、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「かにさん、かにさん、なぜ泣",
+            "ruby": "な"
+          },
+          {
+            "type": "text",
+            "content": "くの。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と聞",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　子がには猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "が親",
+            "ruby": "おや"
+          },
+          {
+            "type": "ruby",
+            "base": "がにを殺",
+            "ruby": "ころ"
+          },
+          {
+            "type": "ruby",
+            "base": "したから、かたきを討",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "ちたいと言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いました。すると臼",
+            "ruby": "うす"
+          },
+          {
+            "type": "text",
+            "content": "も、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「にくい猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "だ。よしよし、おじさんがかたきをとってやるから、お泣",
+            "ruby": "な"
+          },
+          {
+            "type": "text",
+            "content": "きでない。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　子がにはこれですっかり泣",
+            "ruby": "な"
+          },
+          {
+            "type": "ruby",
+            "base": "きやみました。栗",
+            "ruby": "くり"
+          },
+          {
+            "type": "ruby",
+            "base": "と蜂",
+            "ruby": "はち"
+          },
+          {
+            "type": "ruby",
+            "base": "と昆布",
+            "ruby": "こんぶ"
+          },
+          {
+            "type": "ruby",
+            "base": "と臼",
+            "ruby": "うす"
+          },
+          {
+            "type": "ruby",
+            "base": "とは、みんなよって、かたき討",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "ちの相談",
+            "ruby": "そうだん"
+          },
+          {
+            "type": "text",
+            "content": "をはじめました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　三"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　相談",
+            "ruby": "そうだん"
+          },
+          {
+            "type": "ruby",
+            "base": "がやっとまとまると、臼",
+            "ruby": "うす"
+          },
+          {
+            "type": "ruby",
+            "base": "と昆布",
+            "ruby": "こんぶ"
+          },
+          {
+            "type": "ruby",
+            "base": "と蜂",
+            "ruby": "はち"
+          },
+          {
+            "type": "ruby",
+            "base": "と栗",
+            "ruby": "くり"
+          },
+          {
+            "type": "ruby",
+            "base": "は、子がにを連",
+            "ruby": "つ"
+          },
+          {
+            "type": "ruby",
+            "base": "れて猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "のうちへ出かけて行きました。猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "はたんと柿",
+            "ruby": "かき"
+          },
+          {
+            "type": "ruby",
+            "base": "を食",
+            "ruby": "た"
+          },
+          {
+            "type": "ruby",
+            "base": "べて、おなかがくちくなって、おなかこなしに山へでも遊",
+            "ruby": "あそ"
+          },
+          {
+            "type": "text",
+            "content": "びに行ったとみえて、うちにはいませんでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ちょうどいい。この間",
+            "ruby": "あいだ"
+          },
+          {
+            "type": "ruby",
+            "base": "にみんなでうちの中にかくれて待",
+            "ruby": "ま"
+          },
+          {
+            "type": "text",
+            "content": "っていよう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と臼",
+            "ruby": "うす"
+          },
+          {
+            "type": "ruby",
+            "base": "が言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いますと、みんなはさんせいして、いちばんに栗",
+            "ruby": "くり"
+          },
+          {
+            "type": "text",
+            "content": "が、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「わたしはここにかくれよう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "って、炉",
+            "ruby": "ろ"
+          },
+          {
+            "type": "ruby",
+            "base": "の灰",
+            "ruby": "はい"
+          },
+          {
+            "type": "ruby",
+            "base": "の中にもぐり込",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "みました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「わたしはここだよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、蜂",
+            "ruby": "はち"
+          },
+          {
+            "type": "ruby",
+            "base": "は水がめの陰",
+            "ruby": "かげ"
+          },
+          {
+            "type": "text",
+            "content": "にかくれました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「わたしはここさ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と、昆布",
+            "ruby": "こんぶ"
+          },
+          {
+            "type": "ruby",
+            "base": "は敷居",
+            "ruby": "しきい"
+          },
+          {
+            "type": "ruby",
+            "base": "の上に長々",
+            "ruby": "ながなが"
+          },
+          {
+            "type": "ruby",
+            "base": "と寝",
+            "ruby": "ね"
+          },
+          {
+            "type": "text",
+            "content": "そべりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「じゃあ、わたしはここに乗",
+            "ruby": "の"
+          },
+          {
+            "type": "text",
+            "content": "っていよう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と臼",
+            "ruby": "うす"
+          },
+          {
+            "type": "ruby",
+            "base": "は言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "って、かもいの上にはい上",
+            "ruby": "あ"
+          },
+          {
+            "type": "text",
+            "content": "がりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　夕方",
+            "ruby": "ゆうがた"
+          },
+          {
+            "type": "ruby",
+            "base": "になって、猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "はくたびれて、外",
+            "ruby": "そと"
+          },
+          {
+            "type": "ruby",
+            "base": "から帰",
+            "ruby": "かえ"
+          },
+          {
+            "type": "ruby",
+            "base": "って来",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "ました。そして炉",
+            "ruby": "ろ"
+          },
+          {
+            "type": "ruby",
+            "base": "ばたにどっかり座",
+            "ruby": "すわ"
+          },
+          {
+            "type": "ruby",
+            "base": "り込",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "んで、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ああ、のどが渇",
+            "ruby": "かわ"
+          },
+          {
+            "type": "text",
+            "content": "いた。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、いきなりやかんに手",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "をかけますと、灰",
+            "ruby": "はい"
+          },
+          {
+            "type": "ruby",
+            "base": "の中にかくれていた栗",
+            "ruby": "くり"
+          },
+          {
+            "type": "ruby",
+            "base": "がぽんとはね出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "して、とび上",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "がって、猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "の鼻面",
+            "ruby": "はなづら"
+          },
+          {
+            "type": "ruby",
+            "base": "を力",
+            "ruby": "ちから"
+          },
+          {
+            "type": "text",
+            "content": "まかせにけつけました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「あつい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "はさけんであわてて鼻面",
+            "ruby": "はなづら"
+          },
+          {
+            "type": "ruby",
+            "base": "をおさえて、台所",
+            "ruby": "だいどころ"
+          },
+          {
+            "type": "ruby",
+            "base": "へかけ出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "しました。そしてやけどをひやそうと思",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "って、水がめの上に顔",
+            "ruby": "かお"
+          },
+          {
+            "type": "ruby",
+            "base": "を出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "しますと、陰",
+            "ruby": "かげ"
+          },
+          {
+            "type": "ruby",
+            "base": "から蜂",
+            "ruby": "はち"
+          },
+          {
+            "type": "ruby",
+            "base": "がぶんととび出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "して、猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "の目の上をいやというほど刺",
+            "ruby": "さ"
+          },
+          {
+            "type": "text",
+            "content": "しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いたい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "はさけんで、またあわてておもてへ逃",
+            "ruby": "に"
+          },
+          {
+            "type": "ruby",
+            "base": "げ出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "しました。逃",
+            "ruby": "に"
+          },
+          {
+            "type": "ruby",
+            "base": "げ出",
+            "ruby": "だ"
+          },
+          {
+            "type": "ruby",
+            "base": "すひょうしに、敷居",
+            "ruby": "しきい"
+          },
+          {
+            "type": "ruby",
+            "base": "の上に寝",
+            "ruby": "ね"
+          },
+          {
+            "type": "ruby",
+            "base": "ていた昆布",
+            "ruby": "こんぶ"
+          },
+          {
+            "type": "ruby",
+            "base": "でつるりとすべって、腹",
+            "ruby": "はら"
+          },
+          {
+            "type": "ruby",
+            "base": "んばいに倒",
+            "ruby": "たお"
+          },
+          {
+            "type": "ruby",
+            "base": "れました。その上に臼",
+            "ruby": "うす"
+          },
+          {
+            "type": "ruby",
+            "base": "が、どさりところげ落",
+            "ruby": "お"
+          },
+          {
+            "type": "ruby",
+            "base": "ちて、うんとこしょと重",
+            "ruby": "おも"
+          },
+          {
+            "type": "text",
+            "content": "しになってしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "は赤",
+            "ruby": "あか"
+          },
+          {
+            "type": "ruby",
+            "base": "い顔",
+            "ruby": "かお"
+          },
+          {
+            "type": "ruby",
+            "base": "をありったけ赤",
+            "ruby": "あか"
+          },
+          {
+            "type": "ruby",
+            "base": "くして苦",
+            "ruby": "くる"
+          },
+          {
+            "type": "ruby",
+            "base": "しがって、うんうんうなりながら、手足",
+            "ruby": "てあし"
+          },
+          {
+            "type": "text",
+            "content": "をばたばたやっていました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そのとき、お庭",
+            "ruby": "にわ"
+          },
+          {
+            "type": "ruby",
+            "base": "の隅",
+            "ruby": "すみ"
+          },
+          {
+            "type": "ruby",
+            "base": "から子がにがちょろちょろはい出",
+            "ruby": "だ"
+          },
+          {
+            "type": "text",
+            "content": "してきて、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「親",
+            "ruby": "おや"
+          },
+          {
+            "type": "ruby",
+            "base": "のかたき、覚",
+            "ruby": "おぼ"
+          },
+          {
+            "type": "text",
+            "content": "えたか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "いながら、はさみをふり上",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "げて、猿",
+            "ruby": "さる"
+          },
+          {
+            "type": "ruby",
+            "base": "の首",
+            "ruby": "くび"
+          },
+          {
+            "type": "text",
+            "content": "をちょきんとはさみではさんでしまいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「日本の神話と十大昔話」講談社学術文庫、講談社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1983（昭和58）年5月10日第1刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1992（平成4）年4月20日第14刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：鈴木厚司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：大久保ゆう"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2003年8月2日作成"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "　むかし、むかし、あるところに、猿",
+      "reading": "さる",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　ある日猿",
+      "reading": "さる",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "とかにはお天気",
+      "reading": "てんき",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "がいいので、連",
+      "reading": "つ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "れだって遊",
+      "reading": "あそ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "びに出ました。その途中",
+      "reading": "とちゅう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "、山道",
+      "reading": "やまみち",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "で猿",
+      "reading": "さる",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "は柿",
+      "reading": "かき",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "の種",
+      "reading": "たね",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "を拾",
+      "reading": "ひろ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "いました。またしばらく行",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "くと、川",
+      "reading": "かわ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "のそばでかにはおむすびを拾",
+      "reading": "ひろ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「こんないいものを拾",
+      "reading": "ひろ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　と言",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "って猿",
+      "reading": "さる",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "に見",
+      "reading": "み",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "せますと、猿",
+      "reading": "さる",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「わたしだってこんないいものを拾",
+      "reading": "ひろ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "って、柿",
+      "reading": "かき",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "を見",
+      "reading": "み",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "せました。けれど猿",
+      "reading": "さる",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "はほんとうはおむすびがほしくってならないものですから、かにに向",
+      "reading": "む",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「どうだ、この柿",
+      "reading": "かき",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "と取",
+      "reading": "と",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "「でもおむすびの方",
+      "reading": "ほう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　とかには言",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「でも柿",
+      "reading": "かき",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "は、まけば芽",
+      "reading": "め",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "が出て木になって、おいしい実",
+      "reading": "み",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　と猿",
+      "reading": "さる",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "は言",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "いました。そう言",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "われるとかにも種",
+      "reading": "たね",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "いながら、とうとう大きなおむすびと、小さな柿",
+      "reading": "かき",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "とを取",
+      "reading": "と",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "りかえてしまいました。猿",
+      "reading": "さる",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "はうまくかにをだましておむすびをもらうと、見",
+      "reading": "み",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "せびらかしながらうまそうにむしゃむしゃ食",
+      "reading": "た",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "って、のそのそ自分",
+      "reading": "じぶん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のうちへ帰",
+      "reading": "かえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　かには柿",
+      "reading": "かき",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "をさっそくお庭",
+      "reading": "にわ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「早",
+      "reading": "はや",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "く芽",
+      "reading": "め",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "を出",
+      "reading": "だ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "せ、柿",
+      "reading": "かき",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "さぬと、はさみでちょん切",
+      "reading": "ぎ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "いました。すると間",
+      "reading": "ま",
+      "meaning": "",
+      "difficulty": 3
+    }
+  ],
+  "quiz": {
+    "comprehension": []
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  }
+}

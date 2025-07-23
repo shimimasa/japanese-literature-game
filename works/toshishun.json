@@ -1,0 +1,3738 @@
+{
+  "id": "杜子春",
+  "title": "杜子春",
+  "titleKana": "",
+  "author": {
+    "name": "芥川龍之介",
+    "nameKana": "あくたがわりゅうのすけ",
+    "birthYear": 1892,
+    "deathYear": 1927
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "taisho",
+    "gradeLevel": 5,
+    "difficulty": {
+      "overall": 4,
+      "kanji": 5,
+      "vocabulary": 3,
+      "grammar": 3,
+      "sentenceLength": 37
+    },
+    "themes": [
+      "人間の本質",
+      "善悪",
+      "エゴイズム"
+    ],
+    "totalCharacters": 9401,
+    "estimatedReadingTime": 24,
+    "genres": [
+      "短編小説",
+      "歴史小説"
+    ],
+    "statistics": {
+      "totalCharacters": 9401,
+      "totalKanji": 2826,
+      "uniqueKanji": 716,
+      "kanjiRatio": "30.1%",
+      "sentenceCount": 251,
+      "averageSentenceLength": 37
+    },
+    "learningObjectives": [
+      "漢字の読み方を学ぶ",
+      "古典的な日本語表現を理解する",
+      "作品のテーマを理解する"
+    ],
+    "relatedWorks": [
+      {
+        "type": "same_author",
+        "reason": "同じ作者の作品",
+        "works": [
+          "羅生門",
+          "蜘蛛の糸",
+          "鼻"
+        ]
+      },
+      {
+        "type": "similar_theme",
+        "reason": "似たテーマの作品",
+        "works": []
+      },
+      {
+        "type": "similar_difficulty",
+        "reason": "同じレベルの作品",
+        "works": [
+          "注文の多い料理店",
+          "走れメロス"
+        ]
+      }
+    ]
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　　　一"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　或春の日暮です。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　唐の都洛陽",
+            "ruby": "らくやう"
+          },
+          {
+            "type": "text",
+            "content": "の西の門の下に、ぼんやり空を仰いでゐる、一人の若者がありました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　若者は名は杜子春",
+            "ruby": "とししゆん"
+          },
+          {
+            "type": "ruby",
+            "base": "といつて、元は金持の息子でしたが、今は財産を費",
+            "ruby": "つか"
+          },
+          {
+            "type": "ruby",
+            "base": "ひ尽",
+            "ruby": "つく"
+          },
+          {
+            "type": "ruby",
+            "base": "して、その日の暮しにも困る位、憐",
+            "ruby": "あはれ"
+          },
+          {
+            "type": "text",
+            "content": "な身分になつてゐるのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　何しろその頃洛陽といへば、天下に並ぶもののない、繁昌を極めた都ですから、往来",
+            "ruby": "わうらい"
+          },
+          {
+            "type": "ruby",
+            "base": "にはまだしつきりなく、人や車が通つてゐました。門一ぱいに当つてゐる、油のやうな夕日の光の中に、老人のかぶつた紗",
+            "ruby": "しや"
+          },
+          {
+            "type": "ruby",
+            "base": "の帽子や、土耳古",
+            "ruby": "トルコ"
+          },
+          {
+            "type": "ruby",
+            "base": "の女の金の耳環や、白馬に飾つた色糸の手綱",
+            "ruby": "たづな"
+          },
+          {
+            "type": "ruby",
+            "base": "が、絶えず流れて行く容子",
+            "ruby": "ようす"
+          },
+          {
+            "type": "text",
+            "content": "は、まるで画のやうな美しさです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　しかし杜子春は相変らず、門の壁に身を凭",
+            "ruby": "もた"
+          },
+          {
+            "type": "ruby",
+            "base": "せて、ぼんやり空ばかり眺めてゐました。空には、もう細い月が、うらうらと靡",
+            "ruby": "なび"
+          },
+          {
+            "type": "ruby",
+            "base": "いた霞の中に、まるで爪の痕",
+            "ruby": "あと"
+          },
+          {
+            "type": "text",
+            "content": "かと思ふ程、かすかに白く浮んでゐるのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「日は暮れるし、腹は減るし、その上もうどこへ行つても、泊めてくれる所はなささうだし――こんな思ひをして生きてゐる位なら、一そ川へでも身を投げて、死んでしまつた方がましかも知れない。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　杜子春はひとりさつきから、こんな取りとめもないことを思ひめぐらしてゐたのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　するとどこからやつて来たか、突然彼の前へ足を止めた、片目眇",
+            "ruby": "すがめ"
+          },
+          {
+            "type": "text",
+            "content": "の老人があります。それが夕日の光を浴びて、大きな影を門へ落すと、ぢつと杜子春の顔を見ながら、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「お前は何を考へてゐるのだ。」と、横柄",
+            "ruby": "わうへい"
+          },
+          {
+            "type": "text",
+            "content": "に言葉をかけました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「私ですか。私は今夜寝る所もないので、どうしたものかと考へてゐるのです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　老人の尋ね方が急でしたから、杜子春はさすがに眼を伏せて、思はず正直な答をしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さうか。それは可哀さうだな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　老人は暫",
+            "ruby": "しばら"
+          },
+          {
+            "type": "text",
+            "content": "く何事か考へてゐるやうでしたが、やがて、往来にさしてゐる夕日の光を指さしながら、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ではおれが好いことを一つ教へてやらう。今この夕日の中に立つて、お前の影が地に映つたら、その頭に当る所を夜中に掘つて見るが好い。きつと車に一ぱいの黄金が埋まつてゐる筈だから。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ほんたうですか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春は驚いて、伏せてゐた眼を挙げました。所が更に不思議なことには、あの老人はどこへ行つたか、もうあたりにはそれらしい、影も形も見当りません。その代り空の月の色は前よりも猶",
+            "ruby": "なほ"
+          },
+          {
+            "type": "ruby",
+            "base": "白くなつて、休みない往来の人通りの上には、もう気の早い蝙蝠",
+            "ruby": "かうもり"
+          },
+          {
+            "type": "text",
+            "content": "が二三匹ひらひら舞つてゐました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　　　二"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春",
+            "ruby": "とししゆん"
+          },
+          {
+            "type": "text",
+            "content": "は一日の内に、洛陽の都でも唯一人といふ大金持になりました。あの老人の言葉通り、夕日に影を映して見て、その頭に当る所を、夜中にそつと掘つて見たら、大きな車にも余る位、黄金が一山出て来たのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　大金持になつた杜子春は、すぐに立派な家を買つて、玄宗",
+            "ruby": "げんそう"
+          },
+          {
+            "type": "ruby",
+            "base": "皇帝にも負けない位、贅沢",
+            "ruby": "ぜいたく"
+          },
+          {
+            "type": "ruby",
+            "base": "な暮しをし始めました。蘭陵",
+            "ruby": "らんりよう"
+          },
+          {
+            "type": "ruby",
+            "base": "の酒を買はせるやら、桂州の竜眼肉",
+            "ruby": "りゆうがんにく"
+          },
+          {
+            "type": "ruby",
+            "base": "をとりよせるやら、日に四度色の変る牡丹",
+            "ruby": "ぼたん"
+          },
+          {
+            "type": "ruby",
+            "base": "を庭に植ゑさせるやら、白孔雀",
+            "ruby": "しろくじやく"
+          },
+          {
+            "type": "ruby",
+            "base": "を何羽も放し飼ひにするやら、玉を集めるやら、錦を縫はせるやら、香木",
+            "ruby": "かうぼく"
+          },
+          {
+            "type": "ruby",
+            "base": "の車を造らせるやら、象牙の椅子を誂",
+            "ruby": "あつら"
+          },
+          {
+            "type": "text",
+            "content": "へるやら、その贅沢を一々書いてゐては、いつになつてもこの話がおしまひにならない位です。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　するとかういふ噂",
+            "ruby": "うはさ"
+          },
+          {
+            "type": "ruby",
+            "base": "を聞いて、今までは路で行き合つても、挨拶さへしなかつた友だちなどが、朝夕遊びにやつて来ました。それも一日毎に数が増して、半年ばかり経つ内には、洛陽の都に名を知られた才子や美人が多い中で、杜子春の家へ来ないものは、一人もない位になつてしまつたのです。杜子春はこの御客たちを相手に、毎日酒盛りを開きました。その酒盛りの又盛なことは、中々口には尽されません。極",
+            "ruby": "ごく"
+          },
+          {
+            "type": "ruby",
+            "base": "かいつまんだだけをお話しても、杜子春が金の杯に西洋から来た葡萄酒を汲んで、天竺",
+            "ruby": "てんぢく"
+          },
+          {
+            "type": "ruby",
+            "base": "生れの魔法使が刀を呑んで見せる芸に見とれてゐると、そのまはりには二十人の女たちが、十人は翡翠",
+            "ruby": "ひすゐ"
+          },
+          {
+            "type": "ruby",
+            "base": "の蓮の花を、十人は瑪瑙",
+            "ruby": "めなう"
+          },
+          {
+            "type": "text",
+            "content": "の牡丹の花を、いづれも髪に飾りながら、笛や琴を節面白く奏してゐるといふ景色なのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　しかしいくら大金持でも、御金には際限がありますから、さすがに贅沢家",
+            "ruby": "ぜいたくや"
+          },
+          {
+            "type": "text",
+            "content": "の杜子春も、一年二年と経つ内には、だんだん貧乏になり出しました。さうすると人間は薄情なもので、昨日までは毎日来た友だちも、今日は門の前を通つてさへ、挨拶一つして行きません。ましてとうとう三年目の春、又杜子春が以前の通り、一文無しになつて見ると、広い洛陽の都の中にも、彼に宿を貸さうといふ家は、一軒もなくなつてしまひました。いや、宿を貸す所か、今では椀に一杯の水も、恵んでくれるものはないのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そこで彼は或日の夕方、もう一度あの洛陽の西の門の下へ行つて、ぼんやり空を眺めながら、途方に暮れて立つてゐました。するとやはり昔のやうに、片目眇",
+            "ruby": "すがめ"
+          },
+          {
+            "type": "text",
+            "content": "の老人が、どこからか姿を現して、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「お前は何を考へてゐるのだ。」と、声をかけるではありませんか。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春は老人の顔を見ると、恥しさうに下を向いた儘",
+            "ruby": "まま"
+          },
+          {
+            "type": "ruby",
+            "base": "、暫",
+            "ruby": "しばら"
+          },
+          {
+            "type": "text",
+            "content": "くは返事もしませんでした。が、老人はその日も親切さうに、同じ言葉を繰返しますから、こちらも前と同じやうに、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「私は今夜寝る所もないので、どうしたものかと考へてゐるのです。」と、恐る恐る返事をしました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さうか。それは可哀さうだな、ではおれが好いことを一つ教へてやらう。今この夕日の中へ立つて、お前の影が地に映つたら、その胸に当る所を、夜中に掘つて見るが好い。きつと車に一ぱいの黄金が埋まつてゐる筈だから。」　"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　老人はかう言つたと思ふと、今度も亦",
+            "ruby": "また"
+          },
+          {
+            "type": "text",
+            "content": "人ごみの中へ、掻き消すやうに隠れてしまひました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春はその翌日から、忽",
+            "ruby": "たちま"
+          },
+          {
+            "type": "ruby",
+            "base": "ち天下第一の大金持に返りました。と同時に相変らず、仕放題",
+            "ruby": "しはうだい"
+          },
+          {
+            "type": "text",
+            "content": "な贅沢をし始めました。庭に咲いてゐる牡丹の花、その中に眠つてゐる白孔雀、それから刀を呑んで見せる、天竺から来た魔法使――すべてが昔の通りなのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ですから車に一ぱいあつた、あの夥",
+            "ruby": "おびただ"
+          },
+          {
+            "type": "ruby",
+            "base": "しい黄金も、又三年ばかり経",
+            "ruby": "た"
+          },
+          {
+            "type": "text",
+            "content": "つ内には、すつかりなくなつてしまひました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　　　三"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「お前は何を考へてゐるのだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　片目眇の老人は、三度杜子春の前へ来て、同じことを問ひかけました。勿論彼はその時も、洛陽の西の門の下に、ほそぼそと霞を破つてゐる三日月の光を眺めながら、ぼんやり佇",
+            "ruby": "たたず"
+          },
+          {
+            "type": "text",
+            "content": "んでゐたのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「私ですか。私は今夜寝る所もないので、どうしようかと思つてゐるのです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さうか。それは可哀さうだな。ではおれが好いことを教へてやらう。今この夕日の中へ立つて、お前の影が地に映つたら、その腹に当る所を、夜中に掘つて見るが好い。きつと車に一ぱいの――」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　老人がここまで言ひかけると、杜子春は急に手を挙げて、その言葉を遮",
+            "ruby": "さへぎ"
+          },
+          {
+            "type": "text",
+            "content": "りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いや、お金はもう入らないのです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「金はもう入らない？　ははあ、では贅沢をするにはとうとう飽きてしまつたと見えるな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　老人は審",
+            "ruby": "いぶか"
+          },
+          {
+            "type": "text",
+            "content": "しさうな眼つきをしながら、ぢつと杜子春の顔を見つめました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「何、贅沢に飽きたのぢやありません。人間といふものに愛想がつきたのです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春は不平さうな顔をしながら、突慳貪",
+            "ruby": "つつけんどん"
+          },
+          {
+            "type": "text",
+            "content": "にかう言ひました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「それは面白いな。どうして又人間に愛想が尽きたのだ？」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「人間は皆薄情です。私が大金持になつた時には、世辞も追従",
+            "ruby": "つゐしよう"
+          },
+          {
+            "type": "ruby",
+            "base": "もしますけれど、一旦貧乏になつて御覧なさい。柔",
+            "ruby": "やさ"
+          },
+          {
+            "type": "text",
+            "content": "しい顔さへもして見せはしません。そんなことを考へると、たとひもう一度大金持になつた所が、何にもならないやうな気がするのです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　老人は杜子春の言葉を聞くと、急ににやにや笑ひ出しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さうか。いや、お前は若い者に似合はず、感心に物のわかる男だ。ではこれからは貧乏をしても、安らかに暮して行くつもりか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　杜子春はちよいとためらひました。が、すぐに思ひ切つた眼を挙げると、訴へるやうに老人の顔を見ながら、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「それも今の私には出来ません。ですから私はあなたの弟子になつて、仙術の修業をしたいと思ふのです。いいえ、隠してはいけません。あなたは道徳の高い仙人でせう。仙人でなければ、一夜の内に私を天下第一の大金持にすることは出来ない筈です。どうか私の先生になつて、不思議な仙術を教へて下さい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　老人は眉をひそめた儘、暫くは黙つて、何事か考へてゐるやうでしたが、やがて又につこり笑ひながら、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いかにもおれは峨眉山",
+            "ruby": "がびさん"
+          },
+          {
+            "type": "ruby",
+            "base": "に棲",
+            "ruby": "す"
+          },
+          {
+            "type": "ruby",
+            "base": "んでゐる、鉄冠子",
+            "ruby": "てつくわんし"
+          },
+          {
+            "type": "ruby",
+            "base": "といふ仙人だ。始めお前の顔を見た時、どこか物わかりが好ささうだつたから、二度まで大金持にしてやつたのだが、それ程仙人になりたければ、おれの弟子にとり立ててやらう。」と、快く願を容",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "れてくれました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春は喜んだの、喜ばないのではありません。老人の言葉がまだ終らない内に、彼は大地に額をつけて、何度も鉄冠子に御時宜",
+            "ruby": "おじぎ"
+          },
+          {
+            "type": "text",
+            "content": "をしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「いや、さう御礼などは言つて貰ふまい。いくらおれの弟子にした所で、立派な仙人になれるかなれないかは、お前次第できまることだからな。――が、兎も角もまづおれと一しよに、峨眉山の奥へ来て見るが好い。おお、幸",
+            "ruby": "さいはひ"
+          },
+          {
+            "type": "text",
+            "content": "、ここに竹杖が一本落ちてゐる。では早速これへ乗つて、一飛びに空を渡るとしよう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　鉄冠子はそこにあつた青竹を一本拾ひ上げると、口の中に呪文",
+            "ruby": "じゆもん"
+          },
+          {
+            "type": "ruby",
+            "base": "を唱へながら、杜子春と一しよにその竹へ、馬にでも乗るやうに跨",
+            "ruby": "またが"
+          },
+          {
+            "type": "ruby",
+            "base": "りました。すると不思議ではありませんか。竹杖は忽",
+            "ruby": "たちま"
+          },
+          {
+            "type": "text",
+            "content": "ち竜のやうに、勢よく大空へ舞ひ上つて、晴れ渡つた春の夕空を峨眉山の方角へ飛んで行きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春は胆",
+            "ruby": "きも"
+          },
+          {
+            "type": "ruby",
+            "base": "をつぶしながら、恐る恐る下を見下しました。が、下には唯青い山々が夕明りの底に見えるばかりで、あの洛陽の都の西の門は、（とうに霞に紛",
+            "ruby": "まぎ"
+          },
+          {
+            "type": "ruby",
+            "base": "れたのでせう。）どこを探しても見当りません。その内に鉄冠子は、白い鬢",
+            "ruby": "びん"
+          },
+          {
+            "type": "text",
+            "content": "の毛を風に吹かせて、高らかに歌を唱ひ出しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "朝",
+            "ruby": "あした"
+          },
+          {
+            "type": "ruby",
+            "base": "に北海に遊び、暮には蒼梧",
+            "ruby": "さうご"
+          },
+          {
+            "type": "text",
+            "content": "。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "袖裏",
+            "ruby": "しうり"
+          },
+          {
+            "type": "ruby",
+            "base": "の青蛇",
+            "ruby": "せいだ"
+          },
+          {
+            "type": "ruby",
+            "base": "、胆気",
+            "ruby": "たんき"
+          },
+          {
+            "type": "ruby",
+            "base": "粗",
+            "ruby": "そ"
+          },
+          {
+            "type": "text",
+            "content": "なり。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "三たび嶽陽",
+            "ruby": "がくやう"
+          },
+          {
+            "type": "text",
+            "content": "に入れども、人識らず。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "朗吟して、飛過",
+            "ruby": "ひくわ"
+          },
+          {
+            "type": "text",
+            "content": "す洞庭湖。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　　　四"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人を乗せた青竹は、間もなく峨眉山へ舞ひ下りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　そこは深い谷に臨んだ、幅の広い一枚岩の上でしたが、よくよく高い所だと見えて、中空に垂れた北斗の星が、茶碗程の大きさに光つてゐました。元より人跡の絶えた山ですから、あたりはしんと静まり返つて、やつと耳にはひるものは、後の絶壁に生えてゐる、曲りくねつた一株の松が、こうこうと夜風に鳴る音だけです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　二人がこの岩の上に来ると、鉄冠子は杜子春を絶壁の下に坐らせて、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「おれはこれから天上へ行つて、西王母",
+            "ruby": "せいわうぼ"
+          },
+          {
+            "type": "ruby",
+            "base": "に御眼にかかつて来るから、お前はその間ここに坐つて、おれの帰るのを待つてゐるが好い。多分おれがゐなくなると、いろいろな魔性",
+            "ruby": "ましやう"
+          },
+          {
+            "type": "text",
+            "content": "が現れて、お前をたぶらかさうとするだらうが、たとひどんなことが起らうとも、決して声を出すのではないぞ。もし一言でも口を利いたら、お前は到底仙人にはなれないものだと覚悟をしろ。好いか。天地が裂けても、黙つてゐるのだぞ。」と言ひました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「大丈夫です。決して声なぞは出しはしません。命がなくなつても、黙つてゐます。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「さうか。それを聞いて、おれも安心した。ではおれは行つて来るから。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　老人は杜子春に別れを告げると、又あの竹杖に跨",
+            "ruby": "またが"
+          },
+          {
+            "type": "text",
+            "content": "つて、夜目にも削つたやうな山々の空へ、一文字に消えてしまひました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春はたつた一人、岩の上に坐つた儘、静に星を眺めてゐました。すると彼是",
+            "ruby": "かれこれ"
+          },
+          {
+            "type": "ruby",
+            "base": "半時ばかり経つて、深山の夜気が肌寒く薄い着物に透",
+            "ruby": "とほ"
+          },
+          {
+            "type": "text",
+            "content": "り出した頃、突然空中に声があつて、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「そこにゐるのは何者だ。」と叱りつけるではありませんか。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　しかし杜子春は仙人の教通り、何とも返事をしずにゐました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　所が又暫くすると、やはり同じ声が響いて、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「返事をしないと立ち所に、命はないものと覚悟しろ。」と、いかめしく嚇",
+            "ruby": "おど"
+          },
+          {
+            "type": "text",
+            "content": "しつけるのです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　杜子春は勿論黙つてゐました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と、どこから登つて来たか、爛々",
+            "ruby": "らんらん"
+          },
+          {
+            "type": "ruby",
+            "base": "と眼を光らせた虎が一匹、忽然",
+            "ruby": "こつぜん"
+          },
+          {
+            "type": "ruby",
+            "base": "と岩の上に躍り上つて、杜子春の姿を睨みながら、一声高く哮",
+            "ruby": "たけ"
+          },
+          {
+            "type": "ruby",
+            "base": "りました。のみならずそれと同時に、頭の上の松の枝が、烈しくざわざわ揺れたと思ふと、後の絶壁の頂からは、四斗樽程の白蛇",
+            "ruby": "はくだ"
+          },
+          {
+            "type": "text",
+            "content": "が一匹、炎のやうな舌を吐いて、見る見る近くへ下りて来るのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　杜子春はしかし平然と、眉毛も動かさずに坐つてゐました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　虎と蛇とは、一つ餌食を狙つて、互に隙でも窺",
+            "ruby": "うかが"
+          },
+          {
+            "type": "ruby",
+            "base": "ふのか、暫くは睨合ひの体でしたが、やがてどちらが先ともなく、一時に杜子春に飛びかかりました。が、虎の牙に噛まれるか、蛇の舌に呑まれるか、杜子春の命は瞬",
+            "ruby": "またた"
+          },
+          {
+            "type": "text",
+            "content": "く内に、なくなつてしまふと思つた時、虎と蛇とは霧の如く、夜風と共に消え失せて、後には唯、絶壁の松が、さつきの通りこうこうと枝を鳴らしてゐるばかりなのです。杜子春はほつと一息しながら、今度はどんなことが起るかと、心待ちに待つてゐました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　すると一陣の風が吹き起つて、墨のやうな黒雲が一面にあたりをとざすや否や、うす紫の稲妻がやにはに闇を二つに裂いて、凄じく雷",
+            "ruby": "らい"
+          },
+          {
+            "type": "ruby",
+            "base": "が鳴り出しました。いや、雷ばかりではありません。それと一しよに瀑",
+            "ruby": "たき"
+          },
+          {
+            "type": "ruby",
+            "base": "のやうな雨も、いきなりどうどうと降り出したのです。杜子春はこの天変の中に、恐れ気もなく坐つてゐました。風の音、雨のしぶき、それから絶え間ない稲妻の光、――暫くはさすがの峨眉山",
+            "ruby": "がびさん"
+          },
+          {
+            "type": "ruby",
+            "base": "も、覆",
+            "ruby": "くつがへ"
+          },
+          {
+            "type": "ruby",
+            "base": "るかと思ふ位でしたが、その内に耳をもつんざく程、大きな雷鳴が轟",
+            "ruby": "とどろ"
+          },
+          {
+            "type": "text",
+            "content": "いたと思ふと、空に渦巻いた黒雲の中から、まつ赤な一本の火柱が、杜子春の頭へ落ちかかりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春は思はず耳を抑へて、一枚岩の上へひれ伏しました。が、すぐに眼を開いて見ると、空は以前の通り晴れ渡つて、向うに聳",
+            "ruby": "そび"
+          },
+          {
+            "type": "ruby",
+            "base": "えた山山の上にも、茶碗程の北斗の星が、やはりきらきら輝いてゐます。して見れば今の大あらしも、あの虎や白蛇と同じやうに、鉄冠子",
+            "ruby": "てつくわんし"
+          },
+          {
+            "type": "ruby",
+            "base": "の留守をつけこんだ、魔性の悪戯",
+            "ruby": "いたづら"
+          },
+          {
+            "type": "ruby",
+            "base": "に違ひありません。杜子春は漸",
+            "ruby": "やうや"
+          },
+          {
+            "type": "text",
+            "content": "く安心して、額の冷汗を拭ひながら、又岩の上に坐り直しました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　が、そのため息がまだ消えない内に、今度は彼の坐つてゐる前へ、金の鎧",
+            "ruby": "よろひ"
+          },
+          {
+            "type": "ruby",
+            "base": "を着下",
+            "ruby": "きくだ"
+          },
+          {
+            "type": "ruby",
+            "base": "した、身の丈三丈もあらうといふ、厳かな神将が現れました。神将は手に三叉",
+            "ruby": "みつまた"
+          },
+          {
+            "type": "ruby",
+            "base": "の戟",
+            "ruby": "ほこ"
+          },
+          {
+            "type": "ruby",
+            "base": "を持つてゐましたが、いきなりその戟の切先を杜子春の胸もとへ向けながら、眼を嗔",
+            "ruby": "いか"
+          },
+          {
+            "type": "text",
+            "content": "らせて叱りつけるのを聞けば、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「こら、その方は一体何物だ。この峨眉山といふ山は、天地開闢",
+            "ruby": "かいびやく"
+          },
+          {
+            "type": "ruby",
+            "base": "の昔から、おれが住居",
+            "ruby": "すまひ"
+          },
+          {
+            "type": "ruby",
+            "base": "をしてゐる所だぞ。それも憚",
+            "ruby": "はばか"
+          },
+          {
+            "type": "text",
+            "content": "らずたつた一人、ここへ足を踏み入れるとは、よもや唯の人間ではあるまい。さあ命が惜しかつたら、一刻も早く返答しろ。」と言ふのです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　しかし杜子春は老人の言葉通り、黙然",
+            "ruby": "もくねん"
+          },
+          {
+            "type": "ruby",
+            "base": "と口を噤",
+            "ruby": "つぐ"
+          },
+          {
+            "type": "text",
+            "content": "んでゐました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「返事をしないか。――しないな。好し。しなければ、しないで勝手にしろ。その代りおれの眷属",
+            "ruby": "けんぞく"
+          },
+          {
+            "type": "text",
+            "content": "たちが、その方をずたずたに斬つてしまふぞ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　神将は戟",
+            "ruby": "ほこ"
+          },
+          {
+            "type": "ruby",
+            "base": "を高く挙げて、向うの山の空を招きました。その途端に闇がさつと裂けると、驚いたことには無数の神兵が、雲の如く空に充満",
+            "ruby": "みちみ"
+          },
+          {
+            "type": "text",
+            "content": "ちて、それが皆槍や刀をきらめかせながら、今にもここへ一なだれに攻め寄せようとしてゐるのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　この景色を見た杜子春は、思はずあつと叫びさうにしましたが、すぐに又鉄冠子の言葉を思ひ出して、一生懸命に黙つてゐました。神将は彼が恐れないのを見ると、怒つたの怒らないのではありません。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「この剛情者め。どうしても返事をしなければ、約束通り命はとつてやるぞ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　神将はかう喚",
+            "ruby": "わめ"
+          },
+          {
+            "type": "ruby",
+            "base": "くが早いか、三叉",
+            "ruby": "みつまた"
+          },
+          {
+            "type": "ruby",
+            "base": "の戟",
+            "ruby": "ほこ"
+          },
+          {
+            "type": "ruby",
+            "base": "を閃",
+            "ruby": "ひらめ"
+          },
+          {
+            "type": "text",
+            "content": "かせて、一突きに杜子春を突き殺しました。さうして峨眉山もどよむ程、からからと高く笑ひながら、どこともなく消えてしまひました。勿論この時はもう無数の神兵も、吹き渡る夜風の音と一しよに、夢のやうに消え失せた後だつたのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　北斗の星は又寒さうに、一枚岩の上を照らし始めました。絶壁の松も前に変らず、こうこうと枝を鳴らせてゐます。が、杜子春はとうに息が絶えて、仰向",
+            "ruby": "あふむ"
+          },
+          {
+            "type": "text",
+            "content": "けにそこへ倒れてゐました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　　　五"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　杜子春の体は岩の上へ、仰向けに倒れてゐましたが、杜子春の魂は、静に体から抜け出して、地獄の底へ下りて行きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　この世と地獄との間には、闇穴道",
+            "ruby": "あんけつだう"
+          },
+          {
+            "type": "ruby",
+            "base": "といふ道があつて、そこは年中暗い空に、氷のやうな冷たい風がぴゆうぴゆう吹き荒",
+            "ruby": "すさ"
+          },
+          {
+            "type": "ruby",
+            "base": "んでゐるのです。杜子春はその風に吹かれながら、暫くは唯",
+            "ruby": "ただ"
+          },
+          {
+            "type": "ruby",
+            "base": "木の葉のやうに、空を漂つて行きましたが、やがて森羅殿",
+            "ruby": "しんらでん"
+          },
+          {
+            "type": "text",
+            "content": "といふ額の懸つた立派な御殿の前へ出ました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　御殿の前にゐた大勢の鬼は、杜子春の姿を見るや否や、すぐにそのまはりを取り捲いて、階",
+            "ruby": "きざはし"
+          },
+          {
+            "type": "ruby",
+            "base": "の前へ引き据ゑました。階の上には一人の王様が、まつ黒な袍",
+            "ruby": "きもの"
+          },
+          {
+            "type": "ruby",
+            "base": "に金の冠",
+            "ruby": "かんむり"
+          },
+          {
+            "type": "ruby",
+            "base": "をかぶつて、いかめしくあたりを睨んでゐます。これは兼ねて噂",
+            "ruby": "うはさ"
+          },
+          {
+            "type": "ruby",
+            "base": "に聞いた、閻魔",
+            "ruby": "えんま"
+          },
+          {
+            "type": "ruby",
+            "base": "大王に違ひありません。杜子春はどうなることかと思ひながら、恐る恐るそこへ跪",
+            "ruby": "ひざまづ"
+          },
+          {
+            "type": "text",
+            "content": "いてゐました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「こら、その方は何の為に、峨眉山の上へ坐つてゐた？」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　閻魔大王の声は雷のやうに、階の上から響きました。杜子春は早速その問に答へようとしましたが、ふと又思ひ出したのは、「決して口を利くな。」といふ鉄冠子の戒めの言葉です。そこで唯頭を垂れた儘、唖",
+            "ruby": "おし"
+          },
+          {
+            "type": "ruby",
+            "base": "のやうに黙つてゐました。すると閻魔大王は、持つてゐた鉄の笏",
+            "ruby": "しやく"
+          },
+          {
+            "type": "ruby",
+            "base": "を挙げて、顔中の鬚",
+            "ruby": "ひげ"
+          },
+          {
+            "type": "text",
+            "content": "を逆立てながら、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「その方はここをどこだと思ふ？　速",
+            "ruby": "すみやか"
+          },
+          {
+            "type": "ruby",
+            "base": "に返答をすれば好し、さもなければ時を移さず、地獄の呵責",
+            "ruby": "かしやく"
+          },
+          {
+            "type": "ruby",
+            "base": "に遇",
+            "ruby": "あ"
+          },
+          {
+            "type": "ruby",
+            "base": "はせてくれるぞ。」と、威丈高",
+            "ruby": "ゐたけだか"
+          },
+          {
+            "type": "ruby",
+            "base": "に罵",
+            "ruby": "ののし"
+          },
+          {
+            "type": "text",
+            "content": "りました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　が、杜子春は相変らず唇",
+            "ruby": "くちびる"
+          },
+          {
+            "type": "ruby",
+            "base": "一つ動かしません。それを見た閻魔大王は、すぐに鬼どもの方を向いて、荒々しく何か言ひつけると、鬼どもは一度に畏",
+            "ruby": "かしこま"
+          },
+          {
+            "type": "text",
+            "content": "つて、忽ち杜子春を引き立てながら、森羅殿の空へ舞ひ上りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　地獄には誰でも知つてゐる通り、剣",
+            "ruby": "つるぎ"
+          },
+          {
+            "type": "ruby",
+            "base": "の山や血の池の外にも、焦熱",
+            "ruby": "せうねつ"
+          },
+          {
+            "type": "ruby",
+            "base": "地獄といふ焔の谷や極寒",
+            "ruby": "ごくかん"
+          },
+          {
+            "type": "ruby",
+            "base": "地獄といふ氷の海が、真暗な空の下に並んでゐます。鬼どもはさういふ地獄の中へ、代る代る杜子春を抛",
+            "ruby": "はふ"
+          },
+          {
+            "type": "ruby",
+            "base": "りこみました。ですから杜子春は無残にも、剣に胸を貫かれるやら、焔に顔を焼かれるやら、舌を抜かれるやら、皮を剥がれるやら、鉄の杵",
+            "ruby": "きね"
+          },
+          {
+            "type": "ruby",
+            "base": "に撞",
+            "ruby": "つ"
+          },
+          {
+            "type": "ruby",
+            "base": "かれるやら、油の鍋に煮られるやら、毒蛇に脳味噌を吸はれるやら、熊鷹に眼を食はれるやら、――その苦しみを数へ立ててゐては、到底際限がない位、あらゆる責苦",
+            "ruby": "せめく"
+          },
+          {
+            "type": "text",
+            "content": "に遇はされたのです。それでも杜子春は我慢強く、ぢつと歯を食ひしばつた儘、一言も口を利きませんでした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　これにはさすがの鬼どもも、呆れ返つてしまつたのでせう。もう一度夜のやうな空を飛んで、森羅殿の前へ帰つて来ると、さつきの通り杜子春を階",
+            "ruby": "きざはし"
+          },
+          {
+            "type": "text",
+            "content": "の下に引き据ゑながら、御殿の上の閻魔大王に、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「この罪人はどうしても、ものを言ふ気色",
+            "ruby": "けしき"
+          },
+          {
+            "type": "ruby",
+            "base": "がございません。」と、口を揃へて言上",
+            "ruby": "ごんじやう"
+          },
+          {
+            "type": "text",
+            "content": "しました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　閻魔大王は眉をひそめて、暫く思案に暮れてゐましたが、やがて何か思ひついたと見えて、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「この男の父母",
+            "ruby": "ちちはは"
+          },
+          {
+            "type": "text",
+            "content": "は、畜生道に落ちてゐる筈だから、早速ここへ引き立てて来い。」と、一匹の鬼に云ひつけました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　鬼は忽ち風に乗つて、地獄の空へ舞ひ上りました。と思ふと、又星が流れるやうに、二匹の獣を駆り立てながら、さつと森羅殿の前へ下りて来ました。その獣を見た杜子春は、驚いたの驚かないのではありません。なぜかといへばそれは二匹とも、形は見すぼらしい痩せ馬でしたが、顔は夢にも忘れない、死んだ父母の通りでしたから。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「こら、その方は何のために、峨眉山の上に坐つてゐたか、まつすぐに白状しなければ、今度はその方の父母に痛い思ひをさせてやるぞ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春はかう嚇",
+            "ruby": "おど"
+          },
+          {
+            "type": "text",
+            "content": "されても、やはり返答をしずにゐました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「この不孝者めが。その方は父母が苦しんでも、その方さへ都合が好ければ、好いと思つてゐるのだな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　閻魔大王は森羅殿も崩れる程、凄じい声で喚きました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「打て。鬼ども。その二匹の畜生を、肉も骨も打ち砕いてしまへ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　鬼どもは一斉に「はつ」と答へながら、鉄の鞭",
+            "ruby": "むち"
+          },
+          {
+            "type": "ruby",
+            "base": "をとつて立ち上ると、四方八方から二匹の馬を、未練未釈",
+            "ruby": "みれんみしやく"
+          },
+          {
+            "type": "ruby",
+            "base": "なく打ちのめしました。鞭はりうりうと風を切つて、所嫌はず雨のやうに、馬の皮肉を打ち破るのです。馬は、――畜生になつた父母は、苦しさうに身を悶",
+            "ruby": "もだ"
+          },
+          {
+            "type": "ruby",
+            "base": "えて、眼には血の涙を浮べた儘、見てもゐられない程嘶",
+            "ruby": "いなな"
+          },
+          {
+            "type": "text",
+            "content": "き立てました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうだ。まだその方は白状しないか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　閻魔大王は鬼どもに、暫く鞭の手をやめさせて、もう一度杜子春の答を促しました。もうその時には二匹の馬も、肉は裂け骨は砕けて、息も絶え絶えに階",
+            "ruby": "きざはし"
+          },
+          {
+            "type": "text",
+            "content": "の前へ、倒れ伏してゐたのです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春は必死になつて、鉄冠子の言葉を思ひ出しながら、緊",
+            "ruby": "かた"
+          },
+          {
+            "type": "ruby",
+            "base": "く眼をつぶつてゐました。するとその時彼の耳には、殆",
+            "ruby": "ほとんど"
+          },
+          {
+            "type": "text",
+            "content": "声とはいへない位、かすかな声が伝はつて来ました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「心配をおしでない。私たちはどうなつても、お前さへ仕合せになれるのなら、それより結構なことはないのだからね。大王が何と仰",
+            "ruby": "おつしや"
+          },
+          {
+            "type": "ruby",
+            "base": "つても、言ひたくないことは黙つて御出",
+            "ruby": "おい"
+          },
+          {
+            "type": "text",
+            "content": "で。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　それは確に懐しい、母親の声に違ひありません。杜子春は思はず、眼をあきました。さうして馬の一匹が、力なく地上に倒れた儘、悲しさうに彼の顔へ、ぢつと眼をやつてゐるのを見ました。母親はこんな苦しみの中にも、息子の心を思ひやつて、鬼どもの鞭に打たれたことを、怨む気色",
+            "ruby": "けしき"
+          },
+          {
+            "type": "ruby",
+            "base": "さへも見せないのです。大金持になれば御世辞を言ひ、貧乏人になれば口も利かない世間の人たちに比べると、何といふ有難い志でせう。何といふ健気な決心でせう。杜子春は老人の戒めも忘れて、転",
+            "ruby": "まろ"
+          },
+          {
+            "type": "text",
+            "content": "ぶやうにその側へ走りよると、両手に半死の馬の頸を抱いて、はらはらと涙を落しながら、「お母さん。」と一声を叫びました。……"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　　　　　六"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　その声に気がついて見ると、杜子春はやはり夕日を浴びて、洛陽の西の門の下に、ぼんやり佇んでゐるのでした。霞んだ空、白い三日月、絶え間ない人や車の波、――すべてがまだ峨眉山へ、行かない前と同じことです。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「どうだな。おれの弟子になつた所が、とても仙人にはなれはすまい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "片目眇",
+            "ruby": "すがめ"
+          },
+          {
+            "type": "text",
+            "content": "の老人は微笑を含みながら言ひました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「なれません。なれませんが、しかし私はなれなかつたことも、反",
+            "ruby": "かへ"
+          },
+          {
+            "type": "text",
+            "content": "つて嬉しい気がするのです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　杜子春はまだ眼に涙を浮べた儘、思はず老人の手を握りました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「いくら仙人になれた所が、私はあの地獄の森羅殿の前に、鞭を受けてゐる父母を見ては、黙つてゐる訳には行きません。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「もしお前が黙つてゐたら――」と鉄冠子は急に厳",
+            "ruby": "おごそか"
+          },
+          {
+            "type": "text",
+            "content": "な顔になつて、ぢつと杜子春を見つめました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「もしお前が黙つてゐたら、おれは即座にお前の命を絶つてしまはうと思つてゐたのだ。――お前はもう仙人になりたいといふ望も持つてゐまい。大金持になることは、元より愛想がつきた筈だ。ではお前はこれから後、何になつたら好いと思ふな。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「何になつても、人間らしい、正直な暮しをするつもりです。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　杜子春の声には今までにない晴れ晴れした調子が罩",
+            "ruby": "こも"
+          },
+          {
+            "type": "text",
+            "content": "つてゐました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「その言葉を忘れるなよ。ではおれは今日限り、二度とお前には遇はないから。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　鉄冠子はかう言ふ内に、もう歩き出してゐましたが、急に又足を止めて、杜子春の方を振り返ると、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「おお、幸",
+            "ruby": "さいはひ"
+          },
+          {
+            "type": "ruby",
+            "base": "、今思ひ出したが、おれは泰山の南の麓",
+            "ruby": "ふもと"
+          },
+          {
+            "type": "text",
+            "content": "に一軒の家を持つてゐる。その家を畑ごとお前にやるから、早速行つて住まふが好い。今頃は丁度家のまはりに、桃の花が一面に咲いてゐるだらう。」と、さも愉快さうにつけ加へました。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "（大正九年六月）"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「現代日本文学大系　43　芥川龍之介集」筑摩書房"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1968（昭和43）年8月25日初版第1刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：j.utiyama"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：野口英司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1998年5月20日公開"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2004年3月12日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "の戟",
+      "reading": "",
+      "meaning": "",
+      "frequency": 2,
+      "difficulty": 1,
+      "examples": [
+        {
+          "sentence": "　が、そのため息がまだ消えない内に、今度は彼の坐つてゐる前へ、金の鎧を着下した、身の丈三丈もあらうといふ、厳かな神将が現れました。神将は手に三叉の戟を持つてゐましたが、いきなりその戟の切先を杜子春の胸もとへ向けながら、眼を嗔らせて叱りつけるのを聞けば、",
+          "lineNumber": 87
+        },
+        {
+          "sentence": "　神将はかう喚くが早いか、三叉の戟を閃かせて、一突きに杜子春を突き殺しました。さうして峨眉山もどよむ程、からからと高く笑ひながら、どこともなく消えてしまひました。勿論この時はもう無数の神兵も、吹き渡る夜風の音と一しよに、夢のやうに消え失せた後だつたのです。",
+          "lineNumber": 94
+        }
+      ]
+    }
+  ],
+  "quiz": {
+    "comprehension": [
+      {
+        "id": "comp_1",
+        "type": "multiple_choice",
+        "question": "この物語の主人公は誰ですか？",
+        "options": [
+          "或春",
+          "天地開闢",
+          "又星",
+          "天下第一"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "explanation": "主人公は或春です。"
+      },
+      {
+        "id": "comp_2",
+        "type": "multiple_choice",
+        "question": "物語の冒頭で語られていることは何ですか？",
+        "options": [
+          "「私は今夜寝る所もないので、どうしたものかと考へてゐるのです...",
+          "主人公が旅に出る場面",
+          "事件が起きる場面",
+          "物語の結末"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2
+      },
+      {
+        "id": "comp_3",
+        "type": "multiple_choice",
+        "question": "この作品の主なテーマは何ですか？",
+        "options": [
+          "人間の本質",
+          "家族",
+          "正義",
+          "成長"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "explanation": "この作品は「人間の本質」をテーマにしています。"
+      },
+      {
+        "id": "comp_4",
+        "type": "short_answer",
+        "question": "この物語から学べることは何だと思いますか？",
+        "sampleAnswer": "人の気持ちを理解することの大切さ",
+        "difficulty": 4,
+        "rubric": [
+          "テーマとの関連性",
+          "自分の考えの表現",
+          "具体例の使用"
+        ]
+      },
+      {
+        "id": "comp_5",
+        "type": "true_false",
+        "question": "物語の中で「「この剛情者め。どうしても返事をしなけれ...」という場面があります。",
+        "correctAnswer": true,
+        "difficulty": 2
+      }
+    ],
+    "vocabulary": [],
+    "kanji": [
+      {
+        "id": "kanji_1",
+        "type": "input",
+        "question": "「唐」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "らくやう",
+        "acceptableAnswers": [
+          "らくやう"
+        ],
+        "difficulty": 2,
+        "hint": "4文字のひらがなです。"
+      },
+      {
+        "id": "kanji_2",
+        "type": "input",
+        "question": "「都」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "らくやう",
+        "acceptableAnswers": [
+          "らくやう",
+          "わうらい",
+          "ごく",
+          "まぎ"
+        ],
+        "difficulty": 5,
+        "hint": "4文字のひらがなです。"
+      },
+      {
+        "id": "kanji_3",
+        "type": "input",
+        "question": "「洛」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "らくやう",
+        "acceptableAnswers": [
+          "らくやう",
+          "わうらい",
+          "ごく",
+          "すがめ",
+          "たたず",
+          "まぎ"
+        ],
+        "difficulty": 3,
+        "hint": "4文字のひらがなです。"
+      },
+      {
+        "id": "kanji_4",
+        "type": "input",
+        "question": "「陽」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "らくやう",
+        "acceptableAnswers": [
+          "らくやう",
+          "わうらい",
+          "ごく",
+          "すがめ",
+          "たたず",
+          "まぎ",
+          "がくやう"
+        ],
+        "difficulty": 5,
+        "hint": "4文字のひらがなです。"
+      },
+      {
+        "id": "kanji_5",
+        "type": "input",
+        "question": "「若」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "とししゆん",
+        "acceptableAnswers": [
+          "とししゆん"
+        ],
+        "difficulty": 5,
+        "hint": "5文字のひらがなです。"
+      },
+      {
+        "id": "kanji_6",
+        "type": "input",
+        "question": "「者」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "とししゆん",
+        "acceptableAnswers": [
+          "とししゆん"
+        ],
+        "difficulty": 5,
+        "hint": "5文字のひらがなです。"
+      },
+      {
+        "id": "kanji_7",
+        "type": "input",
+        "question": "「名」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "とししゆん",
+        "acceptableAnswers": [
+          "とししゆん",
+          "ごく"
+        ],
+        "difficulty": 2,
+        "hint": "5文字のひらがなです。"
+      },
+      {
+        "id": "kanji_8",
+        "type": "input",
+        "question": "「杜」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "とししゆん",
+        "acceptableAnswers": [
+          "とししゆん",
+          "もた",
+          "なほ",
+          "げんそう",
+          "ごく",
+          "てんぢく",
+          "まま",
+          "たちま",
+          "たたず",
+          "さへぎ",
+          "つつけんどん",
+          "おじぎ",
+          "またが",
+          "きも",
+          "かれこれ",
+          "たけ",
+          "またた",
+          "がびさん",
+          "そび",
+          "やうや",
+          "いか",
+          "もくねん",
+          "あふむ",
+          "ただ",
+          "きざはし",
+          "ひざまづ",
+          "おし",
+          "くちびる",
+          "はふ",
+          "きね",
+          "おど",
+          "かた",
+          "けしき",
+          "まろ",
+          "こも"
+        ],
+        "difficulty": 3,
+        "hint": "5文字のひらがなです。"
+      },
+      {
+        "id": "kanji_9",
+        "type": "input",
+        "question": "「子」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "とししゆん",
+        "acceptableAnswers": [
+          "とししゆん",
+          "つか",
+          "トルコ",
+          "ようす",
+          "もた",
+          "なほ",
+          "げんそう",
+          "あつら",
+          "ごく",
+          "てんぢく",
+          "まま",
+          "たちま",
+          "たたず",
+          "さへぎ",
+          "つつけんどん",
+          "てつくわんし",
+          "い",
+          "おじぎ",
+          "さいはひ",
+          "じゆもん",
+          "またが",
+          "きも",
+          "びん",
+          "かれこれ",
+          "たけ",
+          "またた",
+          "がびさん",
+          "そび",
+          "やうや",
+          "いか",
+          "もくねん",
+          "あふむ",
+          "ただ",
+          "きざはし",
+          "ひざまづ",
+          "おし",
+          "くちびる",
+          "はふ",
+          "きね",
+          "おど",
+          "かた",
+          "けしき",
+          "まろ",
+          "おごそか",
+          "こも"
+        ],
+        "difficulty": 2,
+        "hint": "5文字のひらがなです。"
+      },
+      {
+        "id": "kanji_10",
+        "type": "input",
+        "question": "「春」の読み方をひらがなで答えなさい。",
+        "correctAnswer": "とししゆん",
+        "acceptableAnswers": [
+          "とししゆん",
+          "もた",
+          "なほ",
+          "げんそう",
+          "ごく",
+          "てんぢく",
+          "まま",
+          "たちま",
+          "たたず",
+          "さへぎ",
+          "つつけんどん",
+          "おじぎ",
+          "またが",
+          "きも",
+          "かれこれ",
+          "たけ",
+          "またた",
+          "がびさん",
+          "そび",
+          "やうや",
+          "いか",
+          "もくねん",
+          "あふむ",
+          "ただ",
+          "きざはし",
+          "ひざまづ",
+          "おし",
+          "くちびる",
+          "はふ",
+          "きね",
+          "おど",
+          "かた",
+          "けしき",
+          "まろ",
+          "こも"
+        ],
+        "difficulty": 3,
+        "hint": "5文字のひらがなです。"
+      }
+    ]
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  },
+  "kanjiList": [
+    {
+      "character": "今",
+      "readings": [
+        "つか",
+        "ごく",
+        "また",
+        "てつくわんし",
+        "よろひ",
+        "こも",
+        "ふもと"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "位",
+      "readings": [
+        "あはれ",
+        "ぜいたく",
+        "ごく",
+        "とどろ",
+        "せめく"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "何",
+      "readings": [
+        "わうらい",
+        "わうへい",
+        "かうぼく",
+        "おじぎ",
+        "かいびやく",
+        "かしこま",
+        "おつしや",
+        "まろ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "下",
+      "readings": [
+        "わうらい",
+        "すがめ",
+        "まま",
+        "しはうだい",
+        "たたず",
+        "まぎ",
+        "きくだ",
+        "はふ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "並",
+      "readings": [
+        "わうらい",
+        "はふ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "人",
+      "readings": [
+        "しや",
+        "しばら",
+        "なほ",
+        "かうもり",
+        "ごく",
+        "ひすゐ",
+        "めなう",
+        "まま",
+        "また",
+        "たたず",
+        "さへぎ",
+        "いぶか",
+        "つゐしよう",
+        "い",
+        "おじぎ",
+        "さいはひ",
+        "またが",
+        "かれこれ",
+        "もくねん",
+        "きもの",
+        "けしき",
+        "まろ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "一",
+      "readings": [
+        "しや",
+        "ごく",
+        "すがめ",
+        "しはうだい",
+        "おびただ",
+        "やさ",
+        "さいはひ",
+        "じゆもん",
+        "またが",
+        "かれこれ",
+        "こつぜん",
+        "たけ",
+        "うかが",
+        "またた",
+        "らい",
+        "たき",
+        "そび",
+        "かいびやく",
+        "あふむ",
+        "きもの",
+        "かしこま",
+        "きざはし",
+        "むち",
+        "けしき"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "中",
+      "readings": [
+        "しや",
+        "あと",
+        "ごく",
+        "じゆもん",
+        "がびさん",
+        "すさ",
+        "ひげ",
+        "はふ",
+        "けしき"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "伏",
+      "readings": [
+        "なほ",
+        "そび"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "不",
+      "readings": [
+        "なほ",
+        "つつけんどん",
+        "たちま"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "代",
+      "readings": [
+        "なほ",
+        "けんぞく",
+        "はふ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "休",
+      "readings": [
+        "かうもり"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "上",
+      "readings": [
+        "かうもり",
+        "じゆもん",
+        "せいわうぼ",
+        "かれこれ",
+        "たけ",
+        "はくだ",
+        "そび",
+        "てつくわんし",
+        "あふむ",
+        "きもの",
+        "おし",
+        "ごんじやう",
+        "みれんみしやく",
+        "けしき"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "丹",
+      "readings": [
+        "ぼたん"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "使",
+      "readings": [
+        "ひすゐ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "二",
+      "readings": [
+        "ひすゐ",
+        "い",
+        "らい",
+        "みれんみしやく",
+        "きざはし"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "亦",
+      "readings": [
+        "また"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "仕",
+      "readings": [
+        "しはうだい",
+        "おつしや"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "三",
+      "readings": [
+        "た",
+        "たたず",
+        "がくやう",
+        "みつまた"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "佇",
+      "readings": [
+        "たたず"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "世",
+      "readings": [
+        "つゐしよう",
+        "あんけつだう",
+        "まろ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "乏",
+      "readings": [
+        "やさ",
+        "まろ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "仙",
+      "readings": [
+        "い",
+        "さいはひ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "乗",
+      "readings": [
+        "またが"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "事",
+      "readings": [
+        "おど",
+        "けんぞく"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "互",
+      "readings": [
+        "うかが"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "体",
+      "readings": [
+        "またた",
+        "かいびやく"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "以",
+      "readings": [
+        "そび"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "丈",
+      "readings": [
+        "みつまた",
+        "ゐたけだか"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "住",
+      "readings": [
+        "すまひ"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "仰",
+      "readings": [
+        "あふむ",
+        "おつしや"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "促",
+      "readings": [
+        "きざはし"
+      ],
+      "difficulty": 1,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "唐",
+      "readings": [
+        "らくやう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "名",
+      "readings": [
+        "とししゆん",
+        "ごく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "子",
+      "readings": [
+        "とししゆん",
+        "つか",
+        "トルコ",
+        "ようす",
+        "もた",
+        "なほ",
+        "げんそう",
+        "あつら",
+        "ごく",
+        "てんぢく",
+        "まま",
+        "たちま",
+        "たたず",
+        "さへぎ",
+        "つつけんどん",
+        "てつくわんし",
+        "い",
+        "おじぎ",
+        "さいはひ",
+        "じゆもん",
+        "またが",
+        "きも",
+        "びん",
+        "かれこれ",
+        "たけ",
+        "またた",
+        "がびさん",
+        "そび",
+        "やうや",
+        "いか",
+        "もくねん",
+        "あふむ",
+        "ただ",
+        "きざはし",
+        "ひざまづ",
+        "おし",
+        "くちびる",
+        "はふ",
+        "きね",
+        "おど",
+        "かた",
+        "けしき",
+        "まろ",
+        "おごそか",
+        "こも"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "元",
+      "readings": [
+        "つか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "尽",
+      "readings": [
+        "つく",
+        "ごく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "困",
+      "readings": [
+        "あはれ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "天",
+      "readings": [
+        "わうらい",
+        "てんぢく",
+        "しはうだい",
+        "せいわうぼ",
+        "がびさん",
+        "かいびやく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "往",
+      "readings": [
+        "わうらい",
+        "かうもり"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "当",
+      "readings": [
+        "しや",
+        "なほ",
+        "びん"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "夕",
+      "readings": [
+        "しや",
+        "ごく",
+        "すがめ",
+        "まぎ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "光",
+      "readings": [
+        "しや",
+        "たたず",
+        "こつぜん",
+        "がびさん"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "帽",
+      "readings": [
+        "トルコ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "土",
+      "readings": [
+        "トルコ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "古",
+      "readings": [
+        "トルコ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "女",
+      "readings": [
+        "たづな",
+        "ひすゐ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "容",
+      "readings": [
+        "ようす",
+        "い"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "変",
+      "readings": [
+        "もた",
+        "ぼたん",
+        "しはうだい",
+        "がびさん",
+        "あふむ",
+        "くちびる"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "壁",
+      "readings": [
+        "もた",
+        "はくだ",
+        "あふむ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "凭",
+      "readings": [
+        "もた"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "彼",
+      "readings": [
+        "すがめ",
+        "たたず",
+        "おじぎ",
+        "かれこれ",
+        "よろひ",
+        "ほとんど",
+        "けしき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "前",
+      "readings": [
+        "すがめ",
+        "わうへい",
+        "なほ",
+        "たたず",
+        "い",
+        "さいはひ",
+        "ましやう",
+        "そび",
+        "よろひ",
+        "あふむ",
+        "きざはし",
+        "きもの",
+        "おつしや",
+        "おごそか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "影",
+      "readings": [
+        "なほ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "形",
+      "readings": [
+        "なほ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "大",
+      "readings": [
+        "げんそう",
+        "ぜいたくや",
+        "しはうだい",
+        "つゐしよう",
+        "い",
+        "おじぎ",
+        "とどろ",
+        "てつくわんし",
+        "きざはし",
+        "ひざまづ",
+        "おし",
+        "しやく",
+        "かしこま",
+        "おつしや",
+        "まろ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "家",
+      "readings": [
+        "げんそう",
+        "ごく",
+        "ぜいたくや"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "宗",
+      "readings": [
+        "げんそう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "帝",
+      "readings": [
+        "ぜいたく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "始",
+      "readings": [
+        "らんりよう",
+        "い",
+        "あふむ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "州",
+      "readings": [
+        "りゆうがんにく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "四",
+      "readings": [
+        "ぼたん",
+        "はくだ",
+        "みれんみしやく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "度",
+      "readings": [
+        "ぼたん",
+        "すがめ",
+        "また",
+        "たたず",
+        "い",
+        "おじぎ",
+        "よろひ",
+        "かしこま",
+        "きざはし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "庭",
+      "readings": [
+        "しろくじやく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "孔",
+      "readings": [
+        "しろくじやく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "噂",
+      "readings": [
+        "うはさ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "合",
+      "readings": [
+        "ごく",
+        "またた",
+        "おつしや"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "友",
+      "readings": [
+        "ごく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "増",
+      "readings": [
+        "ごく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "半",
+      "readings": [
+        "ごく",
+        "とほ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "年",
+      "readings": [
+        "ごく",
+        "た",
+        "すさ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "内",
+      "readings": [
+        "ごく",
+        "おじぎ",
+        "びん",
+        "とどろ",
+        "よろひ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "多",
+      "readings": [
+        "ごく",
+        "ましやう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "御",
+      "readings": [
+        "ごく",
+        "ぜいたくや",
+        "やさ",
+        "おじぎ",
+        "さいはひ",
+        "ましやう",
+        "きざはし",
+        "おい",
+        "まろ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "客",
+      "readings": [
+        "ごく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "又",
+      "readings": [
+        "ごく",
+        "た",
+        "またが",
+        "あふむ",
+        "おし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "口",
+      "readings": [
+        "ごく",
+        "じゆもん",
+        "つぐ",
+        "おし",
+        "ごんじやう",
+        "まろ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "刀",
+      "readings": [
+        "ひすゐ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "呑",
+      "readings": [
+        "ひすゐ",
+        "またた"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "十",
+      "readings": [
+        "ひすゐ",
+        "めなう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "向",
+      "readings": [
+        "まま",
+        "そび",
+        "いか",
+        "みちみ",
+        "あふむ",
+        "かしこま"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "儘",
+      "readings": [
+        "まま",
+        "かれこれ",
+        "おし",
+        "いなな",
+        "けしき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "忽",
+      "readings": [
+        "たちま",
+        "こつぜん"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "同",
+      "readings": [
+        "しはうだい",
+        "たたず",
+        "はくだ",
+        "てつくわんし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "夥",
+      "readings": [
+        "おびただ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "問",
+      "readings": [
+        "たたず",
+        "おし"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "勿",
+      "readings": [
+        "たたず"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "審",
+      "readings": [
+        "いぶか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "平",
+      "readings": [
+        "つつけんどん"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "従",
+      "readings": [
+        "つゐしよう"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "峨",
+      "readings": [
+        "がびさん",
+        "さいはひ",
+        "かいびやく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "山",
+      "readings": [
+        "がびさん",
+        "さいはひ",
+        "まぎ",
+        "とほ",
+        "てつくわんし",
+        "かいびやく",
+        "みちみ",
+        "せうねつ",
+        "ふもと"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "冠",
+      "readings": [
+        "てつくわんし",
+        "おじぎ",
+        "じゆもん",
+        "びん",
+        "かんむり",
+        "おし",
+        "かた",
+        "おごそか"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "好",
+      "readings": [
+        "い",
+        "さいはひ",
+        "ましやう",
+        "けんぞく",
+        "かしやく"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "弟",
+      "readings": [
+        "い",
+        "さいはひ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "快",
+      "readings": [
+        "い"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "喜",
+      "readings": [
+        "おじぎ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "地",
+      "readings": [
+        "おじぎ",
+        "かいびやく",
+        "あんけつだう",
+        "かしやく",
+        "つるぎ",
+        "ごくかん",
+        "はふ",
+        "けしき"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "宜",
+      "readings": [
+        "おじぎ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    },
+    {
+      "character": "兎",
+      "readings": [
+        "さいはひ"
+      ],
+      "difficulty": 2,
+      "strokeOrder": "",
+      "meanings": []
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "走れメロス",
+  "title": "走れメロス",
+  "titleKana": "はしれめろす",
+  "author": {
+    "name": "太宰治",
+    "nameKana": "だざいおさむ",
+    "birthYear": 1909,
+    "deathYear": 1948
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 6,
+    "difficulty": {
+      "overall": 4,
+      "kanji": 5,
+      "vocabulary": 3,
+      "grammar": 5,
+      "sentenceLength": 135
+    },
+    "themes": [
+      "人間失格",
+      "罪と罰",
+      "自己破壊",
+      "友情",
+      "信頼",
+      "約束"
+    ],
+    "totalCharacters": 269,
+    "estimatedReadingTime": 1,
+    "genres": [
+      "私小説",
+      "戦後文学"
+    ],
+    "publishedYear": 1940,
+    "jlptLevel": "N3",
+    "teachingPoints": [
+      "信頼の大切さ",
+      "友情の価値"
+    ],
+    "statistics": {
+      "totalCharacters": 269,
+      "totalKanji": 101,
+      "uniqueKanji": 52,
+      "kanjiRatio": "37.5%",
+      "sentenceCount": 2,
+      "averageSentenceLength": 135
+    },
+    "learningObjectives": [
+      "作品のテーマを理解する"
+    ],
+    "relatedWorks": [
+      {
+        "type": "same_author",
+        "reason": "同じ作者の作品",
+        "works": [
+          "人間失格",
+          "斜陽",
+          "桜桃"
+        ]
+      },
+      {
+        "type": "similar_theme",
+        "reason": "似たテーマの作品",
+        "works": []
+      },
+      {
+        "type": "similar_difficulty",
+        "reason": "同じレベルの作品",
+        "works": [
+          "蜘蛛の糸",
+          "杜子春"
+        ]
+      }
+    ]
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「太宰治全集3」ちくま文庫、筑摩書房\r"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1988（昭和63）年10月25日初版発行\r"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1998（平成10）年6月15日第2刷\r"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本の親本：「筑摩全集類聚版太宰治全集」筑摩書房\r"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1975（昭和50）年6月〜1976（昭和51）年6月\r"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：金川一之\r"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：高橋美奈子\r"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2000年12月4日公開\r"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2011年1月17日修正\r"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル：\r"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。\r"
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [],
+  "quiz": {
+    "comprehension": [
+      {
+        "id": "comp_1",
+        "type": "multiple_choice",
+        "question": "この物語の主人公は誰ですか？",
+        "options": [
+          "底本",
+          "太郎",
+          "花子",
+          "次郎"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 1,
+        "explanation": "主人公は底本です。"
+      },
+      {
+        "id": "comp_2",
+        "type": "multiple_choice",
+        "question": "物語の冒頭で語られていることは何ですか？",
+        "options": [
+          "このファイルは、インターネットの図書館、青空文庫（http:...",
+          "主人公が旅に出る場面",
+          "事件が起きる場面",
+          "物語の結末"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 2
+      },
+      {
+        "id": "comp_3",
+        "type": "multiple_choice",
+        "question": "この作品の主なテーマは何ですか？",
+        "options": [
+          "人間失格",
+          "愛情",
+          "平和",
+          "勇気"
+        ],
+        "correctAnswer": 0,
+        "difficulty": 3,
+        "explanation": "この作品は「人間失格」をテーマにしています。"
+      },
+      {
+        "id": "comp_4",
+        "type": "short_answer",
+        "question": "この物語から学べることは何だと思いますか？",
+        "sampleAnswer": "信頼の大切さ",
+        "difficulty": 4,
+        "rubric": [
+          "テーマとの関連性",
+          "自分の考えの表現",
+          "具体例の使用"
+        ]
+      }
+    ],
+    "vocabulary": [],
+    "kanji": []
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  },
+  "kanjiList": []
+}

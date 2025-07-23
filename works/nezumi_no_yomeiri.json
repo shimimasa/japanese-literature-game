@@ -1,0 +1,1582 @@
+{
+  "id": "ねずみの嫁入り",
+  "title": "ねずみの嫁入り",
+  "titleKana": "",
+  "author": {
+    "name": "楠山正雄",
+    "nameKana": ""
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 3,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 3,
+      "vocabulary": 3,
+      "grammar": 3
+    },
+    "themes": [],
+    "totalCharacters": 1989,
+    "estimatedReadingTime": 5
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "ねずみの嫁入り"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "楠山正雄"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "-------------------------------------------------------"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "【テキスト中に現れる記号について】"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "《》：ルビ"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（例）ある家",
+            "ruby": "いえ"
+          },
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "｜：ルビの付く文字列の始まりを特定する記号"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "（例）まっ四角",
+            "ruby": "かく"
+          },
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "-------------------------------------------------------"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　むかし、むかし、ある家",
+            "ruby": "いえ"
+          },
+          {
+            "type": "ruby",
+            "base": "のお倉",
+            "ruby": "くら"
+          },
+          {
+            "type": "ruby",
+            "base": "の中に、お米",
+            "ruby": "こめ"
+          },
+          {
+            "type": "ruby",
+            "base": "を持",
+            "ruby": "も"
+          },
+          {
+            "type": "ruby",
+            "base": "って、麦",
+            "ruby": "むぎ"
+          },
+          {
+            "type": "ruby",
+            "base": "を持",
+            "ruby": "も"
+          },
+          {
+            "type": "ruby",
+            "base": "って、粟",
+            "ruby": "あわ"
+          },
+          {
+            "type": "ruby",
+            "base": "を持",
+            "ruby": "も"
+          },
+          {
+            "type": "ruby",
+            "base": "って、豆",
+            "ruby": "まめ"
+          },
+          {
+            "type": "ruby",
+            "base": "を持",
+            "ruby": "も"
+          },
+          {
+            "type": "ruby",
+            "base": "って、たいそうゆたかに暮",
+            "ruby": "く"
+          },
+          {
+            "type": "ruby",
+            "base": "らしているお金",
+            "ruby": "かね"
+          },
+          {
+            "type": "ruby",
+            "base": "持",
+            "ruby": "も"
+          },
+          {
+            "type": "ruby",
+            "base": "ちのねずみが住",
+            "ruby": "す"
+          },
+          {
+            "type": "text",
+            "content": "んでおりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　子供",
+            "ruby": "こども"
+          },
+          {
+            "type": "ruby",
+            "base": "がないので神",
+            "ruby": "かみ"
+          },
+          {
+            "type": "ruby",
+            "base": "さまにお願",
+            "ruby": "ねが"
+          },
+          {
+            "type": "ruby",
+            "base": "いしますと、やっと女",
+            "ruby": "おんな"
+          },
+          {
+            "type": "ruby",
+            "base": "の子が生",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "まれました。その子はずんずん大きくなって、かがやくほど美",
+            "ruby": "うつく"
+          },
+          {
+            "type": "ruby",
+            "base": "しくなって、それはねずみのお国",
+            "ruby": "くに"
+          },
+          {
+            "type": "ruby",
+            "base": "でだれ一人",
+            "ruby": "ひとり"
+          },
+          {
+            "type": "ruby",
+            "base": "くらべるもののない日本一",
+            "ruby": "にほんいち"
+          },
+          {
+            "type": "ruby",
+            "base": "のいい娘",
+            "ruby": "むすめ"
+          },
+          {
+            "type": "text",
+            "content": "になりました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　こうなると、もうねずみの仲間",
+            "ruby": "なかま"
+          },
+          {
+            "type": "ruby",
+            "base": "には見",
+            "ruby": "み"
+          },
+          {
+            "type": "ruby",
+            "base": "わたしたところ、とても娘",
+            "ruby": "むすめ"
+          },
+          {
+            "type": "ruby",
+            "base": "のお婿",
+            "ruby": "むこ"
+          },
+          {
+            "type": "ruby",
+            "base": "さんにするような者",
+            "ruby": "もの"
+          },
+          {
+            "type": "text",
+            "content": "はありませんでした。ねずみのおとうさんとおかあさんは、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「うちの娘",
+            "ruby": "むすめ"
+          },
+          {
+            "type": "ruby",
+            "base": "は日本一",
+            "ruby": "にほんいち"
+          },
+          {
+            "type": "ruby",
+            "base": "の娘",
+            "ruby": "むすめ"
+          },
+          {
+            "type": "ruby",
+            "base": "なのだから、何",
+            "ruby": "なん"
+          },
+          {
+            "type": "ruby",
+            "base": "でも日本一",
+            "ruby": "にほんいち"
+          },
+          {
+            "type": "ruby",
+            "base": "のお婿",
+            "ruby": "むこ"
+          },
+          {
+            "type": "text",
+            "content": "さんをもらわなければならない。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　と言",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "いました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そこでこの世",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "の中でだれがいちばんえらいかというと、それは高",
+            "ruby": "たか"
+          },
+          {
+            "type": "ruby",
+            "base": "い高",
+            "ruby": "たか"
+          },
+          {
+            "type": "ruby",
+            "base": "い空",
+            "ruby": "そら"
+          },
+          {
+            "type": "ruby",
+            "base": "の上から世界中",
+            "ruby": "せかいじゅう"
+          },
+          {
+            "type": "ruby",
+            "base": "をあかるく照",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "らしておいでになるお日さまの外",
+            "ruby": "ほか"
+          },
+          {
+            "type": "ruby",
+            "base": "にはありませんでした。そこでおとうさんはおかあさんと娘",
+            "ruby": "むすめ"
+          },
+          {
+            "type": "ruby",
+            "base": "を連",
+            "ruby": "つ"
+          },
+          {
+            "type": "ruby",
+            "base": "れて、天",
+            "ruby": "てん"
+          },
+          {
+            "type": "ruby",
+            "base": "へ上",
+            "ruby": "のぼ"
+          },
+          {
+            "type": "text",
+            "content": "っていきました。そしてお日さまに、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「お日さま、お日さま、あなたは世",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "の中でいちばんえらいお方",
+            "ruby": "かた"
+          },
+          {
+            "type": "ruby",
+            "base": "です。どうぞわたくしの娘",
+            "ruby": "むすめ"
+          },
+          {
+            "type": "ruby",
+            "base": "をお嫁",
+            "ruby": "よめ"
+          },
+          {
+            "type": "ruby",
+            "base": "にもらって下",
+            "ruby": "くだ"
+          },
+          {
+            "type": "text",
+            "content": "さいまし。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　といって、ていねいにおじぎをしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　するとお日さまはにこにこなさりながら、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それはありがたいが、世",
+            "ruby": "よ"
+          },
+          {
+            "type": "text",
+            "content": "の中にはわたしよりもっとえらいものがあるよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　とおっしゃいました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　おとうさんはびっくりしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「まあ、あなたよりもえらい方",
+            "ruby": "かた"
+          },
+          {
+            "type": "text",
+            "content": "があるのですか。それはどなたでございますか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それは雲",
+            "ruby": "くも"
+          },
+          {
+            "type": "ruby",
+            "base": "さ。わたしがいくら空",
+            "ruby": "そら"
+          },
+          {
+            "type": "ruby",
+            "base": "でかんかん照",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "っていようと思",
+            "ruby": "おも"
+          },
+          {
+            "type": "ruby",
+            "base": "っても、雲",
+            "ruby": "くも"
+          },
+          {
+            "type": "text",
+            "content": "が出てくるともうだめになるのだからね。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なるほど。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　おとうさんはそこで、こんどは雲",
+            "ruby": "くも"
+          },
+          {
+            "type": "ruby",
+            "base": "の所",
+            "ruby": "ところ"
+          },
+          {
+            "type": "text",
+            "content": "へ出かけました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「雲",
+            "ruby": "くも"
+          },
+          {
+            "type": "ruby",
+            "base": "さん、雲",
+            "ruby": "くも"
+          },
+          {
+            "type": "ruby",
+            "base": "さん、あなたは世",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "の中でいちばんえらいお方",
+            "ruby": "かた"
+          },
+          {
+            "type": "ruby",
+            "base": "です。どうぞわたくしの娘",
+            "ruby": "むすめ"
+          },
+          {
+            "type": "ruby",
+            "base": "をお嫁",
+            "ruby": "よめ"
+          },
+          {
+            "type": "ruby",
+            "base": "にもらって下",
+            "ruby": "くだ"
+          },
+          {
+            "type": "text",
+            "content": "さいまし。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それはありがたいが、世",
+            "ruby": "よ"
+          },
+          {
+            "type": "text",
+            "content": "の中にはわたしよりもっとえらいものがあるよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　おとうさんはびっくりしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「まあ、あなたよりもえらい方",
+            "ruby": "かた"
+          },
+          {
+            "type": "text",
+            "content": "があるのですか。それはどなたでございますか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それは風",
+            "ruby": "かぜ"
+          },
+          {
+            "type": "ruby",
+            "base": "さ。風",
+            "ruby": "かぜ"
+          },
+          {
+            "type": "ruby",
+            "base": "に吹",
+            "ruby": "ふ"
+          },
+          {
+            "type": "text",
+            "content": "きとばされてはわたしもかなわないよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なるほど。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　おとうさんはそこで、こんどは風",
+            "ruby": "かぜ"
+          },
+          {
+            "type": "ruby",
+            "base": "の所",
+            "ruby": "ところ"
+          },
+          {
+            "type": "text",
+            "content": "へ出かけていきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「風",
+            "ruby": "かぜ"
+          },
+          {
+            "type": "ruby",
+            "base": "さん、風",
+            "ruby": "かぜ"
+          },
+          {
+            "type": "ruby",
+            "base": "さん、あなたは世",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "の中でいちばんえらいお方",
+            "ruby": "かた"
+          },
+          {
+            "type": "ruby",
+            "base": "です。どうぞわたくしの娘",
+            "ruby": "むすめ"
+          },
+          {
+            "type": "ruby",
+            "base": "をお嫁",
+            "ruby": "よめ"
+          },
+          {
+            "type": "ruby",
+            "base": "にもらって下",
+            "ruby": "くだ"
+          },
+          {
+            "type": "text",
+            "content": "さいまし。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それはありがたいが、世",
+            "ruby": "よ"
+          },
+          {
+            "type": "text",
+            "content": "の中にはわたしよりもっとえらいものがあるよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　おとうさんはびっくりしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「まあ、あなたよりもえらい方",
+            "ruby": "かた"
+          },
+          {
+            "type": "text",
+            "content": "があるのですか。それはどなたでございますか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それは、壁",
+            "ruby": "かべ"
+          },
+          {
+            "type": "ruby",
+            "base": "さ。壁",
+            "ruby": "かべ"
+          },
+          {
+            "type": "ruby",
+            "base": "ばかりはわたしの力",
+            "ruby": "ちから"
+          },
+          {
+            "type": "ruby",
+            "base": "でもとても、吹",
+            "ruby": "ふ"
+          },
+          {
+            "type": "text",
+            "content": "きとばすことはできないからね。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なるほど。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　おとうさんはそこでまた、のこのこ壁",
+            "ruby": "かべ"
+          },
+          {
+            "type": "ruby",
+            "base": "の所",
+            "ruby": "ところ"
+          },
+          {
+            "type": "text",
+            "content": "へ出かけていきました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「壁",
+            "ruby": "かべ"
+          },
+          {
+            "type": "ruby",
+            "base": "さん、壁",
+            "ruby": "かべ"
+          },
+          {
+            "type": "ruby",
+            "base": "さん、あなたは世",
+            "ruby": "よ"
+          },
+          {
+            "type": "ruby",
+            "base": "の中でいちばんえらいお方",
+            "ruby": "かた"
+          },
+          {
+            "type": "ruby",
+            "base": "です。どうぞうちの娘",
+            "ruby": "むすめ"
+          },
+          {
+            "type": "ruby",
+            "base": "をお嫁",
+            "ruby": "よめ"
+          },
+          {
+            "type": "ruby",
+            "base": "にもらって下",
+            "ruby": "くだ"
+          },
+          {
+            "type": "text",
+            "content": "さいまし。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それはありがたいが、世",
+            "ruby": "よ"
+          },
+          {
+            "type": "text",
+            "content": "の中にはわたしよりもっとえらいものがあるよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　おとうさんはびっくりしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「まあ、あなたよりもえらい方",
+            "ruby": "かた"
+          },
+          {
+            "type": "text",
+            "content": "があるのですか。それはどなたでございますか。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「それはだれでもない、そういうねずみさんさ。わたしがいくらまっ四角",
+            "ruby": "かく"
+          },
+          {
+            "type": "ruby",
+            "base": "な顔",
+            "ruby": "かお"
+          },
+          {
+            "type": "ruby",
+            "base": "をして、固",
+            "ruby": "かた"
+          },
+          {
+            "type": "ruby",
+            "base": "くなって、がんばっていても、ねずみさんはへいきでわたしの体",
+            "ruby": "からだ"
+          },
+          {
+            "type": "ruby",
+            "base": "を食",
+            "ruby": "く"
+          },
+          {
+            "type": "ruby",
+            "base": "い破",
+            "ruby": "やぶ"
+          },
+          {
+            "type": "ruby",
+            "base": "って、穴",
+            "ruby": "あな"
+          },
+          {
+            "type": "ruby",
+            "base": "をあけて通",
+            "ruby": "とお"
+          },
+          {
+            "type": "ruby",
+            "base": "り抜",
+            "ruby": "ぬ"
+          },
+          {
+            "type": "text",
+            "content": "けていくじゃないか。だからわたしはどうしてもねずみさんにはかなわないよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なるほど。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　とねずみのおとうさんは、こんどこそほんとうにしんから感心",
+            "ruby": "かんしん"
+          },
+          {
+            "type": "ruby",
+            "base": "したように、ぽんと手",
+            "ruby": "て"
+          },
+          {
+            "type": "ruby",
+            "base": "を打",
+            "ruby": "う"
+          },
+          {
+            "type": "text",
+            "content": "って、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「これは今",
+            "ruby": "いま"
+          },
+          {
+            "type": "ruby",
+            "base": "まで気",
+            "ruby": "き"
+          },
+          {
+            "type": "ruby",
+            "base": "がつかなかった。じゃあわたしどもが世",
+            "ruby": "よ"
+          },
+          {
+            "type": "text",
+            "content": "の中でいちばんえらいのですね。ありがたい。ありがたい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　とにこにこしながら、いばって帰",
+            "ruby": "かえ"
+          },
+          {
+            "type": "ruby",
+            "base": "っていきました。そして帰",
+            "ruby": "かえ"
+          },
+          {
+            "type": "ruby",
+            "base": "るとさっそく、お隣",
+            "ruby": "となり"
+          },
+          {
+            "type": "ruby",
+            "base": "のちゅう助",
+            "ruby": "すけ"
+          },
+          {
+            "type": "ruby",
+            "base": "ねずみを娘",
+            "ruby": "むすめ"
+          },
+          {
+            "type": "ruby",
+            "base": "のお婿",
+            "ruby": "むこ"
+          },
+          {
+            "type": "text",
+            "content": "さんにしました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　若",
+            "ruby": "わか"
+          },
+          {
+            "type": "ruby",
+            "base": "いお婿",
+            "ruby": "むこ"
+          },
+          {
+            "type": "ruby",
+            "base": "さんとお嫁",
+            "ruby": "よめ"
+          },
+          {
+            "type": "ruby",
+            "base": "さんは、仲",
+            "ruby": "なか"
+          },
+          {
+            "type": "ruby",
+            "base": "よく暮",
+            "ruby": "く"
+          },
+          {
+            "type": "ruby",
+            "base": "らして、おとうさんとおかあさんをだいじにしました。そしてたくさん子供",
+            "ruby": "こども"
+          },
+          {
+            "type": "ruby",
+            "base": "を生",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "んで、お倉",
+            "ruby": "くら"
+          },
+          {
+            "type": "ruby",
+            "base": "のねずみの一家",
+            "ruby": "いっか"
+          },
+          {
+            "type": "ruby",
+            "base": "はますます栄",
+            "ruby": "さか"
+          },
+          {
+            "type": "text",
+            "content": "えました。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：「日本の神話と十大昔話」講談社学術文庫、講談社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1983（昭和58）年5月10日第1刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1992（平成4）年4月20日第14刷発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：鈴木厚司"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：大久保ゆう"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "2003年8月2日作成"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "（例）ある家",
+      "reading": "いえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "（例）まっ四角",
+      "reading": "かく",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　むかし、むかし、ある家",
+      "reading": "いえ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のお倉",
+      "reading": "くら",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "の中に、お米",
+      "reading": "こめ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "を持",
+      "reading": "も",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "って、麦",
+      "reading": "むぎ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "って、粟",
+      "reading": "あわ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "って、豆",
+      "reading": "まめ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "って、たいそうゆたかに暮",
+      "reading": "く",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "らしているお金",
+      "reading": "かね",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "ちのねずみが住",
+      "reading": "す",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　子供",
+      "reading": "こども",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "がないので神",
+      "reading": "かみ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "さまにお願",
+      "reading": "ねが",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "いしますと、やっと女",
+      "reading": "おんな",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の子が生",
+      "reading": "う",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "まれました。その子はずんずん大きくなって、かがやくほど美",
+      "reading": "うつく",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "しくなって、それはねずみのお国",
+      "reading": "くに",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "でだれ一人",
+      "reading": "ひとり",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "くらべるもののない日本一",
+      "reading": "にほんいち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のいい娘",
+      "reading": "むすめ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "　こうなると、もうねずみの仲間",
+      "reading": "なかま",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "には見",
+      "reading": "み",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "わたしたところ、とても娘",
+      "reading": "むすめ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のお婿",
+      "reading": "むこ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "さんにするような者",
+      "reading": "もの",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「うちの娘",
+      "reading": "むすめ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "は日本一",
+      "reading": "にほんいち",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "の娘",
+      "reading": "むすめ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "なのだから、何",
+      "reading": "なん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "でも日本一",
+      "reading": "にほんいち",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　と言",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "　そこでこの世",
+      "reading": "よ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の中でだれがいちばんえらいかというと、それは高",
+      "reading": "たか",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "い高",
+      "reading": "たか",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "い空",
+      "reading": "そら",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "の上から世界中",
+      "reading": "せかいじゅう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "をあかるく照",
+      "reading": "て",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "らしておいでになるお日さまの外",
+      "reading": "ほか",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "にはありませんでした。そこでおとうさんはおかあさんと娘",
+      "reading": "むすめ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "を連",
+      "reading": "つ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "れて、天",
+      "reading": "てん",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "へ上",
+      "reading": "のぼ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "「お日さま、お日さま、あなたは世",
+      "reading": "よ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "の中でいちばんえらいお方",
+      "reading": "かた",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "です。どうぞわたくしの娘",
+      "reading": "むすめ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "をお嫁",
+      "reading": "よめ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "にもらって下",
+      "reading": "くだ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「それはありがたいが、世",
+      "reading": "よ",
+      "meaning": "",
+      "difficulty": 3
+    }
+  ],
+  "quiz": {
+    "comprehension": []
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  }
+}

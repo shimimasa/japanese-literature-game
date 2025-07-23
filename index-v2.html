@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="日本の名作文学を楽しく読める学習ゲームアプリ">
+    <meta name="keywords" content="日本文学,読書,学習,ゲーム,縦書き">
+    <title>日本名作文学読解ゲーム</title>
+    
+    <!-- CSS Files -->
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles-enhancements.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="favicon.png">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="app-header">
+        <nav class="main-navigation">
+            <h1 class="app-title">日本名作文学読解ゲーム</h1>
+            <div class="nav-buttons">
+                <button class="nav-btn" data-view="library">作品一覧</button>
+                <button class="nav-btn" data-view="progress">学習進捗</button>
+                <button class="nav-btn" data-view="parent-dashboard">保護者用</button>
+                <button class="nav-btn" data-view="settings">設定</button>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="app-main">
+        <!-- Library View -->
+        <section id="library-view" class="view-container active">
+            <h2 class="view-title">作品ライブラリ</h2>
+            
+            <!-- Search and Filter Section -->
+            <div class="search-filter-container">
+                <input type="search" id="search-input" class="search-bar" placeholder="作品名や作者名で検索...">
+                
+                <div class="filter-controls">
+                    <select id="author-filter" class="filter-dropdown">
+                        <option value="">すべての作者</option>
+                    </select>
+                    
+                    <select id="difficulty-filter" class="filter-dropdown">
+                        <option value="">すべての難易度</option>
+                        <option value="beginner">初級</option>
+                        <option value="intermediate">中級</option>
+                        <option value="advanced">上級</option>
+                    </select>
+                    
+                    <select id="length-filter" class="filter-dropdown">
+                        <option value="">すべての長さ</option>
+                        <option value="short">短編</option>
+                        <option value="medium">中編</option>
+                        <option value="long">長編</option>
+                    </select>
+                </div>
+            </div>
+            
+            <!-- Books Grid -->
+            <div id="books-grid" class="books-container">
+                <!-- Book cards will be dynamically inserted here -->
+            </div>
+        </section>
+
+        <!-- Reading View -->
+        <section id="reading-view" class="view-container">
+            <div class="reading-header">
+                <button class="back-to-library">← 作品一覧へ</button>
+                <h2 class="book-title"></h2>
+                <div class="reading-progress">
+                    <div class="progress-bar">
+                        <div class="progress-fill"></div>
+                    </div>
+                    <span class="progress-text">0%</span>
+                </div>
+            </div>
+            
+            <!-- Chapter Progress Indicators -->
+            <div class="chapter-progress">
+                <!-- Chapter indicators will be dynamically generated -->
+            </div>
+            
+            <!-- Reading Time Display -->
+            <div class="reading-time-display">
+                <div class="time-stat">
+                    <h4>今回の読書時間</h4>
+                    <div>
+                        <span class="time-value" id="session-time">0</span>
+                        <span class="time-unit">分</span>
+                    </div>
+                </div>
+                <div class="time-stat">
+                    <h4>この作品の読書時間</h4>
+                    <div>
+                        <span class="time-value" id="book-time">0</span>
+                        <span class="time-unit">分</span>
+                    </div>
+                </div>
+                <div class="time-stat">
+                    <h4>獲得ポイント</h4>
+                    <div>
+                        <span class="time-value" id="book-points">0</span>
+                        <span class="time-unit">pt</span>
+                    </div>
+                </div>
+            </div>
+            
+            <article id="text-container" class="vertical-text-container">
+                <!-- Vertical text content will be rendered here -->
+            </article>
+            
+            <nav class="reading-navigation">
+                <button id="prev-page" class="page-nav-btn">前のページ</button>
+                <span class="page-indicator">
+                    <span id="current-page">1</span> / <span id="total-pages">1</span>
+                </span>
+                <button id="next-page" class="page-nav-btn">次のページ</button>
+            </nav>
+        </section>
+
+        <!-- Progress View -->
+        <section id="progress-view" class="view-container">
+            <h2 class="view-title">学習進捗</h2>
+            
+            <div class="progress-summary">
+                <div class="stat-card">
+                    <h3>今日の読書時間</h3>
+                    <p class="stat-value" id="today-reading-time">0分</p>
+                </div>
+                
+                <div class="stat-card">
+                    <h3>累計読書時間</h3>
+                    <p class="stat-value" id="total-reading-time">0時間</p>
+                </div>
+                
+                <div class="stat-card">
+                    <h3>完読作品数</h3>
+                    <p class="stat-value" id="completed-books">0冊</p>
+                </div>
+                
+                <div class="stat-card">
+                    <h3>学習した語句</h3>
+                    <p class="stat-value" id="learned-words">0語</p>
+                </div>
+            </div>
+            
+            <div class="achievements-section">
+                <h3>獲得したアチーブメント</h3>
+                <div id="achievements-list" class="achievements-container">
+                    <!-- Achievements will be displayed here -->
+                </div>
+            </div>
+            
+            <!-- Statistics Section -->
+            <div class="statistics-section">
+                <h3>読書統計</h3>
+                
+                <!-- Tab Navigation -->
+                <div class="stats-tabs">
+                    <button class="stats-tab active" data-tab="reading-time">読書時間</button>
+                    <button class="stats-tab" data-tab="word-learning">語句学習</button>
+                    <button class="stats-tab" data-tab="genre-analysis">ジャンル分析</button>
+                    <button class="stats-tab" data-tab="trends">読書傾向</button>
+                </div>
+                
+                <!-- Tab Content -->
+                <div class="stats-content">
+                    <!-- Reading Time Tab -->
+                    <div class="stats-panel active" id="reading-time-panel">
+                        <div class="chart-container">
+                            <canvas id="reading-time-chart"></canvas>
+                        </div>
+                        <div class="stats-controls">
+                            <button class="period-btn active" data-period="daily">日別</button>
+                            <button class="period-btn" data-period="weekly">週別</button>
+                            <button class="period-btn" data-period="monthly">月別</button>
+                        </div>
+                    </div>
+                    
+                    <!-- Word Learning Tab -->
+                    <div class="stats-panel" id="word-learning-panel">
+                        <div class="chart-container">
+                            <canvas id="word-learning-chart"></canvas>
+                        </div>
+                        <div class="learning-stats">
+                            <div class="stat-item">
+                                <h4>今週の学習語句</h4>
+                                <p id="weekly-words">0語</p>
+                            </div>
+                            <div class="stat-item">
+                                <h4>学習効率</h4>
+                                <p id="learning-efficiency">0語/時間</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Genre Analysis Tab -->
+                    <div class="stats-panel" id="genre-analysis-panel">
+                        <div class="chart-container">
+                            <canvas id="genre-chart"></canvas>
+                        </div>
+                        <div class="genre-recommendations">
+                            <h4>おすすめの作品</h4>
+                            <div id="recommended-books">
+                                <!-- Recommendations will be displayed here -->
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Reading Trends Tab -->
+                    <div class="stats-panel" id="trends-panel">
+                        <div class="trends-grid">
+                            <div class="chart-container">
+                                <h4>時間帯別読書時間</h4>
+                                <canvas id="hourly-chart"></canvas>
+                            </div>
+                            <div class="chart-container">
+                                <h4>曜日別読書時間</h4>
+                                <canvas id="weekday-chart"></canvas>
+                            </div>
+                        </div>
+                        <div class="reading-insights">
+                            <h4>読書の傾向</h4>
+                            <ul id="insights-list">
+                                <!-- Insights will be displayed here -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Export Controls -->
+                <div class="stats-export">
+                    <button id="export-csv">CSVエクスポート</button>
+                    <button id="export-image">画像として保存</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Settings View -->
+        <section id="settings-view" class="view-container">
+            <h2 class="view-title">設定</h2>
+            
+            <div class="settings-group">
+                <h3>表示設定</h3>
+                
+                <div class="setting-item">
+                    <label for="font-size-slider">文字サイズ</label>
+                    <input type="range" id="font-size-slider" min="12" max="24" value="16" step="2">
+                    <span id="font-size-value">16px</span>
+                </div>
+                
+                <div class="setting-item">
+                    <label for="line-height-slider">行間</label>
+                    <input type="range" id="line-height-slider" min="1.5" max="2.5" value="1.8" step="0.1">
+                    <span id="line-height-value">1.8</span>
+                </div>
+                
+                <div class="setting-item">
+                    <label>背景色</label>
+                    <div class="color-options">
+                        <button class="color-option" data-color="white" style="background-color: white;"></button>
+                        <button class="color-option" data-color="cream" style="background-color: #FFF8DC;"></button>
+                        <button class="color-option" data-color="light-green" style="background-color: #E8F5E9;"></button>
+                        <button class="color-option" data-color="light-blue" style="background-color: #E3F2FD;"></button>
+                        <button class="color-option" data-color="dark" style="background-color: #263238;"></button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="settings-group">
+                <h3>その他の設定</h3>
+                
+                <div class="setting-item">
+                    <label>
+                        <input type="checkbox" id="sound-enabled" checked>
+                        効果音を有効にする
+                    </label>
+                </div>
+                
+                <div class="setting-item">
+                    <button id="reset-progress" class="danger-button">進捗データをリセット</button>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Parent Dashboard View -->
+        <section id="parent-dashboard-view" class="view-container">
+            <div id="parent-dashboard-container">
+                <!-- ProgressManager will render content here -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Dictionary Popup -->
+    <div id="dictionary-popup" class="popup hidden">
+        <div class="popup-content">
+            <button class="popup-close">×</button>
+            <div class="word-info">
+                <h3 class="word-title"></h3>
+                <p class="word-reading"></p>
+                <p class="word-definition"></p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Achievement Notification -->
+    <div id="achievement-notification" class="notification hidden">
+        <div class="notification-content">
+            <h3>アチーブメント獲得！</h3>
+            <p class="achievement-name"></p>
+        </div>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div id="loading-overlay" class="loading-overlay hidden">
+        <div class="loading-spinner"></div>
+        <p class="loading-text">読み込み中...</p>
+    </div>
+
+    <!-- External Libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    
+    <!-- Core JavaScript Files -->
+    <script src="error-handler.js"></script>
+    <script src="data-validator.js"></script>
+    <script src="storage-manager.js"></script>
+    <script src="book-adapter.js"></script>
+    <script src="book-loader.js"></script>
+    <script src="text-renderer.js"></script>
+    <script src="dictionary-service.js"></script>
+    <script src="game-manager.js"></script>
+    <script src="ui-manager.js"></script>
+    <script src="progress-manager.js"></script>
+    <script src="onboarding-flow.js"></script>
+    <script src="flow-validator.js"></script>
+    <script src="performance-optimizer.js"></script>
+    <script src="memory-manager.js"></script>
+    <script src="app-controller.js"></script>
+    
+    <!-- Initialize Application -->
+    <script src="app-v2.js"></script>
+</body>
+</html>

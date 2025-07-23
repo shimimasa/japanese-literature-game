@@ -1,0 +1,1853 @@
+{
+  "id": "オツベルと象",
+  "title": "オツベルと象",
+  "titleKana": "",
+  "author": {
+    "name": "宮沢賢治",
+    "nameKana": ""
+  },
+  "metadata": {
+    "genre": "literature",
+    "era": "modern",
+    "gradeLevel": 3,
+    "difficulty": {
+      "overall": 3,
+      "kanji": 3,
+      "vocabulary": 3,
+      "grammar": 3
+    },
+    "themes": [],
+    "totalCharacters": 5820,
+    "estimatedReadingTime": 15
+  },
+  "content": {
+    "format": "structured",
+    "lines": [
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　十六人の百姓",
+            "ruby": "ひゃくしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "どもが、顔をまるっきりまっ赤にして足で踏",
+            "ruby": "ふ"
+          },
+          {
+            "type": "ruby",
+            "base": "んで器械をまわし、小山のように積まれた稲を片っぱしから扱",
+            "ruby": "こ"
+          },
+          {
+            "type": "ruby",
+            "base": "いて行く。藁",
+            "ruby": "わら"
+          },
+          {
+            "type": "ruby",
+            "base": "はどんどんうしろの方へ投げられて、また新らしい山になる。そこらは、籾",
+            "ruby": "もみ"
+          },
+          {
+            "type": "ruby",
+            "base": "や藁から発",
+            "ruby": "た"
+          },
+          {
+            "type": "ruby",
+            "base": "ったこまかな塵",
+            "ruby": "ちり"
+          },
+          {
+            "type": "ruby",
+            "base": "で、変にぼうっと黄いろになり、まるで沙漠",
+            "ruby": "さばく"
+          },
+          {
+            "type": "text",
+            "content": "のけむりのようだ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そのうすくらい仕事場を、オツベルは、大きな琥珀",
+            "ruby": "こはく"
+          },
+          {
+            "type": "ruby",
+            "base": "のパイプをくわえ、吹殻",
+            "ruby": "ふきがら"
+          },
+          {
+            "type": "ruby",
+            "base": "を藁に落さないよう、眼",
+            "ruby": "め"
+          },
+          {
+            "type": "ruby",
+            "base": "を細くして気をつけながら、両手を背中に組みあわせて、ぶらぶら往",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "ったり来たりする。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　小屋はずいぶん頑丈",
+            "ruby": "がんじょう"
+          },
+          {
+            "type": "ruby",
+            "base": "で、学校ぐらいもあるのだが、何せ新式稲扱器械が、六台もそろってまわってるから、のんのんのんのんふるうのだ。中にはいるとそのために、すっかり腹が空",
+            "ruby": "す"
+          },
+          {
+            "type": "ruby",
+            "base": "くほどだ。そしてじっさいオツベルは、そいつで上手に腹をへらし、ひるめしどきには、六寸ぐらいのビフテキだの、雑巾",
+            "ruby": "ぞうきん"
+          },
+          {
+            "type": "text",
+            "content": "ほどあるオムレツの、ほくほくしたのをたべるのだ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　とにかく、そうして、のんのんのんのんやっていた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そしたらそこへどういうわけか、その、白象がやって来た。白い象だぜ、ペンキを塗",
+            "ruby": "ぬ"
+          },
+          {
+            "type": "text",
+            "content": "ったのでないぜ。どういうわけで来たかって？　そいつは象のことだから、たぶんぶらっと森を出て、ただなにとなく来たのだろう。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　そいつが小屋の入口に、ゆっくり顔を出したとき、百姓どもはぎょっとした。なぜぎょっとした？　よくきくねえ、何をしだすか知れないじゃないか。かかり合っては大へんだから、どいつもみな、いっしょうけんめい、じぶんの稲を扱いていた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ところがそのときオツベルは、ならんだ器械のうしろの方で、ポケットに手を入れながら、ちらっと鋭",
+            "ruby": "するど"
+          },
+          {
+            "type": "text",
+            "content": "く象を見た。それからすばやく下を向き、何でもないというふうで、いままでどおり往ったり来たりしていたもんだ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　するとこんどは白象が、片脚",
+            "ruby": "かたあし"
+          },
+          {
+            "type": "ruby",
+            "base": "床",
+            "ruby": "ゆか"
+          },
+          {
+            "type": "ruby",
+            "base": "にあげたのだ。百姓どもはぎょっとした。それでも仕事が忙",
+            "ruby": "いそが"
+          },
+          {
+            "type": "text",
+            "content": "しいし、かかり合ってはひどいから、そっちを見ずに、やっぱり稲を扱いていた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　オツベルは奥",
+            "ruby": "おく"
+          },
+          {
+            "type": "ruby",
+            "base": "のうすくらいところで両手をポケットから出して、も一度ちらっと象を見た。それからいかにも退屈",
+            "ruby": "たいくつ"
+          },
+          {
+            "type": "ruby",
+            "base": "そうに、わざと大きなあくびをして、両手を頭のうしろに組んで、行ったり来たりやっていた。ところが象が威勢",
+            "ruby": "いせい"
+          },
+          {
+            "type": "ruby",
+            "base": "よく、前肢",
+            "ruby": "まえあし"
+          },
+          {
+            "type": "text",
+            "content": "二つつきだして、小屋にあがって来ようとする。百姓どもはぎくっとし、オツベルもすこしぎょっとして、大きな琥珀のパイプから、ふっとけむりをはきだした。それでもやっぱりしらないふうで、ゆっくりそこらをあるいていた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　そしたらとうとう、象がのこのこ上って来た。そして器械の前のとこを、呑気",
+            "ruby": "のんき"
+          },
+          {
+            "type": "text",
+            "content": "にあるきはじめたのだ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ところが何せ、器械はひどく廻",
+            "ruby": "まわ"
+          },
+          {
+            "type": "ruby",
+            "base": "っていて、籾",
+            "ruby": "もみ"
+          },
+          {
+            "type": "ruby",
+            "base": "は夕立か霰",
+            "ruby": "あられ"
+          },
+          {
+            "type": "text",
+            "content": "のように、パチパチ象にあたるのだ。象はいかにもうるさいらしく、小さなその眼を細めていたが、またよく見ると、たしかに少しわらっていた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　オツベルはやっと覚悟",
+            "ruby": "かくご"
+          },
+          {
+            "type": "ruby",
+            "base": "をきめて、稲扱",
+            "ruby": "いねこき"
+          },
+          {
+            "type": "ruby",
+            "base": "器械の前に出て、象に話をしようとしたが、そのとき象が、とてもきれいな、鶯",
+            "ruby": "うぐいす"
+          },
+          {
+            "type": "ruby",
+            "base": "みたいないい声で、こんな文句を云",
+            "ruby": "い"
+          },
+          {
+            "type": "text",
+            "content": "ったのだ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああ、だめだ。あんまりせわしく、砂がわたしの歯にあたる。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　まったく籾は、パチパチパチパチ歯にあたり、またまっ白な頭や首にぶっつかる。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　さあ、オツベルは命懸",
+            "ruby": "いのちが"
+          },
+          {
+            "type": "ruby",
+            "base": "けだ。パイプを右手にもち直し、度胸を据えて斯",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "う云った。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「どうだい、此処",
+            "ruby": "ここ"
+          },
+          {
+            "type": "ruby",
+            "base": "は面白",
+            "ruby": "おもしろ"
+          },
+          {
+            "type": "text",
+            "content": "いかい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「面白いねえ。」象がからだを斜",
+            "ruby": "なな"
+          },
+          {
+            "type": "text",
+            "content": "めにして、眼を細くして返事した。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ずうっとこっちに居たらどうだい。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　百姓どもははっとして、息を殺して象を見た。オツベルは云ってしまってから、にわかにがたがた顫",
+            "ruby": "ふる"
+          },
+          {
+            "type": "text",
+            "content": "え出す。ところが象はけろりとして"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「居てもいいよ。」と答えたもんだ。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「そうか。それではそうしよう。そういうことにしようじゃないか。」オツベルが顔をくしゃくしゃにして、まっ赤になって悦",
+            "ruby": "よろこ"
+          },
+          {
+            "type": "text",
+            "content": "びながらそう云った。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　どうだ、そうしてこの象は、もうオツベルの財産だ。いまに見たまえ、オツベルは、あの白象を、はたらかせるか、サーカス団に売りとばすか、どっちにしても万円以上もうけるぜ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　第二日曜"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　オツベルときたら大したもんだ。それにこの前稲扱小屋で、うまく自分のものにした、象もじっさい大したもんだ。力も二十馬力もある。第一みかけがまっ白で、牙",
+            "ruby": "きば"
+          },
+          {
+            "type": "ruby",
+            "base": "はぜんたいきれいな象牙",
+            "ruby": "ぞうげ"
+          },
+          {
+            "type": "ruby",
+            "base": "でできている。皮も全体、立派で丈夫",
+            "ruby": "じょうぶ"
+          },
+          {
+            "type": "ruby",
+            "base": "な象皮なのだ。そしてずいぶんはたらくもんだ。けれどもそんなに稼",
+            "ruby": "かせ"
+          },
+          {
+            "type": "ruby",
+            "base": "ぐのも、やっぱり主人が偉",
+            "ruby": "えら"
+          },
+          {
+            "type": "text",
+            "content": "いのだ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「おい、お前は時計は要",
+            "ruby": "い"
+          },
+          {
+            "type": "ruby",
+            "base": "らないか。」丸太で建てたその象小屋の前に来て、オツベルは琥珀のパイプをくわえ、顔をしかめて斯う訊",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "いた。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ぼくは時計は要らないよ。」象がわらって返事した。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「まあ持って見ろ、いいもんだ。」斯う言いながらオツベルは、ブリキでこさえた大きな時計を、象の首からぶらさげた。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なかなかいいね。」象も云う。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「鎖",
+            "ruby": "くさり"
+          },
+          {
+            "type": "text",
+            "content": "もなくちゃだめだろう。」オツベルときたら、百キロもある鎖をさ、その前肢にくっつけた。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「うん、なかなか鎖はいいね。」三あし歩いて象がいう。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「靴",
+            "ruby": "くつ"
+          },
+          {
+            "type": "text",
+            "content": "をはいたらどうだろう。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ぼくは靴などはかないよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「まあはいてみろ、いいもんだ。」オツベルは顔をしかめながら、赤い張子の大きな靴を、象のうしろのかかとにはめた。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なかなかいいね。」象も云う。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「靴に飾",
+            "ruby": "かざ"
+          },
+          {
+            "type": "ruby",
+            "base": "りをつけなくちゃ。」オツベルはもう大急ぎで、四百キロある分銅を靴の上から、穿",
+            "ruby": "は"
+          },
+          {
+            "type": "text",
+            "content": "め込んだ。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「うん、なかなかいいね。」象は二あし歩いてみて、さもうれしそうにそう云った。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　次の日、ブリキの大きな時計と、やくざな紙の靴とはやぶけ、象は鎖と分銅だけで、大よろこびであるいて居",
+            "ruby": "お"
+          },
+          {
+            "type": "text",
+            "content": "った。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「済まないが税金も高いから、今日はすこうし、川から水を汲",
+            "ruby": "く"
+          },
+          {
+            "type": "text",
+            "content": "んでくれ。」オツベルは両手をうしろで組んで、顔をしかめて象に云う。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああ、ぼく水を汲んで来よう。もう何ばいでも汲んでやるよ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　象は眼を細くしてよろこんで、そのひるすぎに五十だけ、川から水を汲んで来た。そして菜っ葉の畑にかけた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　夕方象は小屋に居て、十把",
+            "ruby": "ぱ"
+          },
+          {
+            "type": "ruby",
+            "base": "の藁",
+            "ruby": "わら"
+          },
+          {
+            "type": "text",
+            "content": "をたべながら、西の三日の月を見て、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ああ、稼",
+            "ruby": "かせ"
+          },
+          {
+            "type": "ruby",
+            "base": "ぐのは愉快",
+            "ruby": "ゆかい"
+          },
+          {
+            "type": "text",
+            "content": "だねえ、さっぱりするねえ」と云っていた。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「済まないが税金がまたあがる。今日は少うし森から、たきぎを運んでくれ」オツベルは房",
+            "ruby": "ふさ"
+          },
+          {
+            "type": "ruby",
+            "base": "のついた赤い帽子",
+            "ruby": "ぼうし"
+          },
+          {
+            "type": "text",
+            "content": "をかぶり、両手をかくしにつっ込んで、次の日象にそう言った。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああ、ぼくたきぎを持って来よう。いい天気だねえ。ぼくはぜんたい森へ行くのは大すきなんだ」象はわらってこう言った。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　オツベルは少しぎょっとして、パイプを手からあぶなく落としそうにしたがもうあのときは、象がいかにも愉快なふうで、ゆっくりあるきだしたので、また安心してパイプをくわえ、小さな咳",
+            "ruby": "せき"
+          },
+          {
+            "type": "text",
+            "content": "を一つして、百姓どもの仕事の方を見に行った。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　そのひるすぎの半日に、象は九百把たきぎを運び、眼を細くしてよろこんだ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　晩方象は小屋に居て、八把の藁をたべながら、西の四日の月を見て"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ああ、せいせいした。サンタマリア」と斯",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "うひとりごとしたそうだ。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　その次の日だ、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「済まないが、税金が五倍になった、今日は少うし鍛冶場",
+            "ruby": "かじば"
+          },
+          {
+            "type": "ruby",
+            "base": "へ行って、炭火を吹",
+            "ruby": "ふ"
+          },
+          {
+            "type": "text",
+            "content": "いてくれないか」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああ、吹いてやろう。本気でやったら、ぼく、もう、息で、石もなげとばせるよ」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　オツベルはまたどきっとしたが、気を落ち付けてわらっていた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　象はのそのそ鍛冶場へ行って、べたんと肢を折って座",
+            "ruby": "すわ"
+          },
+          {
+            "type": "text",
+            "content": "り、ふいごの代りに半日炭を吹いたのだ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　その晩、象は象小屋で、七把",
+            "ruby": "わ"
+          },
+          {
+            "type": "text",
+            "content": "の藁をたべながら、空の五日の月を見て"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああ、つかれたな、うれしいな、サンタマリア」と斯う言った。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　どうだ、そうして次の日から、象は朝からかせぐのだ。藁も昨日はただ五把だ。よくまあ、五把の藁などで、あんな力がでるもんだ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　じっさい象はけいざいだよ。それというのもオツベルが、頭がよくてえらいためだ。オツベルときたら大したもんさ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　第五日曜"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　オツベルかね、そのオツベルは、おれも云おうとしてたんだが、居なくなったよ。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　まあ落ちついてききたまえ。前にはなしたあの象を、オツベルはすこしひどくし過ぎた。しかたがだんだんひどくなったから、象がなかなか笑わなくなった。時には赤い竜",
+            "ruby": "りゅう"
+          },
+          {
+            "type": "text",
+            "content": "の眼をして、じっとこんなにオツベルを見おろすようになってきた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ある晩象は象小屋で、三把の藁をたべながら、十日の月を仰",
+            "ruby": "あお"
+          },
+          {
+            "type": "text",
+            "content": "ぎ見て、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「苦しいです。サンタマリア。」と云ったということだ。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　こいつを聞いたオツベルは、ことごと象につらくした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　ある晩、象は象小屋で、ふらふら倒",
+            "ruby": "たお"
+          },
+          {
+            "type": "text",
+            "content": "れて地べたに座り、藁もたべずに、十一日の月を見て、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「もう、さようなら、サンタマリア。」と斯う言った。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「おや、何だって？　さよならだ？」月が俄",
+            "ruby": "にわ"
+          },
+          {
+            "type": "ruby",
+            "base": "かに象に訊",
+            "ruby": "き"
+          },
+          {
+            "type": "text",
+            "content": "く。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ええ、さよならです。サンタマリア。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「何だい、なりばかり大きくて、からっきし意気地",
+            "ruby": "いくじ"
+          },
+          {
+            "type": "text",
+            "content": "のないやつだなあ。仲間へ手紙を書いたらいいや。」月がわらって斯う云った。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「お筆も紙もありませんよう。」象は細ういきれいな声で、しくしくしくしく泣き出した。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「そら、これでしょう。」すぐ眼の前で、可愛",
+            "ruby": "かあい"
+          },
+          {
+            "type": "ruby",
+            "base": "い子どもの声がした。象が頭を上げて見ると、赤い着物の童子が立って、硯",
+            "ruby": "すずり"
+          },
+          {
+            "type": "ruby",
+            "base": "と紙を捧",
+            "ruby": "ささ"
+          },
+          {
+            "type": "text",
+            "content": "げていた。象は早速手紙を書いた。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ぼくはずいぶん眼にあっている。みんなで出て来て助けてくれ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　童子はすぐに手紙をもって、林の方へあるいて行った。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　赤衣",
+            "ruby": "せきい"
+          },
+          {
+            "type": "ruby",
+            "base": "の童子が、そうして山に着いたのは、ちょうどひるめしごろだった。このとき山の象どもは、沙羅樹",
+            "ruby": "さらじゅ"
+          },
+          {
+            "type": "ruby",
+            "base": "の下のくらがりで、碁",
+            "ruby": "ご"
+          },
+          {
+            "type": "text",
+            "content": "などをやっていたのだが、額をあつめてこれを見た。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ぼくはずいぶん眼にあっている。みんなで出てきて助けてくれ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　象は一せいに立ちあがり、まっ黒になって吠",
+            "ruby": "ほ"
+          },
+          {
+            "type": "text",
+            "content": "えだした。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「オツベルをやっつけよう」議長の象が高く叫",
+            "ruby": "さけ"
+          },
+          {
+            "type": "text",
+            "content": "ぶと、"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「おう、でかけよう。グララアガア、グララアガア。」みんながいちどに呼応する。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　さあ、もうみんな、嵐",
+            "ruby": "あらし"
+          },
+          {
+            "type": "ruby",
+            "base": "のように林の中をなきぬけて、グララアガア、グララアガア、野原の方へとんで行く。どいつもみんなきちがいだ。小さな木などは根こぎになり、藪",
+            "ruby": "やぶ"
+          },
+          {
+            "type": "ruby",
+            "base": "や何かもめちゃめちゃだ。グワア　グワア　グワア　グワア、花火みたいに野原の中へ飛び出した。それから、何の、走って、走って、とうとう向うの青くかすんだ野原のはてに、オツベルの邸",
+            "ruby": "やしき"
+          },
+          {
+            "type": "ruby",
+            "base": "の黄いろな屋根を見附",
+            "ruby": "みつ"
+          },
+          {
+            "type": "ruby",
+            "base": "けると、象はいちどに噴火",
+            "ruby": "ふんか"
+          },
+          {
+            "type": "text",
+            "content": "した。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　グララアガア、グララアガア。その時はちょうど一時半、オツベルは皮の寝台",
+            "ruby": "しんだい"
+          },
+          {
+            "type": "ruby",
+            "base": "の上でひるねのさかりで、烏",
+            "ruby": "からす"
+          },
+          {
+            "type": "ruby",
+            "base": "の夢",
+            "ruby": "ゆめ"
+          },
+          {
+            "type": "ruby",
+            "base": "を見ていたもんだ。あまり大きな音なので、オツベルの家の百姓どもが、門から少し外へ出て、小手をかざして向うを見た。林のような象だろう。汽車より早くやってくる。さあ、まるっきり、血の気も失せてかけ込",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "んで、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「旦那",
+            "ruby": "だんな"
+          },
+          {
+            "type": "text",
+            "content": "あ、象です。押し寄せやした。旦那あ、象です。」と声をかぎりに叫んだもんだ。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　ところがオツベルはやっぱりえらい。眼をぱっちりとあいたときは、もう何もかもわかっていた。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「おい、象のやつは小屋にいるのか。居る？　居る？　居るのか。よし、戸をしめろ。戸をしめるんだよ。早く象小屋の戸をしめるんだ。ようし、早く丸太を持って来い。とじこめちまえ、畜生",
+            "ruby": "ちくしょう"
+          },
+          {
+            "type": "ruby",
+            "base": "めじたばたしやがるな、丸太をそこへしばりつけろ。何ができるもんか。わざと力を減らしてあるんだ。ようし、もう五六本持って来い。さあ、大丈夫だ。大丈夫だとも。あわてるなったら。おい、みんな、こんどは門だ。門をしめろ。かんぬきをかえ。つっぱり。つっぱり。そうだ。おい、みんな心配するなったら。しっかりしろよ。」オツベルはもう支度",
+            "ruby": "したく"
+          },
+          {
+            "type": "ruby",
+            "base": "ができて、ラッパみたいないい声で、百姓どもをはげました。ところがどうして、百姓どもは気が気じゃない。こんな主人に巻き添",
+            "ruby": "ぞ"
+          },
+          {
+            "type": "ruby",
+            "base": "いなんぞ食いたくないから、みんなタオルやはんけちや、よごれたような白いようなものを、ぐるぐる腕",
+            "ruby": "うで"
+          },
+          {
+            "type": "text",
+            "content": "に巻きつける。降参をするしるしなのだ。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　オツベルはいよいよやっきとなって、そこらあたりをかけまわる。オツベルの犬も気が立って、火のつくように吠",
+            "ruby": "ほ"
+          },
+          {
+            "type": "text",
+            "content": "えながら、やしきの中をはせまわる。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　間もなく地面はぐらぐらとゆられ、そこらはばしゃばしゃくらくなり、象はやしきをとりまいた。グララアガア、グララアガア、その恐",
+            "ruby": "おそ"
+          },
+          {
+            "type": "text",
+            "content": "ろしいさわぎの中から、"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「今助けるから安心しろよ。」やさしい声もきこえてくる。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「ありがとう。よく来てくれて、ほんとに僕",
+            "ruby": "ぼく"
+          },
+          {
+            "type": "ruby",
+            "base": "はうれしいよ。」象小屋からも声がする。さあ、そうすると、まわりの象は、一そうひどく、グララアガア、グララアガア、塀",
+            "ruby": "へい"
+          },
+          {
+            "type": "ruby",
+            "base": "のまわりをぐるぐる走っているらしく、度々中から、怒",
+            "ruby": "おこ"
+          },
+          {
+            "type": "ruby",
+            "base": "ってふりまわす鼻も見える。けれども塀はセメントで、中には鉄も入っているから、なかなか象もこわせない。塀の中にはオツベルが、たった一人で叫んでいる。百姓どもは眼もくらみ、そこらをうろうろするだけだ。そのうち外の象どもは、仲間のからだを台にして、いよいよ塀を越",
+            "ruby": "こ"
+          },
+          {
+            "type": "ruby",
+            "base": "しかかる。だんだんにゅうと顔を出す。その皺",
+            "ruby": "しわ"
+          },
+          {
+            "type": "ruby",
+            "base": "くちゃで灰いろの、大きな顔を見あげたとき、オツベルの犬は気絶した。さあ、オツベルは射",
+            "ruby": "う"
+          },
+          {
+            "type": "ruby",
+            "base": "ちだした。六連発のピストルさ。ドーン、グララアガア、ドーン、グララアガア、ドーン、グララアガア、ところが弾丸",
+            "ruby": "たま"
+          },
+          {
+            "type": "ruby",
+            "base": "は通らない。牙",
+            "ruby": "きば"
+          },
+          {
+            "type": "ruby",
+            "base": "にあたればはねかえる。一疋",
+            "ruby": "ぴき"
+          },
+          {
+            "type": "ruby",
+            "base": "なぞは斯",
+            "ruby": "こ"
+          },
+          {
+            "type": "text",
+            "content": "う言った。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「なかなかこいつはうるさいねえ。ぱちぱち顔へあたるんだ。」"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "　オツベルはいつかどこかで、こんな文句をきいたようだと思いながら、ケースを帯からつめかえた。そのうち、象の片脚が、塀からこっちへはみ出した。それからも一つはみ出した。五匹の象が一ぺんに、塀からどっと落ちて来た。オツベルはケースを握ったまま、もうくしゃくしゃに潰",
+            "ruby": "つぶ"
+          },
+          {
+            "type": "text",
+            "content": "れていた。早くも門があいていて、グララアガア、グララアガア、象がどしどしなだれ込む。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "ruby",
+            "base": "「牢",
+            "ruby": "ろう"
+          },
+          {
+            "type": "ruby",
+            "base": "はどこだ。」みんなは小屋に押し寄せる。丸太なんぞは、マッチのようにへし折られ、あの白象は大へん瘠",
+            "ruby": "や"
+          },
+          {
+            "type": "text",
+            "content": "せて小屋を出た。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「まあ、よかったねやせたねえ。」みんなはしずかにそばにより、鎖と銅をはずしてやった。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "「ああ、ありがとう。ほんとにぼくは助かったよ。」白象はさびしくわらってそう云った。"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　おや〔一字不明〕、川へはいっちゃいけないったら。"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "底本：新潮文庫「新編銀河鉄道の夜」新潮社"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "　　　1989（平成元）年6月15日発行"
+          }
+        ],
+        "isFirstLine": true
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "親本：「新修　宮沢賢治全集」筑摩書房"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "入力：r.sawai"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "校正：篠宮康彰"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1999年2月6日公開"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "1999年7月23日修正"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "青空文庫作成ファイル："
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": "このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです"
+          }
+        ],
+        "isFirstLine": false
+      },
+      {
+        "segments": [
+          {
+            "type": "text",
+            "content": ""
+          }
+        ],
+        "isFirstLine": false
+      }
+    ]
+  },
+  "vocabulary": [
+    {
+      "word": "　十六人の百姓",
+      "reading": "ひゃくしょう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "どもが、顔をまるっきりまっ赤にして足で踏",
+      "reading": "ふ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "んで器械をまわし、小山のように積まれた稲を片っぱしから扱",
+      "reading": "こ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "いて行く。藁",
+      "reading": "わら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "はどんどんうしろの方へ投げられて、また新らしい山になる。そこらは、籾",
+      "reading": "もみ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "や藁から発",
+      "reading": "た",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "ったこまかな塵",
+      "reading": "ちり",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "で、変にぼうっと黄いろになり、まるで沙漠",
+      "reading": "さばく",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　そのうすくらい仕事場を、オツベルは、大きな琥珀",
+      "reading": "こはく",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のパイプをくわえ、吹殻",
+      "reading": "ふきがら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "を藁に落さないよう、眼",
+      "reading": "め",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "を細くして気をつけながら、両手を背中に組みあわせて、ぶらぶら往",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　小屋はずいぶん頑丈",
+      "reading": "がんじょう",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "で、学校ぐらいもあるのだが、何せ新式稲扱器械が、六台もそろってまわってるから、のんのんのんのんふるうのだ。中にはいるとそのために、すっかり腹が空",
+      "reading": "す",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "くほどだ。そしてじっさいオツベルは、そいつで上手に腹をへらし、ひるめしどきには、六寸ぐらいのビフテキだの、雑巾",
+      "reading": "ぞうきん",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　そしたらそこへどういうわけか、その、白象がやって来た。白い象だぜ、ペンキを塗",
+      "reading": "ぬ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　ところがそのときオツベルは、ならんだ器械のうしろの方で、ポケットに手を入れながら、ちらっと鋭",
+      "reading": "するど",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　するとこんどは白象が、片脚",
+      "reading": "かたあし",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "にあげたのだ。百姓どもはぎょっとした。それでも仕事が忙",
+      "reading": "いそが",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　オツベルは奥",
+      "reading": "おく",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "のうすくらいところで両手をポケットから出して、も一度ちらっと象を見た。それからいかにも退屈",
+      "reading": "たいくつ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "そうに、わざと大きなあくびをして、両手を頭のうしろに組んで、行ったり来たりやっていた。ところが象が威勢",
+      "reading": "いせい",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "よく、前肢",
+      "reading": "まえあし",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　そしたらとうとう、象がのこのこ上って来た。そして器械の前のとこを、呑気",
+      "reading": "のんき",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　ところが何せ、器械はひどく廻",
+      "reading": "まわ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "っていて、籾",
+      "reading": "もみ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "は夕立か霰",
+      "reading": "あられ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　オツベルはやっと覚悟",
+      "reading": "かくご",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "をきめて、稲扱",
+      "reading": "いねこき",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "器械の前に出て、象に話をしようとしたが、そのとき象が、とてもきれいな、鶯",
+      "reading": "うぐいす",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "みたいないい声で、こんな文句を云",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　さあ、オツベルは命懸",
+      "reading": "いのちが",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "けだ。パイプを右手にもち直し、度胸を据えて斯",
+      "reading": "こ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「どうだい、此処",
+      "reading": "ここ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "は面白",
+      "reading": "おもしろ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "「面白いねえ。」象がからだを斜",
+      "reading": "なな",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　百姓どもははっとして、息を殺して象を見た。オツベルは云ってしまってから、にわかにがたがた顫",
+      "reading": "ふる",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「そうか。それではそうしよう。そういうことにしようじゃないか。」オツベルが顔をくしゃくしゃにして、まっ赤になって悦",
+      "reading": "よろこ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　オツベルときたら大したもんだ。それにこの前稲扱小屋で、うまく自分のものにした、象もじっさい大したもんだ。力も二十馬力もある。第一みかけがまっ白で、牙",
+      "reading": "きば",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "はぜんたいきれいな象牙",
+      "reading": "ぞうげ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "でできている。皮も全体、立派で丈夫",
+      "reading": "じょうぶ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "な象皮なのだ。そしてずいぶんはたらくもんだ。けれどもそんなに稼",
+      "reading": "かせ",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "ぐのも、やっぱり主人が偉",
+      "reading": "えら",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「おい、お前は時計は要",
+      "reading": "い",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "らないか。」丸太で建てたその象小屋の前に来て、オツベルは琥珀のパイプをくわえ、顔をしかめて斯う訊",
+      "reading": "き",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "「鎖",
+      "reading": "くさり",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "「靴",
+      "reading": "くつ",
+      "meaning": "",
+      "difficulty": 1
+    },
+    {
+      "word": "「靴に飾",
+      "reading": "かざ",
+      "meaning": "",
+      "difficulty": 2
+    },
+    {
+      "word": "りをつけなくちゃ。」オツベルはもう大急ぎで、四百キロある分銅を靴の上から、穿",
+      "reading": "は",
+      "meaning": "",
+      "difficulty": 3
+    },
+    {
+      "word": "　次の日、ブリキの大きな時計と、やくざな紙の靴とはやぶけ、象は鎖と分銅だけで、大よろこびであるいて居",
+      "reading": "お",
+      "meaning": "",
+      "difficulty": 3
+    }
+  ],
+  "quiz": {
+    "comprehension": []
+  },
+  "annotations": {
+    "culturalNotes": [],
+    "historicalContext": []
+  }
+}

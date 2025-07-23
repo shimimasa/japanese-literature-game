@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>テストランナー - 日本名作文学読解ゲーム</title>
+    <style>
+        body {
+            font-family: 'Hiragino Kaku Gothic ProN', 'メイリオ', sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #333;
+            border-bottom: 3px solid #4CAF50;
+            padding-bottom: 20px;
+        }
+        
+        .test-controls {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            gap: 15px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        .test-controls button {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 500;
+        }
+        
+        .btn-run-all {
+            background: #4CAF50;
+            color: white;
+        }
+        
+        .btn-run-all:hover {
+            background: #45a049;
+        }
+        
+        .btn-run-unit {
+            background: #2196F3;
+            color: white;
+        }
+        
+        .btn-run-unit:hover {
+            background: #1976D2;
+        }
+        
+        .btn-run-integration {
+            background: #FF9800;
+            color: white;
+        }
+        
+        .btn-run-integration:hover {
+            background: #F57C00;
+        }
+        
+        .btn-clear {
+            background: #f44336;
+            color: white;
+        }
+        
+        .btn-clear:hover {
+            background: #d32f2f;
+        }
+        
+        .btn-export {
+            background: #9C27B0;
+            color: white;
+        }
+        
+        .btn-export:hover {
+            background: #7B1FA2;
+        }
+        
+        .test-options {
+            margin-left: auto;
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+        
+        .test-options label {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            cursor: pointer;
+        }
+        
+        .test-summary {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: none;
+        }
+        
+        .test-summary.show {
+            display: block;
+        }
+        
+        .summary-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        
+        .stat-card {
+            text-align: center;
+            padding: 15px;
+            border-radius: 6px;
+            background: #f5f5f5;
+        }
+        
+        .stat-value {
+            font-size: 36px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 14px;
+        }
+        
+        .stat-passed { background: #E8F5E9; }
+        .stat-passed .stat-value { color: #4CAF50; }
+        
+        .stat-failed { background: #FFEBEE; }
+        .stat-failed .stat-value { color: #f44336; }
+        
+        .stat-skipped { background: #FFF3E0; }
+        .stat-skipped .stat-value { color: #FF9800; }
+        
+        .stat-duration { background: #E3F2FD; }
+        .stat-duration .stat-value { color: #2196F3; }
+        
+        .test-output {
+            background: #1e1e1e;
+            color: #d4d4d4;
+            padding: 20px;
+            border-radius: 8px;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 14px;
+            line-height: 1.6;
+            overflow-x: auto;
+            max-height: 600px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .console-log { color: #d4d4d4; }
+        .console-success { color: #4ec9b0; }
+        .console-error { color: #f48771; }
+        .console-warn { color: #ce9178; }
+        .console-info { color: #9cdcfe; }
+        .console-debug { color: #969696; }
+        
+        .progress-bar {
+            width: 100%;
+            height: 30px;
+            background: #e0e0e0;
+            border-radius: 15px;
+            overflow: hidden;
+            margin: 20px 0;
+            position: relative;
+        }
+        
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(45deg, #4CAF50, #66BB6A);
+            width: 0%;
+            transition: width 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+        }
+        
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+        }
+        
+        .spinner {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #4CAF50;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .test-suite {
+            margin-bottom: 10px;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 4px;
+        }
+        
+        .test-case {
+            margin-left: 20px;
+            padding: 5px 0;
+        }
+        
+        .test-pass::before {
+            content: '✅ ';
+        }
+        
+        .test-fail::before {
+            content: '❌ ';
+        }
+        
+        .test-skip::before {
+            content: '⏭️ ';
+        }
+        
+        @media (max-width: 768px) {
+            .test-controls {
+                flex-direction: column;
+            }
+            
+            .test-options {
+                margin-left: 0;
+                width: 100%;
+                justify-content: center;
+            }
+            
+            .summary-stats {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>🧪 テストランナー</h1>
+    
+    <div class="test-controls">
+        <button class="btn-run-all" onclick="runAllTests()">
+            🚀 すべてのテストを実行
+        </button>
+        <button class="btn-run-unit" onclick="runUnitTests()">
+            🧩 単体テストのみ
+        </button>
+        <button class="btn-run-integration" onclick="runIntegrationTests()">
+            🔄 統合テストのみ
+        </button>
+        <button class="btn-clear" onclick="clearOutput()">
+            🗑️ クリア
+        </button>
+        <button class="btn-export" onclick="exportResults()">
+            💾 結果をエクスポート
+        </button>
+        
+        <div class="test-options">
+            <label>
+                <input type="checkbox" id="debug-mode" onchange="toggleDebugMode()">
+                デバッグモード
+            </label>
+            <label>
+                <input type="checkbox" id="performance-test" onchange="togglePerformanceTest()">
+                パフォーマンステスト
+            </label>
+        </div>
+    </div>
+    
+    <div class="test-summary" id="test-summary">
+        <h2>テスト結果サマリー</h2>
+        <div class="summary-stats">
+            <div class="stat-card stat-passed">
+                <div class="stat-value" id="stat-passed">0</div>
+                <div class="stat-label">成功</div>
+            </div>
+            <div class="stat-card stat-failed">
+                <div class="stat-value" id="stat-failed">0</div>
+                <div class="stat-label">失敗</div>
+            </div>
+            <div class="stat-card stat-skipped">
+                <div class="stat-value" id="stat-skipped">0</div>
+                <div class="stat-label">スキップ</div>
+            </div>
+            <div class="stat-card stat-duration">
+                <div class="stat-value" id="stat-duration">0</div>
+                <div class="stat-label">実行時間 (ms)</div>
+            </div>
+        </div>
+        <div class="progress-bar">
+            <div class="progress-fill" id="progress-fill">0%</div>
+        </div>
+    </div>
+    
+    <div class="loading" id="loading" style="display: none;">
+        <div class="spinner"></div>
+        <p>テストを実行中...</p>
+    </div>
+    
+    <div class="test-output" id="test-output">
+        テストランナーへようこそ！
+        
+        🎯 使い方:
+        - 「すべてのテストを実行」: 単体テストと統合テストの両方を実行
+        - 「単体テストのみ」: 各コンポーネントの個別テスト
+        - 「統合テストのみ」: システム全体の連携テスト
+        
+        💡 オプション:
+        - デバッグモード: 詳細なログを表示
+        - パフォーマンステスト: 実行速度を測定
+        
+        準備ができたら、テストを実行してください！
+    </div>
+
+    <script type="module">
+        import { testSuite } from './test-suite.js';
+        import './tests/unit-tests.js';
+        import './tests/integration-tests.js';
+        import { debugConsole } from './debug-console.js';
+        
+        let outputElement;
+        let originalConsoleLog;
+        
+        // 初期化
+        window.addEventListener('DOMContentLoaded', () => {
+            outputElement = document.getElementById('test-output');
+            
+            // コンソール出力をキャプチャ
+            originalConsoleLog = console.log;
+            console.log = (...args) => {
+                appendOutput(args.join(' '), 'console-log');
+                originalConsoleLog.apply(console, args);
+            };
+            
+            // デバッグコンソールの初期化
+            if (window.location.hostname === 'localhost') {
+                debugConsole.enabled = true;
+            }
+        });
+        
+        // 出力追加
+        function appendOutput(message, className = '') {
+            const line = document.createElement('div');
+            line.className = className;
+            line.textContent = message;
+            outputElement.appendChild(line);
+            outputElement.scrollTop = outputElement.scrollHeight;
+        }
+        
+        // すべてのテストを実行
+        window.runAllTests = async function() {
+            clearOutput();
+            showLoading(true);
+            updateSummary({ total: 0, passed: 0, failed: 0, skipped: 0, duration: 0 });
+            
+            try {
+                const results = await testSuite.runTests();
+                updateSummary(results.stats);
+                showTestReport(results);
+            } catch (error) {
+                appendOutput(`テスト実行エラー: ${error.message}`, 'console-error');
+            } finally {
+                showLoading(false);
+            }
+        };
+        
+        // 単体テストのみ実行
+        window.runUnitTests = async function() {
+            clearOutput();
+            showLoading(true);
+            
+            // 統合テストを一時的に無効化
+            const allTests = [...testSuite.tests];
+            testSuite.tests = allTests.filter(suite => 
+                !suite.name.includes('Integration') && 
+                !suite.name.includes('Flow')
+            );
+            
+            try {
+                const results = await testSuite.runTests();
+                updateSummary(results.stats);
+                showTestReport(results);
+            } catch (error) {
+                appendOutput(`テスト実行エラー: ${error.message}`, 'console-error');
+            } finally {
+                testSuite.tests = allTests;
+                showLoading(false);
+            }
+        };
+        
+        // 統合テストのみ実行
+        window.runIntegrationTests = async function() {
+            clearOutput();
+            showLoading(true);
+            
+            // 単体テストを一時的に無効化
+            const allTests = [...testSuite.tests];
+            testSuite.tests = allTests.filter(suite => 
+                suite.name.includes('Integration') || 
+                suite.name.includes('Flow')
+            );
+            
+            try {
+                const results = await testSuite.runTests();
+                updateSummary(results.stats);
+                showTestReport(results);
+            } catch (error) {
+                appendOutput(`テスト実行エラー: ${error.message}`, 'console-error');
+            } finally {
+                testSuite.tests = allTests;
+                showLoading(false);
+            }
+        };
+        
+        // 出力クリア
+        window.clearOutput = function() {
+            outputElement.innerHTML = '';
+            document.getElementById('test-summary').classList.remove('show');
+        };
+        
+        // 結果エクスポート
+        window.exportResults = function() {
+            const report = testSuite.generateHTMLReport();
+            const blob = new Blob([report], { type: 'text/html' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `test-report-${new Date().toISOString().slice(0, 10)}.html`;
+            a.click();
+            URL.revokeObjectURL(url);
+        };
+        
+        // デバッグモード切り替え
+        window.toggleDebugMode = function() {
+            const isEnabled = document.getElementById('debug-mode').checked;
+            testSuite.setDebugMode(isEnabled);
+            if (isEnabled) {
+                debugConsole.toggle();
+            }
+        };
+        
+        // パフォーマンステスト切り替え
+        window.togglePerformanceTest = async function() {
+            const isEnabled = document.getElementById('performance-test').checked;
+            if (isEnabled) {
+                clearOutput();
+                appendOutput('⚡ パフォーマンステストを実行中...', 'console-info');
+                
+                // パフォーマンステストの実行
+                await testSuite.performance('Book Loading', async () => {
+                    const response = await fetch('./books/momotaro.json');
+                    await response.json();
+                });
+                
+                await testSuite.performance('Text Rendering', () => {
+                    const container = document.createElement('div');
+                    container.style.writingMode = 'vertical-rl';
+                    container.textContent = 'テスト'.repeat(1000);
+                    document.body.appendChild(container);
+                    const height = container.offsetHeight;
+                    document.body.removeChild(container);
+                });
+                
+                appendOutput('\n✅ パフォーマンステスト完了', 'console-success');
+            }
+        };
+        
+        // ローディング表示
+        function showLoading(show) {
+            document.getElementById('loading').style.display = show ? 'block' : 'none';
+            if (show) {
+                document.getElementById('test-summary').classList.remove('show');
+            }
+        }
+        
+        // サマリー更新
+        function updateSummary(stats) {
+            document.getElementById('test-summary').classList.add('show');
+            document.getElementById('stat-passed').textContent = stats.passed;
+            document.getElementById('stat-failed').textContent = stats.failed;
+            document.getElementById('stat-skipped').textContent = stats.skipped;
+            document.getElementById('stat-duration').textContent = Math.round(stats.duration);
+            
+            const total = stats.passed + stats.failed + stats.skipped;
+            const percentage = total > 0 ? Math.round((stats.passed / total) * 100) : 0;
+            const progressFill = document.getElementById('progress-fill');
+            progressFill.style.width = `${percentage}%`;
+            progressFill.textContent = `${percentage}%`;
+        }
+        
+        // テストレポート表示
+        function showTestReport(results) {
+            if (results.performanceMetrics && results.performanceMetrics.length > 0) {
+                appendOutput('\n📊 パフォーマンス測定結果:', 'console-info');
+                results.performanceMetrics.forEach(metric => {
+                    appendOutput(
+                        `  ${metric.name}: 平均 ${metric.stats.mean.toFixed(2)}ms, ` +
+                        `中央値 ${metric.stats.median.toFixed(2)}ms`,
+                        'console-log'
+                    );
+                });
+            }
+        }
+        
+        // キーボードショートカット
+        document.addEventListener('keydown', (e) => {
+            if (e.ctrlKey || e.metaKey) {
+                switch(e.key) {
+                    case 'Enter':
+                        e.preventDefault();
+                        runAllTests();
+                        break;
+                    case 'l':
+                        e.preventDefault();
+                        clearOutput();
+                        break;
+                }
+            }
+        });
+    </script>
+</body>
+</html>
