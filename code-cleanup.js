@@ -23,7 +23,6 @@ class CodeCleanup {
      * クリーンアッププロセスの実行
      */
     async run() {
-        console.log('コードクリーンアップを開始します...');
         
         try {
             // 1. ファイルスキャン
@@ -47,7 +46,6 @@ class CodeCleanup {
             // 7. レポート生成
             await this.generateReport();
             
-            console.log('クリーンアップが完了しました！');
             
         } catch (error) {
             console.error('クリーンアップエラー:', error);
@@ -84,7 +82,6 @@ class CodeCleanup {
      * 未使用コードの検出
      */
     async detectUnusedCode() {
-        console.log('未使用コードを検出中...');
         
         // 使用されているファイルのリスト
         const usedFiles = new Set([
@@ -145,7 +142,6 @@ class CodeCleanup {
      * TODOコメントの収集
      */
     async collectTodos() {
-        console.log('TODOコメントを収集中...');
         
         for (const file of this.config.jsFiles) {
             const content = await fs.readFile(file, 'utf8');
@@ -167,10 +163,8 @@ class CodeCleanup {
      * 非推奨コードの検出
      */
     async detectDeprecatedCode() {
-        console.log('非推奨コードを検出中...');
         
         const deprecatedPatterns = [
-            { pattern: /console\.log\(/g, message: 'console.logは本番環境では削除' },
             { pattern: /debugger;/g, message: 'debugger文は削除' },
             { pattern: /var\s+/g, message: 'varはletまたはconstに置換' },
             { pattern: /==\s*[^=]/g, message: '==は===に置換' },
@@ -198,7 +192,6 @@ class CodeCleanup {
      * コメントの最適化
      */
     async optimizeComments() {
-        console.log('コメントを最適化中...');
         
         for (const file of this.config.jsFiles) {
             let content = await fs.readFile(file, 'utf8');
@@ -227,7 +220,6 @@ class CodeCleanup {
             
             if (modified) {
                 // await fs.writeFile(file, content); // 実際の書き込みはコメントアウト
-                console.log(`最適化対象: ${path.basename(file)}`);
             }
         }
     }
@@ -236,7 +228,6 @@ class CodeCleanup {
      * 命名規則のチェック
      */
     async checkNamingConventions() {
-        console.log('命名規則をチェック中...');
         
         const issues = [];
         
@@ -298,33 +289,19 @@ class CodeCleanup {
         };
         
         // レポートの表示
-        console.log('\n=== クリーンアップレポート ===\n');
-        console.log('概要:');
-        console.log(`- 総ファイル数: ${report.summary.totalFiles}`);
-        console.log(`- JavaScriptファイル: ${report.summary.jsFiles}`);
-        console.log(`- CSSファイル: ${report.summary.cssFiles}`);
-        console.log(`- 未使用ファイル: ${report.summary.unusedFiles}`);
-        console.log(`- TODOコメント: ${report.summary.todos}`);
-        console.log(`- 非推奨コード: ${report.summary.deprecatedCode}`);
         
         if (report.details.unusedFiles.length > 0) {
-            console.log('\n未使用の可能性があるファイル:');
             report.details.unusedFiles.forEach(file => {
-                console.log(`  - ${file}`);
             });
         }
         
         if (report.details.todos.length > 0) {
-            console.log('\nTODOリスト:');
             report.details.todos.forEach(todo => {
-                console.log(`  - ${todo.file}:${todo.line} - ${todo.content}`);
             });
         }
         
         if (report.details.deprecatedCode.length > 0) {
-            console.log('\n非推奨コード:');
             report.details.deprecatedCode.forEach(item => {
-                console.log(`  - ${item.file}: ${item.message} (${item.count}箇所)`);
             });
         }
         
@@ -334,7 +311,6 @@ class CodeCleanup {
             JSON.stringify(report, null, 2)
         );
         
-        console.log('\n詳細なレポートは cleanup-report.json に保存されました。');
     }
 
     /**

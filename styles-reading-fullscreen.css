@@ -1,0 +1,233 @@
+/* ================================================
+   読書画面フルスクリーン版 - シンプル実装
+   ================================================ */
+
+/* 読書画面表示時の基本設定 */
+body.reading-mode {
+    overflow: hidden !important;
+}
+
+/* 読書モードでない時は通常のスクロール */
+body:not(.reading-mode) {
+    overflow-y: auto !important;
+}
+
+/* library-viewがアクティブの時の設定 */
+#library-view.active {
+    display: block !important;
+    position: relative !important;
+    z-index: 1;
+}
+
+/* app-mainの高さを適切に設定 */
+body:not(.reading-mode) .app-main {
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - var(--header-height));
+}
+
+/* 非読書モード時のview-containerの設定 */
+body:not(.reading-mode) .view-container {
+    flex: 1;
+}
+
+body:not(.reading-mode) .view-container:not(.active) {
+    display: none !important;
+}
+
+/* 読書ビューを全画面表示 */
+#reading-view.active {
+    position: fixed !important;
+    top: var(--header-height, 60px);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden !important;
+    display: block !important;
+    z-index: 100;
+}
+
+/* 読書ビューが非アクティブの時は確実に非表示 */
+#reading-view:not(.active) {
+    display: none !important;
+    position: static !important;
+    height: 0 !important;
+    overflow: hidden !important;
+}
+
+/* 他のビューがアクティブの時はreading-viewを完全に隠す */
+body:not(.reading-mode) #reading-view {
+    display: none !important;
+    height: 0 !important;
+    overflow: hidden !important;
+}
+
+/* 不要な要素を非表示 */
+#reading-view .reading-header,
+#reading-view .chapter-progress,
+#reading-view .reading-time-display,
+#reading-view .reading-navigation {
+    display: none !important;
+}
+
+/* テキストコンテナを全画面に */
+#text-container {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: white;
+    border: none !important;
+    overflow: hidden !important;
+}
+
+/* 本文ラッパー */
+.book-content-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+/* 右側の縦書きヘッダー */
+.book-header {
+    width: 120px;
+    padding: 40px 20px;
+    background: rgba(248, 248, 248, 0.95);
+    border-left: 1px solid #e0e0e0;
+    writing-mode: vertical-rl;
+    text-align: center;
+    flex-shrink: 0;
+}
+
+.book-header h1 {
+    font-size: 20px;
+    margin: 0;
+    letter-spacing: 0.1em;
+    color: #333;
+}
+
+.book-header .author-name {
+    font-size: 14px;
+    color: #666;
+    margin-top: 20px;
+}
+
+/* 縦書き本文エリア */
+.book-content.vertical-text {
+    flex: 1;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    font-size: 20px;
+    line-height: 1.8;
+    font-family: "游明朝", "Yu Mincho", "ヒラギノ明朝 Pro", serif;
+    letter-spacing: 0.05em;
+    padding: 40px;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* 本文のインナー */
+.book-content.vertical-text > div {
+    display: inline-block;
+    vertical-align: top;
+    white-space: pre-wrap;
+    padding-right: 40px;
+    min-height: 100%;
+}
+
+/* 戻るボタン */
+.back-button {
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    padding: 10px 20px;
+    background: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 14px;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+.back-button:hover {
+    background: #1976D2;
+}
+
+/* 追加要素を非表示 */
+.reading-extra-section,
+.scroll-spacer {
+    display: none !important;
+}
+
+/* スクロールバー */
+.book-content.vertical-text::-webkit-scrollbar {
+    height: 10px;
+}
+
+.book-content.vertical-text::-webkit-scrollbar-track {
+    background: #f5f5f5;
+}
+
+.book-content.vertical-text::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 5px;
+}
+
+.book-content.vertical-text::-webkit-scrollbar-thumb:hover {
+    background: #999;
+}
+
+/* 子どもモード対応 */
+.kids-theme .book-header {
+    background: rgba(255, 249, 230, 0.95);
+    border-left: 2px solid #FFB300;
+}
+
+.kids-theme .book-content.vertical-text {
+    font-size: 24px;
+    line-height: 2.0;
+}
+
+.kids-theme .back-button {
+    background: #FF9800;
+    font-size: 16px;
+    padding: 12px 24px;
+}
+
+/* レスポンシブ対応 */
+@media (max-width: 768px) {
+    .book-header {
+        width: 80px;
+        padding: 20px 10px;
+    }
+    
+    .book-header h1 {
+        font-size: 16px;
+    }
+    
+    .book-header .author-name {
+        font-size: 12px;
+    }
+    
+    .book-content.vertical-text {
+        font-size: 18px;
+        padding: 20px;
+    }
+    
+    .back-button {
+        bottom: 20px;
+        left: 20px;
+        padding: 8px 16px;
+        font-size: 12px;
+    }
+}

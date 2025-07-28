@@ -10,7 +10,6 @@ let appController = null;
 
 // アプリケーション初期化
 document.addEventListener('DOMContentLoaded', async () => {
-    console.log('アプリケーション初期化開始...');
     
     try {
         // AppControllerのインスタンス作成
@@ -28,10 +27,16 @@ document.addEventListener('DOMContentLoaded', async () => {
         // グローバルアクセス用（デバッグ用）
         if (appController.config.debugMode) {
             window.app = appController;
-            console.log('デバッグモード: window.app でアプリケーションにアクセスできます');
         }
         
-        console.log('アプリケーション初期化完了');
+        // ナビゲーションボタンのイベントリスナー設定
+        setupNavigationListeners();
+        
+        // 設定に基づいてテーマを適用
+        const settings = appController.loadSettings();
+        if (settings.kidsMode) {
+            document.body.classList.add('kids-theme');
+        }
         
     } catch (error) {
         console.error('初期化エラー:', error);
@@ -47,6 +52,20 @@ document.addEventListener('DOMContentLoaded', async () => {
         document.body.appendChild(errorContainer);
     }
 });
+
+// ナビゲーションリスナーの設定
+function setupNavigationListeners() {
+    // ナビゲーションボタンのクリックイベント
+    const navButtons = document.querySelectorAll('.nav-btn');
+    navButtons.forEach(button => {
+        button.addEventListener('click', (e) => {
+            const view = e.target.dataset.view;
+            if (view && appController) {
+                appController.showView(view);
+            }
+        });
+    });
+}
 
 // ページ離脱時の処理
 window.addEventListener('beforeunload', (e) => {

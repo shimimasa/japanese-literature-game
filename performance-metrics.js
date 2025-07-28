@@ -23,8 +23,6 @@ class PerformanceMetrics {
      * 完全なパフォーマンス測定を実行
      */
     async runFullAnalysis() {
-        console.log('パフォーマンス測定を開始します...\n');
-        
         // 各種測定を実行
         this.measurePageLoadMetrics();
         this.measureResourceMetrics();
@@ -410,64 +408,9 @@ class PerformanceMetrics {
      * 結果を表示
      */
     displayResults() {
-        console.log('\n========== パフォーマンス測定結果 ==========\n');
-
-        // ページ読み込み
-        if (this.metrics.pageLoad.pageLoadTime) {
-            console.log('📊 ページ読み込み:');
-            console.log(`  完全読み込み時間: ${this.metrics.pageLoad.pageLoadTime}ms`);
-            console.log(`  DOMContentLoaded: ${this.metrics.pageLoad.domContentLoaded}ms`);
-            console.log(`  First Paint: ${this.metrics.pageLoad.firstPaint || 'N/A'}ms`);
-            console.log(`  First Contentful Paint: ${this.metrics.pageLoad.firstContentfulPaint || 'N/A'}ms`);
-            console.log('');
-        }
-
-        // リソース
-        console.log('📦 リソース:');
-        console.log(`  総数: ${this.metrics.resources.total.count}個`);
-        console.log(`  合計サイズ: ${(this.metrics.resources.total.size / 1024).toFixed(2)}KB`);
-        console.log(`  合計読み込み時間: ${this.metrics.resources.total.duration}ms`);
-        
-        Object.entries(this.metrics.resources.byType).forEach(([type, data]) => {
-            console.log(`  ${type}: ${data.count}個, ${(data.totalSize / 1024).toFixed(2)}KB`);
-        });
-        console.log('');
-
-        // メモリ
-        if (this.metrics.memory.usedJSHeapSize) {
-            console.log('💾 メモリ使用量:');
-            console.log(`  使用中: ${(this.metrics.memory.usedJSHeapSize / 1024 / 1024).toFixed(2)}MB`);
-            console.log(`  割り当て: ${(this.metrics.memory.totalJSHeapSize / 1024 / 1024).toFixed(2)}MB`);
-            console.log(`  使用率: ${this.metrics.memory.usagePercentage.toFixed(2)}%`);
-            console.log(`  LocalStorage: ${(this.metrics.memory.localStorageSize / 1024).toFixed(2)}KB`);
-            console.log('');
-        }
-
-        // レンダリング
-        if (this.metrics.rendering.averageFPS) {
-            console.log('🎨 レンダリング:');
-            console.log(`  平均FPS: ${this.metrics.rendering.averageFPS}`);
-            console.log(`  最小FPS: ${this.metrics.rendering.minFPS}`);
-            console.log(`  最大FPS: ${this.metrics.rendering.maxFPS}`);
-            console.log(`  パフォーマンス: ${this.metrics.rendering.smoothness}`);
-            console.log('');
-        }
-
-        // スコア計算
-        const score = this.calculatePerformanceScore();
-        console.log(`総合パフォーマンススコア: ${score}/100`);
-        
-        if (score >= 90) {
-            console.log('評価: 優秀 🚀');
-        } else if (score >= 75) {
-            console.log('評価: 良好 ✨');
-        } else if (score >= 60) {
-            console.log('評価: 普通 👍');
-        } else {
-            console.log('評価: 要改善 ⚠️');
-        }
-
-        console.log('\n=====================================\n');
+        // 結果はメトリクスオブジェクトに格納されているため、
+        // console.logの代わりにデバッグツールやUIで表示可能
+        return this.metrics;
     }
 
     /**

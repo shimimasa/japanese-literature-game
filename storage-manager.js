@@ -5,7 +5,7 @@
  * アチーブメントなどのデータを永続化します。
  */
 
-export class StorageManager {
+class StorageManager {
     constructor() {
         // ストレージキー
         this.KEYS = {
@@ -40,7 +40,6 @@ export class StorageManager {
         // 初回起動時のデータ整合性チェック
         const integrityReport = this.performFullIntegrityCheck();
         if (integrityReport.totalErrors > 0 || integrityReport.repairedKeys > 0) {
-            console.log('データ整合性チェック結果:', integrityReport);
         }
     }
     
@@ -66,7 +65,6 @@ export class StorageManager {
      * @param {string} toVersion - 移行先バージョン
      */
     migrateData(fromVersion, toVersion) {
-        console.log(`データマイグレーション: ${fromVersion} → ${toVersion}`);
         
         // バージョンごとのマイグレーション処理
         // 現在は初期バージョンのため、特別な処理は不要
@@ -745,4 +743,9 @@ export class StorageManager {
             return null;
         }
     }
+}
+
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.StorageManager = StorageManager;
 }

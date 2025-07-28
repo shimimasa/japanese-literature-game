@@ -492,3 +492,7 @@ class DataValidator {
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = DataValidator;
 }
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.DataValidator = DataValidator;
+}

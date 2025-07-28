@@ -15,7 +15,6 @@ class SecurityChecker {
      * セキュリティチェックを実行
      */
     async runChecks() {
-        console.log('セキュリティチェックを開始します...\n');
         
         // 各種チェックを実行
         await this.checkXSSVulnerabilities();
@@ -42,7 +41,6 @@ class SecurityChecker {
      * XSS脆弱性チェック
      */
     async checkXSSVulnerabilities() {
-        console.log('1. XSS脆弱性チェック...');
         
         // innerHTML使用箇所のチェック
         const dangerousPatterns = [
@@ -127,7 +125,6 @@ class SecurityChecker {
      * CSRF保護チェック
      */
     async checkCSRFProtection() {
-        console.log('2. CSRF保護チェック...');
         
         // CSRFトークンの実装チェック
         const hasCSRFToken = false; // 現在のアプリはローカルストレージのみ使用
@@ -144,7 +141,6 @@ class SecurityChecker {
      * 入力検証チェック
      */
     async checkInputValidation() {
-        console.log('3. 入力検証チェック...');
         
         try {
             const response = await fetch('data-validator.js');
@@ -188,7 +184,6 @@ class SecurityChecker {
      * データストレージセキュリティチェック
      */
     async checkDataStorage() {
-        console.log('4. データストレージセキュリティチェック...');
         
         // LocalStorageの暗号化チェック
         try {
@@ -230,7 +225,6 @@ class SecurityChecker {
      * 依存関係のセキュリティチェック
      */
     async checkDependencies() {
-        console.log('5. 依存関係チェック...');
         
         // 外部ライブラリの使用チェック
         const externalLibraries = [];
@@ -247,7 +241,6 @@ class SecurityChecker {
      * Content Security Policyチェック
      */
     async checkContentSecurityPolicy() {
-        console.log('6. Content Security Policyチェック...');
         
         // CSP設定の確認
         const cspMeta = document.querySelector('meta[http-equiv="Content-Security-Policy"]');
@@ -285,7 +278,6 @@ class SecurityChecker {
      * HTTPS使用チェック
      */
     async checkHTTPSUsage() {
-        console.log('7. HTTPS使用チェック...');
         
         if (window.location.protocol === 'https:') {
             this.passed.push({
@@ -310,7 +302,6 @@ class SecurityChecker {
      * 機密データ露出チェック
      */
     async checkSensitiveDataExposure() {
-        console.log('8. 機密データ露出チェック...');
         
         // コンソールログのチェック
         const jsFiles = [
@@ -326,7 +317,6 @@ class SecurityChecker {
                 if (response.ok) {
                     const content = await response.text();
                     
-                    // console.logの使用チェック
                     const consoleMatches = content.match(/console\.(log|info|warn|error)/g);
                     if (consoleMatches && consoleMatches.length > 10) {
                         this.warnings.push({
@@ -388,59 +378,40 @@ class SecurityChecker {
      * 結果を表示
      */
     displayResults() {
-        console.log('\n========== セキュリティチェック結果 ==========\n');
         
         // 重大な問題
         if (this.issues.length > 0) {
-            console.log('🔴 重大な問題:');
             this.issues.forEach(issue => {
-                console.log(`  - [${issue.type}] ${issue.message}`);
                 if (issue.file) {
-                    console.log(`    ファイル: ${issue.file}`);
                 }
                 if (issue.occurrences) {
-                    console.log(`    発生箇所: ${issue.occurrences}箇所`);
                 }
             });
-            console.log('');
         }
         
         // 警告
         if (this.warnings.length > 0) {
-            console.log('🟡 警告:');
             this.warnings.forEach(warning => {
-                console.log(`  - [${warning.type}] ${warning.message}`);
                 if (warning.file) {
-                    console.log(`    ファイル: ${warning.file}`);
                 }
             });
-            console.log('');
         }
         
         // 合格項目
         if (this.passed.length > 0) {
-            console.log('✅ 合格:');
             this.passed.forEach(pass => {
-                console.log(`  - [${pass.type}] ${pass.message}`);
             });
-            console.log('');
         }
         
         // スコア
         const score = this.calculateSecurityScore();
-        console.log(`セキュリティスコア: ${score}/100`);
         
         if (score >= 90) {
-            console.log('評価: 優秀 🌟');
         } else if (score >= 70) {
-            console.log('評価: 良好 ✨');
         } else if (score >= 50) {
-            console.log('評価: 要改善 ⚠️');
         } else {
-            console.log('評価: 要対策 ❌');
         }
         
-        console.log('\n=====================================\n');
     }
 }
 
@@ -451,8 +422,5 @@ if (typeof window !== 'undefined') {
     // 自動実行（開発環境のみ）
     if (window.location.hostname === 'localhost' || 
         window.location.hostname === '127.0.0.1') {
-        console.log('セキュリティチェッカーを実行するには、以下を実行してください:');
-        console.log('const checker = new SecurityChecker();');
-        console.log('await checker.runChecks();');
     }
 }

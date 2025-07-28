@@ -1,0 +1,537 @@
+/* ================================================
+   子ども向けスタイルシート
+   ================================================ */
+
+/* カスタムプロパティ（子ども向け） */
+:root {
+    /* 明るくカラフルな色設定 */
+    --kids-primary: #FF6B6B;
+    --kids-secondary: #4ECDC4;
+    --kids-accent: #FFD93D;
+    --kids-success: #6BCF7F;
+    --kids-info: #74B9FF;
+    --kids-warning: #FFA502;
+    
+    /* 背景色 */
+    --kids-bg-yellow: #FFF9E6;
+    --kids-bg-pink: #FFE5F1;
+    --kids-bg-blue: #E6F3FF;
+    --kids-bg-green: #E8F8E8;
+    --kids-bg-purple: #F0E6FF;
+    
+    /* 大きめのフォントサイズ */
+    --kids-font-size-base: 24px;
+    --kids-font-size-small: 20px;
+    --kids-font-size-large: 28px;
+    --kids-font-size-xlarge: 32px;
+    
+    /* 読みやすいフォント */
+    --kids-font-family: 'UD デジタル 教科書体', 'BIZ UDGothic', 'メイリオ', 'Hiragino Kaku Gothic ProN', sans-serif;
+}
+
+/* 子ども向けテーマ適用時の基本スタイル */
+body.kids-theme {
+    font-family: var(--kids-font-family);
+    font-size: var(--kids-font-size-base);
+    line-height: 2;
+    letter-spacing: 0.1em;
+}
+
+/* ヘッダーの改善 */
+.kids-theme .app-header {
+    background: linear-gradient(135deg, var(--kids-primary) 0%, var(--kids-secondary) 100%);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+}
+
+.kids-theme .app-title {
+    font-size: 28px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.kids-theme .app-title::before {
+    content: "📚";
+    font-size: 32px;
+}
+
+/* ナビゲーションボタン */
+.kids-theme .nav-btn {
+    background: white;
+    color: var(--kids-primary);
+    font-size: 18px;
+    padding: 12px 24px;
+    border-radius: 25px;
+    border: 3px solid transparent;
+    font-weight: bold;
+    transition: all 0.3s;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.kids-theme .nav-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    border-color: var(--kids-accent);
+}
+
+.kids-theme .nav-btn[data-view="library"]::before { content: "📖"; }
+.kids-theme .nav-btn[data-view="progress"]::before { content: "🌟"; }
+.kids-theme .nav-btn[data-view="parent-dashboard"]::before { content: "👨‍👩‍👧"; }
+.kids-theme .nav-btn[data-view="settings"]::before { content: "⚙️"; }
+
+/* 作品カードの改善 */
+.kids-theme .book-card {
+    background: white;
+    border: 3px solid var(--kids-info);
+    border-radius: 20px;
+    padding: 25px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s;
+}
+
+.kids-theme .book-card::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    right: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, var(--kids-accent) 0%, transparent 70%);
+    opacity: 0.1;
+    transform: rotate(45deg);
+}
+
+.kids-theme .book-card:hover {
+    transform: translateY(-5px) scale(1.02);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    border-color: var(--kids-accent);
+}
+
+.kids-theme .book-title {
+    font-size: 24px;
+    color: var(--kids-primary);
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.kids-theme .book-author {
+    font-size: 18px;
+    color: var(--kids-info);
+    margin-bottom: 15px;
+}
+
+/* 難易度表示の改善 */
+.kids-theme .difficulty {
+    font-size: 16px;
+    padding: 6px 16px;
+    border-radius: 20px;
+    font-weight: bold;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.kids-theme .difficulty.beginner {
+    background: var(--kids-success);
+    color: white;
+}
+.kids-theme .difficulty.beginner::before { content: "🌱"; }
+
+.kids-theme .difficulty.intermediate {
+    background: var(--kids-warning);
+    color: white;
+}
+.kids-theme .difficulty.intermediate::before { content: "🌻"; }
+
+.kids-theme .difficulty.advanced {
+    background: var(--kids-primary);
+    color: white;
+}
+.kids-theme .difficulty.advanced::before { content: "🌲"; }
+
+/* 進捗バーの改善 */
+.kids-theme .progress-bar {
+    height: 20px;
+    background: #E0E0E0;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    border: 2px solid #D0D0D0;
+}
+
+.kids-theme .progress-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--kids-success) 0%, var(--kids-secondary) 100%);
+    position: relative;
+    overflow: hidden;
+}
+
+.kids-theme .progress-fill::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(
+        45deg,
+        rgba(255, 255, 255, 0.3) 25%,
+        transparent 25%,
+        transparent 50%,
+        rgba(255, 255, 255, 0.3) 50%,
+        rgba(255, 255, 255, 0.3) 75%,
+        transparent 75%,
+        transparent
+    );
+    background-size: 30px 30px;
+    animation: progress-stripes 1s linear infinite;
+}
+
+@keyframes progress-stripes {
+    0% { background-position: 0 0; }
+    100% { background-position: 30px 0; }
+}
+
+.kids-theme .progress-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: var(--kids-primary);
+    margin-top: 8px;
+}
+
+/* 縦書き表示の改善 */
+.kids-theme .vertical-text {
+    font-size: 28px;
+    line-height: 2.2;
+    letter-spacing: 0.15em;
+    padding: 50px 40px;
+    background: var(--kids-bg-yellow);
+    border: 3px solid var(--kids-info);
+    border-radius: 20px;
+}
+
+/* ルビ（ふりがな）の改善 */
+.kids-theme ruby {
+    ruby-align: center;
+}
+
+.kids-theme rt {
+    font-size: 0.6em;
+    color: var(--kids-info);
+    font-weight: bold;
+    letter-spacing: 0.05em;
+}
+
+/* 読んでいる行のハイライト */
+.kids-theme .current-line {
+    background: linear-gradient(90deg, transparent, rgba(255, 219, 61, 0.3), transparent);
+    padding: 0 10px;
+    border-radius: 10px;
+}
+
+/* ボタンの改善 */
+.kids-theme button {
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 25px;
+    font-weight: bold;
+    transition: all 0.3s;
+    border: 3px solid transparent;
+}
+
+.kids-theme .btn-primary {
+    background: linear-gradient(135deg, var(--kids-primary) 0%, var(--kids-secondary) 100%);
+    color: white;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.kids-theme .btn-primary:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+}
+
+/* 設定画面の改善 */
+.kids-theme .color-btn {
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+    font-size: 40px;
+    border: 4px solid #DDD;
+    position: relative;
+    overflow: hidden;
+}
+
+.kids-theme .color-btn:hover {
+    transform: scale(1.1);
+    border-color: var(--kids-accent);
+}
+
+.kids-theme .color-btn.selected {
+    border-color: var(--kids-primary);
+    box-shadow: 0 0 20px rgba(255, 107, 107, 0.5);
+}
+
+/* カラーテーマボタンに絵文字を追加 */
+.kids-theme .color-btn[data-color="yellow"]::after { content: "☀️"; }
+.kids-theme .color-btn[data-color="pink"]::after { content: "🌸"; }
+.kids-theme .color-btn[data-color="blue"]::after { content: "🌊"; }
+.kids-theme .color-btn[data-color="green"]::after { content: "🌿"; }
+.kids-theme .color-btn[data-color="purple"]::after { content: "🦄"; }
+
+/* アニメーション効果 */
+@keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+.kids-theme .achievement-unlocked {
+    animation: bounce 0.6s ease-in-out;
+}
+
+.kids-theme .point-gained {
+    animation: pulse 0.4s ease-in-out;
+}
+
+/* 完読お祝いモーダル */
+.kids-theme .completion-modal {
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 30px;
+    padding: 40px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.kids-theme .completion-modal::before {
+    content: "🎉";
+    position: absolute;
+    font-size: 200px;
+    opacity: 0.1;
+    top: -50px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.kids-theme .completion-title {
+    font-size: 36px;
+    color: var(--kids-primary);
+    margin-bottom: 20px;
+    animation: bounce 0.8s ease-in-out infinite;
+}
+
+/* マスコットキャラクター表示エリア */
+.kids-mascot {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 120px;
+    height: 120px;
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" fill="%23FFD93D"/><circle cx="35" cy="40" r="5" fill="%23333"/><circle cx="65" cy="40" r="5" fill="%23333"/><path d="M 30 60 Q 50 75 70 60" stroke="%23333" stroke-width="3" fill="none"/></svg>') center/contain no-repeat;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.kids-mascot:hover {
+    transform: scale(1.1) rotate(5deg);
+}
+
+.kids-mascot.cheering {
+    animation: bounce 0.5s ease-in-out 3;
+}
+
+/* アクセシビリティ：フォーカス表示の改善 */
+.kids-theme *:focus {
+    outline: 4px solid var(--kids-accent);
+    outline-offset: 2px;
+}
+
+/* 読み上げボタン */
+.kids-theme .read-aloud-btn {
+    position: fixed;
+    bottom: 150px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: var(--kids-primary);
+    color: white;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.kids-theme .read-aloud-btn:hover {
+    transform: scale(1.1);
+    background: var(--kids-secondary);
+}
+
+.kids-theme .read-aloud-btn::before {
+    content: "🔊";
+}
+
+/* ツールチップ */
+.kids-theme .tooltip {
+    background: var(--kids-info);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 16px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* 子ども向け通知 */
+.kids-notification {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.8);
+    background: white;
+    padding: 30px 50px;
+    border-radius: 30px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+    z-index: 9999;
+    opacity: 0;
+    transition: all 0.3s ease-in-out;
+}
+
+.kids-notification.show {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.kids-notification .notification-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-size: 28px;
+    font-weight: bold;
+    color: var(--kids-primary);
+}
+
+.kids-notification .notification-icon {
+    font-size: 48px;
+    animation: bounce 1s ease-in-out infinite;
+}
+
+/* 読書完了時のお祝い画面 */
+.kids-theme .completion-celebration {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.95);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9998;
+}
+
+.kids-theme .celebration-content {
+    text-align: center;
+    animation: pulse 0.5s ease-in-out;
+}
+
+.kids-theme .celebration-title {
+    font-size: 48px;
+    color: var(--kids-primary);
+    margin-bottom: 20px;
+}
+
+.kids-theme .celebration-stars {
+    font-size: 80px;
+    margin: 20px 0;
+    animation: bounce 1s ease-in-out infinite;
+}
+
+.kids-theme .celebration-message {
+    font-size: 24px;
+    color: var(--kids-info);
+    margin-bottom: 30px;
+}
+
+/* ポイント獲得アニメーション */
+.kids-theme .point-bubble {
+    position: fixed;
+    background: var(--kids-accent);
+    color: white;
+    padding: 15px 25px;
+    border-radius: 25px;
+    font-size: 24px;
+    font-weight: bold;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    pointer-events: none;
+    animation: floatUp 2s ease-out forwards;
+}
+
+@keyframes floatUp {
+    0% {
+        opacity: 0;
+        transform: translateY(0) scale(0.5);
+    }
+    50% {
+        opacity: 1;
+        transform: translateY(-50px) scale(1);
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(-100px) scale(0.8);
+    }
+}
+
+/* 進捗表示の改善 */
+.kids-theme .progress-stars {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.kids-theme .progress-star {
+    font-size: 40px;
+    color: #DDD;
+    transition: all 0.3s;
+}
+
+.kids-theme .progress-star.filled {
+    color: var(--kids-accent);
+    animation: starPop 0.5s ease-out;
+}
+
+@keyframes starPop {
+    0% { transform: scale(0); }
+    50% { transform: scale(1.3); }
+    100% { transform: scale(1); }
+}
+
+/* レスポンシブ対応 */
+@media (max-width: 768px) {
+    .kids-theme {
+        --kids-font-size-base: 20px;
+        --kids-font-size-large: 24px;
+    }
+    
+    .kids-theme .nav-btn {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+    
+    .kids-theme .book-card {
+        padding: 20px;
+    }
+}

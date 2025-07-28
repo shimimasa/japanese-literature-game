@@ -178,7 +178,14 @@ class OnboardingFlow {
         
         // 画像の更新（プレースホルダー）
         const image = document.getElementById('onboarding-image');
-        image.src = `assets/onboarding/${step.image}.png`;
+        // image.src = `assets/onboarding/${step.image}.png`; // 画像ファイルが存在しないためコメントアウト
+        // プレースホルダーテキストを表示
+        image.style.backgroundColor = '#f0f0f0';
+        image.style.display = 'flex';
+        image.style.alignItems = 'center';
+        image.style.justifyContent = 'center';
+        image.style.fontSize = '48px';
+        image.textContent = '📚';
         image.alt = step.title;
         
         // デモエリアのクリア
@@ -417,4 +424,8 @@ class OnboardingFlow {
         this.isCompleted = false;
         this.currentStep = 0;
     }
+}
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.OnboardingFlow = OnboardingFlow;
 }

@@ -5,9 +5,8 @@
  * 完読証明書の生成などのゲーム要素を管理します。
  */
 
-import { CertificateGenerator } from './certificate-generator.js';
 
-export class GameManager {
+class GameManager {
     constructor(storageManager) {
         this.storageManager = storageManager;
         
@@ -318,27 +317,49 @@ export class GameManager {
      * @param {string} description - 説明
      */
     showPointNotification(points, description) {
-        const notification = document.createElement('div');
-        notification.className = 'point-notification';
-        notification.innerHTML = `
-            <div class="point-icon">✨</div>
-            <div class="point-text">
-                <strong>+${points}ポイント</strong>
-                <span>${description}</span>
-            </div>
-        `;
+        // 設定を確認
+        const settings = JSON.parse(localStorage.getItem('readingSettings') || '{}');
         
-        document.body.appendChild(notification);
-        
-        // アニメーション
-        setTimeout(() => {
-            notification.classList.add('show');
-        }, 100);
-        
-        setTimeout(() => {
-            notification.classList.remove('show');
-            setTimeout(() => notification.remove(), 300);
-        }, 3000);
+        if (settings.kidsMode) {
+            // 子どもモード用のポイント表示
+            const bubble = document.createElement('div');
+            bubble.className = 'point-bubble';
+            bubble.textContent = `+${points}ポイント！`;
+            
+            // ランダムな位置に表示
+            const x = Math.random() * (window.innerWidth - 200) + 100;
+            const y = window.innerHeight / 2;
+            bubble.style.left = `${x}px`;
+            bubble.style.top = `${y}px`;
+            
+            document.body.appendChild(bubble);
+            
+            // アニメーション後に削除
+            setTimeout(() => bubble.remove(), 2000);
+        } else {
+            // 通常モード
+            const notification = document.createElement('div');
+            notification.className = 'point-notification';
+            notification.innerHTML = `
+                <div class="point-icon">✨</div>
+                <div class="point-text">
+                    <strong>+${points}ポイント</strong>
+                    <span>${description}</span>
+                </div>
+            `;
+            
+            document.body.appendChild(notification);
+            
+            // アニメーション
+            setTimeout(() => {
+                notification.classList.add('show');
+            }, 100);
+            
+            setTimeout(() => {
+                notification.classList.remove('show');
+                setTimeout(() => notification.remove(), 300);
+            }, 3000);
+        }
     }
     
     /**
@@ -444,6 +465,7 @@ export class GameManager {
      */
     showCompletionCertificate(bookId) {
         const progress = this.gameData.bookProgress[bookId];
+        const settings = JSON.parse(localStorage.getItem('readingSettings') || '{}');
         
         // 作品情報を取得
         const bookInfo = {
@@ -455,54 +477,85 @@ export class GameManager {
             points: progress.points
         };
         
-        // 証明書生成器のインスタンスを作成
-        const generator = new CertificateGenerator();
-        const canvas = generator.generateCertificate(bookInfo);
-        
-        // モーダルを作成
-        const modal = document.createElement('div');
-        modal.className = 'completion-certificate';
-        modal.innerHTML = `
-            <div class="certificate-modal-content">
-                <div class="certificate-canvas-container"></div>
-                <div class="certificate-actions">
-                    <button class="btn-download-png">PNG保存</button>
-                    <button class="btn-download-pdf">PDF保存</button>
-                    <button class="btn-print">印刷</button>
-                    <button class="btn-close">閉じる</button>
+        if (settings.kidsMode) {
+            // 子どもモード用のお祝い画面
+            const celebration = document.createElement('div');
+            celebration.className = 'completion-celebration';
+            celebration.innerHTML = `
+                <div class="celebration-content">
+                    <h1 class="celebration-title">やったね！かんどく！</h1>
+                    <div class="celebration-stars">⭐⭐⭐⭐⭐</div>
+                    <p class="celebration-message">「${bookInfo.title}」をさいごまでよみました！</p>
+                    <p class="celebration-points">🎯 ${bookInfo.points}ポイントかくとく！</p>
+                    <button class="btn-primary celebration-btn">つぎのほんをよむ</button>
                 </div>
-            </div>
-        `;
-        
-        // Canvasを追加
-        const container = modal.querySelector('.certificate-canvas-container');
-        container.appendChild(canvas);
-        
-        document.body.appendChild(modal);
-        
-        // イベントリスナーの設定
-        modal.querySelector('.btn-download-png').addEventListener('click', () => {
-            generator.saveAsPNG(`完読証明書_${bookInfo.title}.png`);
-        });
-        
-        modal.querySelector('.btn-download-pdf').addEventListener('click', () => {
-            generator.saveAsPDF(`完読証明書_${bookInfo.title}.pdf`);
-        });
-        
-        modal.querySelector('.btn-print').addEventListener('click', () => {
-            generator.print();
-        });
-        
-        modal.querySelector('.btn-close').addEventListener('click', () => {
-            modal.remove();
-        });
-        
-        // モーダル外クリックで閉じる
-        modal.addEventListener('click', (e) => {
-            if (e.target === modal) {
+            `;
+            
+            document.body.appendChild(celebration);
+            
+            // ボタンのイベント
+            celebration.querySelector('.celebration-btn').addEventListener('click', () => {
+                celebration.remove();
+                this.showView('library');
+            });
+            
+            // 数秒後に自動で閉じる
+            setTimeout(() => {
+                if (document.body.contains(celebration)) {
+                    celebration.remove();
+                }
+            }, 10000);
+        } else {
+            // 通常モードの証明書表示
+            // 証明書生成器のインスタンスを作成
+            const generator = new CertificateGenerator();
+            const canvas = generator.generateCertificate(bookInfo);
+            
+            // モーダルを作成
+            const modal = document.createElement('div');
+            modal.className = 'completion-certificate';
+            modal.innerHTML = `
+                <div class="certificate-modal-content">
+                    <div class="certificate-canvas-container"></div>
+                    <div class="certificate-actions">
+                        <button class="btn-download-png">PNG保存</button>
+                        <button class="btn-download-pdf">PDF保存</button>
+                        <button class="btn-print">印刷</button>
+                        <button class="btn-close">閉じる</button>
+                    </div>
+                </div>
+            `;
+            
+            // Canvasを追加
+            const container = modal.querySelector('.certificate-canvas-container');
+            container.appendChild(canvas);
+            
+            document.body.appendChild(modal);
+            
+            // イベントリスナーの設定
+            modal.querySelector('.btn-download-png').addEventListener('click', () => {
+                generator.saveAsPNG(`完読証明書_${bookInfo.title}.png`);
+            });
+            
+            modal.querySelector('.btn-download-pdf').addEventListener('click', () => {
+                generator.saveAsPDF(`完読証明書_${bookInfo.title}.pdf`);
+            });
+            
+            modal.querySelector('.btn-print').addEventListener('click', () => {
+                generator.print();
+            });
+            
+            modal.querySelector('.btn-close').addEventListener('click', () => {
                 modal.remove();
-            }
-        });
+            });
+            
+            // モーダル外クリックで閉じる
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) {
+                    modal.remove();
+                }
+            });
+        }
     }
     
     /**
@@ -556,4 +609,73 @@ export class GameManager {
         
         this.saveGameData();
     }
+    
+    /**
+     * 特定の作品の進捗情報を取得
+     * @param {string} bookId - 作品ID
+     * @returns {Object} 進捗情報
+     */
+    getProgress(bookId) {
+        return this.gameData.bookProgress[bookId] || null;
+    }
+    
+    /**
+     * すべての作品の進捗情報を取得
+     * @returns {Object} すべての進捗情報
+     */
+    getAllProgress() {
+        return this.gameData.bookProgress;
+    }
+    
+    /**
+     * 進捗データの復元
+     * @param {Object} progressData - 復元する進捗データ
+     */
+    restoreProgress(progressData) {
+        if (progressData) {
+            this.gameData = { ...this.gameData, ...progressData };
+            this.saveGameData();
+        }
+    }
+    
+    /**
+     * 現在の進捗を保存
+     */
+    async saveProgress() {
+        this.saveGameData();
+    }
+    
+    /**
+     * 読書進捗の更新
+     * @param {string} bookId - 作品ID
+     * @param {number} chapter - 章番号
+     * @param {number} page - ページ番号
+     * @param {number} percentage - 進捗率
+     */
+    updateProgress(bookId, chapter, page, percentage) {
+        if (!this.gameData.bookProgress[bookId]) {
+            this.gameData.bookProgress[bookId] = {
+                startedDate: new Date().toISOString(),
+                lastReadDate: new Date().toISOString(),
+                currentChapter: 0,
+                currentPage: 0,
+                percentage: 0,
+                readingTime: 0,
+                points: 0,
+                completed: false
+            };
+        }
+        
+        const progress = this.gameData.bookProgress[bookId];
+        progress.currentChapter = chapter;
+        progress.currentPage = page;
+        progress.percentage = percentage;
+        progress.lastReadDate = new Date().toISOString();
+        
+        this.saveGameData();
+    }
+}
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.GameManager = GameManager;
 }

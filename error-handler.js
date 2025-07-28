@@ -496,3 +496,8 @@ const errorHandler = new ErrorHandler();
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = ErrorHandler;
 }
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.ErrorHandler = ErrorHandler;
+    window.errorHandler = errorHandler;
+}

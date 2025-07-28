@@ -5,7 +5,7 @@
  * UI全体の統合的な管理を行います。
  */
 
-export class UIManager {
+class UIManager {
     constructor() {
         // UI要素の参照
         this.loadingOverlay = null;
@@ -880,4 +880,8 @@ export class UIManager {
             popup.remove();
         }, 300);
     }
+}
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.UIManager = UIManager;
 }

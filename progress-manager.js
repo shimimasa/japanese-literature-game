@@ -5,7 +5,7 @@
  * ダッシュボードとレポート生成機能を提供します。
  */
 
-export class ProgressManager {
+class ProgressManager {
     constructor(storageManager, gameManager) {
         this.storageManager = storageManager;
         this.gameManager = gameManager;
@@ -32,14 +32,15 @@ export class ProgressManager {
      */
     loadProgressData() {
         try {
-            const savedProgress = this.storageManager.getItem('parentDashboardData');
+            const savedProgress = this.storageManager.get('parentDashboardData');
             if (savedProgress) {
                 this.progressData = { ...this.progressData, ...savedProgress };
             }
             
             // GameManagerから最新データを取得
-            const currentProgress = this.gameManager.getAllProgress();
-            this.mergeProgressData(currentProgress);
+            if (this.gameManager && this.gameManager.gameData) {
+                this.mergeProgressData(this.gameManager.gameData);
+            }
         } catch (error) {
             console.error('進捗データの読み込みエラー:', error);
         }
@@ -810,7 +811,6 @@ export class ProgressManager {
     initializeReadingTimeChart() {
         // Chart.jsなどを使用してグラフを描画
         // この実装にはChart.jsの読み込みが必要
-        console.log('読書時間チャートを初期化');
     }
     
     /**
@@ -818,6 +818,9 @@ export class ProgressManager {
      */
     updateReadingTimeChart(period) {
         // 期間に応じてチャートを更新
-        console.log(`チャートを${period}表示に更新`);
     }
+}
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.ProgressManager = ProgressManager;
 }

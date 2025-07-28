@@ -4,7 +4,7 @@
  * 青空文庫形式の新フォーマットを既存システムの旧フォーマットに変換します。
  * これにより、既存のコードを変更せずに新しい作品を追加できます。
  */
-export class BookAdapter {
+class BookAdapter {
     constructor() {
         // 難易度マッピング
         this.difficultyMap = {
@@ -173,6 +173,18 @@ export class BookAdapter {
                         );
                         fullText += processed.text;
                         currentPosition += processed.text.length;
+                    } else if (segment.type === 'ruby' && segment.base) {
+                        // ルビセグメントの処理
+                        fullText += segment.base;
+                        if (segment.ruby) {
+                            annotations.push({
+                                word: segment.base,
+                                reading: segment.ruby,
+                                definition: '',
+                                position: currentPosition
+                            });
+                        }
+                        currentPosition += segment.base.length;
                     }
                 });
             }
@@ -342,7 +354,7 @@ export class BookAdapter {
     }
 }
 
-// エクスポート
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = BookAdapter;
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.BookAdapter = BookAdapter;
 }

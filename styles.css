@@ -122,6 +122,10 @@ body {
     background-color: var(--color-background);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100vh;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -242,10 +246,13 @@ rt {
 }
 
 .app-main {
-    min-height: calc(100vh - var(--header-height));
+    height: calc(100vh - var(--header-height));
     max-width: var(--max-content-width);
     margin: 0 auto;
-    padding: var(--spacing-lg);
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    margin-top: var(--header-height);
 }
 
 /* ================================================
@@ -254,9 +261,21 @@ rt {
 .view-container {
     display: none;
     animation: fadeIn var(--transition-normal);
+    height: 100%;
+    overflow: auto;
 }
 
 .view-container.active {
+    display: block;
+}
+
+/* 読書ビューは特別扱い */
+#reading-view {
+    overflow: hidden;
+    position: relative;
+}
+
+#reading-view.active {
     display: block;
 }
 

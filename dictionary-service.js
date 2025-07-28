@@ -5,7 +5,7 @@
  * 学習ポイントの管理を行います。
  */
 
-export class DictionaryService {
+class DictionaryService {
     constructor(storageManager) {
         // 注釈データのキャッシュ
         this.annotationsCache = new Map();
@@ -760,4 +760,8 @@ export class DictionaryService {
             }
         }
     }
+}
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.DictionaryService = DictionaryService;
 }

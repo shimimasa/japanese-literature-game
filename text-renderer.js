@@ -5,7 +5,7 @@
  * 文字サイズ調整、ルビ表示などの機能を提供します。
  */
 
-export class TextRenderer {
+class TextRenderer {
     constructor() {
         // 現在の状態
         this.currentBook = null;
@@ -900,4 +900,9 @@ export class TextRenderer {
         // タイマーのクリア
         clearTimeout(this.resizeTimeout);
     }
+}
+
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.TextRenderer = TextRenderer;
 }

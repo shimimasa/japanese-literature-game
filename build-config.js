@@ -47,7 +47,6 @@ class BuildOptimizer {
      * ビルドプロセスの実行
      */
     async build() {
-        console.log('ビルドプロセスを開始します...');
         
         try {
             // ディストリビューションディレクトリの作成
@@ -68,7 +67,6 @@ class BuildOptimizer {
             // ビルド情報の生成
             await this.generateBuildInfo();
             
-            console.log('ビルドが完了しました！');
             
         } catch (error) {
             console.error('ビルドエラー:', error);
@@ -96,7 +94,6 @@ class BuildOptimizer {
      * JavaScriptファイルの処理
      */
     async processJavaScriptFiles() {
-        console.log('JavaScriptファイルを処理中...');
         
         // 個別ファイルの最適化
         for (const file of this.config.jsFiles) {
@@ -124,7 +121,6 @@ class BuildOptimizer {
         code = code.replace(/\s+/g, ' ');
         code = code.replace(/\s*([{}();,:])\s*/g, '$1');
         
-        // console.logの削除（本番環境）
         if (process.env.NODE_ENV === 'production') {
             code = code.replace(/console\.(log|debug|info)\([^)]*\);?/g, '');
         }
@@ -185,7 +181,6 @@ class BuildOptimizer {
      * JavaScriptバンドルの作成
      */
     async createJavaScriptBundle() {
-        console.log('JavaScriptバンドルを作成中...');
         
         let bundleContent = '(function(){\n"use strict";\n';
         
@@ -250,7 +245,6 @@ class BuildOptimizer {
      * CSSファイルの処理
      */
     async processCSSFiles() {
-        console.log('CSSファイルを処理中...');
         
         let combinedCSS = '';
         
@@ -379,7 +373,6 @@ class BuildOptimizer {
      * HTMLファイルの処理
      */
     async processHTMLFiles() {
-        console.log('HTMLファイルを処理中...');
         
         for (const file of this.config.htmlFiles) {
             let content = await fs.readFile(path.join(this.config.srcDir, file), 'utf8');
@@ -429,7 +422,6 @@ class BuildOptimizer {
      * アセットファイルのコピー
      */
     async copyAssets() {
-        console.log('アセットファイルをコピー中...');
         
         const assetDirs = ['images', 'fonts', 'books'];
         

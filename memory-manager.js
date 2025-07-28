@@ -48,7 +48,6 @@ class MemoryManager {
                 const observer = new PerformanceObserver((list) => {
                     for (const entry of list.getEntries()) {
                         if (entry.entryType === 'measure' && entry.name.includes('gc')) {
-                            console.log('ガベージコレクション検出:', entry);
                         }
                     }
                 });
@@ -106,7 +105,6 @@ class MemoryManager {
      * メモリクリーンアップの実行
      */
     performMemoryCleanup() {
-        console.log('メモリクリーンアップを開始...');
         
         // リソースの解放
         this.cleanupResources();
@@ -465,7 +463,7 @@ class MemoryManager {
         };
         
         window.addEventListener('beforeunload', cleanup);
-        window.addEventListener('unload', cleanup);
+        // window.addEventListener('unload', cleanup); // Permissions policy violation
         
         // ページ非表示時のクリーンアップ
         document.addEventListener('visibilitychange', () => {
@@ -521,7 +519,6 @@ class MemoryManager {
             }
         });
         
-        console.log('メモリリーク検出結果:', leaks);
         return leaks;
     }
 
@@ -539,4 +536,8 @@ class MemoryManager {
         
         this.isMonitoring = false;
     }
+}
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.MemoryManager = MemoryManager;
 }

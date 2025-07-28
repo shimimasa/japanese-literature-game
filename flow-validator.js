@@ -410,7 +410,6 @@ class FlowValidator {
      * フロー検証のテスト実行
      */
     async testAllFlows() {
-        console.log('Starting flow validation tests...');
         
         const testResults = {
             bookSelection: await this.testBookSelectionFlow(),
@@ -418,7 +417,6 @@ class FlowValidator {
             progressSave: await this.testProgressSaveFlow()
         };
         
-        console.log('Flow validation test results:', testResults);
         return testResults;
     }
 
@@ -460,4 +458,8 @@ class FlowValidator {
             return { passed: false, error: error.message };
         }
     }
+}
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.FlowValidator = FlowValidator;
 }

@@ -20,8 +20,6 @@ class BrowserCompatibility {
      * 完全な互換性チェックを実行
      */
     async runFullCheck() {
-        console.log('ブラウザ互換性チェックを開始します...\n');
-        
         // ブラウザ情報を取得
         this.detectBrowser();
         
@@ -307,36 +305,7 @@ class BrowserCompatibility {
      * 結果を表示
      */
     displayResults() {
-        console.log('\n========== ブラウザ互換性チェック結果 ==========\n');
-        
-        // ブラウザ情報
-        console.log('📱 ブラウザ情報:');
-        console.log(`  名前: ${this.results.browser.name}`);
-        console.log(`  バージョン: ${this.results.browser.version}`);
-        console.log(`  エンジン: ${this.results.browser.engine}`);
-        console.log(`  モバイル: ${this.results.browser.mobile ? 'はい' : 'いいえ'}`);
-        console.log('');
-        
-        // エラー
-        if (this.results.errors.length > 0) {
-            console.log('❌ エラー:');
-            this.results.errors.forEach(error => {
-                console.log(`  - [${error.type}] ${error.message}`);
-            });
-            console.log('');
-        }
-        
-        // 警告
-        if (this.results.warnings.length > 0) {
-            console.log('⚠️  警告:');
-            this.results.warnings.forEach(warning => {
-                console.log(`  - [${warning.type}] ${warning.message}`);
-            });
-            console.log('');
-        }
-        
-        // 機能サポート状況
-        console.log('✅ 機能サポート:');
+        // 互換性スコアを計算
         const allFeatures = {
             ...this.results.features,
             ...this.results.css,
@@ -344,46 +313,14 @@ class BrowserCompatibility {
         };
         
         const supported = Object.entries(allFeatures).filter(([, value]) => value);
-        const unsupported = Object.entries(allFeatures).filter(([, value]) => !value);
-        
-        console.log(`  サポート: ${supported.length}/${Object.keys(allFeatures).length} 機能`);
-        
-        if (unsupported.length > 0) {
-            console.log('  未サポート:');
-            unsupported.forEach(([feature]) => {
-                console.log(`    - ${feature}`);
-            });
-        }
-        
-        // 互換性スコア
         const score = Math.round((supported.length / Object.keys(allFeatures).length) * 100);
-        console.log(`\n互換性スコア: ${score}%`);
         
-        if (score >= 95) {
-            console.log('評価: 完全対応 🌟');
-        } else if (score >= 85) {
-            console.log('評価: 良好 ✨');
-        } else if (score >= 70) {
-            console.log('評価: 部分対応 ⚠️');
-        } else {
-            console.log('評価: 要アップデート ❌');
-        }
+        // 結果をresultsオブジェクトに格納
+        this.results.score = score;
+        this.results.supportedCount = supported.length;
+        this.results.totalCount = Object.keys(allFeatures).length;
         
-        // 推奨事項
-        if (this.results.errors.length > 0 || score < 85) {
-            console.log('\n📋 推奨事項:');
-            if (parseInt(this.results.browser.version) < 88 && this.results.browser.name === 'Chrome') {
-                console.log('  - Chromeを最新バージョンにアップデートしてください');
-            }
-            if (!this.results.css['writing-mode: vertical-rl']) {
-                console.log('  - 縦書き表示に対応したブラウザを使用してください');
-            }
-            if (!this.results.features.localStorage) {
-                console.log('  - プライベートブラウジングモードを無効にしてください');
-            }
-        }
-        
-        console.log('\n======================================\n');
+        return this.results;
     }
 
     /**

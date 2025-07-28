@@ -1,0 +1,248 @@
+/* ================================================
+   読書画面オーバーライド - スクロール問題修正
+   ================================================ */
+
+/* 親要素のスクロール制限を解除 */
+.app-main {
+    overflow: visible !important;
+    height: auto !important;
+    min-height: calc(100vh - var(--header-height));
+}
+
+/* ビューコンテナのスクロール設定を修正 */
+.view-container#reading-view {
+    height: auto !important;
+    min-height: calc(100vh - var(--header-height));
+    overflow: visible !important;
+    position: relative;
+}
+
+/* 読書ビューのスクロール設定 */
+#reading-view {
+    overflow: visible !important;
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+}
+
+#reading-view.active {
+    display: block;
+}
+
+/* メインコンテナ（コンテンツに応じて伸びる） */
+#text-container {
+    position: relative;
+    margin: 5px;
+    min-height: calc(100vh - var(--header-height) - 10px);
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ヘッダーエリア */
+.reading-header-area {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background: #fafafa;
+    border-bottom: 1px solid #e0e0e0;
+    flex-shrink: 0;
+}
+
+/* 本の情報 */
+.book-info-horizontal {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.book-info-horizontal h1 {
+    font-size: 18px;
+    margin: 0;
+    color: #333;
+}
+
+.book-info-horizontal .author-name {
+    font-size: 14px;
+    color: #666;
+    margin: 0;
+}
+
+/* 縦書きコンテンツエリア */
+.book-content-wrapper {
+    flex: 1;
+    position: relative;
+    overflow: hidden;
+    min-height: 600px; /* 最小高さを確保 */
+}
+
+.book-content.vertical-text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    overflow-x: auto !important;
+    overflow-y: hidden !important;
+    font-size: 20px;
+    line-height: 1.8;
+    font-family: "游明朝", "Yu Mincho", "ヒラギノ明朝 Pro", "Hiragino Mincho Pro", serif;
+    letter-spacing: 0.05em;
+    padding: 20px;
+    
+    /* スクロール設定 */
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+}
+
+/* インナーコンテンツ */
+.book-content.vertical-text > div {
+    display: inline-block;
+    vertical-align: top;
+    white-space: pre-wrap;
+    padding-right: 20px;
+    min-height: 100%;
+}
+
+/* 追加コンテンツエリア（ページ下部） */
+.reading-extra-section {
+    margin: 20px 5px;
+    padding: 40px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.reading-extra-section h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.reading-extra-section p {
+    font-size: 16px;
+    line-height: 1.8;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+/* スペーサー（スクロールテスト用） */
+.scroll-spacer {
+    height: 200px;
+    background: #f5f5f5;
+    border: 1px dashed #ccc;
+    margin: 20px 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #999;
+    font-size: 14px;
+}
+
+/* 戻るボタン */
+.back-button {
+    padding: 8px 16px;
+    background: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.back-button:hover {
+    background: #1976D2;
+}
+
+/* スクロールバー（横） */
+.book-content.vertical-text::-webkit-scrollbar {
+    height: 12px;
+}
+
+.book-content.vertical-text::-webkit-scrollbar-track {
+    background: #f0f0f0;
+    border-radius: 6px;
+}
+
+.book-content.vertical-text::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 6px;
+}
+
+.book-content.vertical-text::-webkit-scrollbar-thumb:hover {
+    background: #666;
+}
+
+/* body要素のスクロールを有効化 */
+body {
+    overflow-y: auto !important;
+}
+
+/* Firefox対応 */
+.book-content.vertical-text {
+    scrollbar-width: thin;
+    scrollbar-color: #888 #f0f0f0;
+}
+
+/* ルビ */
+ruby {
+    ruby-align: center;
+}
+
+rt {
+    font-size: 0.5em;
+    opacity: 0.8;
+}
+
+/* 子どもモード */
+.kids-theme #text-container {
+    background: var(--kids-bg-yellow);
+    border: 3px solid var(--kids-info);
+}
+
+.kids-theme .reading-header-area {
+    background: rgba(255, 249, 230, 0.95);
+    border-bottom: 2px solid var(--kids-info);
+}
+
+.kids-theme .book-content.vertical-text {
+    font-size: 28px;
+    line-height: 2.2;
+    letter-spacing: 0.2em;
+}
+
+.kids-theme .back-button {
+    background: var(--kids-primary);
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* レスポンシブ対応 */
+@media (max-width: 768px) {
+    #text-container {
+        margin: 0;
+        border-radius: 0;
+        min-height: calc(100vh - var(--header-height));
+    }
+    
+    .reading-header-area {
+        padding: 8px 15px;
+    }
+    
+    .book-content.vertical-text {
+        font-size: 18px;
+        padding: 15px;
+    }
+    
+    .back-button {
+        padding: 6px 12px;
+        font-size: 12px;
+    }
+}

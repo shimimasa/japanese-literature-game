@@ -77,8 +77,6 @@ class ConfigLoader {
             
             // 環境情報をコンソールに出力（開発環境のみ）
             if (this.config.debug.enabled) {
-                console.log(`環境: ${this.environment}`);
-                console.log('設定:', this.config);
             }
             
             // セキュリティ設定を適用

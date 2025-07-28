@@ -202,7 +202,6 @@ class PerformanceOptimizer {
      * メモリクリーンアップ
      */
     performMemoryCleanup() {
-        console.log('メモリクリーンアップを実行中...');
         
         // 未使用のリソースを解放
         this.resourceCache.forEach((url, key) => {
@@ -323,7 +322,6 @@ class PerformanceOptimizer {
         });
         
         if (keysToRemove.length > 0) {
-            console.log(`LocalStorage: ${keysToRemove.length}個のアイテムを削除しました`);
         }
     }
 
@@ -434,10 +432,10 @@ class PerformanceOptimizer {
      */
     setupResourceHints() {
         // 重要なリソースのプリロード
-        this.addResourceHint('preload', '/fonts/main-font.woff2', 'font');
+        // this.addResourceHint('preload', '/fonts/main-font.woff2', 'font');
         
         // 次に必要になりそうなリソースのプリフェッチ
-        this.addResourceHint('prefetch', '/books/popular.json');
+        // this.addResourceHint('prefetch', '/books/popular.json');
         
         // 外部ドメインへの事前接続
         this.addResourceHint('preconnect', 'https://cdn.jsdelivr.net');
@@ -519,7 +517,6 @@ class PerformanceOptimizer {
                                 // 未使用のルール（ただし、疑似要素や状態は保持）
                                 if (!rule.selectorText.includes(':') && 
                                     !rule.selectorText.includes('::')) {
-                                    console.log('未使用のCSSルール:', rule.selectorText);
                                 }
                             }
                         } catch (e) {
@@ -636,4 +633,8 @@ class PerformanceOptimizer {
         // クリーンアップ関数の実行
         this.cleanupEventListeners();
     }
+}
+// グローバルに公開
+if (typeof window !== 'undefined') {
+    window.PerformanceOptimizer = PerformanceOptimizer;
 }

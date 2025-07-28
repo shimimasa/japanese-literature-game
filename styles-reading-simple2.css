@@ -1,0 +1,120 @@
+/* ================================================
+   読書画面シンプル版 - 確実に動作する最小限の設定
+   ================================================ */
+
+/* 読書モード時の基本設定 */
+body.reading-mode {
+    overflow: hidden !important;
+}
+
+/* 読書ビューの表示設定 */
+#reading-view.active {
+    position: fixed !important;
+    top: var(--header-height, 60px);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: white;
+    z-index: 1000;
+}
+
+/* テキストコンテナ */
+#text-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    background: white;
+}
+
+/* 本文ラッパー */
+.book-content-wrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: block; /* flexからblockに変更 */
+}
+
+/* 右側ヘッダー（削除済み） */
+.book-header {
+    display: none !important;
+}
+
+/* 縦書き本文 */
+.book-content.vertical-text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    overflow-x: auto;
+    overflow-y: hidden;
+    font-size: 20px;
+    line-height: 1.8;
+    padding: 40px;
+    font-family: "游明朝", "Yu Mincho", "ヒラギノ明朝 Pro", serif;
+}
+
+/* 縦書き本文の内部要素 */
+.book-content.vertical-text > div {
+    display: inline-block;
+    vertical-align: top;
+    white-space: pre-wrap;
+    min-height: 100%;
+}
+
+/* スクロールバー表示 */
+.book-content.vertical-text::-webkit-scrollbar {
+    height: 12px;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.book-content.vertical-text::-webkit-scrollbar-track {
+    background: #f0f0f0;
+}
+
+.book-content.vertical-text::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 6px;
+}
+
+.book-content.vertical-text::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* 戻るボタン（削除済み） */
+.back-button {
+    display: none !important;
+}
+
+/* 非読書モード時 */
+body:not(.reading-mode) #reading-view {
+    display: none !important;
+    visibility: hidden !important;
+    position: absolute !important;
+    top: -9999px !important;
+    left: -9999px !important;
+}
+
+/* 読書ビュー内の全要素も非表示 */
+body:not(.reading-mode) #reading-view * {
+    display: none !important;
+}
+
+/* 他のビューがアクティブな時 */
+.view-container.active:not(#reading-view) {
+    display: block !important;
+}
+
+/* library-viewがアクティブの時の明示的な設定 */
+#library-view.active {
+    display: block !important;
+    position: relative !important;
+    z-index: 10;
+}
