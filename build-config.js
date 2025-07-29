@@ -79,7 +79,7 @@ class BuildOptimizer {
      */
     async createDistDirectory() {
         try {
-            await fs.rmdir(this.config.distDir, { recursive: true });
+            await fs.rm(this.config.distDir, { recursive: true, force: true });
         } catch (error) {
             // ディレクトリが存在しない場合は無視
         }
