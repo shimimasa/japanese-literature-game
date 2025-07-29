@@ -38,7 +38,7 @@ class BuildOptimizer {
                 'onboarding-styles.css'
             ],
             htmlFiles: [
-                'index-v2.html'
+                'index.html'
             ]
         };
     }
